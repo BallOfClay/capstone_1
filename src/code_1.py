@@ -167,8 +167,7 @@ def unique_models(_list, split_1 = None, split_2 = None):
 make_nan = ['No', 'N/A', 'No cellular connectivity']
 
 def cast_nan(step_df, make_nan):
-#     if nan_str in nan_list:
-#         nan_str = NaN
+
     df_obj = step_df.select_dtypes(['object'])
 
     step_df[df_obj.columns] = df_obj.apply(lambda x: x.str.strip())
@@ -219,6 +218,7 @@ ax1 = period_df.groupby('announced').mean()['approx_price_EUR'].plot(
 
 ax1.set_ylabel('Average Price (EUR)')
 ax1.set_xlabel('Month Announced')
+
 
 # Average Screen Size Over Time
 fig2 = plt.figure(figsize=(12,4))
