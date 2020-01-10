@@ -1,0 +1,590 @@
+{"Location":{"Latitude":"35.7538331","Longtitude":"51.3033149","Altitude":"1419.300048828125","time":"12-12-2013 23:29:48","Accuracy":"182.0","Provider":"fused","Speed":"0.0"}}
+{"Call": {"Number":"+98937211####","Duration":"0","Time":"12-12-2013 22:20:03","Type":"3"}}
+{"Call": {"Number":"+98937211####","Duration":"0","Time":"12-12-2013 22:20:03","Type":"3"}}
+{"Call": {"Number":"+98937211####","Duration":"0","Time":"12-12-2013 22:20:03","Type":"3"}}
+{"Call": {"Number":"+98937211####","Duration":"0","Time":"12-12-2013 22:20:03","Type":"3"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-12-2013 23:49:37","End":"12-12-2013 23:49:42"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-12-2013 23:49:42","End":"12-12-2013 23:51:07"}}
+{"SMS":{"Address":"+98937211####","type":"2","date":"12-12-2013 23:51:04","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Haniye,gerafic"}}}
+{"SMS":{"Address":"+98937211####","type":"1","date":"12-12-2013 23:52:33","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Haniye,gerafic"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-12-2013 23:52:43","End":"12-12-2013 23:53:33"}}
+{"SMS":{"Address":"+98937211####","type":"2","date":"12-12-2013 23:53:31","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Haniye,gerafic"}}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-12-2013 23:53:33","End":"12-12-2013 23:54:08"}}
+{"SMS":{"Address":"+98937211####","type":"1","date":"12-12-2013 23:55:09","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Haniye,gerafic"}}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-12-2013 23:56:58","End":"12-12-2013 23:57:03"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-12-2013 23:57:03","End":"12-12-2013 23:57:08"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 00:19:59","End":"12-13-2013 00:20:24"}}
+{"SMS":{"Address":"+98937211####","type":"2","date":"12-13-2013 00:20:21","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Haniye,gerafic"}}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-13-2013 00:20:24","End":"12-13-2013 00:20:29"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 00:20:29","End":"12-13-2013 00:20:44"}}
+{"SMS":{"Address":"0912402####","type":"2","date":"12-13-2013 00:20:41","body":"ANONYMIZED","Type":"2", "metadata": {"name": "My Love"}}}
+{"SMS":{"Address":"+98912402####","type":"1","date":"12-13-2013 00:21:25","body":"ANONYMIZED","Type":"1", "metadata": {"name": "My Love"}}}
+{"Location":{"Latitude":"35.7538195","Longtitude":"51.3032964","Altitude":"1417.9000244140625","time":"12-13-2013 00:21:34","Accuracy":"44.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-13-2013 00:21:41","End":"12-13-2013 00:21:46"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 00:21:46","End":"12-13-2013 00:21:51"}}
+{"Location":{"Latitude":"35.7539383","Longtitude":"51.3033014","Altitude":"1424.0999755859375","time":"12-13-2013 00:23:04","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"SMS":{"Address":"+98912402####","type":"2","date":"12-13-2013 00:24:21","body":"ANONYMIZED","Type":"2", "metadata": {"name": "My Love"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 00:24:06","End":"12-13-2013 00:24:26"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-13-2013 00:24:51","End":"12-13-2013 00:25:01"}}
+{"Location":{"Latitude":"35.7540033","Longtitude":"51.3033183","Altitude":"1430.199951171875","time":"12-13-2013 00:25:11","Accuracy":"58.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7540434","Longtitude":"51.3033597","Altitude":"1434.5999755859375","time":"12-13-2013 00:27:10","Accuracy":"62.0","Provider":"fused","Speed":"0.0"}}
+{"SMS":{"Address":"+98912402####","type":"1","date":"12-13-2013 00:27:24","body":"ANONYMIZED","Type":"1", "metadata": {"name": "My Love"}}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-13-2013 00:27:29","End":"12-13-2013 00:27:35"}}
+{"SMS":{"Address":"+98912402####","type":"2","date":"12-13-2013 00:27:59","body":"ANONYMIZED","Type":"2", "metadata": {"name": "My Love"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 00:27:35","End":"12-13-2013 00:28:05"}}
+{"SMS":{"Address":"+98912402####","type":"1","date":"12-13-2013 00:28:33","body":"ANONYMIZED","Type":"1", "metadata": {"name": "My Love"}}}
+{"Location":{"Latitude":"35.7539966","Longtitude":"51.3033734","Altitude":"1434.0999755859375","time":"12-13-2013 00:28:57","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 00:28:43","End":"12-13-2013 00:29:17"}}
+{"SMS":{"Address":"+98912402####","type":"2","date":"12-13-2013 00:29:14","body":"ANONYMIZED","Type":"2", "metadata": {"name": "My Love"}}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-13-2013 00:29:17","End":"12-13-2013 00:29:26"}}
+{"Location":{"Latitude":"35.7536467","Longtitude":"51.3032765","Altitude":"1418.5999755859375","time":"12-13-2013 00:31:01","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7536586","Longtitude":"51.3032961","Altitude":"1419.5999755859375","time":"12-13-2013 00:33:02","Accuracy":"45.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7536809","Longtitude":"51.3033045","Altitude":"1419.800048828125","time":"12-13-2013 00:34:03","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537142","Longtitude":"51.3033161","Altitude":"1420.9000244140625","time":"12-13-2013 00:35:05","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.huawei.hidisk","Start":"12-13-2013 00:41:05","End":"12-13-2013 00:41:15"}}
+{"Location":{"Latitude":"35.7537355","Longtitude":"51.3033141","Altitude":"1420.9000244140625","time":"12-13-2013 00:41:15","Accuracy":"60.999","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.lslk.sleepbot","Start":"12-13-2013 00:41:15","End":"12-13-2013 00:41:25"}}
+{"Location":{"Latitude":"35.7538235","Longtitude":"51.3032788","Altitude":"1426.699951171875","time":"12-13-2013 00:41:36","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539839","Longtitude":"51.3033249","Altitude":"1426.800048828125","time":"12-13-2013 00:43:31","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539875","Longtitude":"51.3033061","Altitude":"1428.5999755859375","time":"12-13-2013 00:44:33","Accuracy":"57.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539237","Longtitude":"51.3032948","Altitude":"1426.300048828125","time":"12-13-2013 00:46:35","Accuracy":"62.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539347","Longtitude":"51.3032967","Altitude":"1426.199951171875","time":"12-13-2013 00:48:45","Accuracy":"64.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539327","Longtitude":"51.3032997","Altitude":"1424.800048828125","time":"12-13-2013 00:50:30","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539401","Longtitude":"51.3033","Altitude":"1424.5","time":"12-13-2013 00:51:39","Accuracy":"62.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539549","Longtitude":"51.3033039","Altitude":"1424.5","time":"12-13-2013 00:52:43","Accuracy":"73.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538921","Longtitude":"51.3032979","Altitude":"1421.199951171875","time":"12-13-2013 00:54:31","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539106","Longtitude":"51.3032973","Altitude":"1421.9000244140625","time":"12-13-2013 00:56:29","Accuracy":"55.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538929","Longtitude":"51.303297","Altitude":"1421.300048828125","time":"12-13-2013 00:58:29","Accuracy":"54.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538914","Longtitude":"51.3032961","Altitude":"1421.0","time":"12-13-2013 00:59:31","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539018","Longtitude":"51.3032939","Altitude":"1421.0999755859375","time":"12-13-2013 01:01:30","Accuracy":"46.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539156","Longtitude":"51.3032935","Altitude":"1421.9000244140625","time":"12-13-2013 01:03:34","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539269","Longtitude":"51.3032924","Altitude":"1422.0","time":"12-13-2013 01:05:31","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753925","Longtitude":"51.3032957","Altitude":"1422.5999755859375","time":"12-13-2013 01:07:28","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539303","Longtitude":"51.3032949","Altitude":"1422.4000244140625","time":"12-13-2013 01:08:30","Accuracy":"54.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539551","Longtitude":"51.3032947","Altitude":"1423.0","time":"12-13-2013 01:10:28","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539592","Longtitude":"51.3032947","Altitude":"1423.0999755859375","time":"12-13-2013 01:11:30","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539628","Longtitude":"51.3032956","Altitude":"1423.300048828125","time":"12-13-2013 01:12:33","Accuracy":"61.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539618","Longtitude":"51.3032966","Altitude":"1423.199951171875","time":"12-13-2013 01:14:47","Accuracy":"73.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539663","Longtitude":"51.3032972","Altitude":"1423.5","time":"12-13-2013 01:16:30","Accuracy":"46.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539619","Longtitude":"51.3032974","Altitude":"1423.199951171875","time":"12-13-2013 01:18:26","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539669","Longtitude":"51.3032984","Altitude":"1423.5","time":"12-13-2013 01:19:30","Accuracy":"54.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539824","Longtitude":"51.3033013","Altitude":"1424.5999755859375","time":"12-13-2013 01:21:33","Accuracy":"60.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539673","Longtitude":"51.3032981","Altitude":"1423.699951171875","time":"12-13-2013 01:23:24","Accuracy":"41.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753951","Longtitude":"51.3032969","Altitude":"1423.0","time":"12-13-2013 01:25:33","Accuracy":"62.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539375","Longtitude":"51.3032975","Altitude":"1422.5999755859375","time":"12-13-2013 01:27:37","Accuracy":"68.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.75393","Longtitude":"51.3032963","Altitude":"1422.0999755859375","time":"12-13-2013 01:28:42","Accuracy":"71.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539253","Longtitude":"51.3032966","Altitude":"1422.0","time":"12-13-2013 01:30:50","Accuracy":"78.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539247","Longtitude":"51.3032961","Altitude":"1421.9000244140625","time":"12-13-2013 01:32:36","Accuracy":"60.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539264","Longtitude":"51.3032945","Altitude":"1421.800048828125","time":"12-13-2013 01:34:36","Accuracy":"66.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539345","Longtitude":"51.3032944","Altitude":"1422.199951171875","time":"12-13-2013 01:36:51","Accuracy":"83.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539361","Longtitude":"51.3032945","Altitude":"1421.9000244140625","time":"12-13-2013 01:38:25","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539355","Longtitude":"51.3032963","Altitude":"1422.5","time":"12-13-2013 01:39:44","Accuracy":"78.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539361","Longtitude":"51.3032971","Altitude":"1422.9000244140625","time":"12-13-2013 01:41:26","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539373","Longtitude":"51.3032949","Altitude":"1423.0","time":"12-13-2013 01:42:35","Accuracy":"53.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539384","Longtitude":"51.3032947","Altitude":"1422.5","time":"12-13-2013 01:44:28","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539413","Longtitude":"51.3032947","Altitude":"1422.4000244140625","time":"12-13-2013 01:46:24","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539432","Longtitude":"51.3032943","Altitude":"1422.5","time":"12-13-2013 01:47:24","Accuracy":"39.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753943","Longtitude":"51.3032942","Altitude":"1422.4000244140625","time":"12-13-2013 01:48:29","Accuracy":"46.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539435","Longtitude":"51.3032958","Altitude":"1422.5999755859375","time":"12-13-2013 01:50:35","Accuracy":"59.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539444","Longtitude":"51.3032948","Altitude":"1422.5","time":"12-13-2013 01:52:24","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539473","Longtitude":"51.3032941","Altitude":"1422.5","time":"12-13-2013 01:53:27","Accuracy":"43.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539472","Longtitude":"51.3032933","Altitude":"1422.5","time":"12-13-2013 01:54:29","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539448","Longtitude":"51.3032909","Altitude":"1422.5999755859375","time":"12-13-2013 01:56:40","Accuracy":"65.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539444","Longtitude":"51.30329","Altitude":"1422.5","time":"12-13-2013 01:58:36","Accuracy":"61.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539453","Longtitude":"51.3032907","Altitude":"1422.699951171875","time":"12-13-2013 02:00:26","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539451","Longtitude":"51.3032913","Altitude":"1422.699951171875","time":"12-13-2013 02:01:29","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539419","Longtitude":"51.3032896","Altitude":"1422.699951171875","time":"12-13-2013 02:02:34","Accuracy":"61.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539403","Longtitude":"51.3032884","Altitude":"1422.5999755859375","time":"12-13-2013 02:03:49","Accuracy":"70.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539392","Longtitude":"51.3032876","Altitude":"1422.5","time":"12-13-2013 02:05:07","Accuracy":"74.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539393","Longtitude":"51.3032879","Altitude":"1422.5999755859375","time":"12-13-2013 02:06:51","Accuracy":"85.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539382","Longtitude":"51.3032874","Altitude":"1422.5999755859375","time":"12-13-2013 02:08:41","Accuracy":"70.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539374","Longtitude":"51.3032876","Altitude":"1422.699951171875","time":"12-13-2013 02:09:47","Accuracy":"83.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539372","Longtitude":"51.3032873","Altitude":"1422.699951171875","time":"12-13-2013 02:11:32","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539369","Longtitude":"51.3032867","Altitude":"1422.699951171875","time":"12-13-2013 02:13:09","Accuracy":"112.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539361","Longtitude":"51.3032862","Altitude":"1422.699951171875","time":"12-13-2013 02:14:28","Accuracy":"44.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539369","Longtitude":"51.3032865","Altitude":"1422.800048828125","time":"12-13-2013 02:16:32","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539363","Longtitude":"51.3032859","Altitude":"1422.9000244140625","time":"12-13-2013 02:18:47","Accuracy":"172.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539356","Longtitude":"51.3032856","Altitude":"1422.9000244140625","time":"12-13-2013 02:20:13","Accuracy":"61.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539349","Longtitude":"51.3032856","Altitude":"1423.0","time":"12-13-2013 02:22:03","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539335","Longtitude":"51.3032857","Altitude":"1422.9000244140625","time":"12-13-2013 02:23:04","Accuracy":"55.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539337","Longtitude":"51.3032856","Altitude":"1423.0","time":"12-13-2013 02:24:49","Accuracy":"119.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539345","Longtitude":"51.303286","Altitude":"1423.0","time":"12-13-2013 02:26:02","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539328","Longtitude":"51.3032856","Altitude":"1423.0","time":"12-13-2013 02:27:03","Accuracy":"46.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539329","Longtitude":"51.3032861","Altitude":"1423.0","time":"12-13-2013 02:28:05","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539327","Longtitude":"51.3032856","Altitude":"1423.0","time":"12-13-2013 02:29:05","Accuracy":"53.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539321","Longtitude":"51.3032855","Altitude":"1423.0","time":"12-13-2013 02:31:03","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539316","Longtitude":"51.3032859","Altitude":"1423.0","time":"12-13-2013 02:32:03","Accuracy":"45.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539318","Longtitude":"51.3032861","Altitude":"1423.0","time":"12-13-2013 02:34:16","Accuracy":"61.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539326","Longtitude":"51.3032863","Altitude":"1423.0","time":"12-13-2013 02:36:27","Accuracy":"80.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539322","Longtitude":"51.3032864","Altitude":"1423.0","time":"12-13-2013 02:38:04","Accuracy":"57.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539333","Longtitude":"51.3032864","Altitude":"1423.0999755859375","time":"12-13-2013 02:39:59","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539339","Longtitude":"51.3032866","Altitude":"1423.0","time":"12-13-2013 02:40:59","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539335","Longtitude":"51.3032868","Altitude":"1423.0","time":"12-13-2013 02:41:59","Accuracy":"44.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753933","Longtitude":"51.3032867","Altitude":"1423.0","time":"12-13-2013 02:42:59","Accuracy":"47.999","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539332","Longtitude":"51.3032865","Altitude":"1423.0999755859375","time":"12-13-2013 02:44:02","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539336","Longtitude":"51.3032863","Altitude":"1423.0999755859375","time":"12-13-2013 02:45:06","Accuracy":"53.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539341","Longtitude":"51.3032863","Altitude":"1423.199951171875","time":"12-13-2013 02:47:05","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539342","Longtitude":"51.3032863","Altitude":"1423.199951171875","time":"12-13-2013 02:48:36","Accuracy":"103.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539336","Longtitude":"51.3032866","Altitude":"1423.0999755859375","time":"12-13-2013 02:50:03","Accuracy":"151.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539342","Longtitude":"51.3032865","Altitude":"1423.0999755859375","time":"12-13-2013 02:52:38","Accuracy":"161.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539343","Longtitude":"51.3032865","Altitude":"1423.0999755859375","time":"12-13-2013 02:54:30","Accuracy":"110.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539355","Longtitude":"51.3032861","Altitude":"1423.199951171875","time":"12-13-2013 02:56:32","Accuracy":"101.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753936","Longtitude":"51.303286","Altitude":"1423.300048828125","time":"12-13-2013 02:58:00","Accuracy":"166.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539355","Longtitude":"51.3032861","Altitude":"1423.199951171875","time":"12-13-2013 02:59:56","Accuracy":"76.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539357","Longtitude":"51.303286","Altitude":"1423.199951171875","time":"12-13-2013 03:01:15","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539363","Longtitude":"51.3032859","Altitude":"1423.300048828125","time":"12-13-2013 03:02:16","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539374","Longtitude":"51.3032854","Altitude":"1423.4000244140625","time":"12-13-2013 03:03:17","Accuracy":"54.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753938","Longtitude":"51.3032852","Altitude":"1423.4000244140625","time":"12-13-2013 03:04:18","Accuracy":"46.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539372","Longtitude":"51.3032855","Altitude":"1423.4000244140625","time":"12-13-2013 03:05:18","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753937","Longtitude":"51.3032855","Altitude":"1423.300048828125","time":"12-13-2013 03:06:25","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539375","Longtitude":"51.3032855","Altitude":"1423.4000244140625","time":"12-13-2013 03:08:12","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539376","Longtitude":"51.3032853","Altitude":"1423.4000244140625","time":"12-13-2013 03:09:17","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539381","Longtitude":"51.3032854","Altitude":"1423.4000244140625","time":"12-13-2013 03:11:15","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539385","Longtitude":"51.3032852","Altitude":"1423.5","time":"12-13-2013 03:12:17","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539388","Longtitude":"51.3032851","Altitude":"1423.5","time":"12-13-2013 03:13:41","Accuracy":"82.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539382","Longtitude":"51.3032853","Altitude":"1423.300048828125","time":"12-13-2013 03:15:16","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539379","Longtitude":"51.3032854","Altitude":"1423.300048828125","time":"12-13-2013 03:16:18","Accuracy":"53.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539383","Longtitude":"51.3032853","Altitude":"1423.300048828125","time":"12-13-2013 03:17:40","Accuracy":"57.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539409","Longtitude":"51.3032844","Altitude":"1423.5","time":"12-13-2013 03:20:39","Accuracy":"150.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539408","Longtitude":"51.3032839","Altitude":"1423.300048828125","time":"12-13-2013 03:23:35","Accuracy":"198.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539408","Longtitude":"51.3032839","Altitude":"1423.300048828125","time":"12-13-2013 03:24:56","Accuracy":"158.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539405","Longtitude":"51.3032833","Altitude":"1422.9000244140625","time":"12-13-2013 03:35:04","Accuracy":"79.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539406","Longtitude":"51.3032833","Altitude":"1422.9000244140625","time":"12-13-2013 03:41:49","Accuracy":"148.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539406","Longtitude":"51.3032833","Altitude":"1422.9000244140625","time":"12-13-2013 03:45:25","Accuracy":"179.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539407","Longtitude":"51.3032833","Altitude":"1422.9000244140625","time":"12-13-2013 03:48:42","Accuracy":"241.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539406","Longtitude":"51.3032833","Altitude":"1422.9000244140625","time":"12-13-2013 03:50:33","Accuracy":"210.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539406","Longtitude":"51.3032833","Altitude":"1422.9000244140625","time":"12-13-2013 03:54:06","Accuracy":"249.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539407","Longtitude":"51.3032833","Altitude":"1422.9000244140625","time":"12-13-2013 03:55:38","Accuracy":"183.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539407","Longtitude":"51.3032833","Altitude":"1422.9000244140625","time":"12-13-2013 03:57:33","Accuracy":"221.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539407","Longtitude":"51.3032833","Altitude":"1422.9000244140625","time":"12-13-2013 04:00:14","Accuracy":"199.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539407","Longtitude":"51.3032833","Altitude":"1422.9000244140625","time":"12-13-2013 04:01:42","Accuracy":"177.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539407","Longtitude":"51.3032833","Altitude":"1422.9000244140625","time":"12-13-2013 04:03:37","Accuracy":"222.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539407","Longtitude":"51.3032833","Altitude":"1422.9000244140625","time":"12-13-2013 04:05:06","Accuracy":"179.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539407","Longtitude":"51.3032833","Altitude":"1422.9000244140625","time":"12-13-2013 04:06:30","Accuracy":"170.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539405","Longtitude":"51.3032834","Altitude":"1422.9000244140625","time":"12-13-2013 04:08:41","Accuracy":"150.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539412","Longtitude":"51.3032833","Altitude":"1422.9000244140625","time":"12-13-2013 04:10:08","Accuracy":"69.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539406","Longtitude":"51.3032836","Altitude":"1422.800048828125","time":"12-13-2013 04:11:59","Accuracy":"54.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539407","Longtitude":"51.3032836","Altitude":"1422.800048828125","time":"12-13-2013 04:15:52","Accuracy":"222.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753941","Longtitude":"51.3032835","Altitude":"1422.9000244140625","time":"12-13-2013 04:17:26","Accuracy":"59.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539414","Longtitude":"51.3032834","Altitude":"1422.9000244140625","time":"12-13-2013 04:19:23","Accuracy":"63.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539414","Longtitude":"51.3032834","Altitude":"1422.9000244140625","time":"12-13-2013 04:20:51","Accuracy":"115.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539419","Longtitude":"51.3032832","Altitude":"1423.0999755859375","time":"12-13-2013 04:22:45","Accuracy":"118.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539416","Longtitude":"51.3032833","Altitude":"1423.0","time":"12-13-2013 04:23:45","Accuracy":"118.999","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539421","Longtitude":"51.3032832","Altitude":"1423.0999755859375","time":"12-13-2013 04:25:52","Accuracy":"132.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539446","Longtitude":"51.3032826","Altitude":"1423.199951171875","time":"12-13-2013 04:27:33","Accuracy":"101.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539449","Longtitude":"51.3032825","Altitude":"1423.300048828125","time":"12-13-2013 04:29:03","Accuracy":"147.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539452","Longtitude":"51.3032824","Altitude":"1423.300048828125","time":"12-13-2013 04:30:35","Accuracy":"70.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539485","Longtitude":"51.3032815","Altitude":"1423.5999755859375","time":"12-13-2013 04:32:20","Accuracy":"58.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539492","Longtitude":"51.3032814","Altitude":"1423.699951171875","time":"12-13-2013 04:33:20","Accuracy":"49.999","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539495","Longtitude":"51.3032813","Altitude":"1423.699951171875","time":"12-13-2013 04:36:17","Accuracy":"244.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539495","Longtitude":"51.3032813","Altitude":"1423.699951171875","time":"12-13-2013 04:38:25","Accuracy":"234.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539494","Longtitude":"51.3032813","Altitude":"1423.699951171875","time":"12-13-2013 04:41:40","Accuracy":"237.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539494","Longtitude":"51.3032813","Altitude":"1423.699951171875","time":"12-13-2013 04:43:30","Accuracy":"207.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539494","Longtitude":"51.3032813","Altitude":"1423.699951171875","time":"12-13-2013 04:44:33","Accuracy":"136.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539494","Longtitude":"51.3032814","Altitude":"1423.699951171875","time":"12-13-2013 04:46:42","Accuracy":"218.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539486","Longtitude":"51.3032816","Altitude":"1423.4000244140625","time":"12-13-2013 04:48:24","Accuracy":"83.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539481","Longtitude":"51.3032818","Altitude":"1423.300048828125","time":"12-13-2013 04:50:22","Accuracy":"90.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539479","Longtitude":"51.3032819","Altitude":"1423.199951171875","time":"12-13-2013 04:54:24","Accuracy":"238.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539478","Longtitude":"51.3032819","Altitude":"1423.199951171875","time":"12-13-2013 04:57:24","Accuracy":"244.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539478","Longtitude":"51.3032819","Altitude":"1423.199951171875","time":"12-13-2013 04:59:48","Accuracy":"238.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539475","Longtitude":"51.303282","Altitude":"1423.0999755859375","time":"12-13-2013 05:02:04","Accuracy":"142.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753947","Longtitude":"51.3032822","Altitude":"1423.0","time":"12-13-2013 05:04:02","Accuracy":"105.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539456","Longtitude":"51.3032826","Altitude":"1423.0","time":"12-13-2013 05:05:13","Accuracy":"44.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539441","Longtitude":"51.3032831","Altitude":"1423.0","time":"12-13-2013 05:07:13","Accuracy":"44.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539422","Longtitude":"51.3032839","Altitude":"1422.9000244140625","time":"12-13-2013 05:09:13","Accuracy":"42.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539405","Longtitude":"51.3032846","Altitude":"1422.800048828125","time":"12-13-2013 05:10:13","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539382","Longtitude":"51.3032858","Altitude":"1422.5999755859375","time":"12-13-2013 05:11:14","Accuracy":"45.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539374","Longtitude":"51.3032862","Altitude":"1422.4000244140625","time":"12-13-2013 05:12:14","Accuracy":"46.999","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753937","Longtitude":"51.3032864","Altitude":"1422.4000244140625","time":"12-13-2013 05:13:20","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539354","Longtitude":"51.3032872","Altitude":"1422.300048828125","time":"12-13-2013 05:14:47","Accuracy":"76.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539313","Longtitude":"51.3032894","Altitude":"1421.800048828125","time":"12-13-2013 05:16:22","Accuracy":"55.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539307","Longtitude":"51.3032897","Altitude":"1421.800048828125","time":"12-13-2013 05:17:24","Accuracy":"58.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539284","Longtitude":"51.3032909","Altitude":"1421.800048828125","time":"12-13-2013 05:19:16","Accuracy":"44.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539277","Longtitude":"51.3032912","Altitude":"1421.800048828125","time":"12-13-2013 05:20:18","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539276","Longtitude":"51.3032912","Altitude":"1421.800048828125","time":"12-13-2013 05:21:21","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539261","Longtitude":"51.3032919","Altitude":"1421.699951171875","time":"12-13-2013 05:23:29","Accuracy":"66.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753925","Longtitude":"51.3032925","Altitude":"1421.699951171875","time":"12-13-2013 05:25:21","Accuracy":"57.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539246","Longtitude":"51.3032926","Altitude":"1421.699951171875","time":"12-13-2013 05:26:23","Accuracy":"59.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539248","Longtitude":"51.3032926","Altitude":"1421.699951171875","time":"12-13-2013 05:28:05","Accuracy":"119.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539251","Longtitude":"51.3032924","Altitude":"1421.699951171875","time":"12-13-2013 05:30:01","Accuracy":"126.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753925","Longtitude":"51.3032924","Altitude":"1421.699951171875","time":"12-13-2013 05:32:58","Accuracy":"198.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753925","Longtitude":"51.3032924","Altitude":"1421.699951171875","time":"12-13-2013 05:34:21","Accuracy":"61.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539248","Longtitude":"51.3032925","Altitude":"1421.699951171875","time":"12-13-2013 05:35:27","Accuracy":"63.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539249","Longtitude":"51.3032925","Altitude":"1421.699951171875","time":"12-13-2013 05:36:49","Accuracy":"96.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539252","Longtitude":"51.3032923","Altitude":"1421.800048828125","time":"12-13-2013 05:38:15","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539247","Longtitude":"51.3032925","Altitude":"1421.800048828125","time":"12-13-2013 05:39:19","Accuracy":"59.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539251","Longtitude":"51.3032924","Altitude":"1421.800048828125","time":"12-13-2013 05:42:00","Accuracy":"115.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539253","Longtitude":"51.3032923","Altitude":"1421.800048828125","time":"12-13-2013 05:44:32","Accuracy":"182.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539253","Longtitude":"51.3032923","Altitude":"1421.800048828125","time":"12-13-2013 05:45:58","Accuracy":"174.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539253","Longtitude":"51.3032923","Altitude":"1421.800048828125","time":"12-13-2013 05:47:21","Accuracy":"157.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539255","Longtitude":"51.3032923","Altitude":"1421.699951171875","time":"12-13-2013 05:49:59","Accuracy":"183.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539255","Longtitude":"51.3032923","Altitude":"1421.699951171875","time":"12-13-2013 05:51:41","Accuracy":"196.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539255","Longtitude":"51.3032923","Altitude":"1421.699951171875","time":"12-13-2013 05:53:01","Accuracy":"165.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539255","Longtitude":"51.3032923","Altitude":"1421.699951171875","time":"12-13-2013 05:54:17","Accuracy":"159.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539255","Longtitude":"51.3032923","Altitude":"1421.699951171875","time":"12-13-2013 05:56:43","Accuracy":"174.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539255","Longtitude":"51.3032924","Altitude":"1421.699951171875","time":"12-13-2013 05:59:32","Accuracy":"207.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539255","Longtitude":"51.3032924","Altitude":"1421.699951171875","time":"12-13-2013 06:01:16","Accuracy":"204.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539255","Longtitude":"51.3032924","Altitude":"1421.699951171875","time":"12-13-2013 06:03:00","Accuracy":"203.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539255","Longtitude":"51.3032924","Altitude":"1421.699951171875","time":"12-13-2013 06:05:26","Accuracy":"246.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539256","Longtitude":"51.3032924","Altitude":"1421.699951171875","time":"12-13-2013 06:06:33","Accuracy":"127.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539255","Longtitude":"51.3032924","Altitude":"1421.699951171875","time":"12-13-2013 06:07:53","Accuracy":"60.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539262","Longtitude":"51.3032923","Altitude":"1421.800048828125","time":"12-13-2013 06:09:54","Accuracy":"62.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539263","Longtitude":"51.3032923","Altitude":"1421.800048828125","time":"12-13-2013 06:11:57","Accuracy":"64.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539264","Longtitude":"51.3032923","Altitude":"1421.800048828125","time":"12-13-2013 06:13:01","Accuracy":"72.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539272","Longtitude":"51.303292","Altitude":"1421.800048828125","time":"12-13-2013 06:14:14","Accuracy":"91.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539271","Longtitude":"51.3032921","Altitude":"1421.800048828125","time":"12-13-2013 06:15:51","Accuracy":"58.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539278","Longtitude":"51.3032921","Altitude":"1421.9000244140625","time":"12-13-2013 06:16:57","Accuracy":"46.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539284","Longtitude":"51.303292","Altitude":"1421.9000244140625","time":"12-13-2013 06:18:05","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539283","Longtitude":"51.3032919","Altitude":"1421.800048828125","time":"12-13-2013 06:19:52","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539281","Longtitude":"51.303292","Altitude":"1421.699951171875","time":"12-13-2013 06:21:05","Accuracy":"82.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539287","Longtitude":"51.3032917","Altitude":"1421.5999755859375","time":"12-13-2013 06:22:48","Accuracy":"54.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539285","Longtitude":"51.3032917","Altitude":"1421.5999755859375","time":"12-13-2013 06:24:01","Accuracy":"75.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539276","Longtitude":"51.3032922","Altitude":"1421.5","time":"12-13-2013 06:25:47","Accuracy":"53.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539276","Longtitude":"51.3032921","Altitude":"1421.5","time":"12-13-2013 06:26:53","Accuracy":"59.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539269","Longtitude":"51.3032923","Altitude":"1421.5","time":"12-13-2013 06:29:10","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539266","Longtitude":"51.3032926","Altitude":"1421.4000244140625","time":"12-13-2013 06:30:42","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753927","Longtitude":"51.3032925","Altitude":"1421.4000244140625","time":"12-13-2013 06:31:43","Accuracy":"43.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539272","Longtitude":"51.3032924","Altitude":"1421.5","time":"12-13-2013 06:32:43","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539275","Longtitude":"51.3032924","Altitude":"1421.4000244140625","time":"12-13-2013 06:33:46","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539279","Longtitude":"51.3032924","Altitude":"1421.300048828125","time":"12-13-2013 06:34:54","Accuracy":"62.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539282","Longtitude":"51.3032922","Altitude":"1421.5","time":"12-13-2013 06:36:46","Accuracy":"46.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539282","Longtitude":"51.3032922","Altitude":"1421.5999755859375","time":"12-13-2013 06:38:46","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539285","Longtitude":"51.3032921","Altitude":"1421.5999755859375","time":"12-13-2013 06:39:46","Accuracy":"49.999","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539286","Longtitude":"51.3032921","Altitude":"1421.5","time":"12-13-2013 06:40:49","Accuracy":"54.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539289","Longtitude":"51.3032921","Altitude":"1421.5","time":"12-13-2013 06:42:11","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539289","Longtitude":"51.3032921","Altitude":"1421.5999755859375","time":"12-13-2013 06:43:50","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539287","Longtitude":"51.3032921","Altitude":"1421.5999755859375","time":"12-13-2013 06:45:49","Accuracy":"56.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539294","Longtitude":"51.3032919","Altitude":"1421.5","time":"12-13-2013 06:47:51","Accuracy":"55.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539295","Longtitude":"51.303292","Altitude":"1421.4000244140625","time":"12-13-2013 06:49:08","Accuracy":"86.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539293","Longtitude":"51.303292","Altitude":"1421.5","time":"12-13-2013 06:50:24","Accuracy":"110.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539285","Longtitude":"51.303292","Altitude":"1421.800048828125","time":"12-13-2013 06:52:09","Accuracy":"85.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539282","Longtitude":"51.303292","Altitude":"1421.9000244140625","time":"12-13-2013 06:53:52","Accuracy":"59.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539286","Longtitude":"51.3032918","Altitude":"1421.9000244140625","time":"12-13-2013 06:54:53","Accuracy":"60.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539324","Longtitude":"51.303291","Altitude":"1422.0999755859375","time":"12-13-2013 06:56:58","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539325","Longtitude":"51.303291","Altitude":"1422.199951171875","time":"12-13-2013 06:58:42","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539322","Longtitude":"51.3032911","Altitude":"1422.199951171875","time":"12-13-2013 06:59:51","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539314","Longtitude":"51.3032913","Altitude":"1422.0999755859375","time":"12-13-2013 07:01:25","Accuracy":"100.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539319","Longtitude":"51.3032914","Altitude":"1422.199951171875","time":"12-13-2013 07:02:44","Accuracy":"40.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753934","Longtitude":"51.303291","Altitude":"1422.300048828125","time":"12-13-2013 07:04:48","Accuracy":"43.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539357","Longtitude":"51.3032909","Altitude":"1422.5","time":"12-13-2013 07:06:44","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539354","Longtitude":"51.3032913","Altitude":"1422.5999755859375","time":"12-13-2013 07:07:47","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539362","Longtitude":"51.3032916","Altitude":"1422.5999755859375","time":"12-13-2013 07:09:44","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539371","Longtitude":"51.3032919","Altitude":"1422.5999755859375","time":"12-13-2013 07:11:40","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539369","Longtitude":"51.3032922","Altitude":"1422.5999755859375","time":"12-13-2013 07:12:50","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539369","Longtitude":"51.3032923","Altitude":"1422.5999755859375","time":"12-13-2013 07:13:50","Accuracy":"45.999","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753937","Longtitude":"51.3032922","Altitude":"1422.5999755859375","time":"12-13-2013 07:14:55","Accuracy":"60.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539367","Longtitude":"51.3032925","Altitude":"1422.5","time":"12-13-2013 07:16:02","Accuracy":"66.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753937","Longtitude":"51.3032925","Altitude":"1422.5999755859375","time":"12-13-2013 07:17:49","Accuracy":"54.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539369","Longtitude":"51.3032925","Altitude":"1422.5999755859375","time":"12-13-2013 07:18:51","Accuracy":"57.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539368","Longtitude":"51.3032926","Altitude":"1422.5999755859375","time":"12-13-2013 07:20:43","Accuracy":"42.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753937","Longtitude":"51.3032926","Altitude":"1422.5999755859375","time":"12-13-2013 07:21:44","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539366","Longtitude":"51.3032927","Altitude":"1422.5","time":"12-13-2013 07:23:48","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539367","Longtitude":"51.3032929","Altitude":"1422.5","time":"12-13-2013 07:25:45","Accuracy":"44.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539365","Longtitude":"51.3032929","Altitude":"1422.5","time":"12-13-2013 07:26:46","Accuracy":"43.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539364","Longtitude":"51.303293","Altitude":"1422.5","time":"12-13-2013 07:27:47","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539364","Longtitude":"51.303293","Altitude":"1422.5","time":"12-13-2013 07:29:43","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539363","Longtitude":"51.3032931","Altitude":"1422.5","time":"12-13-2013 07:30:55","Accuracy":"57.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539362","Longtitude":"51.303293","Altitude":"1422.5","time":"12-13-2013 07:31:55","Accuracy":"63.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539359","Longtitude":"51.3032933","Altitude":"1422.4000244140625","time":"12-13-2013 07:33:44","Accuracy":"43.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539358","Longtitude":"51.3032933","Altitude":"1422.4000244140625","time":"12-13-2013 07:34:44","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539353","Longtitude":"51.3032935","Altitude":"1422.4000244140625","time":"12-13-2013 07:35:47","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539351","Longtitude":"51.3032935","Altitude":"1422.300048828125","time":"12-13-2013 07:37:45","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539353","Longtitude":"51.3032934","Altitude":"1422.300048828125","time":"12-13-2013 07:38:46","Accuracy":"44.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539346","Longtitude":"51.3032936","Altitude":"1422.199951171875","time":"12-13-2013 07:40:45","Accuracy":"45.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539338","Longtitude":"51.3032938","Altitude":"1422.0999755859375","time":"12-13-2013 07:42:42","Accuracy":"42.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539343","Longtitude":"51.3032936","Altitude":"1422.0","time":"12-13-2013 07:44:42","Accuracy":"42.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539341","Longtitude":"51.3032936","Altitude":"1422.0","time":"12-13-2013 07:45:43","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539335","Longtitude":"51.3032935","Altitude":"1422.0","time":"12-13-2013 07:47:41","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539328","Longtitude":"51.3032934","Altitude":"1422.0","time":"12-13-2013 07:49:40","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539319","Longtitude":"51.3032936","Altitude":"1421.9000244140625","time":"12-13-2013 07:50:41","Accuracy":"43.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539313","Longtitude":"51.3032936","Altitude":"1421.9000244140625","time":"12-13-2013 07:51:43","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539297","Longtitude":"51.3032939","Altitude":"1421.800048828125","time":"12-13-2013 07:52:49","Accuracy":"44.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539295","Longtitude":"51.3032939","Altitude":"1421.800048828125","time":"12-13-2013 07:53:49","Accuracy":"54.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539272","Longtitude":"51.3032942","Altitude":"1421.699951171875","time":"12-13-2013 07:55:48","Accuracy":"54.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539271","Longtitude":"51.3032943","Altitude":"1421.699951171875","time":"12-13-2013 07:56:59","Accuracy":"66.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539272","Longtitude":"51.3032943","Altitude":"1421.699951171875","time":"12-13-2013 07:58:02","Accuracy":"69.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539264","Longtitude":"51.3032943","Altitude":"1421.699951171875","time":"12-13-2013 08:00:34","Accuracy":"116.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539269","Longtitude":"51.3032942","Altitude":"1421.699951171875","time":"12-13-2013 08:01:46","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539264","Longtitude":"51.3032943","Altitude":"1421.699951171875","time":"12-13-2013 08:02:47","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539268","Longtitude":"51.3032943","Altitude":"1421.699951171875","time":"12-13-2013 08:04:45","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539267","Longtitude":"51.3032943","Altitude":"1421.699951171875","time":"12-13-2013 08:06:43","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539273","Longtitude":"51.3032942","Altitude":"1421.699951171875","time":"12-13-2013 08:07:44","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539276","Longtitude":"51.3032941","Altitude":"1421.699951171875","time":"12-13-2013 08:08:44","Accuracy":"41.999","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539275","Longtitude":"51.3032941","Altitude":"1421.699951171875","time":"12-13-2013 08:09:47","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539283","Longtitude":"51.3032939","Altitude":"1421.800048828125","time":"12-13-2013 08:11:49","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539279","Longtitude":"51.3032936","Altitude":"1421.800048828125","time":"12-13-2013 08:13:47","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539253","Longtitude":"51.3032939","Altitude":"1421.5999755859375","time":"12-13-2013 08:15:53","Accuracy":"58.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539238","Longtitude":"51.3032938","Altitude":"1421.5","time":"12-13-2013 08:17:47","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539232","Longtitude":"51.3032938","Altitude":"1421.5","time":"12-13-2013 08:18:51","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539217","Longtitude":"51.3032939","Altitude":"1421.4000244140625","time":"12-13-2013 08:19:51","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539185","Longtitude":"51.303294","Altitude":"1421.199951171875","time":"12-13-2013 08:21:50","Accuracy":"53.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539171","Longtitude":"51.303294","Altitude":"1421.0999755859375","time":"12-13-2013 08:22:50","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539171","Longtitude":"51.303294","Altitude":"1421.0999755859375","time":"12-13-2013 08:23:50","Accuracy":"50.999","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539171","Longtitude":"51.303294","Altitude":"1421.0999755859375","time":"12-13-2013 08:24:58","Accuracy":"61.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539169","Longtitude":"51.3032939","Altitude":"1421.0999755859375","time":"12-13-2013 08:26:16","Accuracy":"80.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539165","Longtitude":"51.3032939","Altitude":"1421.0999755859375","time":"12-13-2013 08:27:49","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539164","Longtitude":"51.3032938","Altitude":"1421.0999755859375","time":"12-13-2013 08:29:55","Accuracy":"58.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539166","Longtitude":"51.3032936","Altitude":"1421.0999755859375","time":"12-13-2013 08:31:50","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539165","Longtitude":"51.3032936","Altitude":"1421.0999755859375","time":"12-13-2013 08:32:56","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539168","Longtitude":"51.3032934","Altitude":"1421.0999755859375","time":"12-13-2013 08:35:12","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753917","Longtitude":"51.3032934","Altitude":"1421.0999755859375","time":"12-13-2013 08:36:22","Accuracy":"91.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539176","Longtitude":"51.3032932","Altitude":"1421.199951171875","time":"12-13-2013 08:37:51","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539175","Longtitude":"51.3032932","Altitude":"1421.199951171875","time":"12-13-2013 08:39:23","Accuracy":"88.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539175","Longtitude":"51.3032932","Altitude":"1421.199951171875","time":"12-13-2013 08:41:32","Accuracy":"83.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539174","Longtitude":"51.3032931","Altitude":"1421.199951171875","time":"12-13-2013 08:43:11","Accuracy":"81.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539182","Longtitude":"51.3032929","Altitude":"1421.199951171875","time":"12-13-2013 08:44:55","Accuracy":"54.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539184","Longtitude":"51.3032928","Altitude":"1421.199951171875","time":"12-13-2013 08:48:18","Accuracy":"228.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539187","Longtitude":"51.3032927","Altitude":"1421.300048828125","time":"12-13-2013 08:49:34","Accuracy":"53.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539189","Longtitude":"51.3032926","Altitude":"1421.300048828125","time":"12-13-2013 08:50:49","Accuracy":"68.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539195","Longtitude":"51.3032925","Altitude":"1421.300048828125","time":"12-13-2013 08:52:35","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539195","Longtitude":"51.3032925","Altitude":"1421.300048828125","time":"12-13-2013 08:54:38","Accuracy":"124.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539197","Longtitude":"51.3032924","Altitude":"1421.4000244140625","time":"12-13-2013 08:56:48","Accuracy":"138.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539197","Longtitude":"51.3032924","Altitude":"1421.4000244140625","time":"12-13-2013 09:02:49","Accuracy":"139.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539197","Longtitude":"51.3032924","Altitude":"1421.4000244140625","time":"12-13-2013 09:04:40","Accuracy":"215.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539197","Longtitude":"51.3032924","Altitude":"1421.4000244140625","time":"12-13-2013 09:05:58","Accuracy":"153.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539198","Longtitude":"51.3032924","Altitude":"1421.4000244140625","time":"12-13-2013 09:07:11","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539202","Longtitude":"51.3032924","Altitude":"1421.300048828125","time":"12-13-2013 09:09:40","Accuracy":"148.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539205","Longtitude":"51.3032924","Altitude":"1421.4000244140625","time":"12-13-2013 09:11:20","Accuracy":"98.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539205","Longtitude":"51.3032923","Altitude":"1421.4000244140625","time":"12-13-2013 09:13:01","Accuracy":"89.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539208","Longtitude":"51.3032923","Altitude":"1421.4000244140625","time":"12-13-2013 09:14:37","Accuracy":"80.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539225","Longtitude":"51.303292","Altitude":"1421.5","time":"12-13-2013 09:16:54","Accuracy":"99.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539226","Longtitude":"51.303292","Altitude":"1421.5","time":"12-13-2013 09:18:43","Accuracy":"185.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753923","Longtitude":"51.3032921","Altitude":"1421.5","time":"12-13-2013 09:21:16","Accuracy":"167.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753923","Longtitude":"51.3032921","Altitude":"1421.5","time":"12-13-2013 09:22:16","Accuracy":"133.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539232","Longtitude":"51.3032922","Altitude":"1421.4000244140625","time":"12-13-2013 09:24:43","Accuracy":"174.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.lslk.sleepbot","Start":"12-13-2013 09:25:28","End":"12-13-2013 09:25:48"}}
+{"Location":{"Latitude":"35.7539232","Longtitude":"51.3032922","Altitude":"1421.4000244140625","time":"12-13-2013 09:25:55","Accuracy":"146.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-13-2013 09:25:48","End":"12-13-2013 09:25:58"}}
+{"Location":{"Latitude":"35.7539231","Longtitude":"51.3032923","Altitude":"1421.4000244140625","time":"12-13-2013 09:27:40","Accuracy":"79.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539238","Longtitude":"51.3032923","Altitude":"1421.5","time":"12-13-2013 09:28:57","Accuracy":"102.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753924","Longtitude":"51.3032923","Altitude":"1421.5","time":"12-13-2013 09:31:24","Accuracy":"154.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539239","Longtitude":"51.3032922","Altitude":"1421.5","time":"12-13-2013 09:33:16","Accuracy":"117.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539245","Longtitude":"51.3032922","Altitude":"1421.5","time":"12-13-2013 09:35:12","Accuracy":"101.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539239","Longtitude":"51.3032929","Altitude":"1421.4000244140625","time":"12-13-2013 09:37:26","Accuracy":"121.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539239","Longtitude":"51.3032929","Altitude":"1421.4000244140625","time":"12-13-2013 09:38:44","Accuracy":"156.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539242","Longtitude":"51.303293","Altitude":"1421.300048828125","time":"12-13-2013 09:40:35","Accuracy":"61.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539238","Longtitude":"51.3032935","Altitude":"1421.300048828125","time":"12-13-2013 09:42:11","Accuracy":"75.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539229","Longtitude":"51.3032941","Altitude":"1421.199951171875","time":"12-13-2013 09:43:54","Accuracy":"45.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539228","Longtitude":"51.3032941","Altitude":"1421.199951171875","time":"12-13-2013 09:44:56","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753921","Longtitude":"51.3032952","Altitude":"1421.0","time":"12-13-2013 09:46:58","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539213","Longtitude":"51.3032951","Altitude":"1421.0","time":"12-13-2013 09:48:13","Accuracy":"71.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539218","Longtitude":"51.3032951","Altitude":"1421.0","time":"12-13-2013 09:49:59","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539215","Longtitude":"51.3032952","Altitude":"1421.0","time":"12-13-2013 09:51:05","Accuracy":"57.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539203","Longtitude":"51.303296","Altitude":"1420.800048828125","time":"12-13-2013 09:52:58","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539204","Longtitude":"51.3032961","Altitude":"1420.800048828125","time":"12-13-2013 09:54:00","Accuracy":"46.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539187","Longtitude":"51.303297","Altitude":"1420.5999755859375","time":"12-13-2013 09:55:01","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539177","Longtitude":"51.3032975","Altitude":"1420.4000244140625","time":"12-13-2013 09:57:09","Accuracy":"63.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539168","Longtitude":"51.3032983","Altitude":"1420.199951171875","time":"12-13-2013 09:59:33","Accuracy":"89.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539138","Longtitude":"51.3033","Altitude":"1419.800048828125","time":"12-13-2013 10:01:04","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539134","Longtitude":"51.3033001","Altitude":"1419.800048828125","time":"12-13-2013 10:02:23","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539126","Longtitude":"51.3033009","Altitude":"1419.5999755859375","time":"12-13-2013 10:04:05","Accuracy":"53.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539117","Longtitude":"51.3033014","Altitude":"1419.5","time":"12-13-2013 10:06:15","Accuracy":"74.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539099","Longtitude":"51.3033024","Altitude":"1419.199951171875","time":"12-13-2013 10:08:17","Accuracy":"75.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539083","Longtitude":"51.3033034","Altitude":"1419.0999755859375","time":"12-13-2013 10:09:42","Accuracy":"56.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539084","Longtitude":"51.3033034","Altitude":"1419.0","time":"12-13-2013 10:11:04","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539068","Longtitude":"51.3033045","Altitude":"1418.9000244140625","time":"12-13-2013 10:12:16","Accuracy":"64.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539066","Longtitude":"51.3033047","Altitude":"1418.9000244140625","time":"12-13-2013 10:13:58","Accuracy":"37.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539076","Longtitude":"51.3033044","Altitude":"1419.0","time":"12-13-2013 10:14:58","Accuracy":"37.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539079","Longtitude":"51.3033047","Altitude":"1419.0","time":"12-13-2013 10:15:58","Accuracy":"40.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539064","Longtitude":"51.3033058","Altitude":"1418.800048828125","time":"12-13-2013 10:17:07","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539063","Longtitude":"51.3033061","Altitude":"1418.699951171875","time":"12-13-2013 10:19:00","Accuracy":"46.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539064","Longtitude":"51.3033061","Altitude":"1418.699951171875","time":"12-13-2013 10:20:04","Accuracy":"42.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-13-2013 10:21:23","End":"12-13-2013 10:21:43"}}
+{"Location":{"Latitude":"35.7539069","Longtitude":"51.3033063","Altitude":"1418.699951171875","time":"12-13-2013 10:22:06","Accuracy":"39.0","Provider":"fused","Speed":"0.0"}}
+{"SMS":{"Address":"+98937211####","type":"1","date":"12-13-2013 10:22:15","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Haniye,gerafic"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 10:22:15","End":"12-13-2013 10:22:15"}}
+{"Application":{"ProcessName":"com.huawei.hidisk","Start":"12-13-2013 10:21:43","End":"12-13-2013 10:22:23"}}
+{"SMS":{"Address":"+98937211####","type":"2","date":"12-13-2013 10:23:04","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Haniye,gerafic"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 10:22:23","End":"12-13-2013 10:23:16"}}
+{"Application":{"ProcessName":"com.android.deskclock","Start":"12-13-2013 10:26:41","End":"12-13-2013 10:27:12"}}
+{"Application":{"ProcessName":"com.android.deskclock","Start":"12-13-2013 10:32:39","End":"12-13-2013 10:32:41"}}
+{"SMS":{"Address":"+98912402####","type":"1","date":"12-13-2013 12:36:11","body":"ANONYMIZED","Type":"1", "metadata": {"name": "My Love"}}}
+{"Application":{"ProcessName":"com.huawei.android.hwouc","Start":"12-13-2013 12:36:41","End":"12-13-2013 12:36:51"}}
+{"SMS":{"Address":"+98912402####","type":"2","date":"12-13-2013 12:37:35","body":"ANONYMIZED","Type":"2", "metadata": {"name": "My Love"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 12:36:51","End":"12-13-2013 12:37:41"}}
+{"Location":{"Latitude":"35.7540431","Longtitude":"51.3033107","Altitude":"1435.0999755859375","time":"12-13-2013 12:40:05","Accuracy":"128.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 12:40:28","End":"12-13-2013 12:40:58"}}
+{"SMS":{"Address":"0912402####","type":"2","date":"12-13-2013 12:40:55","body":"ANONYMIZED","Type":"2", "metadata": {"name": "My Love"}}}
+{"Location":{"Latitude":"35.7539735","Longtitude":"51.303305","Altitude":"1428.5","time":"12-13-2013 12:41:19","Accuracy":"156.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539614","Longtitude":"51.3033247","Altitude":"1425.0","time":"12-13-2013 12:44:14","Accuracy":"185.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-13-2013 12:44:28","End":"12-13-2013 12:44:38"}}
+{"SMS":{"Address":"+98912402####","type":"1","date":"12-13-2013 12:46:09","body":"ANONYMIZED","Type":"1", "metadata": {"name": "My Love"}}}
+{"SMS":{"Address":"0912402####","type":"2","date":"12-13-2013 12:46:30","body":"ANONYMIZED","Type":"2", "metadata": {"name": "My Love"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 12:46:25","End":"12-13-2013 12:46:35"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 13:13:32","End":"12-13-2013 13:13:42"}}
+{"SMS":{"Address":"+98912402####","type":"2","date":"12-13-2013 13:13:39","body":"ANONYMIZED","Type":"2", "metadata": {"name": "My Love"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 13:13:52","End":"12-13-2013 13:14:04"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-13-2013 16:31:46","End":"12-13-2013 16:31:56"}}
+{"Application":{"ProcessName":"com.google.android.apps.plus","Start":"12-13-2013 16:32:34","End":"12-13-2013 16:32:37"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"12-13-2013 16:32:37","End":"12-13-2013 16:32:37"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-13-2013 16:32:34","End":"12-13-2013 16:32:54"}}
+{"Location":{"Latitude":"35.7542786","Longtitude":"51.3031355","Altitude":"1470.800048828125","time":"12-13-2013 16:35:09","Accuracy":"63.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542902","Longtitude":"51.3031696","Altitude":"1459.9000244140625","time":"12-13-2013 16:36:34","Accuracy":"70.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7543497","Longtitude":"51.3032366","Altitude":"1443.0999755859375","time":"12-13-2013 16:46:12","Accuracy":"92.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7543271","Longtitude":"51.3032235","Altitude":"1444.699951171875","time":"12-13-2013 16:47:39","Accuracy":"79.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7543278","Longtitude":"51.3032265","Altitude":"1444.300048828125","time":"12-13-2013 16:49:02","Accuracy":"96.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7543045","Longtitude":"51.3032529","Altitude":"1441.0999755859375","time":"12-13-2013 16:50:50","Accuracy":"94.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542741","Longtitude":"51.3032313","Altitude":"1443.5","time":"12-13-2013 16:53:13","Accuracy":"132.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542639","Longtitude":"51.3032373","Altitude":"1442.0","time":"12-13-2013 16:54:25","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.754253","Longtitude":"51.3032596","Altitude":"1439.5999755859375","time":"12-13-2013 16:56:22","Accuracy":"46.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542499","Longtitude":"51.3032592","Altitude":"1439.5","time":"12-13-2013 16:57:31","Accuracy":"56.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542462","Longtitude":"51.3032576","Altitude":"1440.5","time":"12-13-2013 16:58:34","Accuracy":"60.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542417","Longtitude":"51.3032616","Altitude":"1440.199951171875","time":"12-13-2013 16:59:43","Accuracy":"75.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542408","Longtitude":"51.3032588","Altitude":"1440.699951171875","time":"12-13-2013 17:01:30","Accuracy":"58.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.75423","Longtitude":"51.3032598","Altitude":"1440.0999755859375","time":"12-13-2013 17:02:30","Accuracy":"54.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.754227","Longtitude":"51.3032499","Altitude":"1441.300048828125","time":"12-13-2013 17:05:00","Accuracy":"104.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542188","Longtitude":"51.3032521","Altitude":"1441.4000244140625","time":"12-13-2013 17:06:33","Accuracy":"55.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542071","Longtitude":"51.3032528","Altitude":"1441.5999755859375","time":"12-13-2013 17:08:25","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542069","Longtitude":"51.3032523","Altitude":"1441.699951171875","time":"12-13-2013 17:09:27","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541941","Longtitude":"51.3032491","Altitude":"1441.199951171875","time":"12-13-2013 17:11:24","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541904","Longtitude":"51.3032508","Altitude":"1441.199951171875","time":"12-13-2013 17:13:23","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541867","Longtitude":"51.303257","Altitude":"1440.699951171875","time":"12-13-2013 17:14:26","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541775","Longtitude":"51.3032633","Altitude":"1440.699951171875","time":"12-13-2013 17:16:24","Accuracy":"44.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541686","Longtitude":"51.3032692","Altitude":"1440.0999755859375","time":"12-13-2013 17:18:25","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.754167","Longtitude":"51.3032703","Altitude":"1439.5","time":"12-13-2013 17:19:26","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541679","Longtitude":"51.3032717","Altitude":"1438.699951171875","time":"12-13-2013 17:21:27","Accuracy":"53.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541663","Longtitude":"51.3032738","Altitude":"1438.199951171875","time":"12-13-2013 17:22:28","Accuracy":"53.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541682","Longtitude":"51.3032764","Altitude":"1438.0999755859375","time":"12-13-2013 17:23:42","Accuracy":"59.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.75417","Longtitude":"51.3032786","Altitude":"1437.5999755859375","time":"12-13-2013 17:25:39","Accuracy":"60.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541694","Longtitude":"51.3032786","Altitude":"1437.5999755859375","time":"12-13-2013 17:28:18","Accuracy":"224.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541748","Longtitude":"51.3032792","Altitude":"1437.4000244140625","time":"12-13-2013 17:30:27","Accuracy":"132.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541747","Longtitude":"51.3032791","Altitude":"1437.4000244140625","time":"12-13-2013 17:31:40","Accuracy":"54.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541751","Longtitude":"51.30328","Altitude":"1437.300048828125","time":"12-13-2013 17:33:44","Accuracy":"116.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.754175","Longtitude":"51.30328","Altitude":"1437.300048828125","time":"12-13-2013 17:35:48","Accuracy":"70.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541753","Longtitude":"51.3032803","Altitude":"1437.300048828125","time":"12-13-2013 17:37:38","Accuracy":"91.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541793","Longtitude":"51.3032815","Altitude":"1436.9000244140625","time":"12-13-2013 17:39:20","Accuracy":"76.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541775","Longtitude":"51.3032816","Altitude":"1436.9000244140625","time":"12-13-2013 17:40:54","Accuracy":"136.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541759","Longtitude":"51.3032811","Altitude":"1436.699951171875","time":"12-13-2013 17:42:20","Accuracy":"65.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.754174","Longtitude":"51.3032803","Altitude":"1436.800048828125","time":"12-13-2013 17:43:26","Accuracy":"74.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541679","Longtitude":"51.3032759","Altitude":"1437.0999755859375","time":"12-13-2013 17:45:10","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.754169","Longtitude":"51.3032758","Altitude":"1437.0999755859375","time":"12-13-2013 17:46:25","Accuracy":"56.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541662","Longtitude":"51.3032751","Altitude":"1437.199951171875","time":"12-13-2013 17:48:22","Accuracy":"71.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541576","Longtitude":"51.3032721","Altitude":"1437.300048828125","time":"12-13-2013 17:50:17","Accuracy":"167.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541567","Longtitude":"51.3032705","Altitude":"1437.4000244140625","time":"12-13-2013 17:51:54","Accuracy":"58.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541572","Longtitude":"51.3032714","Altitude":"1437.0999755859375","time":"12-13-2013 17:53:39","Accuracy":"59.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541562","Longtitude":"51.3032723","Altitude":"1436.699951171875","time":"12-13-2013 17:55:54","Accuracy":"157.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541576","Longtitude":"51.3032742","Altitude":"1436.5","time":"12-13-2013 17:58:03","Accuracy":"99.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541588","Longtitude":"51.3032755","Altitude":"1436.300048828125","time":"12-13-2013 17:59:47","Accuracy":"70.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541584","Longtitude":"51.3032748","Altitude":"1436.300048828125","time":"12-13-2013 18:01:02","Accuracy":"125.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.754158","Longtitude":"51.3032748","Altitude":"1436.300048828125","time":"12-13-2013 18:02:13","Accuracy":"142.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541578","Longtitude":"51.3032746","Altitude":"1436.300048828125","time":"12-13-2013 18:03:15","Accuracy":"129.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.754159","Longtitude":"51.3032765","Altitude":"1436.0999755859375","time":"12-13-2013 18:05:00","Accuracy":"64.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541605","Longtitude":"51.3032767","Altitude":"1435.9000244140625","time":"12-13-2013 18:06:24","Accuracy":"139.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541611","Longtitude":"51.3032769","Altitude":"1435.9000244140625","time":"12-13-2013 18:08:26","Accuracy":"88.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.754162","Longtitude":"51.303277","Altitude":"1435.5","time":"12-13-2013 18:10:09","Accuracy":"84.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541636","Longtitude":"51.3032778","Altitude":"1435.199951171875","time":"12-13-2013 18:11:51","Accuracy":"67.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541624","Longtitude":"51.3032766","Altitude":"1435.199951171875","time":"12-13-2013 18:13:10","Accuracy":"90.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541626","Longtitude":"51.3032762","Altitude":"1434.9000244140625","time":"12-13-2013 18:15:46","Accuracy":"126.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541613","Longtitude":"51.3032771","Altitude":"1434.800048828125","time":"12-13-2013 18:17:01","Accuracy":"55.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541618","Longtitude":"51.3032796","Altitude":"1434.0999755859375","time":"12-13-2013 18:18:05","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541621","Longtitude":"51.3032803","Altitude":"1433.9000244140625","time":"12-13-2013 18:19:19","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541641","Longtitude":"51.3032812","Altitude":"1433.5999755859375","time":"12-13-2013 18:21:37","Accuracy":"107.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.754165","Longtitude":"51.3032822","Altitude":"1433.4000244140625","time":"12-13-2013 18:23:01","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.754165","Longtitude":"51.3032826","Altitude":"1433.300048828125","time":"12-13-2013 18:24:04","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541644","Longtitude":"51.3032828","Altitude":"1433.300048828125","time":"12-13-2013 18:25:13","Accuracy":"59.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541656","Longtitude":"51.3032838","Altitude":"1433.0999755859375","time":"12-13-2013 18:27:19","Accuracy":"72.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541635","Longtitude":"51.3032847","Altitude":"1433.0999755859375","time":"12-13-2013 18:29:08","Accuracy":"54.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.754169","Longtitude":"51.3032891","Altitude":"1433.699951171875","time":"12-13-2013 18:30:53","Accuracy":"45.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541853","Longtitude":"51.3032877","Altitude":"1434.4000244140625","time":"12-13-2013 18:32:54","Accuracy":"37.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541903","Longtitude":"51.3032856","Altitude":"1434.5","time":"12-13-2013 18:33:54","Accuracy":"33.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541974","Longtitude":"51.3032844","Altitude":"1434.5999755859375","time":"12-13-2013 18:34:54","Accuracy":"32.999","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542006","Longtitude":"51.3032846","Altitude":"1434.800048828125","time":"12-13-2013 18:36:02","Accuracy":"44.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542068","Longtitude":"51.3032846","Altitude":"1435.0999755859375","time":"12-13-2013 18:37:06","Accuracy":"56.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542181","Longtitude":"51.3032826","Altitude":"1435.5999755859375","time":"12-13-2013 18:38:56","Accuracy":"42.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.754217","Longtitude":"51.303285","Altitude":"1435.699951171875","time":"12-13-2013 18:40:03","Accuracy":"44.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542166","Longtitude":"51.3032837","Altitude":"1435.0999755859375","time":"12-13-2013 18:41:55","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542104","Longtitude":"51.3032833","Altitude":"1435.0","time":"12-13-2013 18:43:13","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Call": {"Number":"+98937211####","Duration":"0","Time":"12-13-2013 18:42:47","Type":"3"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-13-2013 18:43:35","End":"12-13-2013 18:47:23"}}
+{"Location":{"Latitude":"35.7542109","Longtitude":"51.3032835","Altitude":"1435.0","time":"12-13-2013 18:47:51","Accuracy":"58.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542091","Longtitude":"51.3032802","Altitude":"1435.199951171875","time":"12-13-2013 18:49:49","Accuracy":"60.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542075","Longtitude":"51.3032821","Altitude":"1435.300048828125","time":"12-13-2013 18:51:52","Accuracy":"57.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542077","Longtitude":"51.3032835","Altitude":"1435.199951171875","time":"12-13-2013 18:53:46","Accuracy":"57.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542064","Longtitude":"51.3032843","Altitude":"1435.0","time":"12-13-2013 18:54:47","Accuracy":"57.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542052","Longtitude":"51.3032826","Altitude":"1434.5","time":"12-13-2013 18:56:49","Accuracy":"60.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542062","Longtitude":"51.3032811","Altitude":"1433.9000244140625","time":"12-13-2013 18:58:51","Accuracy":"64.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542075","Longtitude":"51.303278","Altitude":"1432.699951171875","time":"12-13-2013 19:00:47","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542069","Longtitude":"51.3032757","Altitude":"1431.5","time":"12-13-2013 19:02:46","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542036","Longtitude":"51.3032749","Altitude":"1430.5","time":"12-13-2013 19:03:46","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542052","Longtitude":"51.3032732","Altitude":"1430.0","time":"12-13-2013 19:05:04","Accuracy":"70.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542056","Longtitude":"51.3032723","Altitude":"1429.5999755859375","time":"12-13-2013 19:06:09","Accuracy":"79.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542053","Longtitude":"51.3032702","Altitude":"1428.9000244140625","time":"12-13-2013 19:08:03","Accuracy":"62.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542065","Longtitude":"51.303268","Altitude":"1428.5999755859375","time":"12-13-2013 19:09:46","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542166","Longtitude":"51.3032652","Altitude":"1428.5999755859375","time":"12-13-2013 19:11:41","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542171","Longtitude":"51.3032646","Altitude":"1428.300048828125","time":"12-13-2013 19:12:47","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542168","Longtitude":"51.3032634","Altitude":"1427.800048828125","time":"12-13-2013 19:14:12","Accuracy":"63.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.754215","Longtitude":"51.3032639","Altitude":"1427.699951171875","time":"12-13-2013 19:16:07","Accuracy":"88.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542145","Longtitude":"51.3032641","Altitude":"1427.5","time":"12-13-2013 19:17:48","Accuracy":"54.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542158","Longtitude":"51.3032632","Altitude":"1427.300048828125","time":"12-13-2013 19:18:49","Accuracy":"55.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.754215","Longtitude":"51.3032634","Altitude":"1427.300048828125","time":"12-13-2013 19:20:06","Accuracy":"74.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.754214","Longtitude":"51.3032623","Altitude":"1427.0","time":"12-13-2013 19:21:39","Accuracy":"44.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542107","Longtitude":"51.3032621","Altitude":"1426.9000244140625","time":"12-13-2013 19:22:40","Accuracy":"44.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542089","Longtitude":"51.3032625","Altitude":"1427.0","time":"12-13-2013 19:23:41","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542039","Longtitude":"51.3032619","Altitude":"1426.4000244140625","time":"12-13-2013 19:25:40","Accuracy":"43.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542038","Longtitude":"51.3032617","Altitude":"1426.4000244140625","time":"12-13-2013 19:26:45","Accuracy":"38.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542154","Longtitude":"51.3032592","Altitude":"1427.4000244140625","time":"12-13-2013 19:28:40","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-13-2013 19:29:16","End":"12-13-2013 19:29:36"}}
+{"Location":{"Latitude":"35.7542197","Longtitude":"51.3032583","Altitude":"1427.699951171875","time":"12-13-2013 19:29:40","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542205","Longtitude":"51.303258","Altitude":"1427.699951171875","time":"12-13-2013 19:31:38","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542208","Longtitude":"51.303258","Altitude":"1427.9000244140625","time":"12-13-2013 19:33:43","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542196","Longtitude":"51.3032575","Altitude":"1427.800048828125","time":"12-13-2013 19:35:41","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542144","Longtitude":"51.3032584","Altitude":"1427.800048828125","time":"12-13-2013 19:36:41","Accuracy":"48.999","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542123","Longtitude":"51.3032588","Altitude":"1427.699951171875","time":"12-13-2013 19:37:45","Accuracy":"55.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542116","Longtitude":"51.3032589","Altitude":"1427.800048828125","time":"12-13-2013 19:38:55","Accuracy":"61.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542107","Longtitude":"51.3032591","Altitude":"1427.800048828125","time":"12-13-2013 19:41:00","Accuracy":"74.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542102","Longtitude":"51.3032596","Altitude":"1427.800048828125","time":"12-13-2013 19:42:02","Accuracy":"69.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542112","Longtitude":"51.3032604","Altitude":"1428.300048828125","time":"12-13-2013 19:43:55","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542201","Longtitude":"51.3032603","Altitude":"1429.0","time":"12-13-2013 19:45:38","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542248","Longtitude":"51.3032594","Altitude":"1429.300048828125","time":"12-13-2013 19:46:43","Accuracy":"53.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542343","Longtitude":"51.3032595","Altitude":"1429.9000244140625","time":"12-13-2013 19:48:38","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542368","Longtitude":"51.3032601","Altitude":"1430.0999755859375","time":"12-13-2013 19:49:41","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542371","Longtitude":"51.3032604","Altitude":"1430.0999755859375","time":"12-13-2013 19:50:48","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542372","Longtitude":"51.3032605","Altitude":"1430.0999755859375","time":"12-13-2013 19:51:49","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542391","Longtitude":"51.3032606","Altitude":"1430.300048828125","time":"12-13-2013 19:52:50","Accuracy":"60.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542447","Longtitude":"51.3032603","Altitude":"1430.5999755859375","time":"12-13-2013 19:54:42","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542485","Longtitude":"51.3032607","Altitude":"1430.9000244140625","time":"12-13-2013 19:56:55","Accuracy":"65.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.754249","Longtitude":"51.3032615","Altitude":"1431.0999755859375","time":"12-13-2013 19:58:47","Accuracy":"53.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542485","Longtitude":"51.3032619","Altitude":"1431.0999755859375","time":"12-13-2013 20:00:09","Accuracy":"75.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542481","Longtitude":"51.3032624","Altitude":"1431.199951171875","time":"12-13-2013 20:01:45","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542465","Longtitude":"51.3032629","Altitude":"1431.199951171875","time":"12-13-2013 20:02:50","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542453","Longtitude":"51.3032634","Altitude":"1431.0999755859375","time":"12-13-2013 20:03:57","Accuracy":"56.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542455","Longtitude":"51.3032637","Altitude":"1431.0999755859375","time":"12-13-2013 20:05:53","Accuracy":"54.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542442","Longtitude":"51.3032642","Altitude":"1431.0999755859375","time":"12-13-2013 20:08:12","Accuracy":"71.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542375","Longtitude":"51.3032649","Altitude":"1431.0999755859375","time":"12-13-2013 20:09:44","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.754234","Longtitude":"51.3032648","Altitude":"1431.0999755859375","time":"12-13-2013 20:10:44","Accuracy":"55.999","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542344","Longtitude":"51.3032645","Altitude":"1431.0","time":"12-13-2013 20:11:48","Accuracy":"45.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.754234","Longtitude":"51.3032646","Altitude":"1431.0","time":"12-13-2013 20:13:49","Accuracy":"53.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.754233","Longtitude":"51.3032646","Altitude":"1430.9000244140625","time":"12-13-2013 20:15:42","Accuracy":"46.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542323","Longtitude":"51.3032647","Altitude":"1430.9000244140625","time":"12-13-2013 20:16:43","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.754232","Longtitude":"51.3032646","Altitude":"1431.0","time":"12-13-2013 20:17:47","Accuracy":"46.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542286","Longtitude":"51.3032643","Altitude":"1430.800048828125","time":"12-13-2013 20:19:45","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.754229","Longtitude":"51.3032637","Altitude":"1430.800048828125","time":"12-13-2013 20:22:02","Accuracy":"62.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542286","Longtitude":"51.3032642","Altitude":"1430.9000244140625","time":"12-13-2013 20:23:40","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542285","Longtitude":"51.3032645","Altitude":"1431.0","time":"12-13-2013 20:24:48","Accuracy":"59.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542258","Longtitude":"51.3032647","Altitude":"1431.0999755859375","time":"12-13-2013 20:26:43","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542247","Longtitude":"51.3032645","Altitude":"1431.0","time":"12-13-2013 20:27:53","Accuracy":"62.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542241","Longtitude":"51.3032645","Altitude":"1431.0","time":"12-13-2013 20:29:05","Accuracy":"88.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542257","Longtitude":"51.3032643","Altitude":"1431.199951171875","time":"12-13-2013 20:30:46","Accuracy":"55.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542249","Longtitude":"51.3032642","Altitude":"1431.199951171875","time":"12-13-2013 20:32:49","Accuracy":"58.0","Provider":"fused","Speed":"0.0"}}
+{"Call": {"Number":"+98937211####","Duration":"0","Time":"12-13-2013 18:42:47","Type":"3"}}
+{"Call": {"Number":"+98937211####","Duration":"0","Time":"12-13-2013 18:42:47","Type":"3"}}
+{"Call": {"Number":"+98937211####","Duration":"0","Time":"12-13-2013 18:42:47","Type":"3"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-13-2013 20:33:31","End":"12-13-2013 20:33:41"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"12-13-2013 20:33:41","End":"12-13-2013 20:33:41"}}
+{"Location":{"Latitude":"35.7542254","Longtitude":"51.3032643","Altitude":"1431.199951171875","time":"12-13-2013 20:34:17","Accuracy":"88.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542157","Longtitude":"51.3032669","Altitude":"1430.4000244140625","time":"12-13-2013 20:35:49","Accuracy":"62.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537227","Longtitude":"51.3036765","Altitude":"1447.0999755859375","time":"12-13-2013 20:37:37","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Call": {"Number":"+98937211####","Duration":"259","Time":"12-13-2013 20:33:41","Type":"2"}}
+{"Call": {"Number":"+98937211####","Duration":"259","Time":"12-13-2013 20:33:41","Type":"2"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"12-13-2013 20:38:28","End":"12-13-2013 20:38:38"}}
+{"Location":{"Latitude":"35.7537358","Longtitude":"51.3036413","Altitude":"1443.699951171875","time":"12-13-2013 20:38:41","Accuracy":"41.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537442","Longtitude":"51.3036289","Altitude":"1442.199951171875","time":"12-13-2013 20:40:18","Accuracy":"89.0","Provider":"fused","Speed":"0.0"}}
+{"Call": {"Number":"+98912187####","Duration":"30","Time":"12-13-2013 22:00:09","Type":"1"}}
+{"Call": {"Number":"+98912187####","Duration":"30","Time":"12-13-2013 22:00:09","Type":"1"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"12-13-2013 22:29:22","End":"12-13-2013 22:29:32"}}
+{"Call": {"Number":"+98912187####","Duration":"30","Time":"12-13-2013 22:00:09","Type":"1"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"12-13-2013 23:13:37","End":"12-13-2013 23:13:40"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 23:13:40","End":"12-13-2013 23:13:47"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-13-2013 23:13:47","End":"12-13-2013 23:13:50"}}
+{"SMS":{"Address":"+98936297####","type":"2","date":"12-13-2013 23:14:17","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Mona,paygah"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 23:13:50","End":"12-13-2013 23:14:29"}}

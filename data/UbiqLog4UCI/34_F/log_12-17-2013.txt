@@ -1,0 +1,404 @@
+{"Call": {"Number":"+98938218####","Duration":"13","Time":"12-16-2013 23:24:28","Type":"1"}}
+{"Location":{"Latitude":"35.7538876","Longtitude":"51.303235","Altitude":"1408.800048828125","time":"12-16-2013 23:30:29","Accuracy":"219.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538839","Longtitude":"51.3032312","Altitude":"1409.0999755859375","time":"12-16-2013 23:33:15","Accuracy":"237.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538823","Longtitude":"51.3032297","Altitude":"1409.300048828125","time":"12-16-2013 23:34:39","Accuracy":"163.0","Provider":"fused","Speed":"0.0"}}
+{"SMS":{"Address":"+98912402####","type":"2","date":"12-16-2013 23:45:54","body":"ANONYMIZED","Type":"2", "metadata": {"name": "My Love"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-16-2013 23:45:45","End":"12-16-2013 23:46:07"}}
+{"Call": {"Number":"+98938218####","Duration":"13","Time":"12-16-2013 23:24:28","Type":"1"}}
+{"Call": {"Number":"+98938218####","Duration":"13","Time":"12-16-2013 23:24:28","Type":"1"}}
+{"Call": {"Number":"+98938218####","Duration":"13","Time":"12-16-2013 23:24:28","Type":"1"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-16-2013 23:47:46","End":"12-16-2013 23:47:56"}}
+{"Call": {"Number":"+98912402####","Duration":"207","Time":"12-16-2013 23:47:51","Type":"2"}}
+{"Call": {"Number":"+98912402####","Duration":"207","Time":"12-16-2013 23:47:51","Type":"2"}}
+{"Call": {"Number":"+98912402####","Duration":"207","Time":"12-16-2013 23:47:51","Type":"2"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-16-2013 23:51:37","End":"12-16-2013 23:51:57"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-16-2013 23:53:42","End":"12-16-2013 23:54:22"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-16-2013 23:54:22","End":"12-16-2013 23:54:32"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-16-2013 23:54:32","End":"12-16-2013 23:55:42"}}
+{"Call": {"Number":"+98912402####","Duration":"1790","Time":"12-16-2013 23:55:55","Type":"1"}}
+{"Call": {"Number":"+98912402####","Duration":"0","Time":"12-17-2013 00:26:04","Type":"3"}}
+{"Call": {"Number":"+98912402####","Duration":"0","Time":"12-17-2013 00:26:04","Type":"3"}}
+{"Call": {"Number":"+98912402####","Duration":"0","Time":"12-17-2013 00:26:04","Type":"3"}}
+{"Call": {"Number":"+98912402####","Duration":"0","Time":"12-17-2013 00:26:04","Type":"3"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-17-2013 00:25:58","End":"12-17-2013 00:26:28"}}
+{"Call": {"Number":"+98912402####","Duration":"0","Time":"12-17-2013 00:26:29","Type":"2"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"12-17-2013 00:26:28","End":"12-17-2013 00:26:38"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 00:26:38","End":"12-17-2013 00:26:58"}}
+{"SMS":{"Address":"+98938218####","type":"1","date":"12-17-2013 00:27:05","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Hajar"}}}
+{"SMS":{"Address":"+98938218####","type":"1","date":"12-17-2013 00:32:38","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Hajar"}}}
+{"SMS":{"Address":"+98938218####","type":"1","date":"12-17-2013 00:33:00","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Hajar"}}}
+{"Call": {"Number":"+98912402####","Duration":"1262","Time":"12-17-2013 00:26:50","Type":"1"}}
+{"SMS":{"Address":"+98938218####","type":"2","date":"12-17-2013 00:49:40","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Hajar"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-17-2013 00:48:00","End":"12-17-2013 00:49:51"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 00:49:51","End":"12-17-2013 00:50:00"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 00:50:35","End":"12-17-2013 00:50:45"}}
+{"Application":{"ProcessName":"com.lslk.sleepbot","Start":"12-17-2013 00:50:56","End":"12-17-2013 00:51:06"}}
+{"SMS":{"Address":"+98938218####","type":"1","date":"12-17-2013 00:51:36","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Hajar"}}}
+{"Application":{"ProcessName":"com.lslk.sleepbot","Start":"12-17-2013 00:51:46","End":"12-17-2013 00:52:06"}}
+{"SMS":{"Address":"+98938218####","type":"2","date":"12-17-2013 00:52:33","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Hajar"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-17-2013 00:52:06","End":"12-17-2013 00:52:37"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 00:52:37","End":"12-17-2013 00:52:47"}}
+{"Application":{"ProcessName":"com.sgiggle.production","Start":"12-17-2013 00:52:47","End":"12-17-2013 00:52:57"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 00:52:57","End":"12-17-2013 00:53:07"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"12-17-2013 00:53:07","End":"12-17-2013 00:53:17"}}
+{"SMS":{"Address":"+98938218####","type":"1","date":"12-17-2013 00:53:23","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Hajar"}}}
+{"Application":{"ProcessName":"com.lslk.sleepbot","Start":"12-17-2013 00:53:17","End":"12-17-2013 00:53:27"}}
+{"Location":{"Latitude":"35.7539898","Longtitude":"51.3032057","Altitude":"1437.199951171875","time":"12-17-2013 05:40:06","Accuracy":"201.999","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7541834","Longtitude":"51.3034083","Altitude":"1429.5","time":"12-17-2013 06:21:07","Accuracy":"243.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542365","Longtitude":"51.3032284","Altitude":"1431.800048828125","time":"12-17-2013 06:25:08","Accuracy":"249.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542229","Longtitude":"51.3032803","Altitude":"1437.0999755859375","time":"12-17-2013 07:19:51","Accuracy":"243.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539357","Longtitude":"51.3033109","Altitude":"1418.5","time":"12-17-2013 07:23:53","Accuracy":"246.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7542181","Longtitude":"51.3031445","Altitude":"1421.800048828125","time":"12-17-2013 07:26:24","Accuracy":"223.0","Provider":"fused","Speed":"0.0"}}
+{"SMS":{"Address":"+98938218####","type":"1","date":"12-17-2013 00:53:23","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Hajar"}}}
+{"Application":{"ProcessName":"com.lslk.sleepbot","Start":"12-17-2013 07:26:43","End":"12-17-2013 07:27:13"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 08:19:13","End":"12-17-2013 08:19:23"}}
+{"Application":{"ProcessName":"com.android.deskclock","Start":"12-17-2013 08:19:23","End":"12-17-2013 08:19:36"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 08:19:36","End":"12-17-2013 08:19:43"}}
+{"Application":{"ProcessName":"com.sgiggle.production","Start":"12-17-2013 08:19:43","End":"12-17-2013 08:19:45"}}
+{"Application":{"ProcessName":"com.android.deskclock","Start":"12-17-2013 08:19:43","End":"12-17-2013 08:20:25"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 08:20:25","End":"12-17-2013 08:20:33"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 08:20:56","End":"12-17-2013 08:21:06"}}
+{"Application":{"ProcessName":"com.android.deskclock","Start":"12-17-2013 08:45:00","End":"12-17-2013 08:45:09"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 08:45:09","End":"12-17-2013 08:45:18"}}
+{"Application":{"ProcessName":"com.android.deskclock","Start":"12-17-2013 08:55:09","End":"12-17-2013 08:55:20"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 08:55:20","End":"12-17-2013 08:55:30"}}
+{"SMS":{"Address":"+98936297####","type":"1","date":"12-17-2013 09:05:14","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Mona,paygah"}}}
+{"Call": {"Number":"+98936297####","Duration":"0","Time":"12-17-2013 09:06:36","Type":"3"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 09:07:00","End":"12-17-2013 09:07:10"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 09:08:42","End":"12-17-2013 09:08:50"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"12-17-2013 09:09:10","End":"12-17-2013 09:09:11"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-17-2013 09:08:50","End":"12-17-2013 09:10:01"}}
+{"Call": {"Number":"+98936297####","Duration":"0","Time":"12-17-2013 09:06:36","Type":"3"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 09:10:01","End":"12-17-2013 09:10:02"}}
+{"Call": {"Number":"+98936297####","Duration":"0","Time":"12-17-2013 09:06:36","Type":"3"}}
+{"Call": {"Number":"+98936297####","Duration":"0","Time":"12-17-2013 09:06:36","Type":"3"}}
+{"Call": {"Number":"+98936297####","Duration":"0","Time":"12-17-2013 09:06:36","Type":"3"}}
+{"SMS":{"Address":"+98936297####","type":"2","date":"12-17-2013 09:09:58","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Mona,paygah"}}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"12-17-2013 09:10:02","End":"12-17-2013 09:10:10"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"12-17-2013 09:10:12","End":"12-17-2013 09:10:20"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 09:10:10","End":"12-17-2013 09:10:31"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 09:15:21","End":"12-17-2013 09:15:31"}}
+{"Call": {"Number":"+98912402####","Duration":"0","Time":"12-17-2013 09:38:12","Type":"2"}}
+{"Call": {"Number":"+98912402####","Duration":"0","Time":"12-17-2013 09:38:12","Type":"2"}}
+{"Call": {"Number":"+98912402####","Duration":"0","Time":"12-17-2013 09:38:12","Type":"2"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 09:38:43","End":"12-17-2013 09:38:54"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 09:39:03","End":"12-17-2013 09:39:13"}}
+{"Call": {"Number":"+98912402####","Duration":"41","Time":"12-17-2013 09:39:06","Type":"2"}}
+{"Call": {"Number":"+98912402####","Duration":"41","Time":"12-17-2013 09:39:06","Type":"2"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"12-17-2013 09:40:03","End":"12-17-2013 09:40:13"}}
+{"Call": {"Number":"+98937211####","Duration":"19","Time":"12-17-2013 09:43:58","Type":"1"}}
+{"Call": {"Number":"+98937211####","Duration":"19","Time":"12-17-2013 09:43:58","Type":"1"}}
+{"Location":{"Latitude":"35.7534231","Longtitude":"51.2986987","Altitude":"1407.0999755859375","time":"12-17-2013 09:56:08","Accuracy":"73.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7531077","Longtitude":"51.2947131","Altitude":"1386.4000244140625","time":"12-17-2013 09:57:36","Accuracy":"45.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7531263","Longtitude":"51.310055","Altitude":"1381.9000244140625","time":"12-17-2013 09:59:30","Accuracy":"43.0","Provider":"fused","Speed":"0.0"}}
+{"Call": {"Number":"+98937211####","Duration":"19","Time":"12-17-2013 09:43:58","Type":"1"}}
+{"SMS":{"Address":"+98912402####","type":"2","date":"12-17-2013 10:00:01","body":"ANONYMIZED","Type":"2", "metadata": {"name": "My Love"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-17-2013 09:59:47","End":"12-17-2013 10:00:07"}}
+{"Location":{"Latitude":"35.7521128","Longtitude":"51.3234718","Altitude":"1424.5","time":"12-17-2013 10:01:23","Accuracy":"46.0","Provider":"fused","Speed":"0.0"}}
+{"SMS":{"Address":"+98912402####","type":"1","date":"12-17-2013 10:01:45","body":"ANONYMIZED","Type":"1", "metadata": {"name": "My Love"}}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 10:01:49","End":"12-17-2013 10:01:59"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 10:02:23","End":"12-17-2013 10:02:53"}}
+{"Location":{"Latitude":"35.7508375","Longtitude":"51.3320018","Altitude":"1406.5","time":"12-17-2013 10:03:19","Accuracy":"40.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.758459","Longtitude":"51.3347591","Altitude":"1456.5","time":"12-17-2013 10:04:21","Accuracy":"33.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 10:04:18","End":"12-17-2013 10:05:14"}}
+{"Location":{"Latitude":"35.7608716","Longtitude":"51.3400554","Altitude":"1452.0","time":"12-17-2013 10:06:19","Accuracy":"37.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7627302","Longtitude":"51.3401035","Altitude":"1479.800048828125","time":"12-17-2013 10:07:21","Accuracy":"29.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.huawei.android.dlna","Start":"12-17-2013 10:07:55","End":"12-17-2013 10:07:56"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"12-17-2013 10:07:56","End":"12-17-2013 10:08:05"}}
+{"Call": {"Number":"+98937211####","Duration":"6","Time":"12-17-2013 10:07:57","Type":"2"}}
+{"Call": {"Number":"+98937211####","Duration":"6","Time":"12-17-2013 10:07:57","Type":"2"}}
+{"Call": {"Number":"+98937211####","Duration":"6","Time":"12-17-2013 10:07:57","Type":"2"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-17-2013 10:08:58","End":"12-17-2013 10:09:20"}}
+{"SMS":{"Address":"+98912402####","type":"2","date":"12-17-2013 10:09:18","body":"ANONYMIZED","Type":"2", "metadata": {"name": "My Love"}}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 10:09:20","End":"12-17-2013 10:09:29"}}
+{"SMS":{"Address":"+98912402####","type":"1","date":"12-17-2013 10:12:44","body":"ANONYMIZED","Type":"1", "metadata": {"name": "My Love"}}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"12-17-2013 10:13:04","End":"12-17-2013 10:13:05"}}
+{"SMS":{"Address":"+98912402####","type":"2","date":"12-17-2013 10:13:19","body":"ANONYMIZED","Type":"2", "metadata": {"name": "My Love"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-17-2013 10:12:54","End":"12-17-2013 10:13:24"}}
+{"SMS":{"Address":"+98912402####","type":"1","date":"12-17-2013 10:15:46","body":"ANONYMIZED","Type":"1", "metadata": {"name": "My Love"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-17-2013 11:06:15","End":"12-17-2013 11:06:25"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 11:08:19","End":"12-17-2013 11:08:19"}}
+{"Call": {"Number":"+98937211####","Duration":"0","Time":"12-17-2013 11:08:18","Type":"3"}}
+{"Call": {"Number":"+98938218####","Duration":"21","Time":"12-17-2013 11:33:10","Type":"1"}}
+{"Call": {"Number":"+98938218####","Duration":"21","Time":"12-17-2013 11:33:10","Type":"1"}}
+{"Call": {"Number":"+98938218####","Duration":"21","Time":"12-17-2013 11:33:10","Type":"1"}}
+{"Call": {"Number":"+98938218####","Duration":"21","Time":"12-17-2013 11:33:10","Type":"1"}}
+{"Call": {"Number":"+98938218####","Duration":"21","Time":"12-17-2013 11:33:10","Type":"1"}}
+{"Call": {"Number":"+98937211####","Duration":"0","Time":"12-17-2013 11:33:48","Type":"2"}}
+{"Call": {"Number":"+98937211####","Duration":"0","Time":"12-17-2013 11:33:48","Type":"2"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 11:33:42","End":"12-17-2013 11:33:52"}}
+{"Location":{"Latitude":"35.7622966","Longtitude":"51.3407537","Altitude":"1529.5999755859375","time":"12-17-2013 12:04:48","Accuracy":"167.0","Provider":"fused","Speed":"0.0"}}
+{"Call": {"Number":"+98937211####","Duration":"0","Time":"12-17-2013 11:33:48","Type":"2"}}
+{"Call": {"Number":"+98936297####","Duration":"0","Time":"12-17-2013 12:09:08","Type":"2"}}
+{"Call": {"Number":"+98936297####","Duration":"0","Time":"12-17-2013 12:09:08","Type":"2"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 12:09:42","End":"12-17-2013 12:09:52"}}
+{"SMS":{"Address":"+98912402####","type":"2","date":"12-17-2013 12:10:37","body":"ANONYMIZED","Type":"2", "metadata": {"name": "My Love"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-17-2013 12:10:07","End":"12-17-2013 12:10:49"}}
+{"SMS":{"Address":"+98912402####","type":"1","date":"12-17-2013 12:18:45","body":"ANONYMIZED","Type":"1", "metadata": {"name": "My Love"}}}
+{"SMS":{"Address":"+98912402####","type":"2","date":"12-17-2013 12:19:52","body":"ANONYMIZED","Type":"2", "metadata": {"name": "My Love"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-17-2013 12:19:31","End":"12-17-2013 12:20:01"}}
+{"SMS":{"Address":"+98912402####","type":"1","date":"12-17-2013 12:21:43","body":"ANONYMIZED","Type":"1", "metadata": {"name": "My Love"}}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 12:28:47","End":"12-17-2013 12:28:57"}}
+{"SMS":{"Address":"+98912402####","type":"2","date":"12-17-2013 12:29:05","body":"ANONYMIZED","Type":"2", "metadata": {"name": "My Love"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-17-2013 12:28:57","End":"12-17-2013 12:29:17"}}
+{"Call": {"Number":"+98937211####","Duration":"0","Time":"12-17-2013 13:01:35","Type":"2"}}
+{"Call": {"Number":"+98937211####","Duration":"0","Time":"12-17-2013 13:01:35","Type":"2"}}
+{"Call": {"Number":"+98937211####","Duration":"0","Time":"12-17-2013 13:01:35","Type":"2"}}
+{"Call": {"Number":"+98937211####","Duration":"0","Time":"12-17-2013 13:03:56","Type":"2"}}
+{"Call": {"Number":"+98937211####","Duration":"0","Time":"12-17-2013 13:03:56","Type":"2"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-17-2013 13:04:31","End":"12-17-2013 13:04:51"}}
+{"SMS":{"Address":"+98937211####","type":"2","date":"12-17-2013 13:04:48","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Haniye,gerafic"}}}
+{"Call": {"Number":"+98937211####","Duration":"24","Time":"12-17-2013 13:05:40","Type":"1"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 13:07:45","End":"12-17-2013 13:07:55"}}
+{"Location":{"Latitude":"35.753786","Longtitude":"51.3036264","Altitude":"1431.300048828125","time":"12-17-2013 16:19:45","Accuracy":"60.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 16:20:06","End":"12-17-2013 16:20:16"}}
+{"Location":{"Latitude":"35.7537949","Longtitude":"51.3036526","Altitude":"1427.4000244140625","time":"12-17-2013 16:21:31","Accuracy":"46.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537662","Longtitude":"51.3036307","Altitude":"1428.0999755859375","time":"12-17-2013 16:23:14","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537785","Longtitude":"51.3036766","Altitude":"1430.9000244140625","time":"12-17-2013 16:25:10","Accuracy":"43.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537722","Longtitude":"51.3036459","Altitude":"1429.4000244140625","time":"12-17-2013 16:27:03","Accuracy":"36.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537655","Longtitude":"51.3036247","Altitude":"1428.9000244140625","time":"12-17-2013 16:28:04","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537645","Longtitude":"51.3036257","Altitude":"1429.0999755859375","time":"12-17-2013 16:30:14","Accuracy":"115.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537644","Longtitude":"51.3036264","Altitude":"1429.199951171875","time":"12-17-2013 16:32:36","Accuracy":"167.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537636","Longtitude":"51.3036253","Altitude":"1429.0999755859375","time":"12-17-2013 16:35:44","Accuracy":"238.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 16:36:37","End":"12-17-2013 16:36:47"}}
+{"Location":{"Latitude":"35.7537632","Longtitude":"51.3036248","Altitude":"1429.0","time":"12-17-2013 16:36:55","Accuracy":"149.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537631","Longtitude":"51.3036247","Altitude":"1429.0","time":"12-17-2013 16:38:12","Accuracy":"160.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753763","Longtitude":"51.3036243","Altitude":"1429.0","time":"12-17-2013 16:39:31","Accuracy":"163.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753763","Longtitude":"51.3036245","Altitude":"1429.0","time":"12-17-2013 16:40:55","Accuracy":"166.0","Provider":"fused","Speed":"0.0"}}
+{"Call": {"Number":"+98912402####","Duration":"26","Time":"12-17-2013 16:41:52","Type":"1"}}
+{"Call": {"Number":"+98912402####","Duration":"26","Time":"12-17-2013 16:41:52","Type":"1"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 16:42:38","End":"12-17-2013 16:42:48"}}
+{"Location":{"Latitude":"35.7537629","Longtitude":"51.3036243","Altitude":"1429.0","time":"12-17-2013 16:43:02","Accuracy":"236.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537628","Longtitude":"51.3036244","Altitude":"1429.0","time":"12-17-2013 16:44:58","Accuracy":"217.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537628","Longtitude":"51.3036244","Altitude":"1429.0","time":"12-17-2013 16:46:31","Accuracy":"105.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753768","Longtitude":"51.3036104","Altitude":"1428.5999755859375","time":"12-17-2013 16:47:39","Accuracy":"44.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537633","Longtitude":"51.3036117","Altitude":"1428.4000244140625","time":"12-17-2013 16:48:45","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537699","Longtitude":"51.3035935","Altitude":"1427.800048828125","time":"12-17-2013 16:50:52","Accuracy":"54.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537746","Longtitude":"51.3035861","Altitude":"1427.699951171875","time":"12-17-2013 16:52:44","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537751","Longtitude":"51.3035787","Altitude":"1427.4000244140625","time":"12-17-2013 16:53:52","Accuracy":"60.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537734","Longtitude":"51.3035725","Altitude":"1426.699951171875","time":"12-17-2013 16:55:47","Accuracy":"54.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537791","Longtitude":"51.3035669","Altitude":"1427.0","time":"12-17-2013 16:56:52","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537765","Longtitude":"51.303574","Altitude":"1427.199951171875","time":"12-17-2013 16:58:46","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537755","Longtitude":"51.3035765","Altitude":"1427.0999755859375","time":"12-17-2013 17:00:06","Accuracy":"73.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537726","Longtitude":"51.3035847","Altitude":"1426.9000244140625","time":"12-17-2013 17:01:57","Accuracy":"63.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753773","Longtitude":"51.3035811","Altitude":"1426.5999755859375","time":"12-17-2013 17:03:38","Accuracy":"41.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537711","Longtitude":"51.3035827","Altitude":"1426.5999755859375","time":"12-17-2013 17:04:40","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537536","Longtitude":"51.3035868","Altitude":"1425.800048828125","time":"12-17-2013 17:06:43","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537483","Longtitude":"51.3035927","Altitude":"1424.9000244140625","time":"12-17-2013 17:08:42","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537492","Longtitude":"51.3035911","Altitude":"1424.699951171875","time":"12-17-2013 17:09:43","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537447","Longtitude":"51.3035946","Altitude":"1424.800048828125","time":"12-17-2013 17:10:44","Accuracy":"45.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537509","Longtitude":"51.3035847","Altitude":"1425.0999755859375","time":"12-17-2013 17:12:38","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753749","Longtitude":"51.303582","Altitude":"1424.5999755859375","time":"12-17-2013 17:13:42","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537496","Longtitude":"51.3035668","Altitude":"1424.0999755859375","time":"12-17-2013 17:15:43","Accuracy":"46.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537492","Longtitude":"51.3035683","Altitude":"1424.699951171875","time":"12-17-2013 17:17:40","Accuracy":"46.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537486","Longtitude":"51.3035674","Altitude":"1424.5999755859375","time":"12-17-2013 17:19:39","Accuracy":"45.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537508","Longtitude":"51.3035664","Altitude":"1424.5999755859375","time":"12-17-2013 17:20:39","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537536","Longtitude":"51.3035668","Altitude":"1424.4000244140625","time":"12-17-2013 17:22:40","Accuracy":"44.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537525","Longtitude":"51.3035625","Altitude":"1424.199951171875","time":"12-17-2013 17:23:40","Accuracy":"46.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537549","Longtitude":"51.3035618","Altitude":"1423.9000244140625","time":"12-17-2013 17:24:42","Accuracy":"53.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537482","Longtitude":"51.3035507","Altitude":"1423.5999755859375","time":"12-17-2013 17:25:47","Accuracy":"57.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537458","Longtitude":"51.3035435","Altitude":"1422.9000244140625","time":"12-17-2013 17:27:37","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537451","Longtitude":"51.3035427","Altitude":"1422.9000244140625","time":"12-17-2013 17:28:38","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537496","Longtitude":"51.3035327","Altitude":"1422.199951171875","time":"12-17-2013 17:30:37","Accuracy":"38.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537521","Longtitude":"51.3035256","Altitude":"1421.4000244140625","time":"12-17-2013 17:32:38","Accuracy":"42.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537545","Longtitude":"51.3035274","Altitude":"1421.4000244140625","time":"12-17-2013 17:33:42","Accuracy":"46.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537563","Longtitude":"51.3035291","Altitude":"1421.4000244140625","time":"12-17-2013 17:34:46","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537557","Longtitude":"51.3035184","Altitude":"1420.300048828125","time":"12-17-2013 17:36:39","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537573","Longtitude":"51.3035174","Altitude":"1419.9000244140625","time":"12-17-2013 17:37:40","Accuracy":"46.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537575","Longtitude":"51.3035188","Altitude":"1419.800048828125","time":"12-17-2013 17:38:47","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537594","Longtitude":"51.3035182","Altitude":"1419.5","time":"12-17-2013 17:40:47","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537596","Longtitude":"51.3035185","Altitude":"1419.0999755859375","time":"12-17-2013 17:41:48","Accuracy":"54.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537641","Longtitude":"51.3035135","Altitude":"1418.5","time":"12-17-2013 17:42:50","Accuracy":"63.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753765","Longtitude":"51.3035167","Altitude":"1418.4000244140625","time":"12-17-2013 17:44:41","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537718","Longtitude":"51.3035082","Altitude":"1417.699951171875","time":"12-17-2013 17:46:38","Accuracy":"39.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537801","Longtitude":"51.3035008","Altitude":"1416.9000244140625","time":"12-17-2013 17:48:37","Accuracy":"34.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753782","Longtitude":"51.3034996","Altitude":"1416.5","time":"12-17-2013 17:49:40","Accuracy":"42.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537805","Longtitude":"51.3035018","Altitude":"1416.699951171875","time":"12-17-2013 17:51:36","Accuracy":"34.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537825","Longtitude":"51.3034994","Altitude":"1416.4000244140625","time":"12-17-2013 17:52:37","Accuracy":"35.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537827","Longtitude":"51.3034994","Altitude":"1416.4000244140625","time":"12-17-2013 17:53:37","Accuracy":"40.999","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537831","Longtitude":"51.303497","Altitude":"1416.199951171875","time":"12-17-2013 17:54:37","Accuracy":"46.999","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537832","Longtitude":"51.3034974","Altitude":"1416.0999755859375","time":"12-17-2013 17:55:37","Accuracy":"36.999","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537841","Longtitude":"51.3034978","Altitude":"1416.0","time":"12-17-2013 17:57:35","Accuracy":"32.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537824","Longtitude":"51.3034968","Altitude":"1415.9000244140625","time":"12-17-2013 17:58:36","Accuracy":"29.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537836","Longtitude":"51.3034945","Altitude":"1415.5","time":"12-17-2013 17:59:36","Accuracy":"32.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537836","Longtitude":"51.3034937","Altitude":"1415.4000244140625","time":"12-17-2013 18:00:36","Accuracy":"38.999","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537858","Longtitude":"51.303491","Altitude":"1415.0999755859375","time":"12-17-2013 18:01:36","Accuracy":"39.999","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753787","Longtitude":"51.3034908","Altitude":"1415.0","time":"12-17-2013 18:02:39","Accuracy":"39.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537871","Longtitude":"51.3034917","Altitude":"1415.0","time":"12-17-2013 18:04:37","Accuracy":"35.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753787","Longtitude":"51.3034927","Altitude":"1415.0","time":"12-17-2013 18:05:38","Accuracy":"37.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753786","Longtitude":"51.3034921","Altitude":"1415.0","time":"12-17-2013 18:06:38","Accuracy":"43.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753787","Longtitude":"51.3034899","Altitude":"1414.699951171875","time":"12-17-2013 18:07:40","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537893","Longtitude":"51.303488","Altitude":"1414.4000244140625","time":"12-17-2013 18:09:39","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537889","Longtitude":"51.3034856","Altitude":"1414.5","time":"12-17-2013 18:10:42","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537912","Longtitude":"51.303484","Altitude":"1414.199951171875","time":"12-17-2013 18:12:45","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537933","Longtitude":"51.3034808","Altitude":"1414.0","time":"12-17-2013 18:14:39","Accuracy":"44.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537932","Longtitude":"51.3034789","Altitude":"1413.9000244140625","time":"12-17-2013 18:15:44","Accuracy":"46.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537931","Longtitude":"51.3034764","Altitude":"1413.9000244140625","time":"12-17-2013 18:17:40","Accuracy":"44.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537932","Longtitude":"51.3034757","Altitude":"1414.0","time":"12-17-2013 18:18:41","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537941","Longtitude":"51.3034747","Altitude":"1414.199951171875","time":"12-17-2013 18:19:54","Accuracy":"43.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537964","Longtitude":"51.3034686","Altitude":"1413.5999755859375","time":"12-17-2013 18:21:37","Accuracy":"35.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537982","Longtitude":"51.3034633","Altitude":"1413.300048828125","time":"12-17-2013 18:23:37","Accuracy":"40.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537996","Longtitude":"51.3034592","Altitude":"1412.9000244140625","time":"12-17-2013 18:24:38","Accuracy":"34.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537997","Longtitude":"51.3034573","Altitude":"1412.800048828125","time":"12-17-2013 18:26:38","Accuracy":"45.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537989","Longtitude":"51.3034583","Altitude":"1413.0","time":"12-17-2013 18:27:39","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537973","Longtitude":"51.3034624","Altitude":"1413.300048828125","time":"12-17-2013 18:29:39","Accuracy":"46.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753799","Longtitude":"51.3034605","Altitude":"1413.0","time":"12-17-2013 18:30:51","Accuracy":"65.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538003","Longtitude":"51.3034579","Altitude":"1412.699951171875","time":"12-17-2013 18:31:53","Accuracy":"61.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538017","Longtitude":"51.3034561","Altitude":"1412.300048828125","time":"12-17-2013 18:34:01","Accuracy":"43.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538026","Longtitude":"51.3034557","Altitude":"1412.199951171875","time":"12-17-2013 18:35:40","Accuracy":"41.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538028","Longtitude":"51.3034561","Altitude":"1412.0999755859375","time":"12-17-2013 18:36:40","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538025","Longtitude":"51.3034563","Altitude":"1412.199951171875","time":"12-17-2013 18:37:43","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538025","Longtitude":"51.3034567","Altitude":"1412.199951171875","time":"12-17-2013 18:39:41","Accuracy":"42.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753802","Longtitude":"51.3034585","Altitude":"1412.300048828125","time":"12-17-2013 18:40:46","Accuracy":"53.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538014","Longtitude":"51.3034599","Altitude":"1412.4000244140625","time":"12-17-2013 18:41:57","Accuracy":"65.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538011","Longtitude":"51.3034608","Altitude":"1412.4000244140625","time":"12-17-2013 18:43:03","Accuracy":"73.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538018","Longtitude":"51.3034577","Altitude":"1412.0","time":"12-17-2013 18:44:46","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538026","Longtitude":"51.303453","Altitude":"1411.4000244140625","time":"12-17-2013 18:46:48","Accuracy":"53.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538038","Longtitude":"51.3034482","Altitude":"1410.800048828125","time":"12-17-2013 18:47:52","Accuracy":"63.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538062","Longtitude":"51.3034382","Altitude":"1409.699951171875","time":"12-17-2013 18:49:44","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538062","Longtitude":"51.3034359","Altitude":"1409.199951171875","time":"12-17-2013 18:51:45","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538064","Longtitude":"51.3034343","Altitude":"1408.9000244140625","time":"12-17-2013 18:53:48","Accuracy":"55.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753806","Longtitude":"51.3034369","Altitude":"1409.0999755859375","time":"12-17-2013 18:55:42","Accuracy":"44.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538057","Longtitude":"51.3034378","Altitude":"1409.0999755859375","time":"12-17-2013 18:56:46","Accuracy":"55.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538061","Longtitude":"51.3034372","Altitude":"1409.0","time":"12-17-2013 18:58:40","Accuracy":"44.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538054","Longtitude":"51.3034388","Altitude":"1409.0","time":"12-17-2013 18:59:41","Accuracy":"43.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538052","Longtitude":"51.30344","Altitude":"1409.0","time":"12-17-2013 19:00:42","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753805","Longtitude":"51.303442","Altitude":"1409.300048828125","time":"12-17-2013 19:02:42","Accuracy":"44.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538051","Longtitude":"51.3034414","Altitude":"1409.199951171875","time":"12-17-2013 19:03:45","Accuracy":"54.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538049","Longtitude":"51.3034426","Altitude":"1409.4000244140625","time":"12-17-2013 19:04:46","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 19:05:49","End":"12-17-2013 19:05:59"}}
+{"Location":{"Latitude":"35.7538049","Longtitude":"51.3034433","Altitude":"1409.5","time":"12-17-2013 19:10:44","Accuracy":"207.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7559336","Longtitude":"51.3017732","Altitude":"1388.0999755859375","time":"12-17-2013 19:12:39","Accuracy":"113.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7561544","Longtitude":"51.3028012","Altitude":"1431.699951171875","time":"12-17-2013 19:13:54","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7561987","Longtitude":"51.3028413","Altitude":"1434.699951171875","time":"12-17-2013 19:25:51","Accuracy":"232.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.756023","Longtitude":"51.3036361","Altitude":"1410.800048828125","time":"12-17-2013 19:27:12","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7648995","Longtitude":"51.3052959","Altitude":"1473.300048828125","time":"12-17-2013 19:29:11","Accuracy":"43.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7697784","Longtitude":"51.3154525","Altitude":"1497.5","time":"12-17-2013 19:30:17","Accuracy":"59.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7737845","Longtitude":"51.3520113","Altitude":"1331.0","time":"12-17-2013 19:33:03","Accuracy":"89.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7758086","Longtitude":"51.3707815","Altitude":"1558.4000244140625","time":"12-17-2013 19:34:22","Accuracy":"62.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7784606","Longtitude":"51.384063","Altitude":"1508.0","time":"12-17-2013 19:35:24","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7769598","Longtitude":"51.4048395","Altitude":"1506.4000244140625","time":"12-17-2013 19:37:16","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.777063","Longtitude":"51.4133519","Altitude":"1499.699951171875","time":"12-17-2013 19:39:52","Accuracy":"60.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7782318","Longtitude":"51.4136943","Altitude":"1489.800048828125","time":"12-17-2013 19:41:12","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7778343","Longtitude":"51.4138601","Altitude":"1511.0","time":"12-17-2013 19:44:11","Accuracy":"197.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.777882","Longtitude":"51.4136932","Altitude":"1512.0","time":"12-17-2013 19:45:13","Accuracy":"127.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7778651","Longtitude":"51.413876","Altitude":"1504.0","time":"12-17-2013 19:47:08","Accuracy":"111.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7774988","Longtitude":"51.4137792","Altitude":"1496.0","time":"12-17-2013 19:51:02","Accuracy":"247.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7776576","Longtitude":"51.4138141","Altitude":"1496.0","time":"12-17-2013 19:53:09","Accuracy":"135.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7777643","Longtitude":"51.4137381","Altitude":"1487.199951171875","time":"12-17-2013 19:55:01","Accuracy":"118.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7777358","Longtitude":"51.4137569","Altitude":"1488.9000244140625","time":"12-17-2013 19:57:18","Accuracy":"86.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7777377","Longtitude":"51.4137558","Altitude":"1488.5","time":"12-17-2013 19:58:46","Accuracy":"178.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7777404","Longtitude":"51.4137533","Altitude":"1488.0","time":"12-17-2013 20:00:17","Accuracy":"166.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7777393","Longtitude":"51.4137581","Altitude":"1488.300048828125","time":"12-17-2013 20:05:23","Accuracy":"65.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7777681","Longtitude":"51.4136995","Altitude":"1482.199951171875","time":"12-17-2013 20:06:48","Accuracy":"144.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7777706","Longtitude":"51.4136994","Altitude":"1482.0","time":"12-17-2013 20:08:41","Accuracy":"212.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.77777","Longtitude":"51.4137015","Altitude":"1482.199951171875","time":"12-17-2013 20:10:25","Accuracy":"182.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7777689","Longtitude":"51.4137024","Altitude":"1482.4000244140625","time":"12-17-2013 20:11:54","Accuracy":"179.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7777626","Longtitude":"51.4137114","Altitude":"1483.4000244140625","time":"12-17-2013 20:15:42","Accuracy":"242.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.777745","Longtitude":"51.4137285","Altitude":"1485.5999755859375","time":"12-17-2013 20:19:28","Accuracy":"123.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7777436","Longtitude":"51.4137307","Altitude":"1485.9000244140625","time":"12-17-2013 20:21:14","Accuracy":"186.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7777332","Longtitude":"51.4137273","Altitude":"1486.199951171875","time":"12-17-2013 20:22:34","Accuracy":"57.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7777193","Longtitude":"51.4137368","Altitude":"1487.699951171875","time":"12-17-2013 20:23:35","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7777318","Longtitude":"51.4137263","Altitude":"1486.4000244140625","time":"12-17-2013 20:24:38","Accuracy":"57.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7777367","Longtitude":"51.4137251","Altitude":"1486.0","time":"12-17-2013 20:27:25","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7777481","Longtitude":"51.4137394","Altitude":"1486.4000244140625","time":"12-17-2013 20:28:42","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7777517","Longtitude":"51.413739","Altitude":"1486.300048828125","time":"12-17-2013 20:29:47","Accuracy":"53.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7777729","Longtitude":"51.4137391","Altitude":"1485.4000244140625","time":"12-17-2013 20:30:55","Accuracy":"44.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7777732","Longtitude":"51.4137469","Altitude":"1485.9000244140625","time":"12-17-2013 20:31:59","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7777783","Longtitude":"51.4137531","Altitude":"1486.199951171875","time":"12-17-2013 20:33:04","Accuracy":"70.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7778086","Longtitude":"51.413748","Altitude":"1484.4000244140625","time":"12-17-2013 20:34:52","Accuracy":"56.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7778422","Longtitude":"51.4137405","Altitude":"1482.4000244140625","time":"12-17-2013 20:36:55","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7778644","Longtitude":"51.4137399","Altitude":"1481.0999755859375","time":"12-17-2013 20:38:57","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7778648","Longtitude":"51.41374","Altitude":"1481.0999755859375","time":"12-17-2013 20:40:13","Accuracy":"62.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7778729","Longtitude":"51.4137365","Altitude":"1480.4000244140625","time":"12-17-2013 20:41:47","Accuracy":"54.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7778785","Longtitude":"51.4137357","Altitude":"1480.0999755859375","time":"12-17-2013 20:42:55","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7778788","Longtitude":"51.4137361","Altitude":"1480.0999755859375","time":"12-17-2013 20:44:28","Accuracy":"83.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7778876","Longtitude":"51.4137347","Altitude":"1479.699951171875","time":"12-17-2013 20:46:00","Accuracy":"64.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7778824","Longtitude":"51.4137425","Altitude":"1480.5999755859375","time":"12-17-2013 20:48:24","Accuracy":"194.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7778824","Longtitude":"51.4137424","Altitude":"1480.5999755859375","time":"12-17-2013 20:50:01","Accuracy":"175.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7778822","Longtitude":"51.4137427","Altitude":"1480.5999755859375","time":"12-17-2013 20:51:16","Accuracy":"147.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7778817","Longtitude":"51.4137436","Altitude":"1480.699951171875","time":"12-17-2013 20:52:33","Accuracy":"157.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7779188","Longtitude":"51.4136823","Altitude":"1474.4000244140625","time":"12-17-2013 20:53:47","Accuracy":"54.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7779396","Longtitude":"51.4137259","Altitude":"1474.4000244140625","time":"12-17-2013 20:56:21","Accuracy":"51.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7775443","Longtitude":"51.4220639","Altitude":"1491.9000244140625","time":"12-17-2013 20:57:31","Accuracy":"102.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7709413","Longtitude":"51.4204614","Altitude":"1502.300048828125","time":"12-17-2013 20:58:59","Accuracy":"55.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7671267","Longtitude":"51.4224088","Altitude":"1512.300048828125","time":"12-17-2013 21:00:10","Accuracy":"76.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7668256","Longtitude":"51.4211514","Altitude":"1372.0999755859375","time":"12-17-2013 21:01:50","Accuracy":"44.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7684656","Longtitude":"51.4164447","Altitude":"1444.699951171875","time":"12-17-2013 21:03:03","Accuracy":"56.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.770377","Longtitude":"51.4118059","Altitude":"1471.5999755859375","time":"12-17-2013 21:04:03","Accuracy":"66.999","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7767106","Longtitude":"51.4063389","Altitude":"1540.0","time":"12-17-2013 21:05:50","Accuracy":"12.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.778324","Longtitude":"51.3829579","Altitude":"1552.199951171875","time":"12-17-2013 21:07:52","Accuracy":"23.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7726506","Longtitude":"51.3536457","Altitude":"1557.300048828125","time":"12-17-2013 21:09:47","Accuracy":"46.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7704804","Longtitude":"51.3384691","Altitude":"1551.300048828125","time":"12-17-2013 21:10:49","Accuracy":"42.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7707182","Longtitude":"51.3214129","Altitude":"1516.4000244140625","time":"12-17-2013 21:12:45","Accuracy":"23.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.768471","Longtitude":"51.3183826","Altitude":"1473.0999755859375","time":"12-17-2013 21:13:46","Accuracy":"25.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.757559","Longtitude":"51.3181265","Altitude":"1449.699951171875","time":"12-17-2013 21:14:49","Accuracy":"30.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7572598","Longtitude":"51.3241045","Altitude":"1449.699951171875","time":"12-17-2013 21:15:49","Accuracy":"20.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7612665","Longtitude":"51.3289257","Altitude":"1461.800048828125","time":"12-17-2013 21:16:52","Accuracy":"46.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7611305","Longtitude":"51.3303316","Altitude":"1463.800048828125","time":"12-17-2013 21:17:54","Accuracy":"44.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7622366","Longtitude":"51.3340473","Altitude":"1477.4000244140625","time":"12-17-2013 21:20:00","Accuracy":"61.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7616279","Longtitude":"51.3347783","Altitude":"1476.699951171875","time":"12-17-2013 21:31:47","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7615503","Longtitude":"51.3345255","Altitude":"1446.699951171875","time":"12-17-2013 21:42:11","Accuracy":"49.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7606812","Longtitude":"51.3345696","Altitude":"1448.0","time":"12-17-2013 21:47:28","Accuracy":"30.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 22:04:56","End":"12-17-2013 22:05:07"}}
+{"Location":{"Latitude":"35.7619987","Longtitude":"51.3345237","Altitude":"1479.5","time":"12-17-2013 22:07:22","Accuracy":"41.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7621632","Longtitude":"51.3340218","Altitude":"1493.300048828125","time":"12-17-2013 22:08:33","Accuracy":"42.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.754989","Longtitude":"51.3332024","Altitude":"1440.800048828125","time":"12-17-2013 22:10:31","Accuracy":"9.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7532193","Longtitude":"51.3143034","Altitude":"1435.0","time":"12-17-2013 22:12:29","Accuracy":"18.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7530456","Longtitude":"51.2998275","Altitude":"1434.199951171875","time":"12-17-2013 22:13:35","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7745551","Longtitude":"51.2996923","Altitude":"1442.4000244140625","time":"12-17-2013 22:15:31","Accuracy":"12.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7698303","Longtitude":"51.3042515","Altitude":"1518.9000244140625","time":"12-17-2013 22:18:35","Accuracy":"74.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7697203","Longtitude":"51.3045585","Altitude":"1572.0","time":"12-17-2013 22:20:39","Accuracy":"108.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7697311","Longtitude":"51.3045371","Altitude":"1568.199951171875","time":"12-17-2013 22:22:51","Accuracy":"207.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7696885","Longtitude":"51.3039863","Altitude":"1517.5999755859375","time":"12-17-2013 22:25:13","Accuracy":"139.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7696889","Longtitude":"51.3040005","Altitude":"1518.9000244140625","time":"12-17-2013 22:26:22","Accuracy":"145.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7697274","Longtitude":"51.3042984","Altitude":"1516.0","time":"12-17-2013 22:27:54","Accuracy":"70.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7697496","Longtitude":"51.3042599","Altitude":"1529.300048828125","time":"12-17-2013 22:30:26","Accuracy":"134.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.769743","Longtitude":"51.3042479","Altitude":"1530.0","time":"12-17-2013 22:31:49","Accuracy":"57.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7697351","Longtitude":"51.3041933","Altitude":"1520.199951171875","time":"12-17-2013 22:33:06","Accuracy":"84.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7697367","Longtitude":"51.3042044","Altitude":"1521.699951171875","time":"12-17-2013 22:34:45","Accuracy":"56.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7697109","Longtitude":"51.3041438","Altitude":"1515.5999755859375","time":"12-17-2013 22:36:24","Accuracy":"101.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7648026","Longtitude":"51.3041054","Altitude":"1489.5","time":"12-17-2013 22:37:37","Accuracy":"12.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.75977","Longtitude":"51.3040999","Altitude":"1430.5999755859375","time":"12-17-2013 22:38:37","Accuracy":"7.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7560422","Longtitude":"51.3023771","Altitude":"1420.0","time":"12-17-2013 22:39:38","Accuracy":"5.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7535058","Longtitude":"51.3030603","Altitude":"1387.0","time":"12-17-2013 22:41:38","Accuracy":"15.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7537595","Longtitude":"51.3033652","Altitude":"1420.800048828125","time":"12-17-2013 22:44:12","Accuracy":"87.0","Provider":"fused","Speed":"0.0"}}
+{"SMS":{"Address":"+98936140####","type":"1","date":"12-17-2013 22:48:16","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Faeze®"}}}
+{"Application":{"ProcessName":"com.huawei.android.launcher","Start":"12-17-2013 22:48:25","End":"12-17-2013 22:48:35"}}
+{"Location":{"Latitude":"35.7537891","Longtitude":"51.3032834","Altitude":"1415.199951171875","time":"12-17-2013 22:48:44","Accuracy":"218.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-17-2013 22:48:35","End":"12-17-2013 22:48:47"}}
+{"Location":{"Latitude":"35.7538058","Longtitude":"51.3032639","Altitude":"1416.0","time":"12-17-2013 22:50:03","Accuracy":"55.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538117","Longtitude":"51.3032574","Altitude":"1414.4000244140625","time":"12-17-2013 22:51:05","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538447","Longtitude":"51.303192","Altitude":"1416.0","time":"12-17-2013 22:53:08","Accuracy":"59.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538587","Longtitude":"51.3031666","Altitude":"1417.4000244140625","time":"12-17-2013 22:54:45","Accuracy":"110.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538635","Longtitude":"51.3031702","Altitude":"1417.0999755859375","time":"12-17-2013 22:56:19","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538635","Longtitude":"51.3031743","Altitude":"1417.4000244140625","time":"12-17-2013 22:57:20","Accuracy":"76.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538691","Longtitude":"51.3031806","Altitude":"1417.300048828125","time":"12-17-2013 22:59:12","Accuracy":"86.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538841","Longtitude":"51.3031992","Altitude":"1417.199951171875","time":"12-17-2013 23:00:38","Accuracy":"47.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538845","Longtitude":"51.3032033","Altitude":"1417.4000244140625","time":"12-17-2013 23:01:45","Accuracy":"71.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538877","Longtitude":"51.3031995","Altitude":"1417.300048828125","time":"12-17-2013 23:03:29","Accuracy":"48.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538833","Longtitude":"51.3031926","Altitude":"1417.5","time":"12-17-2013 23:05:07","Accuracy":"56.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538878","Longtitude":"51.3032033","Altitude":"1417.800048828125","time":"12-17-2013 23:07:46","Accuracy":"163.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538938","Longtitude":"51.3032103","Altitude":"1418.199951171875","time":"12-17-2013 23:09:40","Accuracy":"98.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538976","Longtitude":"51.3032099","Altitude":"1417.800048828125","time":"12-17-2013 23:10:40","Accuracy":"116.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7539015","Longtitude":"51.3032128","Altitude":"1417.5","time":"12-17-2013 23:12:04","Accuracy":"52.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538988","Longtitude":"51.3032059","Altitude":"1417.4000244140625","time":"12-17-2013 23:13:11","Accuracy":"64.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538974","Longtitude":"51.303204","Altitude":"1417.4000244140625","time":"12-17-2013 23:14:29","Accuracy":"80.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753899","Longtitude":"51.3032014","Altitude":"1417.0999755859375","time":"12-17-2013 23:15:33","Accuracy":"93.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538988","Longtitude":"51.3031971","Altitude":"1417.199951171875","time":"12-17-2013 23:16:52","Accuracy":"100.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753898","Longtitude":"51.3032054","Altitude":"1417.4000244140625","time":"12-17-2013 23:18:17","Accuracy":"63.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.753896","Longtitude":"51.3032035","Altitude":"1417.5","time":"12-17-2013 23:19:20","Accuracy":"64.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538942","Longtitude":"51.3031963","Altitude":"1417.4000244140625","time":"12-17-2013 23:21:10","Accuracy":"95.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538937","Longtitude":"51.3031961","Altitude":"1417.5","time":"12-17-2013 23:23:09","Accuracy":"106.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538939","Longtitude":"51.3031971","Altitude":"1417.699951171875","time":"12-17-2013 23:25:20","Accuracy":"123.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538936","Longtitude":"51.3032003","Altitude":"1418.0","time":"12-17-2013 23:26:46","Accuracy":"54.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538861","Longtitude":"51.3031988","Altitude":"1419.699951171875","time":"12-17-2013 23:30:06","Accuracy":"176.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538885","Longtitude":"51.3032066","Altitude":"1419.800048828125","time":"12-17-2013 23:31:20","Accuracy":"45.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538751","Longtitude":"51.303204","Altitude":"1421.0","time":"12-17-2013 23:32:43","Accuracy":"83.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538709","Longtitude":"51.3032022","Altitude":"1421.4000244140625","time":"12-17-2013 23:34:32","Accuracy":"63.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538618","Longtitude":"51.3032007","Altitude":"1422.300048828125","time":"12-17-2013 23:35:59","Accuracy":"107.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538649","Longtitude":"51.3032001","Altitude":"1421.5","time":"12-17-2013 23:37:10","Accuracy":"119.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538657","Longtitude":"51.3031984","Altitude":"1421.5","time":"12-17-2013 23:38:33","Accuracy":"62.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"35.7538589","Longtitude":"51.3032017","Altitude":"1422.9000244140625","time":"12-17-2013 23:40:57","Accuracy":"98.0","Provider":"fused","Speed":"0.0"}}
+{"SMS":{"Address":"+98938218####","type":"1","date":"12-17-2013 23:41:13","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Hajar"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-17-2013 23:41:26","End":"12-17-2013 23:41:36"}}

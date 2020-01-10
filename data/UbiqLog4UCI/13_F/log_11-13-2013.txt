@@ -1,0 +1,652 @@
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-12-2013 23:55:17","End":"11-13-2013 00:00:19"}}
+{"Location":{"Latitude":"36.56285325","Longtitude":"51.83734989","Altitude":"-3.299999952316284","time":"11-13-2013 00:00:50","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56286864","Longtitude":"51.83735847","Altitude":"-2.9000000953674316","time":"11-13-2013 00:01:00","Accuracy":"9.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56287706","Longtitude":"51.83736443","Altitude":"-3.9000000953674316","time":"11-13-2013 00:01:50","Accuracy":"9.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-12-2013 23:57:09","End":"11-13-2013 00:02:10"}}
+{"Location":{"Latitude":"36.56286779","Longtitude":"51.83736182","Altitude":"-3.700000047683716","time":"11-13-2013 00:02:40","Accuracy":"7.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56287763","Longtitude":"51.83736255","Altitude":"-4.699999809265137","time":"11-13-2013 00:04:10","Accuracy":"9.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 00:00:19","End":"11-13-2013 00:05:20"}}
+{"Location":{"Latitude":"36.56286714","Longtitude":"51.83736195","Altitude":"-4.699999809265137","time":"11-13-2013 00:06:25","Accuracy":"9.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-13-2013 00:02:10","End":"11-13-2013 00:07:15"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-13-2013 00:07:15","End":"11-13-2013 00:07:55"}}
+{"Application":{"ProcessName":"com.android.browser","Start":"11-13-2013 00:07:55","End":"11-13-2013 00:08:05"}}
+{"Location":{"Latitude":"36.5628743","Longtitude":"51.83735419","Altitude":"-6.800000190734863","time":"11-13-2013 00:08:55","Accuracy":"5.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5628829","Longtitude":"51.83735929","Altitude":"-7.099999904632568","time":"11-13-2013 00:09:55","Accuracy":"6.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-13-2013 00:08:05","End":"11-13-2013 00:10:05"}}
+{"Application":{"ProcessName":"com.sonyericsson.provider.voipcalllog","Start":"11-13-2013 00:10:05","End":"11-13-2013 00:10:26"}}
+{"Application":{"ProcessName":"com.sonyericsson.android.socialphonebook","Start":"11-13-2013 00:10:05","End":"11-13-2013 00:10:26"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 00:05:20","End":"11-13-2013 00:10:26"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"11-13-2013 00:10:36","End":"11-13-2013 00:10:46"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"11-13-2013 00:11:06","End":"11-13-2013 00:11:16"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-13-2013 00:10:26","End":"11-13-2013 00:11:36"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-13-2013 00:11:36","End":"11-13-2013 00:13:37"}}
+{"Application":{"ProcessName":"com.google.android.apps.maps","Start":"11-13-2013 00:14:47","End":"11-13-2013 00:14:57"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 00:10:26","End":"11-13-2013 00:15:27"}}
+{"Location":{"Latitude":"36.56288641","Longtitude":"51.83734817","Altitude":"-9.100000381469727","time":"11-13-2013 00:16:17","Accuracy":"10.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 00:13:37","End":"11-13-2013 00:18:07"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-13-2013 00:18:07","End":"11-13-2013 00:18:27"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 00:18:27","End":"11-13-2013 00:19:37"}}
+{"Application":{"ProcessName":"com.sonyericsson.android.socialphonebook","Start":"11-13-2013 00:19:37","End":"11-13-2013 00:19:47"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"11-13-2013 00:19:47","End":"11-13-2013 00:19:58"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 00:15:27","End":"11-13-2013 00:20:18"}}
+{"SMS":{"Address":"+9882####","type":"1","date":"11-13-2013 00:20:19","body":"ANONYMIZED","Type":"1"}}
+{"Call": {"Number":"0935524####","Duration":"32","Time":"11-13-2013 00:19:40","Type":"2"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-13-2013 00:20:48","End":"11-13-2013 00:20:58"}}
+{"Application":{"ProcessName":"com.sonyericsson.conversations","Start":"11-13-2013 00:20:48","End":"11-13-2013 00:21:08"}}
+{"Application":{"ProcessName":"com.android.gallery3d","Start":"11-13-2013 00:21:08","End":"11-13-2013 00:21:18"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-13-2013 00:21:08","End":"11-13-2013 00:21:28"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 00:21:28","End":"11-13-2013 00:21:38"}}
+{"Application":{"ProcessName":"com.sonyericsson.conversations","Start":"11-13-2013 00:21:38","End":"11-13-2013 00:21:48"}}
+{"Location":{"Latitude":"36.56289676","Longtitude":"51.83734945","Altitude":"-9.399999618530273","time":"11-13-2013 00:21:48","Accuracy":"18.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 00:20:48","End":"11-13-2013 00:25:49"}}
+{"Location":{"Latitude":"36.5629015","Longtitude":"51.83735974","Altitude":"-8.800000190734863","time":"11-13-2013 00:26:19","Accuracy":"9.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-13-2013 00:34:54","End":"11-13-2013 00:35:14"}}
+{"Location":{"Latitude":"36.5629062","Longtitude":"51.83736104","Altitude":"-8.699999809265137","time":"11-13-2013 00:35:24","Accuracy":"23.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 00:35:14","End":"11-13-2013 00:35:25"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 00:34:54","End":"11-13-2013 00:35:25"}}
+{"Location":{"Latitude":"36.56289763","Longtitude":"51.83735637","Altitude":"-8.300000190734863","time":"11-13-2013 00:39:39","Accuracy":"11.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56288844","Longtitude":"51.83735149","Altitude":"-8.300000190734863","time":"11-13-2013 00:41:39","Accuracy":"8.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56288263","Longtitude":"51.83734262","Altitude":"-8.300000190734863","time":"11-13-2013 00:45:40","Accuracy":"10.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56289791","Longtitude":"51.83733758","Altitude":"43.20000076293945","time":"11-13-2013 00:47:46","Accuracy":"9.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56288193","Longtitude":"51.83734035","Altitude":"-8.100000381469727","time":"11-13-2013 00:47:56","Accuracy":"3.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56287289","Longtitude":"51.83733157","Altitude":"-7.300000190734863","time":"11-13-2013 00:52:30","Accuracy":"9.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56280244","Longtitude":"51.83740942","Altitude":"14.699999809265137","time":"11-13-2013 00:52:40","Accuracy":"10.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56290557","Longtitude":"51.83731916","Altitude":"-4.699999809265137","time":"11-13-2013 00:52:59","Accuracy":"8.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56287213","Longtitude":"51.83731082","Altitude":"7.300000190734863","time":"11-13-2013 00:53:29","Accuracy":"9.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56287339","Longtitude":"51.83728794","Altitude":"3.9000000953674316","time":"11-13-2013 00:54:23","Accuracy":"6.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56286223","Longtitude":"51.83729629","Altitude":"5.800000190734863","time":"11-13-2013 00:54:53","Accuracy":"6.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56285016","Longtitude":"51.83730161","Altitude":"7.900000095367432","time":"11-13-2013 00:55:26","Accuracy":"5.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56274359","Longtitude":"51.83716908","Altitude":"10.600000381469727","time":"11-13-2013 00:57:11","Accuracy":"6.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5627679","Longtitude":"51.83721969","Altitude":"9.100000381469727","time":"11-13-2013 00:57:47","Accuracy":"10.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56278563","Longtitude":"51.83727326","Altitude":"13.100000381469727","time":"11-13-2013 00:58:26","Accuracy":"8.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56278694","Longtitude":"51.83728935","Altitude":"18.5","time":"11-13-2013 00:58:48","Accuracy":"12.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56279478","Longtitude":"51.83729944","Altitude":"21.600000381469727","time":"11-13-2013 00:59:18","Accuracy":"8.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56332765","Longtitude":"51.83704635","Altitude":"-39.599998474121094","time":"11-13-2013 01:59:09","Accuracy":"27.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5629292","Longtitude":"51.83716054","Altitude":"-9.899999618530273","time":"11-13-2013 01:59:39","Accuracy":"24.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56284626","Longtitude":"51.83719031","Altitude":"-2.0","time":"11-13-2013 01:59:51","Accuracy":"23.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56282974","Longtitude":"51.83732987","Altitude":"12.199999809265137","time":"11-13-2013 02:00:44","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56280754","Longtitude":"51.83734372","Altitude":"14.199999809265137","time":"11-13-2013 02:01:42","Accuracy":"13.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56282167","Longtitude":"51.83735017","Altitude":"11.100000381469727","time":"11-13-2013 02:02:43","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56282257","Longtitude":"51.83736983","Altitude":"10.800000190734863","time":"11-13-2013 02:02:53","Accuracy":"15.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56283399","Longtitude":"51.83737361","Altitude":"13.0","time":"11-13-2013 02:04:12","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56282872","Longtitude":"51.83735551","Altitude":"10.899999618530273","time":"11-13-2013 02:07:24","Accuracy":"20.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56283242","Longtitude":"51.83734159","Altitude":"11.300000190734863","time":"11-13-2013 02:08:22","Accuracy":"24.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56283746","Longtitude":"51.83733056","Altitude":"12.300000190734863","time":"11-13-2013 02:08:59","Accuracy":"19.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56284308","Longtitude":"51.83732067","Altitude":"13.300000190734863","time":"11-13-2013 02:11:37","Accuracy":"13.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56283811","Longtitude":"51.83731","Altitude":"13.899999618530273","time":"11-13-2013 02:14:13","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56283069","Longtitude":"51.83730328","Altitude":"13.5","time":"11-13-2013 02:15:03","Accuracy":"15.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56283465","Longtitude":"51.83731442","Altitude":"13.100000381469727","time":"11-13-2013 02:15:41","Accuracy":"19.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56282459","Longtitude":"51.83730758","Altitude":"12.5","time":"11-13-2013 02:17:17","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56281485","Longtitude":"51.8373126","Altitude":"13.0","time":"11-13-2013 02:25:27","Accuracy":"15.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56282525","Longtitude":"51.8373165","Altitude":"12.100000381469727","time":"11-13-2013 02:34:31","Accuracy":"24.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5628337","Longtitude":"51.83731127","Altitude":"8.300000190734863","time":"11-13-2013 02:37:02","Accuracy":"24.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56282855","Longtitude":"51.83732065","Altitude":"10.199999809265137","time":"11-13-2013 02:38:42","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56282597","Longtitude":"51.83733156","Altitude":"11.199999809265137","time":"11-13-2013 02:49:29","Accuracy":"9.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56282151","Longtitude":"51.83734188","Altitude":"12.5","time":"11-13-2013 02:57:21","Accuracy":"13.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56282452","Longtitude":"51.83735242","Altitude":"11.800000190734863","time":"11-13-2013 03:08:24","Accuracy":"13.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56253211","Longtitude":"51.83738816","Altitude":"3.5","time":"11-13-2013 03:18:08","Accuracy":"25.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56268502","Longtitude":"51.83718648","Altitude":"-25.700000762939453","time":"11-13-2013 03:18:47","Accuracy":"33.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56268834","Longtitude":"51.8372367","Altitude":"-26.299999237060547","time":"11-13-2013 03:18:58","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56269134","Longtitude":"51.83726964","Altitude":"-24.899999618530273","time":"11-13-2013 03:19:09","Accuracy":"14.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56297812","Longtitude":"51.83739955","Altitude":"-13.5","time":"11-13-2013 03:19:58","Accuracy":"19.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56289369","Longtitude":"51.83751015","Altitude":"-9.899999618530273","time":"11-13-2013 03:20:32","Accuracy":"15.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56292333","Longtitude":"51.83749062","Altitude":"-19.600000381469727","time":"11-13-2013 03:22:06","Accuracy":"21.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56289383","Longtitude":"51.83750591","Altitude":"-12.100000381469727","time":"11-13-2013 03:22:31","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56275992","Longtitude":"51.83739263","Altitude":"-13.5","time":"11-13-2013 03:23:55","Accuracy":"12.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56281114","Longtitude":"51.83738613","Altitude":"-12.199999809265137","time":"11-13-2013 03:24:34","Accuracy":"11.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56281881","Longtitude":"51.83736888","Altitude":"-4.699999809265137","time":"11-13-2013 03:25:52","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56282977","Longtitude":"51.83737262","Altitude":"-1.7999999523162842","time":"11-13-2013 03:26:31","Accuracy":"26.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56282941","Longtitude":"51.83736133","Altitude":"-2.700000047683716","time":"11-13-2013 03:27:45","Accuracy":"22.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56283858","Longtitude":"51.83735158","Altitude":"-0.30000001192092896","time":"11-13-2013 03:30:31","Accuracy":"14.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56286091","Longtitude":"51.83736127","Altitude":"1.2999999523162842","time":"11-13-2013 03:32:28","Accuracy":"19.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5628713","Longtitude":"51.83736728","Altitude":"2.200000047683716","time":"11-13-2013 03:33:17","Accuracy":"20.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56286061","Longtitude":"51.8373678","Altitude":"2.5","time":"11-13-2013 03:34:02","Accuracy":"29.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56286541","Longtitude":"51.83737907","Altitude":"1.7999999523162842","time":"11-13-2013 03:42:32","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56286323","Longtitude":"51.83739001","Altitude":"-1.600000023841858","time":"11-13-2013 03:51:47","Accuracy":"15.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56285545","Longtitude":"51.83738362","Altitude":"-2.200000047683716","time":"11-13-2013 03:58:35","Accuracy":"11.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56284706","Longtitude":"51.8373794","Altitude":"-0.10000000149011612","time":"11-13-2013 04:31:50","Accuracy":"19.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56281788","Longtitude":"51.83764245","Altitude":"6.199999809265137","time":"11-13-2013 04:47:14","Accuracy":"25.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56281925","Longtitude":"51.83756821","Altitude":"9.899999618530273","time":"11-13-2013 04:47:30","Accuracy":"22.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56286071","Longtitude":"51.83736524","Altitude":"9.5","time":"11-13-2013 04:48:24","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56281831","Longtitude":"51.83749918","Altitude":"12.100000381469727","time":"11-13-2013 04:49:32","Accuracy":"24.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56278753","Longtitude":"51.83755549","Altitude":"10.300000190734863","time":"11-13-2013 04:49:42","Accuracy":"29.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56273913","Longtitude":"51.8375108","Altitude":"1.399999976158142","time":"11-13-2013 04:50:23","Accuracy":"21.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56286552","Longtitude":"51.83750962","Altitude":"1.7999999523162842","time":"11-13-2013 04:50:43","Accuracy":"14.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56279579","Longtitude":"51.83730936","Altitude":"17.700000762939453","time":"11-13-2013 04:51:57","Accuracy":"10.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56274851","Longtitude":"51.83739115","Altitude":"9.600000381469727","time":"11-13-2013 04:53:51","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56284851","Longtitude":"51.83741849","Altitude":"2.5","time":"11-13-2013 04:55:10","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56285249","Longtitude":"51.83740538","Altitude":"4.099999904632568","time":"11-13-2013 04:55:31","Accuracy":"22.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56290502","Longtitude":"51.83776453","Altitude":"8.399999618530273","time":"11-13-2013 04:56:58","Accuracy":"27.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56285939","Longtitude":"51.83747026","Altitude":"1.600000023841858","time":"11-13-2013 04:58:16","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56278501","Longtitude":"51.83750917","Altitude":"0.8999999761581421","time":"11-13-2013 04:59:32","Accuracy":"15.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56282626","Longtitude":"51.83743955","Altitude":"0.4000000059604645","time":"11-13-2013 04:59:53","Accuracy":"13.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56296826","Longtitude":"51.83752256","Altitude":"3.0","time":"11-13-2013 05:01:30","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56284549","Longtitude":"51.83740672","Altitude":"-5.800000190734863","time":"11-13-2013 05:03:08","Accuracy":"29.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56224347","Longtitude":"51.83751676","Altitude":"-20.299999237060547","time":"11-13-2013 05:04:08","Accuracy":"38.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56264833","Longtitude":"51.83741021","Altitude":"-12.5","time":"11-13-2013 05:04:29","Accuracy":"25.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56311442","Longtitude":"51.83765928","Altitude":"-13.800000190734863","time":"11-13-2013 05:05:44","Accuracy":"28.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56294004","Longtitude":"51.83754402","Altitude":"-21.200000762939453","time":"11-13-2013 05:07:13","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56302313","Longtitude":"51.8376797","Altitude":"-33.400001525878906","time":"11-13-2013 05:08:38","Accuracy":"15.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56283973","Longtitude":"51.83742948","Altitude":"-26.200000762939453","time":"11-13-2013 05:09:01","Accuracy":"13.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56273729","Longtitude":"51.83737046","Altitude":"-12.5","time":"11-13-2013 05:09:38","Accuracy":"24.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56278966","Longtitude":"51.83746213","Altitude":"-9.0","time":"11-13-2013 05:09:48","Accuracy":"19.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56287012","Longtitude":"51.83741108","Altitude":"-5.900000095367432","time":"11-13-2013 05:10:24","Accuracy":"19.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56287915","Longtitude":"51.83736037","Altitude":"-5.699999809265137","time":"11-13-2013 05:10:35","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56295086","Longtitude":"51.83759986","Altitude":"0.6000000238418579","time":"11-13-2013 05:11:28","Accuracy":"19.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56292174","Longtitude":"51.83760032","Altitude":"1.899999976158142","time":"11-13-2013 05:12:04","Accuracy":"20.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56287536","Longtitude":"51.8375494","Altitude":"6.0","time":"11-13-2013 05:12:16","Accuracy":"21.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56285885","Longtitude":"51.83734409","Altitude":"-7.800000190734863","time":"11-13-2013 05:13:04","Accuracy":"25.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56289347","Longtitude":"51.8372743","Altitude":"-10.600000381469727","time":"11-13-2013 05:13:24","Accuracy":"23.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56281312","Longtitude":"51.83743501","Altitude":"-14.300000190734863","time":"11-13-2013 05:14:19","Accuracy":"26.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.562722","Longtitude":"51.83767925","Altitude":"12.699999809265137","time":"11-13-2013 05:15:20","Accuracy":"15.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56284704","Longtitude":"51.83735641","Altitude":"8.100000381469727","time":"11-13-2013 05:17:15","Accuracy":"11.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56287039","Longtitude":"51.83735564","Altitude":"0.4000000059604645","time":"11-13-2013 05:18:18","Accuracy":"11.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56287196","Longtitude":"51.8373668","Altitude":"0.699999988079071","time":"11-13-2013 05:21:09","Accuracy":"26.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56286929","Longtitude":"51.83737942","Altitude":"1.7000000476837158","time":"11-13-2013 05:22:18","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56286753","Longtitude":"51.8373909","Altitude":"4.099999904632568","time":"11-13-2013 05:25:16","Accuracy":"9.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56286689","Longtitude":"51.83737597","Altitude":"3.4000000953674316","time":"11-13-2013 05:26:48","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56286313","Longtitude":"51.83736542","Altitude":"2.5","time":"11-13-2013 05:31:14","Accuracy":"22.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56286284","Longtitude":"51.83735364","Altitude":"0.8999999761581421","time":"11-13-2013 05:39:21","Accuracy":"27.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56286976","Longtitude":"51.83734627","Altitude":"-1.0","time":"11-13-2013 05:41:20","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56286641","Longtitude":"51.83733526","Altitude":"-9.699999809265137","time":"11-13-2013 06:39:27","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56286194","Longtitude":"51.83732532","Altitude":"-10.899999618530273","time":"11-13-2013 06:52:29","Accuracy":"24.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56282164","Longtitude":"51.83738277","Altitude":"-12.199999809265137","time":"11-13-2013 07:24:15","Accuracy":"31.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56293603","Longtitude":"51.83782391","Altitude":"-5.599999904632568","time":"11-13-2013 07:25:02","Accuracy":"24.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5628245","Longtitude":"51.83811541","Altitude":"-6.699999809265137","time":"11-13-2013 07:25:55","Accuracy":"29.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56273309","Longtitude":"51.83780496","Altitude":"-5.900000095367432","time":"11-13-2013 07:26:50","Accuracy":"31.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5626265","Longtitude":"51.83792885","Altitude":"-5.5","time":"11-13-2013 07:27:01","Accuracy":"24.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5626196","Longtitude":"51.83789282","Altitude":"-6.800000190734863","time":"11-13-2013 07:27:20","Accuracy":"33.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56248049","Longtitude":"51.83803406","Altitude":"-8.0","time":"11-13-2013 07:28:02","Accuracy":"26.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56259593","Longtitude":"51.83776173","Altitude":"-4.599999904632568","time":"11-13-2013 07:29:19","Accuracy":"22.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56256427","Longtitude":"51.83783081","Altitude":"17.100000381469727","time":"11-13-2013 07:29:34","Accuracy":"23.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5626757","Longtitude":"51.83765593","Altitude":"10.600000381469727","time":"11-13-2013 07:29:58","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56269199","Longtitude":"51.83764068","Altitude":"10.800000190734863","time":"11-13-2013 07:30:08","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5628408","Longtitude":"51.83733031","Altitude":"13.5","time":"11-13-2013 07:30:47","Accuracy":"26.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56307996","Longtitude":"51.83716447","Altitude":"9.300000190734863","time":"11-13-2013 07:31:32","Accuracy":"28.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56295717","Longtitude":"51.83748452","Altitude":"30.700000762939453","time":"11-13-2013 07:32:50","Accuracy":"22.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56269654","Longtitude":"51.83751386","Altitude":"15.0","time":"11-13-2013 07:34:10","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56273317","Longtitude":"51.83764151","Altitude":"18.200000762939453","time":"11-13-2013 07:35:27","Accuracy":"18.0","Provider":"gps"}}
+{"SMS":{"Address":"+98935524####","type":"1","date":"11-13-2013 01:14:22","body":"ANONYMIZED","Type":"1"}}
+{"SMS":{"Address":"+982034","type":"1","date":"11-13-2013 08:19:17","body":"ANONYMIZED","Type":"1"}}
+{"Location":{"Latitude":"36.56282388","Longtitude":"51.83746425","Altitude":"-1.0","time":"11-13-2013 08:19:41","Accuracy":"33.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5628877","Longtitude":"51.83745946","Altitude":"-2.5999999046325684","time":"11-13-2013 08:19:51","Accuracy":"37.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56298117","Longtitude":"51.83746178","Altitude":"-0.10000000149011612","time":"11-13-2013 08:20:01","Accuracy":"25.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56294509","Longtitude":"51.83746898","Altitude":"-0.30000001192092896","time":"11-13-2013 08:20:13","Accuracy":"21.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56293357","Longtitude":"51.83747215","Altitude":"-1.899999976158142","time":"11-13-2013 08:20:25","Accuracy":"30.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56306615","Longtitude":"51.83747944","Altitude":"-4.800000190734863","time":"11-13-2013 08:20:51","Accuracy":"25.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56303708","Longtitude":"51.83748345","Altitude":"-9.5","time":"11-13-2013 08:22:01","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56300832","Longtitude":"51.83745677","Altitude":"-12.100000381469727","time":"11-13-2013 08:23:30","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56299701","Longtitude":"51.83746049","Altitude":"-11.300000190734863","time":"11-13-2013 08:24:21","Accuracy":"13.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56296871","Longtitude":"51.83750474","Altitude":"-4.699999809265137","time":"11-13-2013 08:25:53","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56295898","Longtitude":"51.83750683","Altitude":"-3.9000000953674316","time":"11-13-2013 08:27:30","Accuracy":"15.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56295717","Longtitude":"51.83749087","Altitude":"-5.900000095367432","time":"11-13-2013 08:28:18","Accuracy":"14.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56295063","Longtitude":"51.83748169","Altitude":"-6.699999809265137","time":"11-13-2013 08:29:30","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56294358","Longtitude":"51.83747444","Altitude":"-7.400000095367432","time":"11-13-2013 08:31:21","Accuracy":"8.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56293212","Longtitude":"51.83744958","Altitude":"-11.5","time":"11-13-2013 08:33:15","Accuracy":"7.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56292563","Longtitude":"51.83745776","Altitude":"-10.300000190734863","time":"11-13-2013 08:36:22","Accuracy":"9.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56291672","Longtitude":"51.83745037","Altitude":"-10.600000381469727","time":"11-13-2013 08:37:55","Accuracy":"13.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56291546","Longtitude":"51.83743911","Altitude":"-11.899999618530273","time":"11-13-2013 08:39:12","Accuracy":"13.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56291592","Longtitude":"51.83742789","Altitude":"-13.300000190734863","time":"11-13-2013 08:43:56","Accuracy":"10.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56290701","Longtitude":"51.83742592","Altitude":"-10.699999809265137","time":"11-13-2013 08:51:23","Accuracy":"14.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56290467","Longtitude":"51.83741459","Altitude":"-10.0","time":"11-13-2013 09:02:30","Accuracy":"9.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5628999","Longtitude":"51.83740475","Altitude":"-10.5","time":"11-13-2013 09:08:51","Accuracy":"13.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56289512","Longtitude":"51.83739442","Altitude":"-11.0","time":"11-13-2013 09:14:17","Accuracy":"8.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56288909","Longtitude":"51.83738465","Altitude":"-11.5","time":"11-13-2013 09:16:51","Accuracy":"11.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56288786","Longtitude":"51.83737314","Altitude":"-12.699999809265137","time":"11-13-2013 09:20:10","Accuracy":"10.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56288418","Longtitude":"51.83736212","Altitude":"-13.5","time":"11-13-2013 09:27:17","Accuracy":"15.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56287587","Longtitude":"51.83735776","Altitude":"-13.399999618530273","time":"11-13-2013 09:30:29","Accuracy":"15.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56287146","Longtitude":"51.83734801","Altitude":"-14.199999809265137","time":"11-13-2013 09:50:38","Accuracy":"20.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 10:29:09","End":"11-13-2013 10:29:19"}}
+{"Application":{"ProcessName":"com.android.vending","Start":"11-13-2013 10:29:41","End":"11-13-2013 10:29:51"}}
+{"Application":{"ProcessName":"com.sonyericsson.conversations","Start":"11-13-2013 10:29:19","End":"11-13-2013 10:29:51"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-13-2013 10:29:51","End":"11-13-2013 10:30:31"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 10:30:31","End":"11-13-2013 10:30:41"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-13-2013 10:30:41","End":"11-13-2013 10:30:51"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 10:30:51","End":"11-13-2013 10:31:11"}}
+{"Application":{"ProcessName":"com.supercell.clashofclans","Start":"11-13-2013 10:31:11","End":"11-13-2013 10:31:21"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 10:31:21","End":"11-13-2013 10:31:32"}}
+{"Application":{"ProcessName":"com.sonyericsson.provider.voipcalllog","Start":"11-13-2013 10:31:42","End":"11-13-2013 10:31:52"}}
+{"Application":{"ProcessName":"com.sonyericsson.android.socialphonebook","Start":"11-13-2013 10:31:42","End":"11-13-2013 10:31:52"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 10:31:52","End":"11-13-2013 10:32:02"}}
+{"Application":{"ProcessName":"com.sonyericsson.conversations","Start":"11-13-2013 10:32:02","End":"11-13-2013 10:32:12"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 10:32:12","End":"11-13-2013 10:33:02"}}
+{"Application":{"ProcessName":"com.sonyericsson.provider.voipcalllog","Start":"11-13-2013 10:33:02","End":"11-13-2013 10:33:32"}}
+{"Application":{"ProcessName":"com.sonyericsson.android.socialphonebook","Start":"11-13-2013 10:33:02","End":"11-13-2013 10:33:32"}}
+{"SMS":{"Address":"+9882####","type":"1","date":"11-13-2013 10:33:40","body":"ANONYMIZED","Type":"1"}}
+{"Application":{"ProcessName":"com.sonyericsson.provider.voipcalllog","Start":"11-13-2013 10:33:42","End":"11-13-2013 10:33:52"}}
+{"Application":{"ProcessName":"com.sonyericsson.android.socialphonebook","Start":"11-13-2013 10:33:42","End":"11-13-2013 10:33:52"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-13-2013 10:33:52","End":"11-13-2013 10:34:02"}}
+{"Application":{"ProcessName":"com.sonyericsson.conversations","Start":"11-13-2013 10:33:52","End":"11-13-2013 10:34:12"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 10:29:09","End":"11-13-2013 10:34:12"}}
+{"Location":{"Latitude":"36.56286858","Longtitude":"51.83733654","Altitude":"-14.199999809265137","time":"11-13-2013 10:34:12","Accuracy":"12.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.provider.voipcalllog","Start":"11-13-2013 10:34:12","End":"11-13-2013 10:34:22"}}
+{"Application":{"ProcessName":"com.sonyericsson.android.socialphonebook","Start":"11-13-2013 10:34:12","End":"11-13-2013 10:34:22"}}
+{"Application":{"ProcessName":"com.tencent.mm:push","Start":"11-13-2013 10:34:32","End":"11-13-2013 10:34:42"}}
+{"Call": {"Number":"####","Duration":"208","Time":"11-13-2013 10:34:12","Type":"2"}}
+{"Call": {"Number":"####","Duration":"208","Time":"11-13-2013 10:34:12","Type":"2"}}
+{"Application":{"ProcessName":"com.sonyericsson.provider.voipcalllog","Start":"11-13-2013 10:37:54","End":"11-13-2013 10:38:04"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-13-2013 10:37:54","End":"11-13-2013 10:38:04"}}
+{"Application":{"ProcessName":"com.sonyericsson.android.socialphonebook","Start":"11-13-2013 10:37:54","End":"11-13-2013 10:38:04"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 10:38:04","End":"11-13-2013 10:38:24"}}
+{"Application":{"ProcessName":"com.sonyericsson.android.socialphonebook","Start":"11-13-2013 10:38:34","End":"11-13-2013 10:38:44"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-13-2013 10:44:17","End":"11-13-2013 10:44:27"}}
+{"Application":{"ProcessName":"com.fingersoft.hillclimb","Start":"11-13-2013 10:44:17","End":"11-13-2013 10:45:37"}}
+{"Location":{"Latitude":"36.56286822","Longtitude":"51.83733535","Altitude":"-14.5","time":"11-13-2013 10:46:24","Accuracy":"19.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56286824","Longtitude":"51.83733532","Altitude":"-14.5","time":"11-13-2013 10:46:44","Accuracy":"12.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 10:44:17","End":"11-13-2013 10:49:17"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 10:45:37","End":"11-13-2013 10:50:07"}}
+{"Application":{"ProcessName":"com.fingersoft.hillclimb","Start":"11-13-2013 10:50:07","End":"11-13-2013 10:53:48"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 10:49:17","End":"11-13-2013 10:54:18"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 10:53:48","End":"11-13-2013 10:58:48"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 10:54:18","End":"11-13-2013 10:59:18"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 10:58:48","End":"11-13-2013 10:59:38"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 10:59:18","End":"11-13-2013 10:59:38"}}
+{"SMS":{"Address":"+9882####","type":"1","date":"11-13-2013 10:33:40","body":"ANONYMIZED","Type":"1"}}
+{"SMS":{"Address":"+98919909####","type":"1","date":"11-13-2013 11:03:31","body":"ANONYMIZED","Type":"1"}}
+{"Application":{"ProcessName":"com.sonyericsson.conversations","Start":"11-13-2013 11:03:49","End":"11-13-2013 11:03:59"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"11-13-2013 11:03:49","End":"11-13-2013 11:03:59"}}
+{"Application":{"ProcessName":"com.sonyericsson.widgets","Start":"11-13-2013 11:03:49","End":"11-13-2013 11:03:59"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"11-13-2013 11:04:10","End":"11-13-2013 11:04:20"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"11-13-2013 11:04:10","End":"11-13-2013 11:04:20"}}
+{"Application":{"ProcessName":"com.sonyericsson.android.socialphonebook","Start":"11-13-2013 11:03:59","End":"11-13-2013 11:05:50"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 11:03:49","End":"11-13-2013 11:08:50"}}
+{"SMS":{"Address":"+987050","type":"1","date":"11-13-2013 11:55:27","body":"ANONYMIZED","Type":"1"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"11-13-2013 11:56:26","End":"11-13-2013 11:56:36"}}
+{"Application":{"ProcessName":"com.sonyericsson.conversations","Start":"11-13-2013 11:56:26","End":"11-13-2013 11:56:36"}}
+{"Location":{"Latitude":"36.56286509","Longtitude":"51.83730919","Altitude":"-69.0999984741211","time":"11-13-2013 11:56:46","Accuracy":"13.0","Provider":"gps"}}
+{"Application":{"ProcessName":"jp.naver.android.npush","Start":"11-13-2013 11:56:36","End":"11-13-2013 11:56:46"}}
+{"Location":{"Latitude":"36.56286384","Longtitude":"51.83734406","Altitude":"-10.399999618530273","time":"11-13-2013 11:56:56","Accuracy":"9.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.android.vending","Start":"11-13-2013 11:56:46","End":"11-13-2013 11:56:56"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 11:56:26","End":"11-13-2013 12:01:26"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 11:56:36","End":"11-13-2013 12:01:36"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 12:01:26","End":"11-13-2013 12:01:36"}}
+{"Location":{"Latitude":"36.56270912","Longtitude":"51.83722153","Altitude":"-16.0","time":"11-13-2013 12:15:36","Accuracy":"23.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56286181","Longtitude":"51.83734179","Altitude":"-10.199999809265137","time":"11-13-2013 12:15:46","Accuracy":"13.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56285829","Longtitude":"51.83733108","Altitude":"-12.300000190734863","time":"11-13-2013 12:27:56","Accuracy":"30.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56276416","Longtitude":"51.83721915","Altitude":"-15.899999618530273","time":"11-13-2013 12:32:06","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56275173","Longtitude":"51.83718759","Altitude":"-18.600000381469727","time":"11-13-2013 12:32:16","Accuracy":"14.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56274543","Longtitude":"51.83717041","Altitude":"-26.0","time":"11-13-2013 12:32:36","Accuracy":"14.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56275389","Longtitude":"51.83715859","Altitude":"-29.899999618530273","time":"11-13-2013 12:32:56","Accuracy":"10.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5627472","Longtitude":"51.83716611","Altitude":"-33.599998474121094","time":"11-13-2013 12:34:16","Accuracy":"13.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56274093","Longtitude":"51.83717712","Altitude":"-30.799999237060547","time":"11-13-2013 12:34:56","Accuracy":"19.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56273937","Longtitude":"51.83718902","Altitude":"-28.700000762939453","time":"11-13-2013 12:35:36","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56273812","Longtitude":"51.83720187","Altitude":"-27.399999618530273","time":"11-13-2013 12:35:56","Accuracy":"14.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56270539","Longtitude":"51.83723799","Altitude":"-15.100000381469727","time":"11-13-2013 12:45:56","Accuracy":"33.0","Provider":"gps"}}
+{"Call": {"Number":"0935524####","Duration":"67","Time":"11-13-2013 12:45:07","Type":"1"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 12:46:28","End":"11-13-2013 12:46:38"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 12:46:28","End":"11-13-2013 12:46:38"}}
+{"Location":{"Latitude":"36.56269767","Longtitude":"51.83723048","Altitude":"-15.399999618530273","time":"11-13-2013 12:46:56","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56268864","Longtitude":"51.83722421","Altitude":"-16.100000381469727","time":"11-13-2013 12:47:36","Accuracy":"14.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56267975","Longtitude":"51.83721872","Altitude":"-16.5","time":"11-13-2013 12:48:26","Accuracy":"20.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56267193","Longtitude":"51.83721054","Altitude":"-16.299999237060547","time":"11-13-2013 12:49:46","Accuracy":"19.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56266915","Longtitude":"51.83719982","Altitude":"-15.899999618530273","time":"11-13-2013 12:51:16","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5626637","Longtitude":"51.83719079","Altitude":"-18.600000381469727","time":"11-13-2013 12:53:36","Accuracy":"12.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56265703","Longtitude":"51.83718268","Altitude":"-19.799999237060547","time":"11-13-2013 12:55:46","Accuracy":"14.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56265001","Longtitude":"51.83717567","Altitude":"-20.399999618530273","time":"11-13-2013 12:58:26","Accuracy":"19.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56264808","Longtitude":"51.83716459","Altitude":"-21.299999237060547","time":"11-13-2013 13:03:46","Accuracy":"12.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56271184","Longtitude":"51.83717079","Altitude":"-29.700000762939453","time":"11-13-2013 13:08:16","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56282455","Longtitude":"51.83736082","Altitude":"-20.899999618530273","time":"11-13-2013 13:08:26","Accuracy":"15.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56287853","Longtitude":"51.83730194","Altitude":"-20.700000762939453","time":"11-13-2013 13:08:36","Accuracy":"10.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56279799","Longtitude":"51.83722295","Altitude":"-15.5","time":"11-13-2013 13:08:46","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56284903","Longtitude":"51.8372953","Altitude":"-19.399999618530273","time":"11-13-2013 13:08:56","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56275089","Longtitude":"51.8372","Altitude":"-25.600000381469727","time":"11-13-2013 13:09:06","Accuracy":"14.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56272573","Longtitude":"51.83710341","Altitude":"-26.100000381469727","time":"11-13-2013 13:09:16","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56270462","Longtitude":"51.83700212","Altitude":"-37.29999923706055","time":"11-13-2013 13:09:26","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56261692","Longtitude":"51.83698247","Altitude":"-36.900001525878906","time":"11-13-2013 13:09:37","Accuracy":"13.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56261671","Longtitude":"51.83696806","Altitude":"-36.400001525878906","time":"11-13-2013 13:09:47","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56259738","Longtitude":"51.83696334","Altitude":"-32.79999923706055","time":"11-13-2013 13:09:57","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56259493","Longtitude":"51.83694572","Altitude":"-33.099998474121094","time":"11-13-2013 13:10:07","Accuracy":"13.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56261553","Longtitude":"51.8369474","Altitude":"-35.20000076293945","time":"11-13-2013 13:10:17","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56262279","Longtitude":"51.83695497","Altitude":"-35.400001525878906","time":"11-13-2013 13:10:27","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56262925","Longtitude":"51.83697375","Altitude":"-35.5","time":"11-13-2013 13:10:37","Accuracy":"14.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56261495","Longtitude":"51.83698495","Altitude":"-33.70000076293945","time":"11-13-2013 13:10:47","Accuracy":"13.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 13:10:41","End":"11-13-2013 13:10:51"}}
+{"Location":{"Latitude":"36.56260023","Longtitude":"51.836992","Altitude":"-30.0","time":"11-13-2013 13:10:57","Accuracy":"14.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56261283","Longtitude":"51.83699115","Altitude":"-29.200000762939453","time":"11-13-2013 13:11:07","Accuracy":"12.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56263864","Longtitude":"51.83699146","Altitude":"-28.299999237060547","time":"11-13-2013 13:11:17","Accuracy":"20.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56265058","Longtitude":"51.83699341","Altitude":"-27.700000762939453","time":"11-13-2013 13:11:27","Accuracy":"27.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56265501","Longtitude":"51.83701018","Altitude":"-27.799999237060547","time":"11-13-2013 13:11:37","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56264269","Longtitude":"51.83706099","Altitude":"-22.5","time":"11-13-2013 13:12:07","Accuracy":"19.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56265255","Longtitude":"51.83710265","Altitude":"-22.200000762939453","time":"11-13-2013 13:12:17","Accuracy":"17.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-13-2013 13:11:02","End":"11-13-2013 13:12:42"}}
+{"Location":{"Latitude":"36.56264423","Longtitude":"51.83711751","Altitude":"-18.899999618530273","time":"11-13-2013 13:12:47","Accuracy":"25.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56265301","Longtitude":"51.83711207","Altitude":"-19.299999237060547","time":"11-13-2013 13:13:07","Accuracy":"18.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-13-2013 13:12:42","End":"11-13-2013 13:13:12"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 13:13:12","End":"11-13-2013 13:13:22"}}
+{"Location":{"Latitude":"36.56265251","Longtitude":"51.83716497","Altitude":"-9.800000190734863","time":"11-13-2013 13:19:16","Accuracy":"39.0","Provider":"gps"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"11-13-2013 13:19:36","End":"11-13-2013 13:19:46"}}
+{"Location":{"Latitude":"36.56263121","Longtitude":"51.83679911","Altitude":"38.70000076293945","time":"11-13-2013 13:21:46","Accuracy":"33.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56265212","Longtitude":"51.83716372","Altitude":"-10.0","time":"11-13-2013 13:21:56","Accuracy":"18.0","Provider":"gps"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"11-13-2013 13:21:47","End":"11-13-2013 13:21:57"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 13:18:36","End":"11-13-2013 13:21:57"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"11-13-2013 13:18:36","End":"11-13-2013 13:21:57"}}
+{"Location":{"Latitude":"36.56265711","Longtitude":"51.83715438","Altitude":"-10.800000190734863","time":"11-13-2013 13:23:36","Accuracy":"15.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56266478","Longtitude":"51.8371462","Altitude":"-9.399999618530273","time":"11-13-2013 13:24:46","Accuracy":"15.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 13:22:47","End":"11-13-2013 13:27:48"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"11-13-2013 13:22:47","End":"11-13-2013 13:27:48"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 13:27:48","End":"11-13-2013 13:27:58"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"11-13-2013 13:27:48","End":"11-13-2013 13:27:58"}}
+{"Location":{"Latitude":"36.5626615","Longtitude":"51.83713575","Altitude":"-10.600000381469727","time":"11-13-2013 13:31:07","Accuracy":"28.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56266773","Longtitude":"51.83712384","Altitude":"-6.599999904632568","time":"11-13-2013 13:32:17","Accuracy":"21.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56267347","Longtitude":"51.83711493","Altitude":"-3.0","time":"11-13-2013 13:33:37","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56266689","Longtitude":"51.83710666","Altitude":"-2.799999952316284","time":"11-13-2013 13:36:47","Accuracy":"27.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56265942","Longtitude":"51.83709996","Altitude":"-1.2999999523162842","time":"11-13-2013 13:38:37","Accuracy":"12.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56264963","Longtitude":"51.83710366","Altitude":"3.799999952316284","time":"11-13-2013 13:39:47","Accuracy":"9.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56265995","Longtitude":"51.83710123","Altitude":"8.600000381469727","time":"11-13-2013 13:41:07","Accuracy":"11.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56267091","Longtitude":"51.83710256","Altitude":"13.199999809265137","time":"11-13-2013 13:42:05","Accuracy":"10.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-13-2013 14:02:04","End":"11-13-2013 14:06:04"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 14:02:04","End":"11-13-2013 14:06:04"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"11-13-2013 14:07:15","End":"11-13-2013 14:07:25"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-13-2013 14:07:15","End":"11-13-2013 14:08:05"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-13-2013 14:08:05","End":"11-13-2013 14:08:25"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 14:07:15","End":"11-13-2013 14:12:16"}}
+{"Application":{"ProcessName":"com.sonyericsson.android.socialphonebook","Start":"11-13-2013 14:08:25","End":"11-13-2013 14:13:26"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 14:12:16","End":"11-13-2013 14:13:26"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 14:28:24","End":"11-13-2013 14:29:44"}}
+{"Application":{"ProcessName":"com.sonyericsson.android.socialphonebook","Start":"11-13-2013 14:28:24","End":"11-13-2013 14:29:44"}}
+{"SMS":{"Address":"+9882####","type":"1","date":"11-13-2013 14:37:28","body":"ANONYMIZED","Type":"1"}}
+{"Location":{"Latitude":"36.56285467","Longtitude":"51.83734745","Altitude":"-2.5","time":"11-13-2013 14:55:43","Accuracy":"9.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56285983","Longtitude":"51.83733658","Altitude":"-2.0999999046325684","time":"11-13-2013 14:56:15","Accuracy":"8.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56284548","Longtitude":"51.83730895","Altitude":"-2.5999999046325684","time":"11-13-2013 14:56:48","Accuracy":"15.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56285408","Longtitude":"51.83731536","Altitude":"-3.700000047683716","time":"11-13-2013 14:57:21","Accuracy":"12.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.conversations","Start":"11-13-2013 14:57:27","End":"11-13-2013 14:57:47"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-13-2013 14:57:47","End":"11-13-2013 14:57:57"}}
+{"Location":{"Latitude":"36.56284549","Longtitude":"51.83731026","Altitude":"-0.10000000149011612","time":"11-13-2013 14:58:51","Accuracy":"7.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 14:57:27","End":"11-13-2013 15:02:27"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 14:57:57","End":"11-13-2013 15:02:58"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 15:02:58","End":"11-13-2013 15:03:08"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 15:02:27","End":"11-13-2013 15:03:08"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 20:27:33","End":"11-13-2013 20:27:43"}}
+{"Application":{"ProcessName":"com.tencent.mm:tools","Start":"11-13-2013 20:27:43","End":"11-13-2013 20:27:53"}}
+{"Location":{"Latitude":"36.5658956","Longtitude":"51.9027932","Altitude":"0.0","time":"11-13-2013 20:28:23","Accuracy":"2599.0","Provider":"network"}}
+{"Location":{"Latitude":"36.55660906","Longtitude":"51.89059674","Altitude":"-35.400001525878906","time":"11-13-2013 20:28:43","Accuracy":"49.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-13-2013 20:27:43","End":"11-13-2013 20:28:53"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"11-13-2013 20:28:53","End":"11-13-2013 20:28:53"}}
+{"Location":{"Latitude":"36.55664191","Longtitude":"51.89068837","Altitude":"-17.899999618530273","time":"11-13-2013 20:32:23","Accuracy":"173.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 20:27:33","End":"11-13-2013 20:32:33"}}
+{"Location":{"Latitude":"36.55664304","Longtitude":"51.89070029","Altitude":"-17.399999618530273","time":"11-13-2013 20:32:43","Accuracy":"135.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55664664","Longtitude":"51.89072125","Altitude":"-16.100000381469727","time":"11-13-2013 20:33:23","Accuracy":"179.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.supercell.clashofclans","Start":"11-13-2013 20:28:53","End":"11-13-2013 20:33:53"}}
+{"Location":{"Latitude":"36.55664178","Longtitude":"51.8906998","Altitude":"-17.700000762939453","time":"11-13-2013 20:34:23","Accuracy":"140.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55663871","Longtitude":"51.89067936","Altitude":"-18.700000762939453","time":"11-13-2013 20:35:53","Accuracy":"113.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 20:32:33","End":"11-13-2013 20:37:33"}}
+{"Location":{"Latitude":"36.55663935","Longtitude":"51.89069662","Altitude":"-18.399999618530273","time":"11-13-2013 20:37:53","Accuracy":"206.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.supercell.clashofclans","Start":"11-13-2013 20:33:53","End":"11-13-2013 20:38:53"}}
+{"Location":{"Latitude":"36.55662982","Longtitude":"51.89067116","Altitude":"-20.5","time":"11-13-2013 20:41:23","Accuracy":"51.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 20:37:33","End":"11-13-2013 20:42:33"}}
+{"Application":{"ProcessName":"com.supercell.clashofclans","Start":"11-13-2013 20:38:53","End":"11-13-2013 20:43:54"}}
+{"Location":{"Latitude":"36.55663207","Longtitude":"51.89069067","Altitude":"-18.700000762939453","time":"11-13-2013 20:45:44","Accuracy":"53.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55662992","Longtitude":"51.89067191","Altitude":"-19.5","time":"11-13-2013 20:46:14","Accuracy":"56.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55663539","Longtitude":"51.8906625","Altitude":"-17.899999618530273","time":"11-13-2013 20:47:04","Accuracy":"213.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 20:42:33","End":"11-13-2013 20:47:34"}}
+{"Location":{"Latitude":"36.55663971","Longtitude":"51.89064088","Altitude":"-10.0","time":"11-13-2013 20:47:34","Accuracy":"119.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.supercell.clashofclans","Start":"11-13-2013 20:43:54","End":"11-13-2013 20:48:54"}}
+{"Location":{"Latitude":"36.55662633","Longtitude":"51.8906592","Altitude":"-14.5","time":"11-13-2013 20:49:04","Accuracy":"105.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55662896","Longtitude":"51.89062089","Altitude":"-9.199999809265137","time":"11-13-2013 20:49:24","Accuracy":"69.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55662263","Longtitude":"51.89063332","Altitude":"-17.600000381469727","time":"11-13-2013 20:49:44","Accuracy":"84.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55664629","Longtitude":"51.89059632","Altitude":"-4.400000095367432","time":"11-13-2013 20:50:14","Accuracy":"32.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55662295","Longtitude":"51.89061385","Altitude":"-2.5","time":"11-13-2013 20:50:34","Accuracy":"26.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55661822","Longtitude":"51.89062383","Altitude":"-5.0","time":"11-13-2013 20:50:54","Accuracy":"39.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55657802","Longtitude":"51.89060996","Altitude":"-3.5999999046325684","time":"11-13-2013 20:51:04","Accuracy":"44.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55657016","Longtitude":"51.890593","Altitude":"-5.400000095367432","time":"11-13-2013 20:51:34","Accuracy":"59.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55655552","Longtitude":"51.89060247","Altitude":"-11.5","time":"11-13-2013 20:51:44","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55657001","Longtitude":"51.89060202","Altitude":"-11.5","time":"11-13-2013 20:51:54","Accuracy":"25.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55656008","Longtitude":"51.89060342","Altitude":"-14.199999809265137","time":"11-13-2013 20:52:04","Accuracy":"44.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5565486","Longtitude":"51.89060743","Altitude":"-18.0","time":"11-13-2013 20:52:24","Accuracy":"36.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 20:47:34","End":"11-13-2013 20:52:34"}}
+{"Location":{"Latitude":"36.5565492","Longtitude":"51.89059563","Altitude":"-16.299999237060547","time":"11-13-2013 20:53:24","Accuracy":"130.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.supercell.clashofclans","Start":"11-13-2013 20:48:54","End":"11-13-2013 20:53:54"}}
+{"Location":{"Latitude":"36.55654993","Longtitude":"51.89056204","Altitude":"-15.199999809265137","time":"11-13-2013 20:54:04","Accuracy":"69.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55654137","Longtitude":"51.89055356","Altitude":"-15.199999809265137","time":"11-13-2013 20:54:44","Accuracy":"34.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5658956","Longtitude":"51.9027932","Altitude":"0.0","time":"11-13-2013 21:14:18","Accuracy":"2599.0","Provider":"network"}}
+{"Location":{"Latitude":"36.55654366","Longtitude":"51.89052277","Altitude":"-14.899999618530273","time":"11-13-2013 21:14:38","Accuracy":"212.0","Provider":"gps"}}
+{"Application":{"ProcessName":"ir.divar","Start":"11-13-2013 21:13:28","End":"11-13-2013 21:15:08"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 21:15:08","End":"11-13-2013 21:15:18"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 21:13:28","End":"11-13-2013 21:18:29"}}
+{"Application":{"ProcessName":"ir.divar","Start":"11-13-2013 21:15:18","End":"11-13-2013 21:20:19"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 21:18:29","End":"11-13-2013 21:20:39"}}
+{"Application":{"ProcessName":"ir.divar","Start":"11-13-2013 21:20:19","End":"11-13-2013 21:20:39"}}
+{"Location":{"Latitude":"36.55655414","Longtitude":"51.89051988","Altitude":"-13.399999618530273","time":"11-13-2013 21:27:13","Accuracy":"235.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.extras.liveware","Start":"11-13-2013 21:27:35","End":"11-13-2013 21:27:36"}}
+{"Application":{"ProcessName":"ir.divar","Start":"11-13-2013 21:27:35","End":"11-13-2013 21:27:45"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 21:27:45","End":"11-13-2013 21:27:46"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-13-2013 21:27:46","End":"11-13-2013 21:30:36"}}
+{"Application":{"ProcessName":"com.android.gallery3d","Start":"11-13-2013 21:30:46","End":"11-13-2013 21:30:56"}}
+{"Application":{"ProcessName":"com.tencent.mm:tools","Start":"11-13-2013 21:30:56","End":"11-13-2013 21:31:16"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-13-2013 21:31:16","End":"11-13-2013 21:31:46"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 21:27:35","End":"11-13-2013 21:32:36"}}
+{"Application":{"ProcessName":"com.tencent.mm:tools","Start":"11-13-2013 21:32:46","End":"11-13-2013 21:32:46"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-13-2013 21:31:46","End":"11-13-2013 21:33:06"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 21:33:06","End":"11-13-2013 21:33:16"}}
+{"Application":{"ProcessName":"com.sonyericsson.updatecenter","Start":"11-13-2013 21:33:56","End":"11-13-2013 21:33:56"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-13-2013 21:33:16","End":"11-13-2013 21:34:06"}}
+{"Application":{"ProcessName":"com.sonyericsson.android.camera","Start":"11-13-2013 21:34:06","End":"11-13-2013 21:34:16"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-13-2013 21:34:16","End":"11-13-2013 21:34:16"}}
+{"Application":{"ProcessName":"com.sonyericsson.gallery","Start":"11-13-2013 21:34:16","End":"11-13-2013 21:34:26"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-13-2013 21:34:26","End":"11-13-2013 21:34:46"}}
+{"Location":{"Latitude":"36.55654408","Longtitude":"51.89051477","Altitude":"-15.199999809265137","time":"11-13-2013 21:34:56","Accuracy":"48.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.gallery","Start":"11-13-2013 21:34:46","End":"11-13-2013 21:35:06"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 21:35:06","End":"11-13-2013 21:35:16"}}
+{"Application":{"ProcessName":"com.sonyericsson.gallery","Start":"11-13-2013 21:35:16","End":"11-13-2013 21:35:48"}}
+{"Application":{"ProcessName":"com.sonyericsson.gallery","Start":"11-13-2013 21:35:58","End":"11-13-2013 21:36:08"}}
+{"Application":{"ProcessName":"com.sonyericsson.extras.liveware","Start":"11-13-2013 21:36:08","End":"11-13-2013 21:36:18"}}
+{"Application":{"ProcessName":"com.sonyericsson.gallery","Start":"11-13-2013 21:36:18","End":"11-13-2013 21:37:28"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 21:32:36","End":"11-13-2013 21:37:38"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 21:37:38","End":"11-13-2013 21:37:48"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"11-13-2013 21:37:48","End":"11-13-2013 21:38:48"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-13-2013 21:38:48","End":"11-13-2013 21:39:28"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 21:39:28","End":"11-13-2013 21:39:38"}}
+{"Application":{"ProcessName":"com.sonyericsson.conversations","Start":"11-13-2013 21:39:38","End":"11-13-2013 21:41:08"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-13-2013 21:41:08","End":"11-13-2013 21:41:38"}}
+{"Application":{"ProcessName":"com.tencent.mm:tools","Start":"11-13-2013 21:41:38","End":"11-13-2013 21:41:48"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 21:37:38","End":"11-13-2013 21:42:39"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-13-2013 21:41:48","End":"11-13-2013 21:42:49"}}
+{"Application":{"ProcessName":"com.sonyericsson.android.camera","Start":"11-13-2013 21:42:49","End":"11-13-2013 21:42:59"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-13-2013 21:42:59","End":"11-13-2013 21:43:49"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-13-2013 21:43:49","End":"11-13-2013 21:44:09"}}
+{"Location":{"Latitude":"36.55678886","Longtitude":"51.89024659","Altitude":"30.799999237060547","time":"11-13-2013 21:44:59","Accuracy":"27.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55664423","Longtitude":"51.89064362","Altitude":"-44.0","time":"11-13-2013 21:45:19","Accuracy":"64.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55659487","Longtitude":"51.89049679","Altitude":"-35.5","time":"11-13-2013 21:45:29","Accuracy":"37.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55650268","Longtitude":"51.89040529","Altitude":"-4.400000095367432","time":"11-13-2013 21:45:49","Accuracy":"99.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55655816","Longtitude":"51.89050773","Altitude":"-13.899999618530273","time":"11-13-2013 21:45:59","Accuracy":"46.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-13-2013 21:44:09","End":"11-13-2013 21:46:09"}}
+{"Location":{"Latitude":"36.55667769","Longtitude":"51.89051545","Altitude":"2.200000047683716","time":"11-13-2013 21:46:09","Accuracy":"57.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55672011","Longtitude":"51.89054163","Altitude":"-18.100000381469727","time":"11-13-2013 21:46:19","Accuracy":"27.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 21:42:39","End":"11-13-2013 21:47:39"}}
+{"Location":{"Latitude":"36.5565574","Longtitude":"51.89042905","Altitude":"-39.20000076293945","time":"11-13-2013 21:47:49","Accuracy":"139.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55657385","Longtitude":"51.89038106","Altitude":"-34.099998474121094","time":"11-13-2013 21:47:59","Accuracy":"76.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55661498","Longtitude":"51.89038574","Altitude":"-33.79999923706055","time":"11-13-2013 21:48:19","Accuracy":"144.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55659705","Longtitude":"51.89038621","Altitude":"-32.79999923706055","time":"11-13-2013 21:48:29","Accuracy":"153.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55659757","Longtitude":"51.89039782","Altitude":"-33.099998474121094","time":"11-13-2013 21:48:39","Accuracy":"44.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55662201","Longtitude":"51.89041778","Altitude":"-35.79999923706055","time":"11-13-2013 21:48:49","Accuracy":"49.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55660484","Longtitude":"51.89041665","Altitude":"-35.70000076293945","time":"11-13-2013 21:48:59","Accuracy":"104.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.556607","Longtitude":"51.89043482","Altitude":"-36.599998474121094","time":"11-13-2013 21:49:39","Accuracy":"32.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5658956","Longtitude":"51.9027932","Altitude":"0.0","time":"11-13-2013 21:53:36","Accuracy":"2599.0","Provider":"network"}}
+{"Location":{"Latitude":"36.55660173","Longtitude":"51.89042894","Altitude":"-31.899999618530273","time":"11-13-2013 21:53:46","Accuracy":"49.0","Provider":"gps"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"11-13-2013 21:52:47","End":"11-13-2013 21:53:59"}}
+{"Location":{"Latitude":"36.55661284","Longtitude":"51.89043586","Altitude":"-33.0","time":"11-13-2013 21:54:16","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55662647","Longtitude":"51.89045878","Altitude":"-37.400001525878906","time":"11-13-2013 21:54:36","Accuracy":"19.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55663165","Longtitude":"51.89044864","Altitude":"-39.5","time":"11-13-2013 21:54:56","Accuracy":"19.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55662304","Longtitude":"51.89046166","Altitude":"-32.400001525878906","time":"11-13-2013 21:55:16","Accuracy":"26.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55667941","Longtitude":"51.89050352","Altitude":"-31.100000381469727","time":"11-13-2013 21:55:36","Accuracy":"18.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"11-13-2013 21:53:59","End":"11-13-2013 21:56:06"}}
+{"Location":{"Latitude":"36.55669288","Longtitude":"51.89050726","Altitude":"-31.299999237060547","time":"11-13-2013 21:56:06","Accuracy":"29.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 21:56:06","End":"11-13-2013 21:56:19"}}
+{"Location":{"Latitude":"36.55668252","Longtitude":"51.890503","Altitude":"-34.900001525878906","time":"11-13-2013 21:56:36","Accuracy":"24.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.rhmsoft.fm","Start":"11-13-2013 21:56:19","End":"11-13-2013 21:57:46"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 21:52:47","End":"11-13-2013 21:57:49"}}
+{"Application":{"ProcessName":"com.android.gallery3d","Start":"11-13-2013 21:57:46","End":"11-13-2013 21:57:57"}}
+{"Location":{"Latitude":"36.55666852","Longtitude":"51.89049953","Altitude":"-35.599998474121094","time":"11-13-2013 21:58:07","Accuracy":"144.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.gallery","Start":"11-13-2013 21:57:57","End":"11-13-2013 21:58:09"}}
+{"Application":{"ProcessName":"com.rhmsoft.fm","Start":"11-13-2013 21:58:09","End":"11-13-2013 21:58:17"}}
+{"Application":{"ProcessName":"com.sonyericsson.gallery","Start":"11-13-2013 21:58:17","End":"11-13-2013 21:58:27"}}
+{"Application":{"ProcessName":"jp.naver.android.npush","Start":"11-13-2013 21:59:09","End":"11-13-2013 21:59:17"}}
+{"Location":{"Latitude":"36.55667349","Longtitude":"51.89050941","Altitude":"-34.20000076293945","time":"11-13-2013 21:59:57","Accuracy":"21.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55666565","Longtitude":"51.89050032","Altitude":"-32.29999923706055","time":"11-13-2013 22:00:37","Accuracy":"29.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.rhmsoft.fm","Start":"11-13-2013 21:58:27","End":"11-13-2013 22:01:27"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 22:01:27","End":"11-13-2013 22:01:29"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 21:57:49","End":"11-13-2013 22:02:50"}}
+{"Location":{"Latitude":"36.55667355","Longtitude":"51.89050857","Altitude":"-31.799999237060547","time":"11-13-2013 22:02:57","Accuracy":"18.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.rhmsoft.fm","Start":"11-13-2013 22:01:29","End":"11-13-2013 22:03:00"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 22:03:00","End":"11-13-2013 22:03:17"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-13-2013 22:04:17","End":"11-13-2013 22:04:20"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-13-2013 22:03:17","End":"11-13-2013 22:05:07"}}
+{"Location":{"Latitude":"36.5566634","Longtitude":"51.89050023","Altitude":"-30.600000381469727","time":"11-13-2013 22:05:07","Accuracy":"25.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.gallery","Start":"11-13-2013 22:05:10","End":"11-13-2013 22:05:20"}}
+{"Application":{"ProcessName":"com.tencent.mm:tools","Start":"11-13-2013 22:05:20","End":"11-13-2013 22:05:27"}}
+{"Location":{"Latitude":"36.55667041","Longtitude":"51.89051058","Altitude":"-30.200000762939453","time":"11-13-2013 22:05:27","Accuracy":"20.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-13-2013 22:05:27","End":"11-13-2013 22:05:30"}}
+{"Application":{"ProcessName":"com.sonyericsson.gallery","Start":"11-13-2013 22:05:30","End":"11-13-2013 22:05:57"}}
+{"Application":{"ProcessName":"com.tencent.mm:tools","Start":"11-13-2013 22:05:57","End":"11-13-2013 22:06:07"}}
+{"Location":{"Latitude":"36.55668135","Longtitude":"51.89052158","Altitude":"-31.399999618530273","time":"11-13-2013 22:06:07","Accuracy":"27.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-13-2013 22:06:07","End":"11-13-2013 22:06:27"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-13-2013 22:06:27","End":"11-13-2013 22:06:37"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 22:02:50","End":"11-13-2013 22:07:50"}}
+{"Location":{"Latitude":"36.55666712","Longtitude":"51.89050634","Altitude":"-27.299999237060547","time":"11-13-2013 22:08:38","Accuracy":"15.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5658956","Longtitude":"51.9027932","Altitude":"0.0","time":"11-13-2013 23:11:31","Accuracy":"2599.0","Provider":"network"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"11-13-2013 23:11:33","End":"11-13-2013 23:11:43"}}
+{"Application":{"ProcessName":"com.supercell.clashofclans","Start":"11-13-2013 23:11:13","End":"11-13-2013 23:11:43"}}
+{"Location":{"Latitude":"36.55646137","Longtitude":"51.8904351","Altitude":"-13.600000381469727","time":"11-13-2013 23:12:01","Accuracy":"27.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55651072","Longtitude":"51.89056243","Altitude":"-13.5","time":"11-13-2013 23:12:11","Accuracy":"11.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-13-2013 23:11:43","End":"11-13-2013 23:12:13"}}
+{"Location":{"Latitude":"36.55655294","Longtitude":"51.8904473","Altitude":"-13.699999809265137","time":"11-13-2013 23:12:21","Accuracy":"15.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55655775","Longtitude":"51.89046512","Altitude":"-13.399999618530273","time":"11-13-2013 23:12:31","Accuracy":"9.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55655662","Longtitude":"51.89047685","Altitude":"-13.0","time":"11-13-2013 23:12:51","Accuracy":"14.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55654842","Longtitude":"51.89048192","Altitude":"-13.100000381469727","time":"11-13-2013 23:13:01","Accuracy":"12.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55654514","Longtitude":"51.89046246","Altitude":"-12.100000381469727","time":"11-13-2013 23:13:11","Accuracy":"8.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55654241","Longtitude":"51.89047333","Altitude":"-12.100000381469727","time":"11-13-2013 23:13:41","Accuracy":"9.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55652557","Longtitude":"51.89048174","Altitude":"-11.0","time":"11-13-2013 23:14:11","Accuracy":"11.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55653125","Longtitude":"51.89056168","Altitude":"-10.600000381469727","time":"11-13-2013 23:14:31","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55689011","Longtitude":"51.89070031","Altitude":"2.200000047683716","time":"11-13-2013 23:14:41","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55744626","Longtitude":"51.89107274","Altitude":"-7.599999904632568","time":"11-13-2013 23:14:51","Accuracy":"12.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55788833","Longtitude":"51.89121694","Altitude":"-15.800000190734863","time":"11-13-2013 23:15:01","Accuracy":"14.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55827269","Longtitude":"51.89163283","Altitude":"-19.700000762939453","time":"11-13-2013 23:15:11","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55804496","Longtitude":"51.89249647","Altitude":"-15.5","time":"11-13-2013 23:15:21","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55821272","Longtitude":"51.89322302","Altitude":"-5.800000190734863","time":"11-13-2013 23:15:31","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55863452","Longtitude":"51.89400338","Altitude":"-1.100000023841858","time":"11-13-2013 23:15:41","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5591213","Longtitude":"51.89471078","Altitude":"-23.200000762939453","time":"11-13-2013 23:15:51","Accuracy":"14.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55947109","Longtitude":"51.89467656","Altitude":"-28.399999618530273","time":"11-13-2013 23:16:01","Accuracy":"8.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55987791","Longtitude":"51.89444371","Altitude":"-21.399999618530273","time":"11-13-2013 23:16:11","Accuracy":"8.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 23:11:13","End":"11-13-2013 23:16:13"}}
+{"Location":{"Latitude":"36.56029489","Longtitude":"51.89407286","Altitude":"-2.5999999046325684","time":"11-13-2013 23:16:21","Accuracy":"8.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56047581","Longtitude":"51.89396473","Altitude":"0.0","time":"11-13-2013 23:16:31","Accuracy":"9.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5604549","Longtitude":"51.89397903","Altitude":"-1.7999999523162842","time":"11-13-2013 23:16:41","Accuracy":"8.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56050368","Longtitude":"51.8939462","Altitude":"-4.5","time":"11-13-2013 23:16:51","Accuracy":"10.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5602807","Longtitude":"51.89412811","Altitude":"-16.700000762939453","time":"11-13-2013 23:17:01","Accuracy":"9.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.55928245","Longtitude":"51.89470952","Altitude":"-16.100000381469727","time":"11-13-2013 23:17:21","Accuracy":"11.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 23:12:13","End":"11-13-2013 23:17:34"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 23:16:13","End":"11-13-2013 23:17:34"}}
+{"Location":{"Latitude":"36.56023234","Longtitude":"51.89615126","Altitude":"-22.700000762939453","time":"11-13-2013 23:17:47","Accuracy":"12.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56584273","Longtitude":"51.89725248","Altitude":"-27.700000762939453","time":"11-13-2013 23:19:06","Accuracy":"5.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56985696","Longtitude":"51.89604937","Altitude":"-26.399999618530273","time":"11-13-2013 23:20:30","Accuracy":"14.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.57074531","Longtitude":"51.88217707","Altitude":"-2.0999999046325684","time":"11-13-2013 23:21:30","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.57158266","Longtitude":"51.87433388","Altitude":"-9.600000381469727","time":"11-13-2013 23:21:57","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.57165101","Longtitude":"51.87202506","Altitude":"-3.9000000953674316","time":"11-13-2013 23:22:07","Accuracy":"11.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.57157647","Longtitude":"51.86975307","Altitude":"-18.799999237060547","time":"11-13-2013 23:22:17","Accuracy":"12.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.57145017","Longtitude":"51.86715404","Altitude":"-16.0","time":"11-13-2013 23:22:27","Accuracy":"9.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.57168677","Longtitude":"51.85814062","Altitude":"-1.100000023841858","time":"11-13-2013 23:23:03","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.57176084","Longtitude":"51.85499887","Altitude":"-9.699999809265137","time":"11-13-2013 23:23:13","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.57203478","Longtitude":"51.84913028","Altitude":"-7.099999904632568","time":"11-13-2013 23:23:35","Accuracy":"14.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.57385103","Longtitude":"51.83636253","Altitude":"25.200000762939453","time":"11-13-2013 23:24:25","Accuracy":"15.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.57734861","Longtitude":"51.82782774","Altitude":"-20.5","time":"11-13-2013 23:25:28","Accuracy":"7.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.57704062","Longtitude":"51.82765973","Altitude":"-19.200000762939453","time":"11-13-2013 23:25:41","Accuracy":"9.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 23:25:30","End":"11-13-2013 23:25:49"}}
+{"Location":{"Latitude":"36.57670755","Longtitude":"51.82838063","Altitude":"-13.899999618530273","time":"11-13-2013 23:26:06","Accuracy":"13.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.57647728","Longtitude":"51.82854166","Altitude":"-15.5","time":"11-13-2013 23:26:52","Accuracy":"9.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.57647968","Longtitude":"51.82856699","Altitude":"-16.100000381469727","time":"11-13-2013 23:27:17","Accuracy":"8.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.57647176","Longtitude":"51.82857331","Altitude":"-16.700000762939453","time":"11-13-2013 23:28:08","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.57646298","Longtitude":"51.82857609","Altitude":"-16.799999237060547","time":"11-13-2013 23:28:36","Accuracy":"13.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.57646536","Longtitude":"51.82856146","Altitude":"-19.899999618530273","time":"11-13-2013 23:29:01","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.57619704","Longtitude":"51.82936331","Altitude":"-31.0","time":"11-13-2013 23:29:30","Accuracy":"25.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.57510984","Longtitude":"51.83193556","Altitude":"-8.800000190734863","time":"11-13-2013 23:29:51","Accuracy":"9.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.57394699","Longtitude":"51.83640712","Altitude":"-17.899999618530273","time":"11-13-2013 23:30:26","Accuracy":"9.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.57374595","Longtitude":"51.83686705","Altitude":"-3.5999999046325684","time":"11-13-2013 23:30:36","Accuracy":"13.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.57095903","Longtitude":"51.83629261","Altitude":"-4.300000190734863","time":"11-13-2013 23:31:18","Accuracy":"9.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56873163","Longtitude":"51.83584714","Altitude":"7.099999904632568","time":"11-13-2013 23:31:56","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56469308","Longtitude":"51.83512985","Altitude":"12.399999618530273","time":"11-13-2013 23:33:10","Accuracy":"8.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56307544","Longtitude":"51.83621417","Altitude":"-12.899999618530273","time":"11-13-2013 23:34:27","Accuracy":"10.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56229345","Longtitude":"51.83725711","Altitude":"-5.099999904632568","time":"11-13-2013 23:35:14","Accuracy":"9.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56244859","Longtitude":"51.83728023","Altitude":"-10.100000381469727","time":"11-13-2013 23:36:21","Accuracy":"9.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56281606","Longtitude":"51.83738123","Altitude":"4.800000190734863","time":"11-13-2013 23:37:42","Accuracy":"20.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56281072","Longtitude":"51.83736888","Altitude":"3.700000047683716","time":"11-13-2013 23:37:52","Accuracy":"21.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.android.browser","Start":"11-13-2013 23:37:45","End":"11-13-2013 23:37:55"}}
+{"Location":{"Latitude":"36.56294309","Longtitude":"51.83741857","Altitude":"0.10000000149011612","time":"11-13-2013 23:38:02","Accuracy":"19.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56281329","Longtitude":"51.83737904","Altitude":"0.800000011920929","time":"11-13-2013 23:38:12","Accuracy":"22.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56277019","Longtitude":"51.83736561","Altitude":"-0.30000001192092896","time":"11-13-2013 23:38:22","Accuracy":"19.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5627197","Longtitude":"51.83737536","Altitude":"-0.8999999761581421","time":"11-13-2013 23:38:32","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56265541","Longtitude":"51.83733135","Altitude":"-1.2000000476837158","time":"11-13-2013 23:38:42","Accuracy":"23.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56282647","Longtitude":"51.83737308","Altitude":"-4.199999809265137","time":"11-13-2013 23:38:52","Accuracy":"21.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56273466","Longtitude":"51.83732588","Altitude":"-3.4000000953674316","time":"11-13-2013 23:39:02","Accuracy":"21.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56261595","Longtitude":"51.83733204","Altitude":"-3.0","time":"11-13-2013 23:39:12","Accuracy":"26.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56275412","Longtitude":"51.83737145","Altitude":"-4.5","time":"11-13-2013 23:39:22","Accuracy":"19.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56279257","Longtitude":"51.83736727","Altitude":"-5.099999904632568","time":"11-13-2013 23:39:32","Accuracy":"19.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56272083","Longtitude":"51.83737715","Altitude":"-5.400000095367432","time":"11-13-2013 23:39:42","Accuracy":"26.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56262624","Longtitude":"51.83742117","Altitude":"-10.699999809265137","time":"11-13-2013 23:39:52","Accuracy":"26.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56264831","Longtitude":"51.83735921","Altitude":"-11.699999809265137","time":"11-13-2013 23:40:02","Accuracy":"21.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56256459","Longtitude":"51.83736159","Altitude":"-8.699999809265137","time":"11-13-2013 23:40:12","Accuracy":"23.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56262717","Longtitude":"51.83739549","Altitude":"-15.600000381469727","time":"11-13-2013 23:40:22","Accuracy":"21.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56289171","Longtitude":"51.8373287","Altitude":"6.0","time":"11-13-2013 23:40:32","Accuracy":"20.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56283259","Longtitude":"51.83728083","Altitude":"8.0","time":"11-13-2013 23:40:42","Accuracy":"19.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56272126","Longtitude":"51.8373369","Altitude":"5.0","time":"11-13-2013 23:40:52","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56267388","Longtitude":"51.83737402","Altitude":"1.7999999523162842","time":"11-13-2013 23:41:02","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56269883","Longtitude":"51.83739498","Altitude":"3.200000047683716","time":"11-13-2013 23:41:12","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56273192","Longtitude":"51.83741184","Altitude":"0.8999999761581421","time":"11-13-2013 23:41:22","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56274094","Longtitude":"51.83738553","Altitude":"0.30000001192092896","time":"11-13-2013 23:41:32","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56271301","Longtitude":"51.83737104","Altitude":"1.5","time":"11-13-2013 23:41:42","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56271493","Longtitude":"51.83744958","Altitude":"3.0","time":"11-13-2013 23:41:52","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.562706","Longtitude":"51.83747289","Altitude":"2.4000000953674316","time":"11-13-2013 23:42:02","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56272135","Longtitude":"51.83746177","Altitude":"1.600000023841858","time":"11-13-2013 23:42:12","Accuracy":"24.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56268001","Longtitude":"51.83745519","Altitude":"0.4000000059604645","time":"11-13-2013 23:42:22","Accuracy":"24.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56263936","Longtitude":"51.83746866","Altitude":"0.0","time":"11-13-2013 23:42:32","Accuracy":"30.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56264497","Longtitude":"51.83750631","Altitude":"-0.699999988079071","time":"11-13-2013 23:42:42","Accuracy":"29.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 23:37:45","End":"11-13-2013 23:42:46"}}
+{"Location":{"Latitude":"36.56265643","Longtitude":"51.83747991","Altitude":"-1.600000023841858","time":"11-13-2013 23:42:52","Accuracy":"26.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 23:37:55","End":"11-13-2013 23:42:56"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-13-2013 23:42:46","End":"11-13-2013 23:42:56"}}
+{"Location":{"Latitude":"36.56266878","Longtitude":"51.83747132","Altitude":"-1.0","time":"11-13-2013 23:43:02","Accuracy":"24.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56266811","Longtitude":"51.83741798","Altitude":"-1.600000023841858","time":"11-13-2013 23:43:12","Accuracy":"20.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56259942","Longtitude":"51.83745087","Altitude":"-3.200000047683716","time":"11-13-2013 23:43:22","Accuracy":"24.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56270118","Longtitude":"51.83744439","Altitude":"-8.0","time":"11-13-2013 23:43:32","Accuracy":"22.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56264761","Longtitude":"51.83740637","Altitude":"-9.600000381469727","time":"11-13-2013 23:43:42","Accuracy":"23.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56254666","Longtitude":"51.83729428","Altitude":"-10.600000381469727","time":"11-13-2013 23:43:52","Accuracy":"23.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5626164","Longtitude":"51.83727889","Altitude":"-15.5","time":"11-13-2013 23:44:02","Accuracy":"22.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56265935","Longtitude":"51.8372751","Altitude":"-17.799999237060547","time":"11-13-2013 23:44:12","Accuracy":"27.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56266741","Longtitude":"51.83731424","Altitude":"-12.199999809265137","time":"11-13-2013 23:44:22","Accuracy":"22.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56270013","Longtitude":"51.83733497","Altitude":"-12.199999809265137","time":"11-13-2013 23:44:32","Accuracy":"28.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56273455","Longtitude":"51.83736633","Altitude":"-10.300000190734863","time":"11-13-2013 23:44:42","Accuracy":"28.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56273025","Longtitude":"51.83738637","Altitude":"-12.800000190734863","time":"11-13-2013 23:45:02","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56273664","Longtitude":"51.83736724","Altitude":"-12.600000381469727","time":"11-13-2013 23:45:12","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56268495","Longtitude":"51.83732859","Altitude":"-12.300000190734863","time":"11-13-2013 23:45:22","Accuracy":"19.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56262809","Longtitude":"51.83731498","Altitude":"-12.800000190734863","time":"11-13-2013 23:45:32","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56261387","Longtitude":"51.83728229","Altitude":"-12.600000381469727","time":"11-13-2013 23:45:42","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56266343","Longtitude":"51.83726852","Altitude":"-7.800000190734863","time":"11-13-2013 23:45:52","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56276266","Longtitude":"51.83729263","Altitude":"-0.699999988079071","time":"11-13-2013 23:46:02","Accuracy":"20.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56273055","Longtitude":"51.83731824","Altitude":"0.0","time":"11-13-2013 23:46:12","Accuracy":"19.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56272414","Longtitude":"51.83725266","Altitude":"1.2999999523162842","time":"11-13-2013 23:46:22","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5627979","Longtitude":"51.83730982","Altitude":"-1.100000023841858","time":"11-13-2013 23:46:32","Accuracy":"22.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56274495","Longtitude":"51.8372876","Altitude":"0.20000000298023224","time":"11-13-2013 23:46:42","Accuracy":"15.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56264246","Longtitude":"51.83728779","Altitude":"-3.4000000953674316","time":"11-13-2013 23:46:52","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56271927","Longtitude":"51.83723282","Altitude":"1.2000000476837158","time":"11-13-2013 23:47:02","Accuracy":"22.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56272558","Longtitude":"51.83718651","Altitude":"2.5999999046325684","time":"11-13-2013 23:47:12","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56271816","Longtitude":"51.83720298","Altitude":"1.100000023841858","time":"11-13-2013 23:47:32","Accuracy":"14.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5627119","Longtitude":"51.83726507","Altitude":"0.0","time":"11-13-2013 23:47:42","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56278368","Longtitude":"51.83718532","Altitude":"-3.9000000953674316","time":"11-13-2013 23:47:52","Accuracy":"19.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56277274","Longtitude":"51.83712489","Altitude":"-5.900000095367432","time":"11-13-2013 23:48:02","Accuracy":"14.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56283682","Longtitude":"51.83717887","Altitude":"-4.400000095367432","time":"11-13-2013 23:48:12","Accuracy":"15.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56276863","Longtitude":"51.83720367","Altitude":"-5.0","time":"11-13-2013 23:48:22","Accuracy":"15.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56281401","Longtitude":"51.83725966","Altitude":"-0.8999999761581421","time":"11-13-2013 23:48:32","Accuracy":"18.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.5628867","Longtitude":"51.83725546","Altitude":"-2.200000047683716","time":"11-13-2013 23:48:42","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56287004","Longtitude":"51.83725148","Altitude":"-3.9000000953674316","time":"11-13-2013 23:48:53","Accuracy":"15.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56287672","Longtitude":"51.83722358","Altitude":"-5.300000190734863","time":"11-13-2013 23:49:03","Accuracy":"15.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56286131","Longtitude":"51.83722103","Altitude":"-4.0","time":"11-13-2013 23:49:13","Accuracy":"16.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56295474","Longtitude":"51.83729579","Altitude":"-2.0","time":"11-13-2013 23:49:23","Accuracy":"17.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56293493","Longtitude":"51.83730902","Altitude":"-2.200000047683716","time":"11-13-2013 23:49:33","Accuracy":"15.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56286576","Longtitude":"51.83733268","Altitude":"-2.799999952316284","time":"11-13-2013 23:49:43","Accuracy":"11.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56286302","Longtitude":"51.8373749","Altitude":"-9.100000381469727","time":"11-13-2013 23:49:53","Accuracy":"12.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56284586","Longtitude":"51.83730838","Altitude":"-9.399999618530273","time":"11-13-2013 23:50:03","Accuracy":"24.0","Provider":"gps"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-13-2013 23:49:57","End":"11-13-2013 23:50:07"}}
+{"Location":{"Latitude":"36.5627118","Longtitude":"51.83730043","Altitude":"-9.0","time":"11-13-2013 23:50:23","Accuracy":"20.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56263589","Longtitude":"51.83727765","Altitude":"-8.600000381469727","time":"11-13-2013 23:50:33","Accuracy":"37.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56261543","Longtitude":"51.83725813","Altitude":"-8.0","time":"11-13-2013 23:50:43","Accuracy":"27.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56267688","Longtitude":"51.83725239","Altitude":"-7.599999904632568","time":"11-13-2013 23:50:53","Accuracy":"46.0","Provider":"gps"}}
+{"Location":{"Latitude":"36.56271043","Longtitude":"51.83727873","Altitude":"-6.900000095367432","time":"11-13-2013 23:51:13","Accuracy":"27.0","Provider":"gps"}}

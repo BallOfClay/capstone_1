@@ -1,0 +1,115 @@
+{"Location":{"Latitude":"35.804732","Longtitude":"51.409983","Altitude":"0.0","time":"12-24-2013 00:04:39","Accuracy":"70.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8049003","Longtitude":"51.4100484","Altitude":"0.0","time":"12-24-2013 00:04:40","Accuracy":"54.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8047793","Longtitude":"51.4097678","Altitude":"0.0","time":"12-24-2013 00:05:25","Accuracy":"74.0","Provider":"network"}}
+{"WiFi":{"SSID":"sasa","BSSID":"bc:f6:85:d9:ce:5b","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-82","frequency":"2457","time":"Tuesday, December 24, 2013 12:05:48 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SogolSevin","BSSID":"1c:7e:e5:09:77:1f","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP]","level":"-83","frequency":"2412","time":"Tuesday, December 24, 2013 12:05:48 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"home5","BSSID":"1c:7e:e5:51:c7:2f","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP]","level":"-88","frequency":"2412","time":"Tuesday, December 24, 2013 12:05:48 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"351B1C","BSSID":"00:1f:fb:35:1b:1c","capabilities":"[WEP]","level":"-84","frequency":"2457","time":"Tuesday, December 24, 2013 12:05:48 AM Iran Standard Time"}}
+{"SMS":{"Address":"+9820####","type":"1","date":"12-23-2013 20:45:13","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"12-24-2013 00:05:49","End":"12-24-2013 00:05:59"}}
+{"Application":{"ProcessName":"com.samsung.sec.android.appwidget.programmonitorwidget","Start":"12-24-2013 00:05:49","End":"12-24-2013 00:05:59"}}
+{"Location":{"Latitude":"35.804942","Longtitude":"51.4101653","Altitude":"0.0","time":"12-24-2013 00:06:11","Accuracy":"47.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-24-2013 00:05:59","End":"12-24-2013 00:06:19"}}
+{"Application":{"ProcessName":"com.google.android.apps.maps:NetworkLocationService","Start":"12-24-2013 00:06:09","End":"12-24-2013 00:06:19"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-24-2013 00:06:09","End":"12-24-2013 00:06:19"}}
+{"Application":{"ProcessName":"com.sec.android.provider.badge","Start":"12-24-2013 00:06:09","End":"12-24-2013 00:06:19"}}
+{"WiFi":{"SSID":"sasa","BSSID":"bc:f6:85:d9:ce:5b","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-86","frequency":"2457","time":"Tuesday, December 24, 2013 12:06:48 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Partia","BSSID":"00:27:19:c2:19:14","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP-preauth]","level":"-93","frequency":"2462","time":"Tuesday, December 24, 2013 12:06:48 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"351B1C","BSSID":"00:1f:fb:35:1b:1c","capabilities":"[WEP]","level":"-93","frequency":"2457","time":"Tuesday, December 24, 2013 12:06:48 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sec.pcw.device","Start":"12-24-2013 00:05:49","End":"12-24-2013 00:06:49"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"12-24-2013 00:06:19","End":"12-24-2013 00:06:49"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-24-2013 00:05:49","End":"12-24-2013 00:06:49"}}
+{"Location":{"Latitude":"35.8050183","Longtitude":"51.4101046","Altitude":"0.0","time":"12-24-2013 00:06:54","Accuracy":"42.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8049334","Longtitude":"51.4101566","Altitude":"0.0","time":"12-24-2013 00:07:41","Accuracy":"48.0","Provider":"network"}}
+{"WiFi":{"SSID":"sasa","BSSID":"bc:f6:85:d9:ce:5b","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-86","frequency":"2457","time":"Tuesday, December 24, 2013 12:08:00 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Partia","BSSID":"00:27:19:c2:19:14","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP-preauth]","level":"-96","frequency":"2462","time":"Tuesday, December 24, 2013 12:08:00 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"351B1C","BSSID":"00:1f:fb:35:1b:1c","capabilities":"[WEP]","level":"-91","frequency":"2457","time":"Tuesday, December 24, 2013 12:08:00 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Parsonline","BSSID":"00:1f:a4:b8:9a:b2","capabilities":"[WEP]","level":"-96","frequency":"2462","time":"Tuesday, December 24, 2013 12:08:00 AM Iran Standard Time"}}
+{"Location":{"Latitude":"35.8050575","Longtitude":"51.4101823","Altitude":"0.0","time":"12-24-2013 00:08:26","Accuracy":"48.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8050886","Longtitude":"51.4101971","Altitude":"0.0","time":"12-24-2013 00:09:11","Accuracy":"50.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8054392","Longtitude":"51.4103431","Altitude":"0.0","time":"12-24-2013 00:09:56","Accuracy":"22.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8050166","Longtitude":"51.4101151","Altitude":"0.0","time":"12-24-2013 00:10:41","Accuracy":"42.0","Provider":"network"}}
+{"WiFi":{"SSID":"sasa","BSSID":"bc:f6:85:d9:ce:5b","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-85","frequency":"2457","time":"Tuesday, December 24, 2013 12:11:08 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Partia","BSSID":"00:27:19:c2:19:14","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP-preauth]","level":"-93","frequency":"2462","time":"Tuesday, December 24, 2013 12:11:08 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"351B1C","BSSID":"00:1f:fb:35:1b:1c","capabilities":"[WEP]","level":"-95","frequency":"2457","time":"Tuesday, December 24, 2013 12:11:08 AM Iran Standard Time"}}
+{"Location":{"Latitude":"35.8050547","Longtitude":"51.4101251","Altitude":"0.0","time":"12-24-2013 00:11:26","Accuracy":"52.0","Provider":"network"}}
+{"WiFi":{"SSID":"sasa","BSSID":"bc:f6:85:d9:ce:5b","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-81","frequency":"2457","time":"Tuesday, December 24, 2013 12:12:08 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Partia","BSSID":"00:27:19:c2:19:14","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP-preauth]","level":"-91","frequency":"2462","time":"Tuesday, December 24, 2013 12:12:08 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"351B1C","BSSID":"00:1f:fb:35:1b:1c","capabilities":"[WEP]","level":"-92","frequency":"2457","time":"Tuesday, December 24, 2013 12:12:08 AM Iran Standard Time"}}
+{"Location":{"Latitude":"35.8049003","Longtitude":"51.4100589","Altitude":"0.0","time":"12-24-2013 00:12:11","Accuracy":"54.0","Provider":"network"}}
+{"Location":{"Latitude":"35.804832","Longtitude":"51.4100434","Altitude":"0.0","time":"12-24-2013 00:12:56","Accuracy":"60.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8052052","Longtitude":"51.410203","Altitude":"0.0","time":"12-24-2013 00:13:41","Accuracy":"58.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8053041","Longtitude":"51.4102478","Altitude":"0.0","time":"12-24-2013 00:14:26","Accuracy":"42.0","Provider":"network"}}
+{"WiFi":{"SSID":"sasa","BSSID":"bc:f6:85:d9:ce:5b","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-79","frequency":"2457","time":"Tuesday, December 24, 2013 12:15:09 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Partia","BSSID":"00:27:19:c2:19:14","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP-preauth]","level":"-94","frequency":"2462","time":"Tuesday, December 24, 2013 12:15:09 AM Iran Standard Time"}}
+{"Location":{"Latitude":"35.8049841","Longtitude":"51.4100916","Altitude":"0.0","time":"12-24-2013 00:15:11","Accuracy":"46.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8050321","Longtitude":"51.4101252","Altitude":"0.0","time":"12-24-2013 00:15:56","Accuracy":"52.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8049602","Longtitude":"51.4100922","Altitude":"0.0","time":"12-24-2013 00:16:41","Accuracy":"48.0","Provider":"network"}}
+{"WiFi":{"SSID":"sasa","BSSID":"bc:f6:85:d9:ce:5b","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Tuesday, December 24, 2013 12:17:12 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Partia","BSSID":"00:27:19:c2:19:14","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP-preauth]","level":"-95","frequency":"2462","time":"Tuesday, December 24, 2013 12:17:12 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"351B1C","BSSID":"00:1f:fb:35:1b:1c","capabilities":"[WEP]","level":"-91","frequency":"2457","time":"Tuesday, December 24, 2013 12:17:12 AM Iran Standard Time"}}
+{"Location":{"Latitude":"35.8050321","Longtitude":"51.4101252","Altitude":"0.0","time":"12-24-2013 00:17:26","Accuracy":"52.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8048512","Longtitude":"51.4100467","Altitude":"0.0","time":"12-24-2013 00:18:11","Accuracy":"58.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8048802","Longtitude":"51.4101114","Altitude":"0.0","time":"12-24-2013 00:19:41","Accuracy":"62.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8048395","Longtitude":"51.4100526","Altitude":"0.0","time":"12-24-2013 00:20:26","Accuracy":"59.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8048512","Longtitude":"51.4100467","Altitude":"0.0","time":"12-24-2013 00:21:11","Accuracy":"58.0","Provider":"network"}}
+{"WiFi":{"SSID":"sasa","BSSID":"bc:f6:85:d9:ce:5b","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-82","frequency":"2457","time":"Tuesday, December 24, 2013 12:21:54 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Partia","BSSID":"00:27:19:c2:19:14","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP-preauth]","level":"-94","frequency":"2462","time":"Tuesday, December 24, 2013 12:21:54 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"351B1C","BSSID":"00:1f:fb:35:1b:1c","capabilities":"[WEP]","level":"-90","frequency":"2457","time":"Tuesday, December 24, 2013 12:21:54 AM Iran Standard Time"}}
+{"Location":{"Latitude":"35.8049667","Longtitude":"51.4100973","Altitude":"0.0","time":"12-24-2013 00:21:56","Accuracy":"47.0","Provider":"network"}}
+{"Location":{"Latitude":"35.804955","Longtitude":"51.4100896","Altitude":"0.0","time":"12-24-2013 00:22:41","Accuracy":"48.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8052146","Longtitude":"51.4102399","Altitude":"0.0","time":"12-24-2013 00:23:26","Accuracy":"73.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8051367","Longtitude":"51.4101642","Altitude":"0.0","time":"12-24-2013 00:24:11","Accuracy":"51.0","Provider":"network"}}
+{"WiFi":{"SSID":"sasa","BSSID":"bc:f6:85:d9:ce:5b","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-81","frequency":"2457","time":"Tuesday, December 24, 2013 12:24:43 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Partia","BSSID":"00:27:19:c2:19:14","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP-preauth]","level":"-94","frequency":"2462","time":"Tuesday, December 24, 2013 12:24:43 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"351B1C","BSSID":"00:1f:fb:35:1b:1c","capabilities":"[WEP]","level":"-89","frequency":"2457","time":"Tuesday, December 24, 2013 12:24:43 AM Iran Standard Time"}}
+{"Location":{"Latitude":"35.8049783","Longtitude":"51.410093","Altitude":"0.0","time":"12-24-2013 00:24:56","Accuracy":"46.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8051293","Longtitude":"51.4101614","Altitude":"0.0","time":"12-24-2013 00:25:41","Accuracy":"51.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8049107","Longtitude":"51.4100801","Altitude":"0.0","time":"12-24-2013 00:26:26","Accuracy":"54.0","Provider":"network"}}
+{"WiFi":{"SSID":"sasa","BSSID":"bc:f6:85:d9:ce:5b","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-80","frequency":"2457","time":"Tuesday, December 24, 2013 12:27:01 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Partia","BSSID":"00:27:19:c2:19:14","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP-preauth]","level":"-94","frequency":"2462","time":"Tuesday, December 24, 2013 12:27:01 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"351B1C","BSSID":"00:1f:fb:35:1b:1c","capabilities":"[WEP]","level":"-90","frequency":"2457","time":"Tuesday, December 24, 2013 12:27:01 AM Iran Standard Time"}}
+{"Location":{"Latitude":"35.8048855","Longtitude":"51.4100661","Altitude":"0.0","time":"12-24-2013 00:27:56","Accuracy":"55.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8051048","Longtitude":"51.4101681","Altitude":"0.0","time":"12-24-2013 00:28:41","Accuracy":"59.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8053354","Longtitude":"51.4102967","Altitude":"0.0","time":"12-24-2013 00:29:27","Accuracy":"72.0","Provider":"network"}}
+{"WiFi":{"SSID":"sasa","BSSID":"bc:f6:85:d9:ce:5b","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-81","frequency":"2457","time":"Tuesday, December 24, 2013 12:29:27 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"351B1C","BSSID":"00:1f:fb:35:1b:1c","capabilities":"[WEP]","level":"-91","frequency":"2457","time":"Tuesday, December 24, 2013 12:29:27 AM Iran Standard Time"}}
+{"Location":{"Latitude":"35.8049386","Longtitude":"51.4100745","Altitude":"0.0","time":"12-24-2013 00:30:12","Accuracy":"50.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8048266","Longtitude":"51.4100386","Altitude":"0.0","time":"12-24-2013 00:30:57","Accuracy":"61.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8050532","Longtitude":"51.4101313","Altitude":"0.0","time":"12-24-2013 00:31:42","Accuracy":"52.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8050321","Longtitude":"51.4101252","Altitude":"0.0","time":"12-24-2013 00:33:12","Accuracy":"52.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8052003","Longtitude":"51.4101968","Altitude":"0.0","time":"12-24-2013 00:33:57","Accuracy":"58.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8051145","Longtitude":"51.4101533","Altitude":"0.0","time":"12-24-2013 00:34:42","Accuracy":"49.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8050563","Longtitude":"51.4101274","Altitude":"0.0","time":"12-24-2013 00:35:27","Accuracy":"44.0","Provider":"network"}}
+{"WiFi":{"SSID":"sasa","BSSID":"bc:f6:85:d9:ce:5b","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-80","frequency":"2457","time":"Tuesday, December 24, 2013 12:35:52 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Partia","BSSID":"00:27:19:c2:19:14","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP-preauth]","level":"-93","frequency":"2462","time":"Tuesday, December 24, 2013 12:35:52 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"351B1C","BSSID":"00:1f:fb:35:1b:1c","capabilities":"[WEP]","level":"-89","frequency":"2457","time":"Tuesday, December 24, 2013 12:35:52 AM Iran Standard Time"}}
+{"Location":{"Latitude":"35.805046","Longtitude":"51.4101219","Altitude":"0.0","time":"12-24-2013 00:36:12","Accuracy":"47.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8051236","Longtitude":"51.4101561","Altitude":"0.0","time":"12-24-2013 00:36:57","Accuracy":"50.0","Provider":"network"}}
+{"WiFi":{"SSID":"sasa","BSSID":"bc:f6:85:d9:ce:5b","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-80","frequency":"2457","time":"Tuesday, December 24, 2013 12:37:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Partia","BSSID":"00:27:19:c2:19:14","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP-preauth]","level":"-95","frequency":"2462","time":"Tuesday, December 24, 2013 12:37:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"351B1C","BSSID":"00:1f:fb:35:1b:1c","capabilities":"[WEP]","level":"-91","frequency":"2457","time":"Tuesday, December 24, 2013 12:37:03 AM Iran Standard Time"}}
+{"Location":{"Latitude":"35.8049052","Longtitude":"51.4100618","Altitude":"0.0","time":"12-24-2013 00:37:42","Accuracy":"53.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8049753","Longtitude":"51.4100992","Altitude":"0.0","time":"12-24-2013 00:38:27","Accuracy":"46.0","Provider":"network"}}
+{"WiFi":{"SSID":"sasa","BSSID":"bc:f6:85:d9:ce:5b","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-79","frequency":"2457","time":"Tuesday, December 24, 2013 12:38:36 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Partia","BSSID":"00:27:19:c2:19:14","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP-preauth]","level":"-94","frequency":"2462","time":"Tuesday, December 24, 2013 12:38:36 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"351B1C","BSSID":"00:1f:fb:35:1b:1c","capabilities":"[WEP]","level":"-91","frequency":"2457","time":"Tuesday, December 24, 2013 12:38:36 AM Iran Standard Time"}}
+{"Location":{"Latitude":"35.8049857","Longtitude":"51.4101043","Altitude":"0.0","time":"12-24-2013 00:39:12","Accuracy":"55.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8047136","Longtitude":"51.409984","Altitude":"0.0","time":"12-24-2013 00:39:56","Accuracy":"28.0","Provider":"network"}}
+{"WiFi":{"SSID":"sasa","BSSID":"bc:f6:85:d9:ce:5b","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-68","frequency":"2457","time":"Tuesday, December 24, 2013 12:39:57 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"351B1C","BSSID":"00:1f:fb:35:1b:1c","capabilities":"[WEP]","level":"-79","frequency":"2457","time":"Tuesday, December 24, 2013 12:39:57 AM Iran Standard Time"}}
+{"Location":{"Latitude":"35.8053589","Longtitude":"51.4103001","Altitude":"0.0","time":"12-24-2013 00:40:40","Accuracy":"74.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8052146","Longtitude":"51.4102399","Altitude":"0.0","time":"12-24-2013 00:41:27","Accuracy":"73.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8053294","Longtitude":"51.410285","Altitude":"0.0","time":"12-24-2013 00:42:12","Accuracy":"71.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8052641","Longtitude":"51.410259","Altitude":"0.0","time":"12-24-2013 00:42:57","Accuracy":"65.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8050886","Longtitude":"51.4101971","Altitude":"0.0","time":"12-24-2013 00:43:42","Accuracy":"50.0","Provider":"network"}}
+{"Location":{"Latitude":"35.805077","Longtitude":"51.4101413","Altitude":"0.0","time":"12-24-2013 00:44:27","Accuracy":"46.0","Provider":"network"}}
+{"WiFi":{"SSID":"sasa","BSSID":"bc:f6:85:d9:ce:5b","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-77","frequency":"2457","time":"Tuesday, December 24, 2013 12:44:52 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Partia","BSSID":"00:27:19:c2:19:14","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP-preauth]","level":"-96","frequency":"2462","time":"Tuesday, December 24, 2013 12:44:52 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"351B1C","BSSID":"00:1f:fb:35:1b:1c","capabilities":"[WEP]","level":"-91","frequency":"2457","time":"Tuesday, December 24, 2013 12:44:52 AM Iran Standard Time"}}
+{"Location":{"Latitude":"35.8048674","Longtitude":"51.410235","Altitude":"0.0","time":"12-24-2013 00:45:12","Accuracy":"53.0","Provider":"network"}}
+{"WiFi":{"SSID":"sasa","BSSID":"bc:f6:85:d9:ce:5b","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-69","frequency":"2457","time":"Tuesday, December 24, 2013 12:45:55 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"AHKH","BSSID":"bc:ae:c5:a5:e5:cc","capabilities":"[WPA-PSK-TKIP]","level":"-81","frequency":"2437","time":"Tuesday, December 24, 2013 12:45:55 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"351B1C","BSSID":"00:1f:fb:35:1b:1c","capabilities":"[WEP]","level":"-79","frequency":"2457","time":"Tuesday, December 24, 2013 12:45:55 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Parsonline","BSSID":"00:1f:a4:b8:9a:b2","capabilities":"[WEP]","level":"-86","frequency":"2462","time":"Tuesday, December 24, 2013 12:45:55 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Wireless","BSSID":"02:22:15:fe:8c:8d","capabilities":"[WEP]","level":"-88","frequency":"2462","time":"Tuesday, December 24, 2013 12:45:55 AM Iran Standard Time"}}

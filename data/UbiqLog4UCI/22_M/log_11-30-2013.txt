@@ -1,0 +1,1404 @@
+{"SMS":{"Address":"+98919116####","type":"1","date":"11-30-2013 00:22:03","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Mashaei"}}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 00:22:06","End":"11-30-2013 00:22:12"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 00:22:06","End":"11-30-2013 00:22:46"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 00:22:12","End":"11-30-2013 00:22:46"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 00:22:06","End":"11-30-2013 00:22:46"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 00:22:06","End":"11-30-2013 00:22:46"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 00:22:06","End":"11-30-2013 00:22:46"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 00:22:06","End":"11-30-2013 00:22:46"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 00:22:06","End":"11-30-2013 00:22:46"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 00:22:06","End":"11-30-2013 00:22:46"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 00:22:06","End":"11-30-2013 00:22:46"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 00:22:06","End":"11-30-2013 00:22:46"}}
+{"SMS":{"Address":"+98919116####","type":"2","date":"11-30-2013 00:22:43","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Mashaei"}}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.dualclockanalog","Start":"11-30-2013 00:22:56","End":"11-30-2013 00:22:59"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 00:22:56","End":"11-30-2013 00:22:59"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 00:22:56","End":"11-30-2013 00:23:06"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 00:22:56","End":"11-30-2013 00:23:06"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 00:22:56","End":"11-30-2013 00:23:06"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 00:22:56","End":"11-30-2013 00:23:06"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 00:22:56","End":"11-30-2013 00:23:06"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 00:22:56","End":"11-30-2013 00:23:06"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 00:22:56","End":"11-30-2013 00:23:06"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 00:22:56","End":"11-30-2013 00:23:06"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 00:22:56","End":"11-30-2013 00:23:06"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 00:22:56","End":"11-30-2013 00:23:06"}}
+{"SMS":{"Address":"+98919116####","type":"1","date":"11-30-2013 00:24:23","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Mashaei"}}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 00:24:26","End":"11-30-2013 00:24:30"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 00:24:26","End":"11-30-2013 00:24:30"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 00:24:26","End":"11-30-2013 00:24:30"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 00:24:26","End":"11-30-2013 00:24:30"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 00:24:26","End":"11-30-2013 00:24:30"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 00:24:26","End":"11-30-2013 00:24:30"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 00:24:26","End":"11-30-2013 00:24:30"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 00:24:26","End":"11-30-2013 00:24:30"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 00:24:26","End":"11-30-2013 00:24:30"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 00:24:26","End":"11-30-2013 00:24:30"}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 00:24:36","End":"11-30-2013 00:24:40"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 00:24:36","End":"11-30-2013 00:24:40"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 00:24:36","End":"11-30-2013 00:24:40"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 00:24:36","End":"11-30-2013 00:24:40"}}
+{"Application":{"ProcessName":"com.sec.android.provider.badge","Start":"11-30-2013 00:24:36","End":"11-30-2013 00:24:40"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 00:24:36","End":"11-30-2013 00:24:40"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 00:24:36","End":"11-30-2013 00:24:40"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 00:24:36","End":"11-30-2013 00:24:40"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 00:24:36","End":"11-30-2013 00:24:40"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.ap.hero.accuweather","Start":"11-30-2013 00:24:36","End":"11-30-2013 00:24:40"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 00:24:36","End":"11-30-2013 00:24:40"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 00:24:36","End":"11-30-2013 00:24:40"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 00:24:36","End":"11-30-2013 00:24:40"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 01:19:10","End":"11-30-2013 01:19:20"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 01:19:10","End":"11-30-2013 01:19:50"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 01:19:10","End":"11-30-2013 01:19:50"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 01:19:10","End":"11-30-2013 01:19:50"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 01:19:10","End":"11-30-2013 01:19:50"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 01:19:10","End":"11-30-2013 01:19:50"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 01:19:10","End":"11-30-2013 01:19:50"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 01:19:10","End":"11-30-2013 01:19:50"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 01:19:10","End":"11-30-2013 01:19:50"}}
+{"Application":{"ProcessName":"com.sec.android.app.popupcalculator","Start":"11-30-2013 01:19:20","End":"11-30-2013 01:19:50"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 01:19:10","End":"11-30-2013 01:19:50"}}
+{"Location":{"Latitude":"35.761876","Longtitude":"51.4487792","Altitude":"0.0","time":"11-30-2013 02:01:27","Accuracy":"1212.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 02:01:37","End":"11-30-2013 02:01:58"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 02:01:37","End":"11-30-2013 02:01:58"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 02:01:37","End":"11-30-2013 02:01:58"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 02:01:37","End":"11-30-2013 02:01:58"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 02:01:37","End":"11-30-2013 02:01:58"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 02:01:37","End":"11-30-2013 02:01:58"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 02:01:37","End":"11-30-2013 02:01:58"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 02:01:37","End":"11-30-2013 02:01:58"}}
+{"Application":{"ProcessName":"com.sec.android.gallery3d","Start":"11-30-2013 02:01:47","End":"11-30-2013 02:01:58"}}
+{"Application":{"ProcessName":"com.lslk.sleepbot","Start":"11-30-2013 02:01:37","End":"11-30-2013 02:01:58"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 02:01:37","End":"11-30-2013 02:01:58"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 02:03:06","End":"11-30-2013 02:03:16"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 02:03:06","End":"11-30-2013 02:03:16"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 02:03:06","End":"11-30-2013 02:03:16"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 02:03:06","End":"11-30-2013 02:03:16"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 02:03:06","End":"11-30-2013 02:03:16"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 02:03:06","End":"11-30-2013 02:03:16"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 02:03:06","End":"11-30-2013 02:03:16"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 02:03:06","End":"11-30-2013 02:03:16"}}
+{"Application":{"ProcessName":"com.lslk.sleepbot","Start":"11-30-2013 02:03:06","End":"11-30-2013 02:03:16"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 02:03:06","End":"11-30-2013 02:03:16"}}
+{"Application":{"ProcessName":"com.lslk.sleepbot","Start":"11-30-2013 06:27:04","End":"11-30-2013 06:27:54"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 06:27:04","End":"11-30-2013 06:28:24"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 06:27:04","End":"11-30-2013 06:28:24"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 06:27:04","End":"11-30-2013 06:28:24"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 06:27:04","End":"11-30-2013 06:28:24"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 06:27:04","End":"11-30-2013 06:28:24"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 06:27:04","End":"11-30-2013 06:28:24"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 06:27:04","End":"11-30-2013 06:28:24"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 06:27:04","End":"11-30-2013 06:28:24"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 06:27:54","End":"11-30-2013 06:28:24"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 06:27:04","End":"11-30-2013 06:28:24"}}
+{"SMS":{"Address":"+98919116####","type":"1","date":"11-30-2013 06:46:16","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Mashaei"}}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 07:03:51","End":"11-30-2013 07:05:01"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 07:03:51","End":"11-30-2013 07:05:01"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 07:03:51","End":"11-30-2013 07:05:01"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 07:03:51","End":"11-30-2013 07:05:01"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 07:03:51","End":"11-30-2013 07:05:01"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 07:03:51","End":"11-30-2013 07:05:01"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 07:03:51","End":"11-30-2013 07:05:01"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 07:03:51","End":"11-30-2013 07:05:01"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 07:03:51","End":"11-30-2013 07:05:01"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 07:03:51","End":"11-30-2013 07:05:01"}}
+{"SMS":{"Address":"+98919116####","type":"2","date":"11-30-2013 07:04:56","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Mashaei"}}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 07:05:14","End":"11-30-2013 07:06:07"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 07:05:14","End":"11-30-2013 07:06:07"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 07:05:14","End":"11-30-2013 07:06:07"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 07:05:14","End":"11-30-2013 07:06:07"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 07:05:14","End":"11-30-2013 07:06:07"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 07:05:14","End":"11-30-2013 07:06:07"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 07:05:14","End":"11-30-2013 07:06:07"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 07:05:14","End":"11-30-2013 07:06:07"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 07:05:14","End":"11-30-2013 07:06:07"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 07:05:14","End":"11-30-2013 07:06:07"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 07:18:33","End":"11-30-2013 07:18:43"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 07:18:36","End":"11-30-2013 07:18:43"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 07:18:36","End":"11-30-2013 07:18:43"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 07:18:36","End":"11-30-2013 07:18:43"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 07:18:36","End":"11-30-2013 07:18:43"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 07:18:36","End":"11-30-2013 07:18:43"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 07:18:33","End":"11-30-2013 07:18:43"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 07:18:36","End":"11-30-2013 07:18:43"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 07:18:33","End":"11-30-2013 07:18:43"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 07:18:33","End":"11-30-2013 07:18:43"}}
+{"SMS":{"Address":"+98919116####","type":"1","date":"11-30-2013 07:25:15","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Mashaei"}}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 07:25:21","End":"11-30-2013 07:25:24"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 07:25:21","End":"11-30-2013 07:25:24"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 07:25:21","End":"11-30-2013 07:25:24"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 07:25:21","End":"11-30-2013 07:25:24"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 07:25:21","End":"11-30-2013 07:25:24"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 07:25:21","End":"11-30-2013 07:25:24"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 07:25:21","End":"11-30-2013 07:25:24"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 07:25:21","End":"11-30-2013 07:25:24"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 07:25:21","End":"11-30-2013 07:25:24"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 07:25:21","End":"11-30-2013 07:25:24"}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 07:25:35","End":"11-30-2013 07:25:42"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 07:25:35","End":"11-30-2013 07:25:52"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 07:25:35","End":"11-30-2013 07:25:52"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 07:25:35","End":"11-30-2013 07:25:52"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 07:25:35","End":"11-30-2013 07:25:52"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 07:25:35","End":"11-30-2013 07:25:52"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 07:25:35","End":"11-30-2013 07:25:52"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 07:25:35","End":"11-30-2013 07:25:52"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 07:25:35","End":"11-30-2013 07:25:52"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 07:25:42","End":"11-30-2013 07:25:52"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 07:25:35","End":"11-30-2013 07:25:52"}}
+{"Application":{"ProcessName":"com.sec.android.app.GlanceView","Start":"11-30-2013 07:35:45","End":"11-30-2013 07:35:51"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 07:35:45","End":"11-30-2013 07:35:55"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 07:35:45","End":"11-30-2013 07:35:55"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 07:35:45","End":"11-30-2013 07:35:55"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 07:35:45","End":"11-30-2013 07:35:55"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 07:35:45","End":"11-30-2013 07:35:55"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 07:35:45","End":"11-30-2013 07:35:55"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 07:35:45","End":"11-30-2013 07:35:55"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 07:35:45","End":"11-30-2013 07:35:55"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 07:35:51","End":"11-30-2013 07:35:55"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 07:35:45","End":"11-30-2013 07:35:55"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 07:40:02","End":"11-30-2013 07:40:07"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 07:40:02","End":"11-30-2013 07:40:07"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 07:40:02","End":"11-30-2013 07:40:07"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 07:40:02","End":"11-30-2013 07:40:07"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 07:40:02","End":"11-30-2013 07:40:07"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 07:40:02","End":"11-30-2013 07:40:07"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 07:40:02","End":"11-30-2013 07:40:07"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 07:40:02","End":"11-30-2013 07:40:07"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.analogclocksimple","Start":"11-30-2013 07:40:02","End":"11-30-2013 07:40:07"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 07:40:02","End":"11-30-2013 07:40:07"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 07:40:02","End":"11-30-2013 07:40:07"}}
+{"Application":{"ProcessName":"com.androidwasabi.livewallpaper.nexusdot","Start":"11-30-2013 08:36:56","End":"11-30-2013 08:36:57"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 08:36:56","End":"11-30-2013 08:37:06"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 08:36:56","End":"11-30-2013 08:39:06"}}
+{"Application":{"ProcessName":"com.adobe.reader","Start":"11-30-2013 08:37:07","End":"11-30-2013 08:39:06"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 08:36:56","End":"11-30-2013 08:39:06"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 08:36:56","End":"11-30-2013 08:39:06"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 08:36:56","End":"11-30-2013 08:39:06"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 08:36:56","End":"11-30-2013 08:39:06"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 08:36:56","End":"11-30-2013 08:39:06"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 08:36:56","End":"11-30-2013 08:39:06"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 08:36:56","End":"11-30-2013 08:39:06"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 08:36:56","End":"11-30-2013 08:39:06"}}
+{"SMS":{"Address":"+98919116####","type":"1","date":"11-30-2013 10:02:06","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Mashaei"}}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 10:02:10","End":"11-30-2013 10:02:14"}}
+{"Application":{"ProcessName":"com.adobe.reader","Start":"11-30-2013 10:02:10","End":"11-30-2013 10:02:14"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 10:02:10","End":"11-30-2013 10:02:14"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 10:02:10","End":"11-30-2013 10:02:14"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 10:02:10","End":"11-30-2013 10:02:14"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 10:02:10","End":"11-30-2013 10:02:14"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 10:02:10","End":"11-30-2013 10:02:14"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 10:02:10","End":"11-30-2013 10:02:14"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 10:02:10","End":"11-30-2013 10:02:14"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 10:02:10","End":"11-30-2013 10:02:14"}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 10:02:32","End":"11-30-2013 10:03:12"}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 10:02:32","End":"11-30-2013 10:03:19"}}
+{"Application":{"ProcessName":"com.adobe.reader","Start":"11-30-2013 10:03:12","End":"11-30-2013 10:03:19"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 10:02:32","End":"11-30-2013 10:03:19"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 10:02:32","End":"11-30-2013 10:03:19"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 10:02:32","End":"11-30-2013 10:03:19"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 10:02:32","End":"11-30-2013 10:03:19"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 10:02:32","End":"11-30-2013 10:03:19"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 10:02:32","End":"11-30-2013 10:03:19"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 10:02:32","End":"11-30-2013 10:03:19"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 10:02:32","End":"11-30-2013 10:03:19"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 10:03:22","End":"11-30-2013 10:03:29"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 10:03:22","End":"11-30-2013 10:03:29"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 10:03:22","End":"11-30-2013 10:03:29"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 10:03:22","End":"11-30-2013 10:03:29"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 10:03:22","End":"11-30-2013 10:03:29"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 10:03:22","End":"11-30-2013 10:03:29"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 10:03:22","End":"11-30-2013 10:03:29"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 10:03:22","End":"11-30-2013 10:03:29"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"11-30-2013 10:03:22","End":"11-30-2013 10:03:29"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 10:03:22","End":"11-30-2013 10:03:29"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.dualclockanalog","Start":"11-30-2013 10:04:00","End":"11-30-2013 10:04:06"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"11-30-2013 10:03:46","End":"11-30-2013 10:04:16"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 10:03:46","End":"11-30-2013 10:04:20"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 10:03:46","End":"11-30-2013 10:04:20"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 10:03:46","End":"11-30-2013 10:04:20"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 10:03:46","End":"11-30-2013 10:04:20"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 10:03:46","End":"11-30-2013 10:04:20"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 10:03:46","End":"11-30-2013 10:04:20"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 10:03:46","End":"11-30-2013 10:04:20"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 10:03:46","End":"11-30-2013 10:04:20"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 10:03:46","End":"11-30-2013 10:04:20"}}
+{"SMS":{"Address":"+98919116####","type":"1","date":"11-30-2013 10:04:21","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Mashaei"}}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Call": {"Number":"+98910210####","Duration":"419","Time":"11-29-2013 21:57:59","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 10:04:11","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 10:04:11","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 10:04:11","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 10:04:11","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 10:04:11","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 10:04:11","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 10:04:11","Type":"2"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 10:04:57","End":"11-30-2013 10:05:10"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 10:04:47","End":"11-30-2013 10:05:17"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 10:04:47","End":"11-30-2013 10:05:17"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 10:04:47","End":"11-30-2013 10:05:17"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 10:04:47","End":"11-30-2013 10:05:17"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 10:04:47","End":"11-30-2013 10:05:17"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 10:04:47","End":"11-30-2013 10:05:17"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 10:04:47","End":"11-30-2013 10:05:17"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"11-30-2013 10:05:10","End":"11-30-2013 10:05:17"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 10:04:47","End":"11-30-2013 10:05:17"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 10:04:47","End":"11-30-2013 10:05:17"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.analogclocksimple","Start":"11-30-2013 10:11:00","End":"11-30-2013 10:11:01"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 10:11:00","End":"11-30-2013 10:11:20"}}
+{"SMS":{"Address":"+98919116####","type":"2","date":"11-30-2013 10:11:17","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Mashaei"}}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 10:04:11","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 10:04:11","Type":"2"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 10:11:00","End":"11-30-2013 10:11:30"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 10:11:00","End":"11-30-2013 10:11:30"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 10:11:00","End":"11-30-2013 10:11:30"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 10:11:00","End":"11-30-2013 10:11:30"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 10:11:00","End":"11-30-2013 10:11:30"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 10:11:00","End":"11-30-2013 10:11:30"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 10:11:00","End":"11-30-2013 10:11:30"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"11-30-2013 10:11:20","End":"11-30-2013 10:11:30"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 10:11:00","End":"11-30-2013 10:11:30"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 10:11:00","End":"11-30-2013 10:11:30"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 10:11:31","End":"11-30-2013 10:11:40"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 10:11:31","End":"11-30-2013 10:11:40"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 10:11:31","End":"11-30-2013 10:11:40"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 10:11:31","End":"11-30-2013 10:11:40"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 10:11:31","End":"11-30-2013 10:11:40"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 10:11:31","End":"11-30-2013 10:11:40"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 10:11:31","End":"11-30-2013 10:11:40"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 10:11:31","End":"11-30-2013 10:11:40"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.analogclocksimple","Start":"11-30-2013 10:11:31","End":"11-30-2013 10:11:40"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 10:11:31","End":"11-30-2013 10:11:40"}}
+{"Call": {"Number":"0910210####","Duration":"379","Time":"11-30-2013 10:11:27","Type":"2"}}
+{"Call": {"Number":"0910210####","Duration":"379","Time":"11-30-2013 10:11:27","Type":"2"}}
+{"Call": {"Number":"0910210####","Duration":"379","Time":"11-30-2013 10:11:27","Type":"2"}}
+{"Call": {"Number":"0910210####","Duration":"379","Time":"11-30-2013 10:11:27","Type":"2"}}
+{"Call": {"Number":"0910210####","Duration":"379","Time":"11-30-2013 10:11:27","Type":"2"}}
+{"Call": {"Number":"0910210####","Duration":"379","Time":"11-30-2013 10:11:27","Type":"2"}}
+{"Call": {"Number":"0910210####","Duration":"379","Time":"11-30-2013 10:11:27","Type":"2"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 10:18:01","End":"11-30-2013 10:18:28"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 10:18:01","End":"11-30-2013 10:18:28"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 10:18:01","End":"11-30-2013 10:18:28"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 10:18:01","End":"11-30-2013 10:18:28"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 10:18:01","End":"11-30-2013 10:18:28"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 10:18:01","End":"11-30-2013 10:18:28"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 10:18:01","End":"11-30-2013 10:18:28"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 10:18:01","End":"11-30-2013 10:18:28"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 10:18:01","End":"11-30-2013 10:18:28"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 10:18:01","End":"11-30-2013 10:18:28"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"SMS":{"Address":"+983000506500####","type":"1","date":"11-30-2013 11:00:03","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"SMS":{"Address":"+9820####","type":"1","date":"11-30-2013 11:03:31","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.analogclocksimple","Start":"11-30-2013 11:03:34","End":"11-30-2013 11:03:34"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.dualclockanalog","Start":"11-30-2013 11:03:34","End":"11-30-2013 11:04:38"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 11:03:34","End":"11-30-2013 11:04:38"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 11:03:34","End":"11-30-2013 11:04:38"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 11:03:34","End":"11-30-2013 11:04:38"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 11:03:34","End":"11-30-2013 11:04:38"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 11:03:34","End":"11-30-2013 11:04:38"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 11:03:34","End":"11-30-2013 11:04:38"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 11:03:34","End":"11-30-2013 11:04:38"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 11:03:34","End":"11-30-2013 11:04:38"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 11:03:34","End":"11-30-2013 11:04:38"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 11:03:34","End":"11-30-2013 11:04:38"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 11:06:46","End":"11-30-2013 11:07:42"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 11:06:46","End":"11-30-2013 11:07:42"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 11:06:46","End":"11-30-2013 11:07:42"}}
+{"Application":{"ProcessName":"com.sec.android.app.GlanceView","Start":"11-30-2013 11:06:46","End":"11-30-2013 11:07:42"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 11:06:46","End":"11-30-2013 11:07:42"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 11:06:46","End":"11-30-2013 11:07:42"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 11:06:46","End":"11-30-2013 11:07:42"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 11:06:46","End":"11-30-2013 11:07:42"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 11:06:46","End":"11-30-2013 11:07:42"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 11:06:46","End":"11-30-2013 11:07:42"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 11:37:44","End":"11-30-2013 11:38:04"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Call": {"Number":"+98919806####","Duration":"0","Time":"11-30-2013 10:39:36","Type":"5"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 11:37:44","End":"11-30-2013 11:38:24"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 11:37:44","End":"11-30-2013 11:38:24"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 11:37:44","End":"11-30-2013 11:38:24"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 11:37:44","End":"11-30-2013 11:38:24"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 11:37:44","End":"11-30-2013 11:38:24"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 11:37:44","End":"11-30-2013 11:38:24"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 11:37:44","End":"11-30-2013 11:38:24"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"11-30-2013 11:38:04","End":"11-30-2013 11:38:24"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 11:37:44","End":"11-30-2013 11:38:24"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 11:37:44","End":"11-30-2013 11:38:24"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.analogclocksimple","Start":"11-30-2013 11:38:34","End":"11-30-2013 11:38:34"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.dualclockanalog","Start":"11-30-2013 11:38:34","End":"11-30-2013 11:38:44"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 11:38:34","End":"11-30-2013 11:38:54"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 11:38:34","End":"11-30-2013 11:38:54"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 11:38:34","End":"11-30-2013 11:38:54"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 11:38:34","End":"11-30-2013 11:38:54"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 11:38:34","End":"11-30-2013 11:38:54"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 11:38:34","End":"11-30-2013 11:38:54"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 11:38:34","End":"11-30-2013 11:38:54"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 11:38:34","End":"11-30-2013 11:38:54"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 11:38:34","End":"11-30-2013 11:38:54"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"SMS":{"Address":"+98912534####","type":"1","date":"11-30-2013 11:41:38","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Omid Hashem Zad"}}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"11-30-2013 11:41:42","End":"11-30-2013 11:41:53"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 11:41:53","End":"11-30-2013 11:43:03"}}
+{"SMS":{"Address":"+98912534####","type":"2","date":"11-30-2013 11:42:59","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Omid Hashem Zad"}}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 11:41:42","End":"11-30-2013 11:43:32"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 11:41:42","End":"11-30-2013 11:43:32"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 11:41:42","End":"11-30-2013 11:43:32"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 11:41:42","End":"11-30-2013 11:43:32"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 11:41:42","End":"11-30-2013 11:43:32"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 11:41:42","End":"11-30-2013 11:43:32"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 11:41:42","End":"11-30-2013 11:43:32"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"11-30-2013 11:43:03","End":"11-30-2013 11:43:32"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 11:41:42","End":"11-30-2013 11:43:32"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 11:41:42","End":"11-30-2013 11:43:32"}}
+{"SMS":{"Address":"+98912534####","type":"1","date":"11-30-2013 11:44:33","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Omid Hashem Zad"}}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 11:44:35","End":"11-30-2013 11:46:26"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 11:44:35","End":"11-30-2013 11:46:26"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 11:44:35","End":"11-30-2013 11:46:26"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 11:44:35","End":"11-30-2013 11:46:26"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 11:44:35","End":"11-30-2013 11:46:26"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 11:44:35","End":"11-30-2013 11:46:26"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 11:44:35","End":"11-30-2013 11:46:26"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 11:44:35","End":"11-30-2013 11:46:26"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"11-30-2013 11:44:35","End":"11-30-2013 11:46:26"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 11:44:35","End":"11-30-2013 11:46:26"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.provider.badge","Start":"11-30-2013 11:46:31","End":"11-30-2013 11:46:40"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"11-30-2013 11:46:31","End":"11-30-2013 11:46:40"}}
+{"Application":{"ProcessName":"com.android.chrome:sandboxed_process0","Start":"11-30-2013 11:46:40","End":"11-30-2013 11:46:50"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.dualclockanalog","Start":"11-30-2013 11:47:00","End":"11-30-2013 11:47:01"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 11:46:31","End":"11-30-2013 11:50:30"}}
+{"Application":{"ProcessName":"com.android.chrome:sandboxed_process1","Start":"11-30-2013 11:46:50","End":"11-30-2013 11:50:30"}}
+{"Application":{"ProcessName":"com.android.chrome","Start":"11-30-2013 11:46:40","End":"11-30-2013 11:50:30"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 11:46:31","End":"11-30-2013 11:50:30"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 11:46:31","End":"11-30-2013 11:50:30"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 11:46:31","End":"11-30-2013 11:50:30"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 11:46:31","End":"11-30-2013 11:50:30"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 11:46:31","End":"11-30-2013 11:50:30"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 11:46:31","End":"11-30-2013 11:50:30"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 11:46:31","End":"11-30-2013 11:50:30"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 11:46:31","End":"11-30-2013 11:50:30"}}
+{"Application":{"ProcessName":"com.android.chrome","Start":"11-30-2013 12:00:13","End":"11-30-2013 12:00:28"}}
+{"Application":{"ProcessName":"com.android.chrome:sandboxed_process1","Start":"11-30-2013 12:00:13","End":"11-30-2013 12:00:28"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 12:00:28","End":"11-30-2013 12:00:29"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 12:00:13","End":"11-30-2013 12:00:38"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 12:00:13","End":"11-30-2013 12:00:38"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 12:00:13","End":"11-30-2013 12:00:38"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 12:00:28","End":"11-30-2013 12:00:38"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 12:00:28","End":"11-30-2013 12:00:38"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 12:00:13","End":"11-30-2013 12:00:38"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 12:00:13","End":"11-30-2013 12:00:38"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.ap.hero.accuweather","Start":"11-30-2013 12:00:29","End":"11-30-2013 12:00:38"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 12:00:13","End":"11-30-2013 12:00:38"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 12:00:29","End":"11-30-2013 12:00:38"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 12:00:13","End":"11-30-2013 12:00:38"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 12:04:53","End":"11-30-2013 12:04:55"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 12:04:53","End":"11-30-2013 12:04:55"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 12:04:53","End":"11-30-2013 12:04:55"}}
+{"Application":{"ProcessName":"com.sec.android.app.GlanceView","Start":"11-30-2013 12:04:53","End":"11-30-2013 12:04:55"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 12:04:53","End":"11-30-2013 12:04:55"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 12:04:53","End":"11-30-2013 12:04:55"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 12:04:53","End":"11-30-2013 12:04:55"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 12:04:53","End":"11-30-2013 12:04:55"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 12:04:53","End":"11-30-2013 12:04:55"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 12:04:53","End":"11-30-2013 12:04:55"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 12:31:45","End":"11-30-2013 12:31:52"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 12:31:45","End":"11-30-2013 12:31:52"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 12:31:45","End":"11-30-2013 12:31:52"}}
+{"Application":{"ProcessName":"com.sec.android.app.GlanceView","Start":"11-30-2013 12:31:45","End":"11-30-2013 12:31:52"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 12:31:45","End":"11-30-2013 12:31:52"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 12:31:45","End":"11-30-2013 12:31:52"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 12:31:45","End":"11-30-2013 12:31:52"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 12:31:45","End":"11-30-2013 12:31:52"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 12:31:45","End":"11-30-2013 12:31:52"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 12:31:45","End":"11-30-2013 12:31:52"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 13:08:39","End":"11-30-2013 13:08:49"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 13:08:39","End":"11-30-2013 13:08:49"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 13:08:39","End":"11-30-2013 13:08:49"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 13:08:39","End":"11-30-2013 13:08:49"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 13:08:39","End":"11-30-2013 13:08:49"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 13:08:39","End":"11-30-2013 13:08:49"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 13:08:39","End":"11-30-2013 13:08:49"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 13:08:39","End":"11-30-2013 13:08:49"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 13:08:39","End":"11-30-2013 13:08:49"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 13:08:39","End":"11-30-2013 13:08:49"}}
+{"SMS":{"Address":"+98919116####","type":"1","date":"11-30-2013 13:10:08","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Mashaei"}}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"SMS":{"Address":"+98919116####","type":"1","date":"11-30-2013 13:10:11","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Mashaei"}}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 13:10:15","End":"11-30-2013 13:10:17"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 13:10:15","End":"11-30-2013 13:10:17"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 13:10:15","End":"11-30-2013 13:10:17"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 13:10:15","End":"11-30-2013 13:10:17"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 13:10:15","End":"11-30-2013 13:10:17"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 13:10:15","End":"11-30-2013 13:10:17"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 13:10:15","End":"11-30-2013 13:10:17"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 13:10:15","End":"11-30-2013 13:10:17"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 13:10:15","End":"11-30-2013 13:10:17"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 13:10:15","End":"11-30-2013 13:10:17"}}
+{"SMS":{"Address":"+989914","type":"1","date":"11-30-2013 13:10:31","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"11-30-2013 13:12:08","End":"11-30-2013 13:12:08"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 13:12:08","End":"11-30-2013 13:12:18"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 13:12:08","End":"11-30-2013 13:12:46"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 13:12:18","End":"11-30-2013 13:12:46"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 13:12:08","End":"11-30-2013 13:12:46"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 13:12:08","End":"11-30-2013 13:12:46"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 13:12:08","End":"11-30-2013 13:12:46"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 13:12:08","End":"11-30-2013 13:12:46"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 13:12:08","End":"11-30-2013 13:12:46"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 13:12:08","End":"11-30-2013 13:12:46"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 13:12:08","End":"11-30-2013 13:12:46"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 13:12:08","End":"11-30-2013 13:12:46"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 13:53:01","End":"11-30-2013 13:53:11"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 13:53:01","End":"11-30-2013 13:53:11"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 13:53:01","End":"11-30-2013 13:53:11"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 13:53:01","End":"11-30-2013 13:53:11"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 13:53:01","End":"11-30-2013 13:53:11"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 13:53:01","End":"11-30-2013 13:53:11"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 13:53:01","End":"11-30-2013 13:53:11"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 13:53:01","End":"11-30-2013 13:53:11"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 13:53:01","End":"11-30-2013 13:53:11"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 13:53:01","End":"11-30-2013 13:53:11"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"SMS":{"Address":"+98919116####","type":"1","date":"11-30-2013 13:10:11","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Mashaei"}}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 14:31:43","End":"11-30-2013 14:31:53"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Call": {"Number":"0912534####","Duration":"0","Time":"11-30-2013 11:38:16","Type":"2"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"11-30-2013 14:31:53","End":"11-30-2013 14:32:03"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 14:31:43","End":"11-30-2013 14:32:23"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 14:31:43","End":"11-30-2013 14:32:23"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 14:31:43","End":"11-30-2013 14:32:23"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 14:31:43","End":"11-30-2013 14:32:23"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 14:31:43","End":"11-30-2013 14:32:23"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 14:31:43","End":"11-30-2013 14:32:23"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 14:31:43","End":"11-30-2013 14:32:23"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 14:31:43","End":"11-30-2013 14:32:23"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 14:31:43","End":"11-30-2013 14:32:23"}}
+{"Application":{"ProcessName":"com.google.android.apps.maps:GoogleLocationService","Start":"11-30-2013 14:33:00","End":"11-30-2013 14:33:00"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 14:33:00","End":"11-30-2013 14:33:10"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 14:33:00","End":"11-30-2013 14:33:10"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 14:33:00","End":"11-30-2013 14:33:10"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 14:33:00","End":"11-30-2013 14:33:10"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 14:33:00","End":"11-30-2013 14:33:10"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 14:33:00","End":"11-30-2013 14:33:10"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 14:33:00","End":"11-30-2013 14:33:10"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 14:33:00","End":"11-30-2013 14:33:10"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.analogclocksimple","Start":"11-30-2013 14:33:00","End":"11-30-2013 14:33:10"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 14:33:00","End":"11-30-2013 14:33:10"}}
+{"SMS":{"Address":"+982000####","type":"1","date":"11-30-2013 15:15:06","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 15:15:11","End":"11-30-2013 15:15:37"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 15:15:11","End":"11-30-2013 15:16:06"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 15:15:37","End":"11-30-2013 15:16:06"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 15:15:11","End":"11-30-2013 15:16:06"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 15:15:11","End":"11-30-2013 15:16:06"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 15:15:11","End":"11-30-2013 15:16:06"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 15:15:11","End":"11-30-2013 15:16:06"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 15:15:11","End":"11-30-2013 15:16:06"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 15:15:11","End":"11-30-2013 15:16:06"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 15:15:11","End":"11-30-2013 15:16:06"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 15:15:11","End":"11-30-2013 15:16:06"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 15:18:21","End":"11-30-2013 15:18:53"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 15:18:21","End":"11-30-2013 15:18:53"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 15:18:21","End":"11-30-2013 15:18:53"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 15:18:21","End":"11-30-2013 15:18:53"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 15:18:21","End":"11-30-2013 15:18:53"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 15:18:21","End":"11-30-2013 15:18:53"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 15:18:21","End":"11-30-2013 15:18:53"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 15:18:21","End":"11-30-2013 15:18:53"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 15:18:21","End":"11-30-2013 15:18:53"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 15:18:21","End":"11-30-2013 15:18:53"}}
+{"SMS":{"Address":"+98919116####","type":"1","date":"11-30-2013 15:31:57","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Mashaei"}}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"SMS":{"Address":"+98919116####","type":"2","date":"11-30-2013 15:49:14","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Mashaei"}}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 15:49:09","End":"11-30-2013 15:49:29"}}
+{"SMS":{"Address":"+98919116####","type":"1","date":"11-30-2013 15:49:41","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Mashaei"}}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 15:49:39","End":"11-30-2013 15:49:49"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 15:49:49","End":"11-30-2013 15:49:49"}}
+{"Application":{"ProcessName":"com.sec.android.app.myfiles","Start":"11-30-2013 15:49:49","End":"11-30-2013 15:50:39"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 15:49:09","End":"11-30-2013 15:54:09"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 15:49:09","End":"11-30-2013 15:54:09"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 15:49:09","End":"11-30-2013 15:54:09"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 15:49:09","End":"11-30-2013 15:54:09"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 15:49:09","End":"11-30-2013 15:54:09"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 15:49:09","End":"11-30-2013 15:54:09"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 15:49:09","End":"11-30-2013 15:54:09"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 15:49:09","End":"11-30-2013 15:54:09"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 15:49:09","End":"11-30-2013 15:54:09"}}
+{"Application":{"ProcessName":"com.sec.android.app.clockpackage","Start":"11-30-2013 15:55:00","End":"11-30-2013 15:55:10"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.alarmclock","Start":"11-30-2013 15:55:00","End":"11-30-2013 15:55:10"}}
+{"Application":{"ProcessName":"com.pcvirt.Computer","Start":"11-30-2013 15:50:39","End":"11-30-2013 15:55:40"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.dualclockanalog","Start":"11-30-2013 15:56:00","End":"11-30-2013 15:56:10"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.dualclockanalog","Start":"11-30-2013 15:57:00","End":"11-30-2013 15:57:10"}}
+{"Application":{"ProcessName":"com.pcvirt.Computer","Start":"11-30-2013 15:55:40","End":"11-30-2013 15:58:50"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 15:54:09","End":"11-30-2013 15:59:10"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 15:54:09","End":"11-30-2013 15:59:10"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 15:54:09","End":"11-30-2013 15:59:10"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 15:54:09","End":"11-30-2013 15:59:10"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 15:54:09","End":"11-30-2013 15:59:10"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 15:54:09","End":"11-30-2013 15:59:10"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 15:54:09","End":"11-30-2013 15:59:10"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 15:54:10","End":"11-30-2013 15:59:10"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 15:54:10","End":"11-30-2013 15:59:10"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 15:59:10","End":"11-30-2013 16:01:07"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 15:59:10","End":"11-30-2013 16:01:07"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 15:59:10","End":"11-30-2013 16:01:07"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 15:59:10","End":"11-30-2013 16:01:07"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 15:59:10","End":"11-30-2013 16:01:07"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 15:59:10","End":"11-30-2013 16:01:07"}}
+{"Application":{"ProcessName":"com.sec.android.app.myfiles","Start":"11-30-2013 15:58:50","End":"11-30-2013 16:01:07"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 15:59:10","End":"11-30-2013 16:01:07"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 15:59:10","End":"11-30-2013 16:01:07"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 15:59:10","End":"11-30-2013 16:01:07"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 16:02:23","End":"11-30-2013 16:02:47"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 16:02:23","End":"11-30-2013 16:02:47"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 16:02:23","End":"11-30-2013 16:02:47"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 16:02:23","End":"11-30-2013 16:02:47"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 16:02:23","End":"11-30-2013 16:02:47"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 16:02:23","End":"11-30-2013 16:02:47"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 16:02:23","End":"11-30-2013 16:02:47"}}
+{"Application":{"ProcessName":"com.sec.android.app.myfiles","Start":"11-30-2013 16:02:23","End":"11-30-2013 16:02:47"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 16:02:23","End":"11-30-2013 16:02:47"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 16:02:23","End":"11-30-2013 16:02:47"}}
+{"SMS":{"Address":"+983000571171####","type":"1","date":"11-30-2013 16:07:54","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 16:08:00","End":"11-30-2013 16:08:52"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 16:08:00","End":"11-30-2013 16:08:52"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 16:08:00","End":"11-30-2013 16:08:52"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 16:08:00","End":"11-30-2013 16:08:52"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 16:08:00","End":"11-30-2013 16:08:52"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 16:08:00","End":"11-30-2013 16:08:52"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 16:08:00","End":"11-30-2013 16:08:52"}}
+{"Application":{"ProcessName":"com.sec.android.app.myfiles","Start":"11-30-2013 16:08:00","End":"11-30-2013 16:08:52"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 16:08:00","End":"11-30-2013 16:08:52"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.analogclocksimple","Start":"11-30-2013 16:08:00","End":"11-30-2013 16:08:52"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 16:08:00","End":"11-30-2013 16:08:52"}}
+{"SMS":{"Address":"+98912534####","type":"1","date":"11-30-2013 16:41:40","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Omid Hashem Zad"}}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 16:41:45","End":"11-30-2013 16:42:35"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 16:41:45","End":"11-30-2013 16:42:35"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 16:41:45","End":"11-30-2013 16:42:35"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 16:41:45","End":"11-30-2013 16:42:35"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 16:41:45","End":"11-30-2013 16:42:35"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 16:41:45","End":"11-30-2013 16:42:35"}}
+{"Application":{"ProcessName":"com.sec.android.app.myfiles","Start":"11-30-2013 16:41:45","End":"11-30-2013 16:42:35"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 16:41:45","End":"11-30-2013 16:42:35"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 16:41:45","End":"11-30-2013 16:42:35"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 16:41:45","End":"11-30-2013 16:42:35"}}
+{"SMS":{"Address":"+98919116####","type":"1","date":"11-30-2013 18:03:39","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Mashaei"}}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 18:03:42","End":"11-30-2013 18:04:19"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 18:03:42","End":"11-30-2013 18:04:19"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 18:03:42","End":"11-30-2013 18:04:19"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 18:03:42","End":"11-30-2013 18:04:19"}}
+{"Application":{"ProcessName":"com.sec.android.app.clockpackage","Start":"11-30-2013 18:03:42","End":"11-30-2013 18:04:19"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 18:03:42","End":"11-30-2013 18:04:19"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 18:03:42","End":"11-30-2013 18:04:19"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.alarmclock","Start":"11-30-2013 18:03:42","End":"11-30-2013 18:04:19"}}
+{"Application":{"ProcessName":"com.sec.android.app.myfiles","Start":"11-30-2013 18:03:42","End":"11-30-2013 18:04:19"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 18:03:42","End":"11-30-2013 18:04:19"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 18:03:42","End":"11-30-2013 18:04:19"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 18:03:42","End":"11-30-2013 18:04:19"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.app.myfiles","Start":"11-30-2013 18:49:53","End":"11-30-2013 18:50:03"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 18:50:03","End":"11-30-2013 18:50:53"}}
+{"SMS":{"Address":"+98912534####","type":"2","date":"11-30-2013 18:50:50","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Omid Hashem Zad"}}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Call": {"Number":"+98919116####","Duration":"53","Time":"11-30-2013 14:31:56","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.app.myfiles","Start":"11-30-2013 18:50:53","End":"11-30-2013 18:51:03"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.ap.hero.accuweather","Start":"11-30-2013 18:51:03","End":"11-30-2013 18:51:13"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 18:51:03","End":"11-30-2013 18:51:13"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 18:49:53","End":"11-30-2013 18:51:23"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 18:51:13","End":"11-30-2013 18:51:23"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 18:49:53","End":"11-30-2013 18:51:23"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 18:49:53","End":"11-30-2013 18:51:23"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 18:49:53","End":"11-30-2013 18:51:23"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 18:49:53","End":"11-30-2013 18:51:23"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 18:49:53","End":"11-30-2013 18:51:23"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 18:49:53","End":"11-30-2013 18:51:23"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 18:49:53","End":"11-30-2013 18:51:23"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 18:49:53","End":"11-30-2013 18:51:23"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 18:51:42","End":"11-30-2013 18:52:21"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 18:51:42","End":"11-30-2013 18:52:21"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 18:51:42","End":"11-30-2013 18:52:21"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 18:51:42","End":"11-30-2013 18:52:21"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 18:51:42","End":"11-30-2013 18:52:21"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 18:51:42","End":"11-30-2013 18:52:21"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 18:51:42","End":"11-30-2013 18:52:21"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 18:51:42","End":"11-30-2013 18:52:21"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 18:51:42","End":"11-30-2013 18:52:21"}}
+{"Call": {"Number":"+98912534####","Duration":"48","Time":"11-30-2013 18:51:37","Type":"1"}}
+{"Call": {"Number":"+98912534####","Duration":"48","Time":"11-30-2013 18:51:37","Type":"1"}}
+{"Call": {"Number":"+98912534####","Duration":"48","Time":"11-30-2013 18:51:37","Type":"1"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 18:52:47","End":"11-30-2013 18:52:57"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 18:52:47","End":"11-30-2013 18:52:57"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 18:52:47","End":"11-30-2013 18:52:57"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 18:52:47","End":"11-30-2013 18:52:57"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 18:52:47","End":"11-30-2013 18:52:57"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 18:52:47","End":"11-30-2013 18:52:57"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 18:52:47","End":"11-30-2013 18:52:57"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 18:52:47","End":"11-30-2013 18:52:57"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 18:52:47","End":"11-30-2013 18:52:57"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 18:52:47","End":"11-30-2013 18:52:57"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 19:24:26","End":"11-30-2013 19:26:29"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 19:24:26","End":"11-30-2013 19:26:29"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 19:24:26","End":"11-30-2013 19:26:29"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 19:24:26","End":"11-30-2013 19:26:29"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 19:24:26","End":"11-30-2013 19:26:29"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 19:24:26","End":"11-30-2013 19:26:29"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 19:24:26","End":"11-30-2013 19:26:29"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 19:24:26","End":"11-30-2013 19:26:29"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 19:24:26","End":"11-30-2013 19:26:29"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 19:24:26","End":"11-30-2013 19:26:29"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 19:28:15","End":"11-30-2013 19:28:25"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 19:28:15","End":"11-30-2013 19:28:25"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 19:28:15","End":"11-30-2013 19:28:25"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 19:28:15","End":"11-30-2013 19:28:25"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 19:28:15","End":"11-30-2013 19:28:25"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 19:28:15","End":"11-30-2013 19:28:25"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 19:28:15","End":"11-30-2013 19:28:25"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 19:28:15","End":"11-30-2013 19:28:25"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 19:28:15","End":"11-30-2013 19:28:25"}}
+{"Call": {"Number":"+98919116####","Duration":"135","Time":"11-30-2013 19:28:14","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"135","Time":"11-30-2013 19:28:14","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"135","Time":"11-30-2013 19:28:14","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"135","Time":"11-30-2013 19:28:14","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"135","Time":"11-30-2013 19:28:14","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"135","Time":"11-30-2013 19:28:14","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"135","Time":"11-30-2013 19:28:14","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"135","Time":"11-30-2013 19:28:14","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"135","Time":"11-30-2013 19:28:14","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"135","Time":"11-30-2013 19:28:14","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"135","Time":"11-30-2013 19:28:14","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"135","Time":"11-30-2013 19:28:14","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"135","Time":"11-30-2013 19:28:14","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"135","Time":"11-30-2013 19:28:14","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"135","Time":"11-30-2013 19:28:14","Type":"1"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 19:30:46","End":"11-30-2013 19:30:56"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 19:30:36","End":"11-30-2013 19:31:17"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 19:30:36","End":"11-30-2013 19:31:17"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 19:30:36","End":"11-30-2013 19:31:17"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 19:30:36","End":"11-30-2013 19:31:17"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 19:30:36","End":"11-30-2013 19:31:17"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 19:30:36","End":"11-30-2013 19:31:17"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 19:30:36","End":"11-30-2013 19:31:17"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"11-30-2013 19:30:56","End":"11-30-2013 19:31:17"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 19:30:36","End":"11-30-2013 19:31:17"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 19:30:36","End":"11-30-2013 19:31:17"}}
+{"SMS":{"Address":"+98910211####","type":"2","date":"11-30-2013 19:42:17","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Mammad Ghorbani"}}}
+{"Call": {"Number":"+98919116####","Duration":"135","Time":"11-30-2013 19:28:14","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"135","Time":"11-30-2013 19:28:14","Type":"1"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 19:42:13","End":"11-30-2013 19:42:23"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 19:42:13","End":"11-30-2013 19:42:23"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 19:42:13","End":"11-30-2013 19:42:23"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 19:42:13","End":"11-30-2013 19:42:23"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 19:42:13","End":"11-30-2013 19:42:23"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 19:42:13","End":"11-30-2013 19:42:23"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 19:42:13","End":"11-30-2013 19:42:23"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 19:42:13","End":"11-30-2013 19:42:23"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 19:42:13","End":"11-30-2013 19:42:23"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 19:42:13","End":"11-30-2013 19:42:23"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.analogclocksimple","Start":"11-30-2013 19:43:15","End":"11-30-2013 19:43:16"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 19:43:15","End":"11-30-2013 19:43:26"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 19:43:15","End":"11-30-2013 19:43:26"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 19:43:15","End":"11-30-2013 19:43:26"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 19:43:15","End":"11-30-2013 19:43:26"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 19:43:15","End":"11-30-2013 19:43:26"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 19:43:15","End":"11-30-2013 19:43:26"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 19:43:15","End":"11-30-2013 19:43:26"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 19:43:15","End":"11-30-2013 19:43:26"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 19:43:15","End":"11-30-2013 19:43:26"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"11-30-2013 19:43:52","End":"11-30-2013 19:43:52"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"SMS":{"Address":"+98910210####","type":"1","date":"11-30-2013 19:44:31","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Hasan Bagheri"}}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Application":{"ProcessName":"com.google.android.youtube","Start":"11-30-2013 19:44:32","End":"11-30-2013 19:44:42"}}
+{"Application":{"ProcessName":"com.sec.android.gallery3d","Start":"11-30-2013 19:44:02","End":"11-30-2013 19:44:42"}}
+{"Application":{"ProcessName":"com.sec.android.cloudagent","Start":"11-30-2013 19:44:12","End":"11-30-2013 19:44:42"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 19:43:52","End":"11-30-2013 19:46:43"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 19:44:42","End":"11-30-2013 19:46:43"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 19:43:52","End":"11-30-2013 19:46:43"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 19:43:52","End":"11-30-2013 19:46:43"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 19:43:52","End":"11-30-2013 19:46:43"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 19:43:52","End":"11-30-2013 19:46:43"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 19:43:52","End":"11-30-2013 19:46:43"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 19:43:52","End":"11-30-2013 19:46:43"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 19:43:52","End":"11-30-2013 19:46:43"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 19:43:52","End":"11-30-2013 19:46:43"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 19:47:03","End":"11-30-2013 19:49:23"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 19:49:23","End":"11-30-2013 19:49:44"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 19:47:03","End":"11-30-2013 19:50:14"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 19:47:03","End":"11-30-2013 19:50:14"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 19:47:03","End":"11-30-2013 19:50:14"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 19:47:03","End":"11-30-2013 19:50:14"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 19:47:03","End":"11-30-2013 19:50:14"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 19:47:03","End":"11-30-2013 19:50:14"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 19:47:03","End":"11-30-2013 19:50:14"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"11-30-2013 19:49:44","End":"11-30-2013 19:50:14"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 19:47:03","End":"11-30-2013 19:50:14"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 19:47:03","End":"11-30-2013 19:50:14"}}
+{"SMS":{"Address":"+98910210####","type":"1","date":"11-30-2013 19:56:03","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Hasan Bagheri"}}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 19:56:05","End":"11-30-2013 19:56:15"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 19:56:05","End":"11-30-2013 19:56:35"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 19:56:15","End":"11-30-2013 19:56:35"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 19:56:05","End":"11-30-2013 19:56:35"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 19:56:05","End":"11-30-2013 19:56:35"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 19:56:05","End":"11-30-2013 19:56:35"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 19:56:05","End":"11-30-2013 19:56:35"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 19:56:05","End":"11-30-2013 19:56:35"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 19:56:05","End":"11-30-2013 19:56:35"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 19:56:05","End":"11-30-2013 19:56:35"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 19:56:05","End":"11-30-2013 19:56:35"}}
+{"SMS":{"Address":"+98910210####","type":"2","date":"11-30-2013 19:56:31","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Hasan Bagheri"}}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Call": {"Number":"+98910210####","Duration":"32","Time":"11-30-2013 19:43:14","Type":"1"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.dualclockanalog","Start":"11-30-2013 20:02:08","End":"11-30-2013 20:02:18"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 20:02:08","End":"11-30-2013 20:02:18"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 20:02:08","End":"11-30-2013 20:02:18"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 20:02:08","End":"11-30-2013 20:02:18"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 20:02:08","End":"11-30-2013 20:02:18"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 20:02:08","End":"11-30-2013 20:02:18"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 20:02:08","End":"11-30-2013 20:02:18"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 20:02:08","End":"11-30-2013 20:02:18"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 20:02:08","End":"11-30-2013 20:02:18"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 20:02:08","End":"11-30-2013 20:02:18"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 20:02:08","End":"11-30-2013 20:02:18"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 20:27:24","End":"11-30-2013 20:27:34"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 20:27:34","End":"11-30-2013 20:27:44"}}
+{"Location":{"Latitude":"35.7634192","Longtitude":"51.4484379","Altitude":"0.0","time":"11-30-2013 20:27:47","Accuracy":"20.786","Provider":"network"}}
+{"WiFi":{"SSID":"wlan-ap","BSSID":"00:1d:92:12:ae:06","capabilities":"[WPA2-PSK-TKIP][ESS]","level":"-51","frequency":"2412","time":"Saturday, November 30, 2013 8:27:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-88","frequency":"2412","time":"Saturday, November 30, 2013 8:27:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-94","frequency":"2462","time":"Saturday, November 30, 2013 8:27:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"m.z.","BSSID":"80:b6:86:eb:bd:cf","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-95","frequency":"2432","time":"Saturday, November 30, 2013 8:27:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-64","frequency":"2472","time":"Saturday, November 30, 2013 8:27:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"PAYAMPayam","BSSID":"00:1f:fb:0c:ac:f2","capabilities":"[WEP][ESS]","level":"-85","frequency":"2427","time":"Saturday, November 30, 2013 8:27:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"wlan-ap","BSSID":"00:1d:92:12:ae:06","capabilities":"[WPA2-PSK-TKIP][ESS]","level":"-51","frequency":"2412","time":"Saturday, November 30, 2013 8:27:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-88","frequency":"2412","time":"Saturday, November 30, 2013 8:27:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-94","frequency":"2462","time":"Saturday, November 30, 2013 8:27:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"m.z.","BSSID":"80:b6:86:eb:bd:cf","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-95","frequency":"2432","time":"Saturday, November 30, 2013 8:27:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-64","frequency":"2472","time":"Saturday, November 30, 2013 8:27:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"PAYAMPayam","BSSID":"00:1f:fb:0c:ac:f2","capabilities":"[WEP][ESS]","level":"-85","frequency":"2427","time":"Saturday, November 30, 2013 8:27:54 PM Iran Standard Time"}}
+{"Location":{"Latitude":"35.763398","Longtitude":"51.4484944","Altitude":"0.0","time":"11-30-2013 20:28:11","Accuracy":"49.5","Provider":"network"}}
+{"Location":{"Latitude":"35.7633784","Longtitude":"51.4485023","Altitude":"0.0","time":"11-30-2013 20:28:27","Accuracy":"26.138","Provider":"network"}}
+{"Location":{"Latitude":"35.7633706","Longtitude":"51.4484711","Altitude":"0.0","time":"11-30-2013 20:28:47","Accuracy":"26.982","Provider":"network"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-89","frequency":"2412","time":"Saturday, November 30, 2013 8:28:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-100","frequency":"2462","time":"Saturday, November 30, 2013 8:28:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-55","frequency":"2472","time":"Saturday, November 30, 2013 8:28:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"PAYAMPayam","BSSID":"00:1f:fb:0c:ac:f2","capabilities":"[WEP][ESS]","level":"-79","frequency":"2427","time":"Saturday, November 30, 2013 8:28:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ghafari","BSSID":"74:ea:3a:d1:6f:d2","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-98","frequency":"2462","time":"Saturday, November 30, 2013 8:28:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"beigi","BSSID":"ac:e8:7b:ab:11:66","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-89","frequency":"2437","time":"Saturday, November 30, 2013 8:28:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"firouzi","BSSID":"1c:7e:e5:0c:3f:3b","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-100","frequency":"2412","time":"Saturday, November 30, 2013 8:28:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"m.z.","BSSID":"80:b6:86:eb:bd:cf","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-94","frequency":"2432","time":"Saturday, November 30, 2013 8:28:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-89","frequency":"2412","time":"Saturday, November 30, 2013 8:28:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-100","frequency":"2462","time":"Saturday, November 30, 2013 8:28:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-55","frequency":"2472","time":"Saturday, November 30, 2013 8:28:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"PAYAMPayam","BSSID":"00:1f:fb:0c:ac:f2","capabilities":"[WEP][ESS]","level":"-79","frequency":"2427","time":"Saturday, November 30, 2013 8:28:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ghafari","BSSID":"74:ea:3a:d1:6f:d2","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-98","frequency":"2462","time":"Saturday, November 30, 2013 8:28:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"beigi","BSSID":"ac:e8:7b:ab:11:66","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-89","frequency":"2437","time":"Saturday, November 30, 2013 8:28:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"firouzi","BSSID":"1c:7e:e5:0c:3f:3b","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-100","frequency":"2412","time":"Saturday, November 30, 2013 8:28:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"m.z.","BSSID":"80:b6:86:eb:bd:cf","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-94","frequency":"2432","time":"Saturday, November 30, 2013 8:28:54 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-30-2013 20:29:05","End":"11-30-2013 20:29:05"}}
+{"Location":{"Latitude":"35.7633921","Longtitude":"51.4485009","Altitude":"0.0","time":"11-30-2013 20:29:07","Accuracy":"27.247","Provider":"network"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 20:27:24","End":"11-30-2013 20:29:45"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 20:27:24","End":"11-30-2013 20:29:45"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 20:27:24","End":"11-30-2013 20:29:45"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 20:27:24","End":"11-30-2013 20:29:45"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 20:27:24","End":"11-30-2013 20:29:45"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 20:27:24","End":"11-30-2013 20:29:45"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 20:27:24","End":"11-30-2013 20:29:45"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 20:27:24","End":"11-30-2013 20:29:45"}}
+{"Application":{"ProcessName":"com.sec.android.app.popupcalculator","Start":"11-30-2013 20:27:44","End":"11-30-2013 20:29:45"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 20:27:24","End":"11-30-2013 20:29:45"}}
+{"Location":{"Latitude":"35.7633952","Longtitude":"51.4484762","Altitude":"0.0","time":"11-30-2013 20:29:47","Accuracy":"28.543","Provider":"network"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-86","frequency":"2412","time":"Saturday, November 30, 2013 8:29:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-55","frequency":"2472","time":"Saturday, November 30, 2013 8:29:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"PAYAMPayam","BSSID":"00:1f:fb:0c:ac:f2","capabilities":"[WEP][ESS]","level":"-77","frequency":"2427","time":"Saturday, November 30, 2013 8:29:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ghafari","BSSID":"74:ea:3a:d1:6f:d2","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-100","frequency":"2462","time":"Saturday, November 30, 2013 8:29:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"beigi","BSSID":"ac:e8:7b:ab:11:66","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-92","frequency":"2437","time":"Saturday, November 30, 2013 8:29:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-90","frequency":"2462","time":"Saturday, November 30, 2013 8:29:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-86","frequency":"2412","time":"Saturday, November 30, 2013 8:29:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-55","frequency":"2472","time":"Saturday, November 30, 2013 8:29:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"PAYAMPayam","BSSID":"00:1f:fb:0c:ac:f2","capabilities":"[WEP][ESS]","level":"-77","frequency":"2427","time":"Saturday, November 30, 2013 8:29:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ghafari","BSSID":"74:ea:3a:d1:6f:d2","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-100","frequency":"2462","time":"Saturday, November 30, 2013 8:29:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"beigi","BSSID":"ac:e8:7b:ab:11:66","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-92","frequency":"2437","time":"Saturday, November 30, 2013 8:29:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-90","frequency":"2462","time":"Saturday, November 30, 2013 8:29:54 PM Iran Standard Time"}}
+{"Location":{"Latitude":"35.761876","Longtitude":"51.4487792","Altitude":"0.0","time":"11-30-2013 20:30:07","Accuracy":"1212.0","Provider":"network"}}
+{"Location":{"Latitude":"35.763403","Longtitude":"51.4484847","Altitude":"0.0","time":"11-30-2013 20:30:28","Accuracy":"28.764","Provider":"network"}}
+{"Location":{"Latitude":"35.7633872","Longtitude":"51.4484982","Altitude":"0.0","time":"11-30-2013 20:30:52","Accuracy":"26.984","Provider":"network"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-93","frequency":"2412","time":"Saturday, November 30, 2013 8:30:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-56","frequency":"2472","time":"Saturday, November 30, 2013 8:30:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"PAYAMPayam","BSSID":"00:1f:fb:0c:ac:f2","capabilities":"[WEP][ESS]","level":"-79","frequency":"2427","time":"Saturday, November 30, 2013 8:30:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"beigi","BSSID":"ac:e8:7b:ab:11:66","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-89","frequency":"2437","time":"Saturday, November 30, 2013 8:30:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ghafari","BSSID":"74:ea:3a:d1:6f:d2","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-92","frequency":"2462","time":"Saturday, November 30, 2013 8:30:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"firouzi","BSSID":"1c:7e:e5:0c:3f:3b","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-94","frequency":"2412","time":"Saturday, November 30, 2013 8:30:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-88","frequency":"2462","time":"Saturday, November 30, 2013 8:30:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-93","frequency":"2412","time":"Saturday, November 30, 2013 8:30:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-56","frequency":"2472","time":"Saturday, November 30, 2013 8:30:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"PAYAMPayam","BSSID":"00:1f:fb:0c:ac:f2","capabilities":"[WEP][ESS]","level":"-79","frequency":"2427","time":"Saturday, November 30, 2013 8:30:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"beigi","BSSID":"ac:e8:7b:ab:11:66","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-89","frequency":"2437","time":"Saturday, November 30, 2013 8:30:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ghafari","BSSID":"74:ea:3a:d1:6f:d2","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-92","frequency":"2462","time":"Saturday, November 30, 2013 8:30:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"firouzi","BSSID":"1c:7e:e5:0c:3f:3b","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-94","frequency":"2412","time":"Saturday, November 30, 2013 8:30:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-88","frequency":"2462","time":"Saturday, November 30, 2013 8:30:55 PM Iran Standard Time"}}
+{"Location":{"Latitude":"35.7633963","Longtitude":"51.4484742","Altitude":"0.0","time":"11-30-2013 20:31:28","Accuracy":"28.714","Provider":"network"}}
+{"Location":{"Latitude":"35.761876","Longtitude":"51.4487792","Altitude":"0.0","time":"11-30-2013 20:31:48","Accuracy":"1212.0","Provider":"network"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-88","frequency":"2412","time":"Saturday, November 30, 2013 8:31:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-55","frequency":"2472","time":"Saturday, November 30, 2013 8:31:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"PAYAMPayam","BSSID":"00:1f:fb:0c:ac:f2","capabilities":"[WEP][ESS]","level":"-79","frequency":"2427","time":"Saturday, November 30, 2013 8:31:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"beigi","BSSID":"ac:e8:7b:ab:11:66","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2437","time":"Saturday, November 30, 2013 8:31:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-88","frequency":"2462","time":"Saturday, November 30, 2013 8:31:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"MOMA6383","BSSID":"40:4d:8e:d0:34:7b","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-100","frequency":"2412","time":"Saturday, November 30, 2013 8:31:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ghafari","BSSID":"74:ea:3a:d1:6f:d2","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-94","frequency":"2462","time":"Saturday, November 30, 2013 8:31:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"m.z.","BSSID":"80:b6:86:eb:bd:cf","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-96","frequency":"2432","time":"Saturday, November 30, 2013 8:31:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-88","frequency":"2412","time":"Saturday, November 30, 2013 8:31:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-55","frequency":"2472","time":"Saturday, November 30, 2013 8:31:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"PAYAMPayam","BSSID":"00:1f:fb:0c:ac:f2","capabilities":"[WEP][ESS]","level":"-79","frequency":"2427","time":"Saturday, November 30, 2013 8:31:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"beigi","BSSID":"ac:e8:7b:ab:11:66","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2437","time":"Saturday, November 30, 2013 8:31:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-88","frequency":"2462","time":"Saturday, November 30, 2013 8:31:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"MOMA6383","BSSID":"40:4d:8e:d0:34:7b","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-100","frequency":"2412","time":"Saturday, November 30, 2013 8:31:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ghafari","BSSID":"74:ea:3a:d1:6f:d2","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-94","frequency":"2462","time":"Saturday, November 30, 2013 8:31:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"m.z.","BSSID":"80:b6:86:eb:bd:cf","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-96","frequency":"2432","time":"Saturday, November 30, 2013 8:31:55 PM Iran Standard Time"}}
+{"Location":{"Latitude":"35.7633941","Longtitude":"51.448471","Altitude":"0.0","time":"11-30-2013 20:32:28","Accuracy":"28.694","Provider":"network"}}
+{"Location":{"Latitude":"35.761876","Longtitude":"51.4487792","Altitude":"0.0","time":"11-30-2013 20:32:48","Accuracy":"1212.0","Provider":"network"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-89","frequency":"2412","time":"Saturday, November 30, 2013 8:32:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-55","frequency":"2472","time":"Saturday, November 30, 2013 8:32:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"PAYAMPayam","BSSID":"00:1f:fb:0c:ac:f2","capabilities":"[WEP][ESS]","level":"-81","frequency":"2427","time":"Saturday, November 30, 2013 8:32:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"beigi","BSSID":"ac:e8:7b:ab:11:66","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2437","time":"Saturday, November 30, 2013 8:32:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-88","frequency":"2462","time":"Saturday, November 30, 2013 8:32:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ghafari","BSSID":"74:ea:3a:d1:6f:d2","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-94","frequency":"2462","time":"Saturday, November 30, 2013 8:32:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"MOMA6383","BSSID":"40:4d:8e:d0:34:7b","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-93","frequency":"2412","time":"Saturday, November 30, 2013 8:32:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"firouzi","BSSID":"1c:7e:e5:0c:3f:3b","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-94","frequency":"2412","time":"Saturday, November 30, 2013 8:32:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Arshia","BSSID":"b0:b2:dc:7c:8b:90","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-96","frequency":"2437","time":"Saturday, November 30, 2013 8:32:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-89","frequency":"2412","time":"Saturday, November 30, 2013 8:32:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-55","frequency":"2472","time":"Saturday, November 30, 2013 8:32:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"PAYAMPayam","BSSID":"00:1f:fb:0c:ac:f2","capabilities":"[WEP][ESS]","level":"-81","frequency":"2427","time":"Saturday, November 30, 2013 8:32:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"beigi","BSSID":"ac:e8:7b:ab:11:66","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2437","time":"Saturday, November 30, 2013 8:32:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-88","frequency":"2462","time":"Saturday, November 30, 2013 8:32:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ghafari","BSSID":"74:ea:3a:d1:6f:d2","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-94","frequency":"2462","time":"Saturday, November 30, 2013 8:32:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"MOMA6383","BSSID":"40:4d:8e:d0:34:7b","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-93","frequency":"2412","time":"Saturday, November 30, 2013 8:32:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"firouzi","BSSID":"1c:7e:e5:0c:3f:3b","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-94","frequency":"2412","time":"Saturday, November 30, 2013 8:32:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Arshia","BSSID":"b0:b2:dc:7c:8b:90","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-96","frequency":"2437","time":"Saturday, November 30, 2013 8:32:55 PM Iran Standard Time"}}
+{"Location":{"Latitude":"35.7633994","Longtitude":"51.4484846","Altitude":"0.0","time":"11-30-2013 20:33:08","Accuracy":"28.494","Provider":"network"}}
+{"Location":{"Latitude":"35.7633931","Longtitude":"51.4484719","Altitude":"0.0","time":"11-30-2013 20:33:33","Accuracy":"28.58","Provider":"network"}}
+{"Location":{"Latitude":"35.761876","Longtitude":"51.4487792","Altitude":"0.0","time":"11-30-2013 20:33:49","Accuracy":"1212.0","Provider":"network"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-88","frequency":"2412","time":"Saturday, November 30, 2013 8:33:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-58","frequency":"2472","time":"Saturday, November 30, 2013 8:33:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"PAYAMPayam","BSSID":"00:1f:fb:0c:ac:f2","capabilities":"[WEP][ESS]","level":"-78","frequency":"2427","time":"Saturday, November 30, 2013 8:33:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"beigi","BSSID":"ac:e8:7b:ab:11:66","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-88","frequency":"2437","time":"Saturday, November 30, 2013 8:33:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-91","frequency":"2462","time":"Saturday, November 30, 2013 8:33:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ghafari","BSSID":"74:ea:3a:d1:6f:d2","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-93","frequency":"2462","time":"Saturday, November 30, 2013 8:33:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Arshia","BSSID":"b0:b2:dc:7c:8b:90","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-96","frequency":"2437","time":"Saturday, November 30, 2013 8:33:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"m.z.","BSSID":"80:b6:86:eb:bd:cf","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-98","frequency":"2432","time":"Saturday, November 30, 2013 8:33:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"MOMA6383","BSSID":"40:4d:8e:d0:34:7b","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-99","frequency":"2412","time":"Saturday, November 30, 2013 8:33:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-88","frequency":"2412","time":"Saturday, November 30, 2013 8:33:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-58","frequency":"2472","time":"Saturday, November 30, 2013 8:33:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"PAYAMPayam","BSSID":"00:1f:fb:0c:ac:f2","capabilities":"[WEP][ESS]","level":"-78","frequency":"2427","time":"Saturday, November 30, 2013 8:33:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"beigi","BSSID":"ac:e8:7b:ab:11:66","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-88","frequency":"2437","time":"Saturday, November 30, 2013 8:33:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-91","frequency":"2462","time":"Saturday, November 30, 2013 8:33:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ghafari","BSSID":"74:ea:3a:d1:6f:d2","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-93","frequency":"2462","time":"Saturday, November 30, 2013 8:33:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Arshia","BSSID":"b0:b2:dc:7c:8b:90","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-96","frequency":"2437","time":"Saturday, November 30, 2013 8:33:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"m.z.","BSSID":"80:b6:86:eb:bd:cf","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-98","frequency":"2432","time":"Saturday, November 30, 2013 8:33:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"MOMA6383","BSSID":"40:4d:8e:d0:34:7b","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-99","frequency":"2412","time":"Saturday, November 30, 2013 8:33:55 PM Iran Standard Time"}}
+{"Location":{"Latitude":"35.7634337","Longtitude":"51.4484684","Altitude":"0.0","time":"11-30-2013 20:34:09","Accuracy":"31.808","Provider":"network"}}
+{"Location":{"Latitude":"35.7634235","Longtitude":"51.4484598","Altitude":"0.0","time":"11-30-2013 20:34:29","Accuracy":"33.0","Provider":"network"}}
+{"Location":{"Latitude":"35.761876","Longtitude":"51.4487792","Altitude":"0.0","time":"11-30-2013 20:34:53","Accuracy":"1212.0","Provider":"network"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-88","frequency":"2412","time":"Saturday, November 30, 2013 8:34:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-55","frequency":"2472","time":"Saturday, November 30, 2013 8:34:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"PAYAMPayam","BSSID":"00:1f:fb:0c:ac:f2","capabilities":"[WEP][ESS]","level":"-79","frequency":"2427","time":"Saturday, November 30, 2013 8:34:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"beigi","BSSID":"ac:e8:7b:ab:11:66","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2437","time":"Saturday, November 30, 2013 8:34:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-90","frequency":"2462","time":"Saturday, November 30, 2013 8:34:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ghafari","BSSID":"74:ea:3a:d1:6f:d2","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-97","frequency":"2462","time":"Saturday, November 30, 2013 8:34:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"MOMA6383","BSSID":"40:4d:8e:d0:34:7b","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-98","frequency":"2412","time":"Saturday, November 30, 2013 8:34:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-88","frequency":"2412","time":"Saturday, November 30, 2013 8:34:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-55","frequency":"2472","time":"Saturday, November 30, 2013 8:34:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"PAYAMPayam","BSSID":"00:1f:fb:0c:ac:f2","capabilities":"[WEP][ESS]","level":"-79","frequency":"2427","time":"Saturday, November 30, 2013 8:34:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"beigi","BSSID":"ac:e8:7b:ab:11:66","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2437","time":"Saturday, November 30, 2013 8:34:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-90","frequency":"2462","time":"Saturday, November 30, 2013 8:34:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ghafari","BSSID":"74:ea:3a:d1:6f:d2","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-97","frequency":"2462","time":"Saturday, November 30, 2013 8:34:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"MOMA6383","BSSID":"40:4d:8e:d0:34:7b","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-98","frequency":"2412","time":"Saturday, November 30, 2013 8:34:55 PM Iran Standard Time"}}
+{"Location":{"Latitude":"35.7633983","Longtitude":"51.4484941","Altitude":"0.0","time":"11-30-2013 20:35:29","Accuracy":"28.008","Provider":"network"}}
+{"Location":{"Latitude":"35.761876","Longtitude":"51.4487792","Altitude":"0.0","time":"11-30-2013 20:35:49","Accuracy":"1212.0","Provider":"network"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-85","frequency":"2412","time":"Saturday, November 30, 2013 8:35:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-55","frequency":"2472","time":"Saturday, November 30, 2013 8:35:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"PAYAMPayam","BSSID":"00:1f:fb:0c:ac:f2","capabilities":"[WEP][ESS]","level":"-79","frequency":"2427","time":"Saturday, November 30, 2013 8:35:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"beigi","BSSID":"ac:e8:7b:ab:11:66","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-89","frequency":"2437","time":"Saturday, November 30, 2013 8:35:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-95","frequency":"2462","time":"Saturday, November 30, 2013 8:35:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ghafari","BSSID":"74:ea:3a:d1:6f:d2","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-92","frequency":"2462","time":"Saturday, November 30, 2013 8:35:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"MOMA6383","BSSID":"40:4d:8e:d0:34:7b","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-97","frequency":"2412","time":"Saturday, November 30, 2013 8:35:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-85","frequency":"2412","time":"Saturday, November 30, 2013 8:35:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-55","frequency":"2472","time":"Saturday, November 30, 2013 8:35:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"PAYAMPayam","BSSID":"00:1f:fb:0c:ac:f2","capabilities":"[WEP][ESS]","level":"-79","frequency":"2427","time":"Saturday, November 30, 2013 8:35:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"beigi","BSSID":"ac:e8:7b:ab:11:66","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-89","frequency":"2437","time":"Saturday, November 30, 2013 8:35:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-95","frequency":"2462","time":"Saturday, November 30, 2013 8:35:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ghafari","BSSID":"74:ea:3a:d1:6f:d2","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-92","frequency":"2462","time":"Saturday, November 30, 2013 8:35:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"MOMA6383","BSSID":"40:4d:8e:d0:34:7b","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-97","frequency":"2412","time":"Saturday, November 30, 2013 8:35:55 PM Iran Standard Time"}}
+{"Location":{"Latitude":"35.7633788","Longtitude":"51.4485058","Altitude":"0.0","time":"11-30-2013 20:36:14","Accuracy":"26.019","Provider":"network"}}
+{"Location":{"Latitude":"35.761876","Longtitude":"51.4487792","Altitude":"0.0","time":"11-30-2013 20:36:29","Accuracy":"1212.0","Provider":"network"}}
+{"Location":{"Latitude":"35.7634008","Longtitude":"51.4484722","Altitude":"0.0","time":"11-30-2013 20:36:49","Accuracy":"29.139","Provider":"network"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-85","frequency":"2412","time":"Saturday, November 30, 2013 8:36:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-58","frequency":"2472","time":"Saturday, November 30, 2013 8:36:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"PAYAMPayam","BSSID":"00:1f:fb:0c:ac:f2","capabilities":"[WEP][ESS]","level":"-79","frequency":"2427","time":"Saturday, November 30, 2013 8:36:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"beigi","BSSID":"ac:e8:7b:ab:11:66","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-93","frequency":"2437","time":"Saturday, November 30, 2013 8:36:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-89","frequency":"2462","time":"Saturday, November 30, 2013 8:36:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ghafari","BSSID":"74:ea:3a:d1:6f:d2","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-92","frequency":"2462","time":"Saturday, November 30, 2013 8:36:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-85","frequency":"2412","time":"Saturday, November 30, 2013 8:36:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-58","frequency":"2472","time":"Saturday, November 30, 2013 8:36:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"PAYAMPayam","BSSID":"00:1f:fb:0c:ac:f2","capabilities":"[WEP][ESS]","level":"-79","frequency":"2427","time":"Saturday, November 30, 2013 8:36:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"beigi","BSSID":"ac:e8:7b:ab:11:66","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-93","frequency":"2437","time":"Saturday, November 30, 2013 8:36:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-89","frequency":"2462","time":"Saturday, November 30, 2013 8:36:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ghafari","BSSID":"74:ea:3a:d1:6f:d2","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-92","frequency":"2462","time":"Saturday, November 30, 2013 8:36:55 PM Iran Standard Time"}}
+{"Location":{"Latitude":"35.761876","Longtitude":"51.4487792","Altitude":"0.0","time":"11-30-2013 20:37:09","Accuracy":"1212.0","Provider":"network"}}
+{"Location":{"Latitude":"35.7633725","Longtitude":"51.4484561","Altitude":"0.0","time":"11-30-2013 20:37:29","Accuracy":"25.05","Provider":"network"}}
+{"Call": {"Number":"+98939102####","Duration":"15","Time":"11-30-2013 20:37:10","Type":"1"}}
+{"Call": {"Number":"+98939102####","Duration":"15","Time":"11-30-2013 20:37:10","Type":"1"}}
+{"Call": {"Number":"+98939102####","Duration":"15","Time":"11-30-2013 20:37:10","Type":"1"}}
+{"Location":{"Latitude":"35.761876","Longtitude":"51.4487792","Altitude":"0.0","time":"11-30-2013 20:37:52","Accuracy":"1212.0","Provider":"network"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-85","frequency":"2412","time":"Saturday, November 30, 2013 8:38:01 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-55","frequency":"2472","time":"Saturday, November 30, 2013 8:38:01 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"PAYAMPayam","BSSID":"00:1f:fb:0c:ac:f2","capabilities":"[WEP][ESS]","level":"-81","frequency":"2427","time":"Saturday, November 30, 2013 8:38:01 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-88","frequency":"2462","time":"Saturday, November 30, 2013 8:38:01 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ghafari","BSSID":"74:ea:3a:d1:6f:d2","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-91","frequency":"2462","time":"Saturday, November 30, 2013 8:38:01 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"beigi","BSSID":"ac:e8:7b:ab:11:66","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-92","frequency":"2437","time":"Saturday, November 30, 2013 8:38:01 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Arshia","BSSID":"b0:b2:dc:7c:8b:90","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-94","frequency":"2437","time":"Saturday, November 30, 2013 8:38:01 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"MOMA6383","BSSID":"40:4d:8e:d0:34:7b","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-96","frequency":"2412","time":"Saturday, November 30, 2013 8:38:01 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-85","frequency":"2412","time":"Saturday, November 30, 2013 8:38:01 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-55","frequency":"2472","time":"Saturday, November 30, 2013 8:38:01 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"PAYAMPayam","BSSID":"00:1f:fb:0c:ac:f2","capabilities":"[WEP][ESS]","level":"-81","frequency":"2427","time":"Saturday, November 30, 2013 8:38:01 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-88","frequency":"2462","time":"Saturday, November 30, 2013 8:38:01 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ghafari","BSSID":"74:ea:3a:d1:6f:d2","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-91","frequency":"2462","time":"Saturday, November 30, 2013 8:38:01 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"beigi","BSSID":"ac:e8:7b:ab:11:66","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-92","frequency":"2437","time":"Saturday, November 30, 2013 8:38:01 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Arshia","BSSID":"b0:b2:dc:7c:8b:90","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-94","frequency":"2437","time":"Saturday, November 30, 2013 8:38:01 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"MOMA6383","BSSID":"40:4d:8e:d0:34:7b","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-96","frequency":"2412","time":"Saturday, November 30, 2013 8:38:01 PM Iran Standard Time"}}
+{"Location":{"Latitude":"35.7633951","Longtitude":"51.4485193","Altitude":"0.0","time":"11-30-2013 20:38:14","Accuracy":"48.0","Provider":"network"}}
+{"Location":{"Latitude":"35.761876","Longtitude":"51.4487792","Altitude":"0.0","time":"11-30-2013 20:38:34","Accuracy":"1212.0","Provider":"network"}}
+{"Location":{"Latitude":"35.7633428","Longtitude":"51.4484919","Altitude":"0.0","time":"11-30-2013 20:38:54","Accuracy":"27.908","Provider":"network"}}
+{"Location":{"Latitude":"35.761876","Longtitude":"51.4487792","Altitude":"0.0","time":"11-30-2013 20:39:14","Accuracy":"1212.0","Provider":"network"}}
+{"Location":{"Latitude":"35.7634109","Longtitude":"51.4485236","Altitude":"0.0","time":"11-30-2013 20:39:34","Accuracy":"52.5","Provider":"network"}}
+{"Location":{"Latitude":"35.761876","Longtitude":"51.4487792","Altitude":"0.0","time":"11-30-2013 20:39:54","Accuracy":"1212.0","Provider":"network"}}
+{"Location":{"Latitude":"35.7634326","Longtitude":"51.4485261","Altitude":"0.0","time":"11-30-2013 20:40:14","Accuracy":"29.561","Provider":"network"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-88","frequency":"2412","time":"Saturday, November 30, 2013 8:40:15 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-84","frequency":"2472","time":"Saturday, November 30, 2013 8:40:15 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"PAYAMPayam","BSSID":"00:1f:fb:0c:ac:f2","capabilities":"[WEP][ESS]","level":"-84","frequency":"2427","time":"Saturday, November 30, 2013 8:40:15 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-90","frequency":"2462","time":"Saturday, November 30, 2013 8:40:15 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"beigi","BSSID":"ac:e8:7b:ab:11:66","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-95","frequency":"2437","time":"Saturday, November 30, 2013 8:40:15 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"m.z.","BSSID":"80:b6:86:eb:bd:cf","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-94","frequency":"2432","time":"Saturday, November 30, 2013 8:40:15 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"firouzi","BSSID":"1c:7e:e5:0c:3f:3b","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-96","frequency":"2412","time":"Saturday, November 30, 2013 8:40:15 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-88","frequency":"2412","time":"Saturday, November 30, 2013 8:40:15 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-84","frequency":"2472","time":"Saturday, November 30, 2013 8:40:15 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"PAYAMPayam","BSSID":"00:1f:fb:0c:ac:f2","capabilities":"[WEP][ESS]","level":"-84","frequency":"2427","time":"Saturday, November 30, 2013 8:40:15 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-90","frequency":"2462","time":"Saturday, November 30, 2013 8:40:15 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"beigi","BSSID":"ac:e8:7b:ab:11:66","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-95","frequency":"2437","time":"Saturday, November 30, 2013 8:40:15 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"m.z.","BSSID":"80:b6:86:eb:bd:cf","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-94","frequency":"2432","time":"Saturday, November 30, 2013 8:40:15 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"firouzi","BSSID":"1c:7e:e5:0c:3f:3b","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-96","frequency":"2412","time":"Saturday, November 30, 2013 8:40:15 PM Iran Standard Time"}}
+{"Location":{"Latitude":"35.761876","Longtitude":"51.4487792","Altitude":"0.0","time":"11-30-2013 20:40:35","Accuracy":"1212.0","Provider":"network"}}
+{"Location":{"Latitude":"35.7634001","Longtitude":"51.4484671","Altitude":"0.0","time":"11-30-2013 20:41:15","Accuracy":"29.315","Provider":"network"}}
+{"Location":{"Latitude":"35.7631299","Longtitude":"51.4483238","Altitude":"0.0","time":"11-30-2013 20:41:35","Accuracy":"48.0","Provider":"network"}}
+{"Location":{"Latitude":"35.76316","Longtitude":"51.448487","Altitude":"0.0","time":"11-30-2013 20:41:55","Accuracy":"40.5","Provider":"network"}}
+{"Location":{"Latitude":"35.7632082","Longtitude":"51.4486218","Altitude":"0.0","time":"11-30-2013 20:42:16","Accuracy":"31.0","Provider":"network"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-85","frequency":"2472","time":"Saturday, November 30, 2013 8:42:34 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"beigi","BSSID":"ac:e8:7b:ab:11:66","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2437","time":"Saturday, November 30, 2013 8:42:34 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-96","frequency":"2412","time":"Saturday, November 30, 2013 8:42:34 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"417860","BSSID":"00:1f:fb:41:78:60","capabilities":"[WEP][ESS]","level":"-85","frequency":"2472","time":"Saturday, November 30, 2013 8:42:34 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"beigi","BSSID":"ac:e8:7b:ab:11:66","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2437","time":"Saturday, November 30, 2013 8:42:34 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"rosa","BSSID":"00:0d:f0:a7:a6:f4","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-96","frequency":"2412","time":"Saturday, November 30, 2013 8:42:34 PM Iran Standard Time"}}
+{"Location":{"Latitude":"35.7633875","Longtitude":"51.4484472","Altitude":"0.0","time":"11-30-2013 20:42:36","Accuracy":"55.5","Provider":"network"}}
+{"Location":{"Latitude":"35.7633547","Longtitude":"51.4484383","Altitude":"0.0","time":"11-30-2013 20:42:56","Accuracy":"30.0","Provider":"network"}}
+{"Location":{"Latitude":"35.761876","Longtitude":"51.4487792","Altitude":"0.0","time":"11-30-2013 20:43:36","Accuracy":"1212.0","Provider":"network"}}
+{"Location":{"Latitude":"35.7635221","Longtitude":"51.4478936","Altitude":"0.0","time":"11-30-2013 20:43:56","Accuracy":"42.0","Provider":"network"}}
+{"Location":{"Latitude":"35.761876","Longtitude":"51.4487792","Altitude":"0.0","time":"11-30-2013 20:44:16","Accuracy":"1212.0","Provider":"network"}}
+{"WiFi":{"SSID":"DLink","BSSID":"14:d6:4d:98:3d:19","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-86","frequency":"2412","time":"Saturday, November 30, 2013 8:44:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"reza","BSSID":"1c:bd:b9:79:87:c1","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-80","frequency":"2437","time":"Saturday, November 30, 2013 8:44:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"shopa","BSSID":"04:c0:6f:60:56:8e","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-85","frequency":"2452","time":"Saturday, November 30, 2013 8:44:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-94","frequency":"2462","time":"Saturday, November 30, 2013 8:44:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Kiana","BSSID":"ac:81:12:72:49:79","capabilities":"[WPA2-PSK-TKIP][ESS]","level":"-97","frequency":"2412","time":"Saturday, November 30, 2013 8:44:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"DLink","BSSID":"14:d6:4d:98:3d:19","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-86","frequency":"2412","time":"Saturday, November 30, 2013 8:44:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"reza","BSSID":"1c:bd:b9:79:87:c1","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-80","frequency":"2437","time":"Saturday, November 30, 2013 8:44:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"shopa","BSSID":"04:c0:6f:60:56:8e","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-85","frequency":"2452","time":"Saturday, November 30, 2013 8:44:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Siamak.","BSSID":"f4:3e:61:a6:75:4a","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-94","frequency":"2462","time":"Saturday, November 30, 2013 8:44:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Kiana","BSSID":"ac:81:12:72:49:79","capabilities":"[WPA2-PSK-TKIP][ESS]","level":"-97","frequency":"2412","time":"Saturday, November 30, 2013 8:44:54 PM Iran Standard Time"}}
+{"Call": {"Number":"+98919116####","Duration":"8","Time":"11-30-2013 20:45:34","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"8","Time":"11-30-2013 20:45:34","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"8","Time":"11-30-2013 20:45:34","Type":"1"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 20:45:41","End":"11-30-2013 20:46:01"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 20:45:41","End":"11-30-2013 20:46:01"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 20:45:41","End":"11-30-2013 20:46:01"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 20:45:41","End":"11-30-2013 20:46:01"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 20:45:41","End":"11-30-2013 20:46:01"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 20:45:41","End":"11-30-2013 20:46:01"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 20:45:41","End":"11-30-2013 20:46:01"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 20:45:41","End":"11-30-2013 20:46:01"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 20:45:41","End":"11-30-2013 20:46:01"}}
+{"WiFi":{"SSID":"linksys24M","BSSID":"00:1d:7e:29:ab:bf","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-83","frequency":"2462","time":"Saturday, November 30, 2013 8:47:00 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"gilda","BSSID":"cc:5d:4e:83:22:fc","capabilities":"[WPA-PSK-TKIP][WPS][ESS]","level":"-88","frequency":"2427","time":"Saturday, November 30, 2013 8:47:00 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"BM632w-B1A687","BSSID":"80:b6:86:b1:a6:88","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-92","frequency":"2432","time":"Saturday, November 30, 2013 8:47:00 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Behnoush","BSSID":"cc:5d:4e:82:c7:24","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2437","time":"Saturday, November 30, 2013 8:47:00 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ZyXEL","BSSID":"c8:6c:87:8c:29:2c","capabilities":"[WPA-PSK-TKIP][WPS][ESS]","level":"-94","frequency":"2472","time":"Saturday, November 30, 2013 8:47:00 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"20:cf:30:97:e9:f0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2452","time":"Saturday, November 30, 2013 8:47:00 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_EB0DDE","BSSID":"00:27:19:eb:0d:de","capabilities":"[ESS]","level":"-92","frequency":"2437","time":"Saturday, November 30, 2013 8:47:00 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"linksys24M","BSSID":"00:1d:7e:29:ab:bf","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-83","frequency":"2462","time":"Saturday, November 30, 2013 8:47:00 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"gilda","BSSID":"cc:5d:4e:83:22:fc","capabilities":"[WPA-PSK-TKIP][WPS][ESS]","level":"-88","frequency":"2427","time":"Saturday, November 30, 2013 8:47:00 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"BM632w-B1A687","BSSID":"80:b6:86:b1:a6:88","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-92","frequency":"2432","time":"Saturday, November 30, 2013 8:47:00 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Behnoush","BSSID":"cc:5d:4e:82:c7:24","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2437","time":"Saturday, November 30, 2013 8:47:00 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ZyXEL","BSSID":"c8:6c:87:8c:29:2c","capabilities":"[WPA-PSK-TKIP][WPS][ESS]","level":"-94","frequency":"2472","time":"Saturday, November 30, 2013 8:47:00 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"20:cf:30:97:e9:f0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2452","time":"Saturday, November 30, 2013 8:47:00 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_EB0DDE","BSSID":"00:27:19:eb:0d:de","capabilities":"[ESS]","level":"-92","frequency":"2437","time":"Saturday, November 30, 2013 8:47:00 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"DLink","BSSID":"84:c9:b2:c5:16:01","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-89","frequency":"2412","time":"Saturday, November 30, 2013 8:51:07 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ZyXEL","BSSID":"50:67:f0:e8:63:d8","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-97","frequency":"2432","time":"Saturday, November 30, 2013 8:51:07 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"HATEF","BSSID":"f4:ec:38:d5:e1:cc","capabilities":"[WEP][ESS]","level":"-95","frequency":"2412","time":"Saturday, November 30, 2013 8:51:07 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"DLink","BSSID":"84:c9:b2:c5:16:01","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-89","frequency":"2412","time":"Saturday, November 30, 2013 8:51:07 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ZyXEL","BSSID":"50:67:f0:e8:63:d8","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-97","frequency":"2432","time":"Saturday, November 30, 2013 8:51:07 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"HATEF","BSSID":"f4:ec:38:d5:e1:cc","capabilities":"[WEP][ESS]","level":"-95","frequency":"2412","time":"Saturday, November 30, 2013 8:51:07 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"FAVA","BSSID":"28:10:7b:d6:2a:d0","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2412","time":"Saturday, November 30, 2013 8:55:24 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"thunder","BSSID":"b0:b2:dc:20:7c:cb","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-90","frequency":"2437","time":"Saturday, November 30, 2013 8:55:24 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Thunder Sahra","BSSID":"d4:ca:6d:2b:8d:58","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2412","time":"Saturday, November 30, 2013 8:55:24 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"FAVA","BSSID":"28:10:7b:d6:2f:90","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-92","frequency":"2412","time":"Saturday, November 30, 2013 8:55:24 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"atlasgalaxy.wlan1","BSSID":"b0:48:7a:de:50:2f","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2412","time":"Saturday, November 30, 2013 8:55:24 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"linksys","BSSID":"00:12:17:19:24:9d","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-94","frequency":"2462","time":"Saturday, November 30, 2013 8:55:24 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"FAVA","BSSID":"28:10:7b:d6:2a:d0","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2412","time":"Saturday, November 30, 2013 8:55:24 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"thunder","BSSID":"b0:b2:dc:20:7c:cb","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-90","frequency":"2437","time":"Saturday, November 30, 2013 8:55:24 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Thunder Sahra","BSSID":"d4:ca:6d:2b:8d:58","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2412","time":"Saturday, November 30, 2013 8:55:24 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"FAVA","BSSID":"28:10:7b:d6:2f:90","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-92","frequency":"2412","time":"Saturday, November 30, 2013 8:55:24 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"atlasgalaxy.wlan1","BSSID":"b0:48:7a:de:50:2f","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2412","time":"Saturday, November 30, 2013 8:55:24 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"linksys","BSSID":"00:12:17:19:24:9d","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-94","frequency":"2462","time":"Saturday, November 30, 2013 8:55:24 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"MikroTik22","BSSID":"00:15:6d:6a:9a:b1","capabilities":"[ESS]","level":"-90","frequency":"5260","time":"Saturday, November 30, 2013 8:59:19 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"MikroTik22","BSSID":"00:15:6d:6a:9a:b1","capabilities":"[ESS]","level":"-90","frequency":"5260","time":"Saturday, November 30, 2013 8:59:19 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Hanieh","BSSID":"6c:fd:b9:8c:f2:1d","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-85","frequency":"2412","time":"Saturday, November 30, 2013 9:03:29 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Sajadi","BSSID":"00:0d:f0:a7:a4:f9","capabilities":"[WPA2-PSK-TKIP][ESS]","level":"-93","frequency":"2422","time":"Saturday, November 30, 2013 9:03:29 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Moji","BSSID":"5c:4c:a9:ab:ae:87","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-94","frequency":"2447","time":"Saturday, November 30, 2013 9:03:29 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"erfan","BSSID":"ec:23:3d:6d:ee:82","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-94","frequency":"2442","time":"Saturday, November 30, 2013 9:03:29 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Hakimi","BSSID":"c8:6c:87:62:84:55","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-94","frequency":"2462","time":"Saturday, November 30, 2013 9:03:29 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"MMI7","BSSID":"c8:d1:5e:b7:eb:27","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-96","frequency":"2462","time":"Saturday, November 30, 2013 9:03:29 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"amir","BSSID":"00:1f:fb:35:19:12","capabilities":"[WEP][ESS]","level":"-94","frequency":"2422","time":"Saturday, November 30, 2013 9:03:29 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"kimia","BSSID":"f4:3e:61:a6:39:be","capabilities":"[WEP][ESS]","level":"-96","frequency":"2462","time":"Saturday, November 30, 2013 9:03:29 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Hanieh","BSSID":"6c:fd:b9:8c:f2:1d","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-85","frequency":"2412","time":"Saturday, November 30, 2013 9:03:29 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Sajadi","BSSID":"00:0d:f0:a7:a4:f9","capabilities":"[WPA2-PSK-TKIP][ESS]","level":"-93","frequency":"2422","time":"Saturday, November 30, 2013 9:03:29 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Moji","BSSID":"5c:4c:a9:ab:ae:87","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-94","frequency":"2447","time":"Saturday, November 30, 2013 9:03:29 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"erfan","BSSID":"ec:23:3d:6d:ee:82","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-94","frequency":"2442","time":"Saturday, November 30, 2013 9:03:29 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Hakimi","BSSID":"c8:6c:87:62:84:55","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-94","frequency":"2462","time":"Saturday, November 30, 2013 9:03:29 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"MMI7","BSSID":"c8:d1:5e:b7:eb:27","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-96","frequency":"2462","time":"Saturday, November 30, 2013 9:03:29 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"amir","BSSID":"00:1f:fb:35:19:12","capabilities":"[WEP][ESS]","level":"-94","frequency":"2422","time":"Saturday, November 30, 2013 9:03:29 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"kimia","BSSID":"f4:3e:61:a6:39:be","capabilities":"[WEP][ESS]","level":"-96","frequency":"2462","time":"Saturday, November 30, 2013 9:03:29 PM Iran Standard Time"}}
+{"SMS":{"Address":"+98919116####","type":"1","date":"11-30-2013 21:06:33","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Mashaei"}}}
+{"Call": {"Number":"+98919116####","Duration":"8","Time":"11-30-2013 20:45:34","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"8","Time":"11-30-2013 20:45:34","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"8","Time":"11-30-2013 20:45:34","Type":"1"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 21:06:37","End":"11-30-2013 21:06:43"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 21:06:37","End":"11-30-2013 21:06:43"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 21:06:37","End":"11-30-2013 21:06:43"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 21:06:37","End":"11-30-2013 21:06:43"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 21:06:37","End":"11-30-2013 21:06:43"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 21:06:37","End":"11-30-2013 21:06:43"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 21:06:37","End":"11-30-2013 21:06:43"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 21:06:37","End":"11-30-2013 21:06:43"}}
+{"Application":{"ProcessName":"com.sec.android.app.popupcalculator","Start":"11-30-2013 21:06:37","End":"11-30-2013 21:06:43"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 21:06:37","End":"11-30-2013 21:06:43"}}
+{"Call": {"Number":"+98919116####","Duration":"8","Time":"11-30-2013 20:45:34","Type":"1"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 21:08:27","End":"11-30-2013 21:09:37"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 21:08:27","End":"11-30-2013 21:09:37"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 21:08:27","End":"11-30-2013 21:09:37"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 21:08:27","End":"11-30-2013 21:09:37"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 21:08:27","End":"11-30-2013 21:09:37"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 21:08:27","End":"11-30-2013 21:09:37"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 21:08:27","End":"11-30-2013 21:09:37"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 21:08:27","End":"11-30-2013 21:09:37"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 21:08:27","End":"11-30-2013 21:09:37"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 21:08:27","End":"11-30-2013 21:09:37"}}
+{"SMS":{"Address":"+98919116####","type":"2","date":"11-30-2013 21:09:32","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Mashaei"}}}
+{"Call": {"Number":"+98919116####","Duration":"8","Time":"11-30-2013 20:45:34","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"8","Time":"11-30-2013 20:45:34","Type":"1"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 21:09:51","End":"11-30-2013 21:10:04"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 21:09:51","End":"11-30-2013 21:10:04"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 21:09:51","End":"11-30-2013 21:10:04"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 21:09:51","End":"11-30-2013 21:10:04"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 21:09:51","End":"11-30-2013 21:10:04"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 21:09:51","End":"11-30-2013 21:10:04"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 21:09:51","End":"11-30-2013 21:10:04"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 21:09:51","End":"11-30-2013 21:10:04"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 21:09:51","End":"11-30-2013 21:10:04"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 21:09:51","End":"11-30-2013 21:10:04"}}
+{"SMS":{"Address":"+98919116####","type":"1","date":"11-30-2013 21:10:24","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Mashaei"}}}
+{"Call": {"Number":"+98919116####","Duration":"8","Time":"11-30-2013 20:45:34","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"8","Time":"11-30-2013 20:45:34","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"8","Time":"11-30-2013 20:45:34","Type":"1"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 21:10:32","End":"11-30-2013 21:11:24"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 21:10:32","End":"11-30-2013 21:11:24"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 21:10:32","End":"11-30-2013 21:11:24"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 21:10:32","End":"11-30-2013 21:11:24"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 21:10:32","End":"11-30-2013 21:11:24"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-30-2013 21:10:32","End":"11-30-2013 21:11:24"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 21:10:32","End":"11-30-2013 21:11:24"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 21:10:32","End":"11-30-2013 21:11:24"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 21:10:32","End":"11-30-2013 21:11:24"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 21:10:32","End":"11-30-2013 21:11:24"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.analogclocksimple","Start":"11-30-2013 21:37:17","End":"11-30-2013 21:37:17"}}
+{"Application":{"ProcessName":"com.diotek.mini_penmemo","Start":"11-30-2013 21:37:17","End":"11-30-2013 21:37:17"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 21:37:17","End":"11-30-2013 21:37:27"}}
+{"Application":{"ProcessName":"com.sec.android.app.GlanceView","Start":"11-30-2013 21:37:17","End":"11-30-2013 21:37:27"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 21:37:17","End":"11-30-2013 21:37:27"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-30-2013 21:37:17","End":"11-30-2013 21:37:27"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 21:37:17","End":"11-30-2013 21:37:27"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 21:37:17","End":"11-30-2013 21:37:27"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 21:37:17","End":"11-30-2013 21:37:27"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 21:37:17","End":"11-30-2013 21:37:27"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 21:37:17","End":"11-30-2013 21:37:27"}}
+{"Call": {"Number":"+98919116####","Duration":"8","Time":"11-30-2013 20:45:34","Type":"1"}}
+{"Application":{"ProcessName":"com.sec.android.app.myfiles","Start":"11-30-2013 21:39:06","End":"11-30-2013 21:39:16"}}
+{"Application":{"ProcessName":"com.sec.android.cloudagent","Start":"11-30-2013 21:39:26","End":"11-30-2013 21:39:36"}}
+{"Application":{"ProcessName":"com.sec.android.app.videoplayer","Start":"11-30-2013 21:39:16","End":"11-30-2013 21:40:26"}}
+{"Application":{"ProcessName":"com.sec.android.app.myfiles","Start":"11-30-2013 21:40:26","End":"11-30-2013 21:40:54"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.analogclocksimple","Start":"11-30-2013 21:40:54","End":"11-30-2013 21:40:54"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.dualclockanalog","Start":"11-30-2013 21:40:54","End":"11-30-2013 21:41:16"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 21:39:06","End":"11-30-2013 21:41:16"}}
+{"Application":{"ProcessName":"com.sec.android.app.GlanceView","Start":"11-30-2013 21:40:54","End":"11-30-2013 21:41:16"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 21:39:06","End":"11-30-2013 21:41:16"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 21:39:06","End":"11-30-2013 21:41:16"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 21:39:06","End":"11-30-2013 21:41:16"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 21:39:06","End":"11-30-2013 21:41:16"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 21:39:06","End":"11-30-2013 21:41:16"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 21:39:06","End":"11-30-2013 21:41:16"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 21:39:06","End":"11-30-2013 21:41:16"}}
+{"WiFi":{"SSID":"BKB","BSSID":"00:27:19:ef:36:66","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-96","frequency":"2412","time":"Saturday, November 30, 2013 9:45:39 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"BKB","BSSID":"00:27:19:ef:36:66","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-96","frequency":"2412","time":"Saturday, November 30, 2013 9:45:39 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sec.android.app.myfiles","Start":"11-30-2013 22:01:19","End":"11-30-2013 22:01:29"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 22:01:19","End":"11-30-2013 22:02:29"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 22:01:19","End":"11-30-2013 22:02:29"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 22:01:19","End":"11-30-2013 22:02:29"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 22:01:19","End":"11-30-2013 22:02:29"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 22:01:19","End":"11-30-2013 22:02:29"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 22:01:19","End":"11-30-2013 22:02:29"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 22:01:19","End":"11-30-2013 22:02:29"}}
+{"Application":{"ProcessName":"com.sec.android.gallery3d","Start":"11-30-2013 22:01:29","End":"11-30-2013 22:02:29"}}
+{"Application":{"ProcessName":"com.sec.android.cloudagent","Start":"11-30-2013 22:01:29","End":"11-30-2013 22:02:29"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 22:01:19","End":"11-30-2013 22:02:29"}}
+{"Application":{"ProcessName":"com.android.MtpApplication","Start":"11-30-2013 22:02:57","End":"11-30-2013 22:02:57"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.ap.hero.accuweather","Start":"11-30-2013 22:02:57","End":"11-30-2013 22:03:07"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 22:02:57","End":"11-30-2013 22:03:07"}}
+{"Application":{"ProcessName":"com.google.android.apps.plus","Start":"11-30-2013 22:03:17","End":"11-30-2013 22:03:17"}}
+{"Application":{"ProcessName":"com.google.android.apps.uploader","Start":"11-30-2013 22:03:17","End":"11-30-2013 22:03:17"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 22:02:57","End":"11-30-2013 22:04:48"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 22:02:57","End":"11-30-2013 22:04:48"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 22:02:57","End":"11-30-2013 22:04:48"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 22:02:57","End":"11-30-2013 22:04:48"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 22:02:57","End":"11-30-2013 22:04:48"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 22:02:57","End":"11-30-2013 22:04:48"}}
+{"Application":{"ProcessName":"com.visionobjects.resourcemanager","Start":"11-30-2013 22:03:07","End":"11-30-2013 22:04:48"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 22:02:57","End":"11-30-2013 22:04:48"}}
+{"Application":{"ProcessName":"com.sec.android.gallery3d","Start":"11-30-2013 22:03:07","End":"11-30-2013 22:04:48"}}
+{"Application":{"ProcessName":"com.sec.android.cloudagent","Start":"11-30-2013 22:03:07","End":"11-30-2013 22:04:48"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 22:02:57","End":"11-30-2013 22:04:48"}}
+{"Application":{"ProcessName":"com.sec.android.app.camera","Start":"11-30-2013 22:05:01","End":"11-30-2013 22:05:11"}}
+{"Application":{"ProcessName":"com.sec.android.gallery3d","Start":"11-30-2013 22:05:11","End":"11-30-2013 22:06:01"}}
+{"Application":{"ProcessName":"com.sec.android.cloudagent","Start":"11-30-2013 22:05:11","End":"11-30-2013 22:06:01"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 22:05:01","End":"11-30-2013 22:06:31"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 22:05:01","End":"11-30-2013 22:06:31"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 22:05:01","End":"11-30-2013 22:06:31"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 22:05:01","End":"11-30-2013 22:06:31"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 22:05:01","End":"11-30-2013 22:06:31"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 22:05:01","End":"11-30-2013 22:06:31"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 22:05:01","End":"11-30-2013 22:06:31"}}
+{"Application":{"ProcessName":"com.visionobjects.resourcemanager","Start":"11-30-2013 22:05:01","End":"11-30-2013 22:06:31"}}
+{"Application":{"ProcessName":"com.sec.android.app.camera","Start":"11-30-2013 22:06:01","End":"11-30-2013 22:06:31"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 22:05:01","End":"11-30-2013 22:06:31"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 22:08:02","End":"11-30-2013 22:09:14"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 22:08:02","End":"11-30-2013 22:09:14"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 22:08:02","End":"11-30-2013 22:09:14"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 22:08:02","End":"11-30-2013 22:09:14"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 22:08:02","End":"11-30-2013 22:09:14"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 22:08:02","End":"11-30-2013 22:09:14"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 22:08:02","End":"11-30-2013 22:09:14"}}
+{"Application":{"ProcessName":"com.visionobjects.resourcemanager","Start":"11-30-2013 22:08:02","End":"11-30-2013 22:09:14"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 22:08:02","End":"11-30-2013 22:09:14"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 22:08:02","End":"11-30-2013 22:09:14"}}
+{"Location":{"Latitude":"35.761876","Longtitude":"51.4487792","Altitude":"0.0","time":"11-30-2013 23:01:09","Accuracy":"1212.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 23:20:56","End":"11-30-2013 23:21:06"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 23:20:56","End":"11-30-2013 23:21:06"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 23:20:56","End":"11-30-2013 23:21:06"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 23:20:56","End":"11-30-2013 23:21:06"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 23:20:56","End":"11-30-2013 23:21:06"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 23:20:56","End":"11-30-2013 23:21:06"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 23:20:56","End":"11-30-2013 23:21:06"}}
+{"Application":{"ProcessName":"com.visionobjects.resourcemanager","Start":"11-30-2013 23:20:56","End":"11-30-2013 23:21:06"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.analogclocksimple","Start":"11-30-2013 23:20:56","End":"11-30-2013 23:21:06"}}
+{"Application":{"ProcessName":"com.sec.android.app.launcher","Start":"11-30-2013 23:20:56","End":"11-30-2013 23:21:06"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 23:20:56","End":"11-30-2013 23:21:06"}}
+{"SMS":{"Address":"+98919116####","type":"1","date":"11-30-2013 23:27:47","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Mashaei"}}}
+{"Call": {"Number":"+98919116####","Duration":"8","Time":"11-30-2013 20:45:34","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"8","Time":"11-30-2013 20:45:34","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"8","Time":"11-30-2013 20:45:34","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"8","Time":"11-30-2013 20:45:34","Type":"1"}}
+{"SMS":{"Address":"+98919116####","type":"2","date":"11-30-2013 23:29:07","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Mashaei"}}}
+{"Call": {"Number":"+98919116####","Duration":"8","Time":"11-30-2013 20:45:34","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"8","Time":"11-30-2013 20:45:34","Type":"1"}}
+{"Application":{"ProcessName":"com.sec.android.widgetapp.dualclockanalog","Start":"11-30-2013 23:29:18","End":"11-30-2013 23:29:48"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 23:28:55","End":"11-30-2013 23:29:48"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 23:28:55","End":"11-30-2013 23:29:48"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 23:28:55","End":"11-30-2013 23:29:48"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 23:28:55","End":"11-30-2013 23:29:48"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 23:28:55","End":"11-30-2013 23:29:48"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 23:28:55","End":"11-30-2013 23:29:48"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 23:28:55","End":"11-30-2013 23:29:48"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 23:28:55","End":"11-30-2013 23:29:48"}}
+{"Application":{"ProcessName":"com.visionobjects.resourcemanager","Start":"11-30-2013 23:28:55","End":"11-30-2013 23:29:48"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 23:28:55","End":"11-30-2013 23:29:48"}}
+{"SMS":{"Address":"+98919116####","type":"1","date":"11-30-2013 23:32:38","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Mashaei"}}}
+{"Call": {"Number":"+98919116####","Duration":"8","Time":"11-30-2013 20:45:34","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"8","Time":"11-30-2013 20:45:34","Type":"1"}}
+{"Call": {"Number":"+98919116####","Duration":"8","Time":"11-30-2013 20:45:34","Type":"1"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 23:32:42","End":"11-30-2013 23:33:50"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 23:32:42","End":"11-30-2013 23:33:50"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 23:32:42","End":"11-30-2013 23:33:50"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 23:32:42","End":"11-30-2013 23:33:50"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 23:32:42","End":"11-30-2013 23:33:50"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 23:32:42","End":"11-30-2013 23:33:50"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 23:32:42","End":"11-30-2013 23:33:50"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 23:32:42","End":"11-30-2013 23:33:50"}}
+{"Application":{"ProcessName":"com.visionobjects.resourcemanager","Start":"11-30-2013 23:32:42","End":"11-30-2013 23:33:50"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 23:32:42","End":"11-30-2013 23:33:50"}}
+{"Call": {"Number":"+98919116####","Duration":"8","Time":"11-30-2013 20:45:34","Type":"1"}}
+{"Application":{"ProcessName":"com.samsung.android.providers.context","Start":"11-30-2013 23:35:33","End":"11-30-2013 23:35:51"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-30-2013 23:35:33","End":"11-30-2013 23:35:51"}}
+{"Application":{"ProcessName":"com.sec.android.provider.snote","Start":"11-30-2013 23:35:33","End":"11-30-2013 23:35:51"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-30-2013 23:35:33","End":"11-30-2013 23:35:51"}}
+{"Application":{"ProcessName":"com.sec.android.app.twdvfs","Start":"11-30-2013 23:35:33","End":"11-30-2013 23:35:51"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-30-2013 23:35:33","End":"11-30-2013 23:35:51"}}
+{"Application":{"ProcessName":"com.sec.android.app.snotebook","Start":"11-30-2013 23:35:33","End":"11-30-2013 23:35:51"}}
+{"Application":{"ProcessName":"com.sec.android.app.sysscope","Start":"11-30-2013 23:35:33","End":"11-30-2013 23:35:51"}}
+{"Application":{"ProcessName":"com.visionobjects.resourcemanager","Start":"11-30-2013 23:35:33","End":"11-30-2013 23:35:51"}}
+{"Application":{"ProcessName":"com.sec.android.app.FlashBarService","Start":"11-30-2013 23:35:33","End":"11-30-2013 23:35:51"}}

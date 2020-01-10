@@ -1,0 +1,164 @@
+{"Application":{"ProcessName":"com.android.mms","Start":"11-25-2013 19:14:01","End":"11-25-2013 19:19:01"}}
+{"SMS":{"Address":"+98912803####","type":"1","date":"11-25-2013 19:19:07","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Azam"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-25-2013 19:19:01","End":"11-25-2013 19:19:11"}}
+{"SMS":{"Address":"+98912803####","type":"1","date":"11-25-2013 19:19:20","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Azam"}}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-25-2013 19:19:11","End":"11-25-2013 19:21:23"}}
+{"SMS":{"Address":"+98912439####","type":"2","date":"11-25-2013 19:21:10","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Monirjan"}}}
+{"SMS":{"Address":"+98935305####","type":"1","date":"11-25-2013 19:34:32","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Robikjan"}}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-25-2013 19:34:35","End":"11-25-2013 19:35:15"}}
+{"SMS":{"Address":"+98935305####","type":"2","date":"11-25-2013 19:35:16","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Robikjan"}}}
+{"Application":{"ProcessName":"com.htc.android.worldclock","Start":"11-26-2013 06:00:01","End":"11-26-2013 06:00:09"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 06:02:00","End":"11-26-2013 06:02:01"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-26-2013 06:08:32","End":"11-26-2013 06:08:32"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"11-26-2013 06:42:55","End":"11-26-2013 06:42:55"}}
+{"Application":{"ProcessName":"cn.menue.applock.international","Start":"11-26-2013 06:42:55","End":"11-26-2013 06:43:04"}}
+{"Call": {"Number":"0912679####","Duration":"14","Time":"11-26-2013 06:55:01","Type":"2"}}
+{"Call": {"Number":"0912679####","Duration":"14","Time":"11-26-2013 06:55:01","Type":"2"}}
+{"Application":{"ProcessName":"tw.nicky.HDCallerID:remote","Start":"11-26-2013 06:55:45","End":"11-26-2013 06:55:46"}}
+{"Call": {"Number":"+98215103####","Duration":"49","Time":"11-26-2013 09:52:57","Type":"1"}}
+{"Call": {"Number":"+98215103####","Duration":"49","Time":"11-26-2013 09:52:57","Type":"1"}}
+{"Application":{"ProcessName":"tw.nicky.HDCallerID:remote","Start":"11-26-2013 09:53:56","End":"11-26-2013 09:54:14"}}
+{"SMS":{"Address":"+98912708####","type":"1","date":"11-26-2013 09:55:38","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Dashtbani"}}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-26-2013 09:55:44","End":"11-26-2013 09:56:59"}}
+{"SMS":{"Address":"+98935305####","type":"1","date":"11-26-2013 10:07:35","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Robikjan"}}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-26-2013 10:07:40","End":"11-26-2013 10:07:50"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-26-2013 10:53:02","End":"11-26-2013 10:53:14"}}
+{"Call": {"Number":"0912889####","Duration":"0","Time":"11-26-2013 10:53:31","Type":"2"}}
+{"Call": {"Number":"0912889####","Duration":"0","Time":"11-26-2013 10:53:31","Type":"2"}}
+{"Call": {"Number":"0912149####","Duration":"0","Time":"11-26-2013 11:29:01","Type":"2"}}
+{"Call": {"Number":"0912149####","Duration":"0","Time":"11-26-2013 11:29:01","Type":"2"}}
+{"Application":{"ProcessName":"tw.nicky.HDCallerID:remote","Start":"11-26-2013 11:30:12","End":"11-26-2013 11:30:22"}}
+{"SMS":{"Address":"+981000####","type":"1","date":"11-26-2013 11:32:30","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-26-2013 11:32:34","End":"11-26-2013 11:32:44"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"11-26-2013 12:12:53","End":"11-26-2013 12:12:56"}}
+{"Call": {"Number":"+98218416####","Duration":"0","Time":"11-26-2013 12:12:52","Type":"3"}}
+{"Call": {"Number":"+98218416####","Duration":"0","Time":"11-26-2013 12:12:52","Type":"3"}}
+{"Application":{"ProcessName":"tw.nicky.HDCallerID:remote","Start":"11-26-2013 12:13:29","End":"11-26-2013 12:13:43"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-26-2013 12:13:29","End":"11-26-2013 12:13:46"}}
+{"SMS":{"Address":"+981000####","type":"1","date":"11-26-2013 12:15:34","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-26-2013 12:15:39","End":"11-26-2013 12:15:49"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-26-2013 12:21:04","End":"11-26-2013 12:21:17"}}
+{"SMS":{"Address":"+98935305####","type":"1","date":"11-26-2013 10:07:35","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Robikjan"}}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Application":{"ProcessName":"tw.nicky.HDCallerID:remote","Start":"11-26-2013 12:24:15","End":"11-26-2013 12:24:21"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 12:45:00","End":"11-26-2013 12:45:03"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 12:46:00","End":"11-26-2013 12:46:03"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 12:48:00","End":"11-26-2013 12:48:03"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-26-2013 12:58:34","End":"11-26-2013 12:58:39"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 12:59:00","End":"11-26-2013 12:59:01"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 13:00:00","End":"11-26-2013 13:00:02"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 13:02:00","End":"11-26-2013 13:02:02"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 13:37:46","End":"11-26-2013 13:37:48"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 13:50:00","End":"11-26-2013 13:50:05"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 13:51:00","End":"11-26-2013 13:51:05"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 14:13:00","End":"11-26-2013 14:13:02"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 14:14:00","End":"11-26-2013 14:14:02"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 14:16:00","End":"11-26-2013 14:16:02"}}
+{"SMS":{"Address":"+98935305####","type":"1","date":"11-26-2013 14:26:39","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Robikjan"}}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-26-2013 14:26:43","End":"11-26-2013 14:31:44"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 14:34:00","End":"11-26-2013 14:34:02"}}
+{"SMS":{"Address":"+98214423####","type":"1","date":"11-26-2013 14:34:15","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-26-2013 14:31:44","End":"11-26-2013 14:36:45"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-26-2013 14:36:45","End":"11-26-2013 14:41:45"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-26-2013 14:41:45","End":"11-26-2013 14:46:46"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Call": {"Number":"+98863623####","Duration":"0","Time":"11-26-2013 12:23:39","Type":"3"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 15:38:00","End":"11-26-2013 15:38:06"}}
+{"Call": {"Number":"0912276####","Duration":"11","Time":"11-26-2013 15:52:35","Type":"2"}}
+{"Call": {"Number":"0912276####","Duration":"11","Time":"11-26-2013 15:52:35","Type":"2"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 17:06:01","End":"11-26-2013 17:06:07"}}
+{"Application":{"ProcessName":"cn.menue.applock.international","Start":"11-26-2013 17:26:41","End":"11-26-2013 17:26:41"}}
+{"Call": {"Number":"+98912179####","Duration":"1899","Time":"11-26-2013 17:04:54","Type":"1"}}
+{"Call": {"Number":"+98912179####","Duration":"1899","Time":"11-26-2013 17:04:54","Type":"1"}}
+{"SMS":{"Address":"+98935305####","type":"2","date":"11-26-2013 14:58:42","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Robikjan"}}}
+{"SMS":{"Address":"+98918580####","type":"1","date":"11-26-2013 17:46:40","body":"ANONYMIZED","Type":"1", "metadata": {"name": "masomeh Khahar"}}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-26-2013 17:46:43","End":"11-26-2013 17:46:53"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-26-2013 17:47:07","End":"11-26-2013 17:47:18"}}
+{"SMS":{"Address":"+98935305####","type":"2","date":"11-26-2013 14:58:42","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Robikjan"}}}
+{"SMS":{"Address":"+98918580####","type":"2","date":"11-26-2013 17:47:47","body":"ANONYMIZED","Type":"2", "metadata": {"name": "masomeh Khahar"}}}
+{"SMS":{"Address":"+98912203####","type":"2","date":"11-26-2013 17:48:24","body":"ANONYMIZED","Type":"2", "metadata": {"name": "u kh Faezeh"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-26-2013 17:47:23","End":"11-26-2013 17:48:49"}}
+{"SMS":{"Address":"+98935305####","type":"2","date":"11-26-2013 17:50:37","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Robikjan"}}}
+{"SMS":{"Address":"+98935305####","type":"2","date":"11-26-2013 17:51:40","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Robikjan"}}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 17:52:00","End":"11-26-2013 17:52:03"}}
+{"SMS":{"Address":"+98912538####","type":"1","date":"11-26-2013 17:52:21","body":"ANONYMIZED","Type":"1", "metadata": {"name": "kh Aboei 137"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-26-2013 17:50:09","End":"11-26-2013 17:52:31"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-26-2013 17:52:31","End":"11-26-2013 17:53:15"}}
+{"SMS":{"Address":"+98912538####","type":"2","date":"11-26-2013 17:53:13","body":"ANONYMIZED","Type":"2", "metadata": {"name": "kh Aboei 137"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-26-2013 17:53:15","End":"11-26-2013 17:54:12"}}
+{"SMS":{"Address":"+98935305####","type":"1","date":"11-26-2013 17:55:12","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Robikjan"}}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-26-2013 17:55:16","End":"11-26-2013 17:55:26"}}
+{"SMS":{"Address":"+98912538####","type":"1","date":"11-26-2013 17:55:36","body":"ANONYMIZED","Type":"1", "metadata": {"name": "kh Aboei 137"}}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-26-2013 17:55:34","End":"11-26-2013 17:55:54"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-26-2013 18:09:58","End":"11-26-2013 18:10:29"}}
+{"SMS":{"Address":"+98912538####","type":"2","date":"11-26-2013 18:10:30","body":"ANONYMIZED","Type":"2", "metadata": {"name": "kh Aboei 137"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-26-2013 18:10:29","End":"11-26-2013 18:12:29"}}
+{"SMS":{"Address":"+98935305####","type":"1","date":"11-26-2013 18:15:10","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Robikjan"}}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-26-2013 18:15:20","End":"11-26-2013 18:15:30"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-26-2013 18:25:54","End":"11-26-2013 18:27:02"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-26-2013 19:17:48","End":"11-26-2013 19:17:58"}}
+{"Application":{"ProcessName":"com.android.htccontacts","Start":"11-26-2013 19:18:00","End":"11-26-2013 19:18:38"}}
+{"SMS":{"Address":"+982000####","type":"1","date":"11-26-2013 19:27:13","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-26-2013 19:27:19","End":"11-26-2013 19:27:29"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-26-2013 19:27:31","End":"11-26-2013 19:27:51"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"11-26-2013 20:39:48","End":"11-26-2013 20:39:54"}}
+{"Application":{"ProcessName":"com.adobe.psmobile","Start":"11-26-2013 20:39:53","End":"11-26-2013 20:39:54"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 20:53:00","End":"11-26-2013 20:53:03"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 21:28:00","End":"11-26-2013 21:28:04"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 21:32:00","End":"11-26-2013 21:32:00"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 21:48:00","End":"11-26-2013 21:48:02"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 22:18:00","End":"11-26-2013 22:18:03"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 22:49:00","End":"11-26-2013 22:49:03"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 22:50:00","End":"11-26-2013 22:50:03"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 22:53:00","End":"11-26-2013 22:53:00"}}
+{"Application":{"ProcessName":"com.androidapps.widget.weather2","Start":"11-26-2013 22:54:00","End":"11-26-2013 22:54:00"}}

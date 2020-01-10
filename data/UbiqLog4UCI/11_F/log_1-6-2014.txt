@@ -1,0 +1,912 @@
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 11:30:30","End":"1-6-2014 11:30:40"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 11:30:30","End":"1-6-2014 11:30:40"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"1-6-2014 11:30:40","End":"1-6-2014 11:30:40"}}
+{"Application":{"ProcessName":"com.lge.omadmclient:remote","Start":"1-6-2014 11:30:50","End":"1-6-2014 11:31:00"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 11:30:40","End":"1-6-2014 11:31:21"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 11:31:21","End":"1-6-2014 11:31:31"}}
+{"Application":{"ProcessName":"com.google.android.gsf.login","Start":"1-6-2014 11:31:31","End":"1-6-2014 11:31:41"}}
+{"Application":{"ProcessName":"com.cloudmosa.puffin","Start":"1-6-2014 11:31:31","End":"1-6-2014 11:32:01"}}
+{"Application":{"ProcessName":"com.yahoo.mobile.client.android.mail","Start":"1-6-2014 11:32:31","End":"1-6-2014 11:32:41"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 11:32:01","End":"1-6-2014 11:33:21"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 11:30:30","End":"1-6-2014 11:33:21"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 11:30:30","End":"1-6-2014 11:33:21"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 11:30:30","End":"1-6-2014 11:33:21"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 11:36:08","End":"1-6-2014 11:36:19"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"1-6-2014 11:36:09","End":"1-6-2014 11:36:19"}}
+{"Application":{"ProcessName":"com.jb.gosms:individualypopup","Start":"1-6-2014 11:36:08","End":"1-6-2014 11:36:29"}}
+{"Application":{"ProcessName":"com.google.android.apps.maps:FriendService","Start":"1-6-2014 11:36:19","End":"1-6-2014 11:36:29"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 11:36:08","End":"1-6-2014 11:36:29"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 11:36:08","End":"1-6-2014 11:36:29"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 11:36:08","End":"1-6-2014 11:36:29"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 11:37:05","End":"1-6-2014 11:37:15"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 11:49:40","End":"1-6-2014 11:49:50"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 11:49:50","End":"1-6-2014 11:49:51"}}
+{"Application":{"ProcessName":"com.android.vending","Start":"1-6-2014 11:49:50","End":"1-6-2014 11:49:51"}}
+{"Application":{"ProcessName":"com.jb.gosms:im","Start":"1-6-2014 11:49:50","End":"1-6-2014 11:49:51"}}
+{"Application":{"ProcessName":"com.whatsapp","Start":"1-6-2014 11:49:50","End":"1-6-2014 11:50:00"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 11:50:21","End":"1-6-2014 11:50:21"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 11:49:40","End":"1-6-2014 11:50:41"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 11:49:40","End":"1-6-2014 11:50:41"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 11:49:40","End":"1-6-2014 11:50:41"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 11:49:40","End":"1-6-2014 11:50:41"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 11:52:32","End":"1-6-2014 11:52:42"}}
+{"Application":{"ProcessName":"com.android.calculator2","Start":"1-6-2014 11:52:42","End":"1-6-2014 11:53:42"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 11:52:32","End":"1-6-2014 11:53:52"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 11:52:32","End":"1-6-2014 11:53:52"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 11:52:32","End":"1-6-2014 11:53:52"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 11:53:42","End":"1-6-2014 11:53:52"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 11:58:50","End":"1-6-2014 11:59:00"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 11:58:50","End":"1-6-2014 11:59:00"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 11:58:50","End":"1-6-2014 11:59:00"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 11:58:50","End":"1-6-2014 11:59:00"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 12:22:20","End":"1-6-2014 12:22:30"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 12:22:30","End":"1-6-2014 12:24:09"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 12:22:20","End":"1-6-2014 12:24:29"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 12:22:20","End":"1-6-2014 12:24:29"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 12:22:20","End":"1-6-2014 12:24:29"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 12:24:09","End":"1-6-2014 12:24:29"}}
+{"Call": {"Number":"0919130####","Duration":"61","Time":"1-6-2014 12:24:21","Type":"2"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 12:25:46","End":"1-6-2014 12:26:24"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 12:25:46","End":"1-6-2014 12:26:24"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 12:25:46","End":"1-6-2014 12:26:24"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 12:25:46","End":"1-6-2014 12:26:24"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 12:26:35","End":"1-6-2014 12:26:45"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 12:26:35","End":"1-6-2014 12:26:45"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 12:26:35","End":"1-6-2014 12:26:45"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 12:26:35","End":"1-6-2014 12:26:45"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 12:27:00","End":"1-6-2014 12:27:09"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 12:27:09","End":"1-6-2014 12:32:10"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 12:27:00","End":"1-6-2014 12:32:10"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 12:27:00","End":"1-6-2014 12:32:10"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 12:27:00","End":"1-6-2014 12:32:10"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 12:32:11","End":"1-6-2014 12:32:20"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 12:32:10","End":"1-6-2014 12:35:27"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 12:35:27","End":"1-6-2014 12:35:28"}}
+{"Call": {"Number":"0919130####","Duration":"61","Time":"1-6-2014 12:24:21","Type":"2"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 12:35:27","End":"1-6-2014 12:35:37"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 12:32:10","End":"1-6-2014 12:35:38"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 12:32:10","End":"1-6-2014 12:35:38"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 12:32:10","End":"1-6-2014 12:35:38"}}
+{"Call": {"Number":"0919130####","Duration":"0","Time":"1-6-2014 12:35:38","Type":"2"}}
+{"Call": {"Number":"0919130####","Duration":"0","Time":"1-6-2014 12:35:38","Type":"2"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 12:36:27","End":"1-6-2014 12:36:37"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 12:36:27","End":"1-6-2014 12:36:37"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 12:36:27","End":"1-6-2014 12:36:37"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 12:36:28","End":"1-6-2014 12:36:37"}}
+{"Call": {"Number":"0919130####","Duration":"0","Time":"1-6-2014 12:36:30","Type":"2"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 12:37:27","End":"1-6-2014 12:37:37"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 12:37:37","End":"1-6-2014 12:38:18"}}
+{"Call": {"Number":"0919130####","Duration":"0","Time":"1-6-2014 12:36:30","Type":"2"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 12:38:18","End":"1-6-2014 12:38:19"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 12:38:18","End":"1-6-2014 12:38:19"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 12:37:27","End":"1-6-2014 12:38:28"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 12:37:27","End":"1-6-2014 12:38:28"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 12:37:27","End":"1-6-2014 12:38:28"}}
+{"Call": {"Number":"0919130####","Duration":"0","Time":"1-6-2014 12:38:19","Type":"2"}}
+{"Call": {"Number":"0919130####","Duration":"0","Time":"1-6-2014 12:38:19","Type":"2"}}
+{"Call": {"Number":"0919130####","Duration":"0","Time":"1-6-2014 12:38:19","Type":"2"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 12:39:27","End":"1-6-2014 12:39:35"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 12:38:49","End":"1-6-2014 12:39:45"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 12:38:49","End":"1-6-2014 12:39:45"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 12:38:49","End":"1-6-2014 12:39:45"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 12:38:58","End":"1-6-2014 12:39:45"}}
+{"Call": {"Number":"0919130####","Duration":"50","Time":"1-6-2014 12:39:38","Type":"2"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 12:40:38","End":"1-6-2014 12:42:49"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 12:40:38","End":"1-6-2014 12:42:49"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 12:40:38","End":"1-6-2014 12:42:49"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 12:40:40","End":"1-6-2014 12:42:49"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 12:48:10","End":"1-6-2014 12:48:18"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 12:48:10","End":"1-6-2014 12:48:18"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 12:48:10","End":"1-6-2014 12:48:18"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 12:48:10","End":"1-6-2014 12:48:18"}}
+{"Call": {"Number":"0919130####","Duration":"50","Time":"1-6-2014 12:39:38","Type":"2"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 12:51:54","End":"1-6-2014 12:51:56"}}
+{"Call": {"Number":"0919130####","Duration":"50","Time":"1-6-2014 12:39:38","Type":"2"}}
+{"Call": {"Number":"0919130####","Duration":"50","Time":"1-6-2014 12:39:38","Type":"2"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 12:51:54","End":"1-6-2014 12:52:15"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 12:51:54","End":"1-6-2014 12:52:15"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 12:51:54","End":"1-6-2014 12:52:15"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 12:51:54","End":"1-6-2014 12:52:15"}}
+{"Call": {"Number":"0218380####","Duration":"111","Time":"1-6-2014 12:52:09","Type":"2"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 12:54:16","End":"1-6-2014 12:54:17"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 12:54:16","End":"1-6-2014 12:54:17"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 12:54:16","End":"1-6-2014 12:54:17"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 12:54:16","End":"1-6-2014 12:54:17"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 12:55:58","End":"1-6-2014 12:57:22"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 12:55:58","End":"1-6-2014 12:57:24"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 12:55:58","End":"1-6-2014 12:57:24"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 12:55:58","End":"1-6-2014 12:57:24"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 12:57:22","End":"1-6-2014 12:57:24"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 13:01:03","End":"1-6-2014 13:01:05"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 13:01:05","End":"1-6-2014 13:01:13"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 13:01:13","End":"1-6-2014 13:01:24"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 13:01:26","End":"1-6-2014 13:01:34"}}
+{"Application":{"ProcessName":"com.android.vending","Start":"1-6-2014 13:01:26","End":"1-6-2014 13:01:34"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 13:01:03","End":"1-6-2014 13:01:34"}}
+{"Application":{"ProcessName":"com.jb.gosms:im","Start":"1-6-2014 13:01:26","End":"1-6-2014 13:01:34"}}
+{"Application":{"ProcessName":"com.lge.camera","Start":"1-6-2014 13:01:05","End":"1-6-2014 13:01:34"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 13:01:03","End":"1-6-2014 13:01:34"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 13:01:03","End":"1-6-2014 13:01:34"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 13:02:19","End":"1-6-2014 13:03:15"}}
+{"Application":{"ProcessName":"com.yahoo.mobile.client.android.mail:com.yahoo.snp.service","Start":"1-6-2014 13:03:36","End":"1-6-2014 13:03:38"}}
+{"Application":{"ProcessName":"com.yahoo.mobile.client.android.mail","Start":"1-6-2014 13:03:38","End":"1-6-2014 13:03:46"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 13:03:15","End":"1-6-2014 13:03:58"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 13:02:19","End":"1-6-2014 13:03:58"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 13:02:19","End":"1-6-2014 13:03:58"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 13:02:19","End":"1-6-2014 13:03:58"}}
+{"Call": {"Number":"0218380####","Duration":"111","Time":"1-6-2014 12:52:09","Type":"2"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 13:07:49","End":"1-6-2014 13:07:57"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 13:07:49","End":"1-6-2014 13:08:27"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 13:07:49","End":"1-6-2014 13:08:27"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 13:07:49","End":"1-6-2014 13:08:27"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 13:07:57","End":"1-6-2014 13:08:27"}}
+{"Application":{"ProcessName":"com.yahoo.mobile.client.android.mail","Start":"1-6-2014 13:14:29","End":"1-6-2014 13:14:32"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 13:14:29","End":"1-6-2014 13:14:40"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 13:14:29","End":"1-6-2014 13:14:40"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 13:14:29","End":"1-6-2014 13:14:40"}}
+{"Call": {"Number":"+98912443####","Duration":"35","Time":"1-6-2014 13:14:27","Type":"1"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 13:15:17","End":"1-6-2014 13:18:21"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 13:15:17","End":"1-6-2014 13:18:21"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 13:15:17","End":"1-6-2014 13:18:21"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 13:15:17","End":"1-6-2014 13:18:21"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 13:15:17","End":"1-6-2014 13:18:21"}}
+{"Call": {"Number":"+98216636####","Duration":"0","Time":"1-6-2014 13:25:57","Type":"10"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 13:26:35","End":"1-6-2014 13:26:36"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 13:26:02","End":"1-6-2014 13:29:23"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 13:26:02","End":"1-6-2014 13:29:23"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 13:26:02","End":"1-6-2014 13:29:23"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 13:26:35","End":"1-6-2014 13:29:23"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 13:29:25","End":"1-6-2014 13:29:33"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 13:29:25","End":"1-6-2014 13:30:07"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 13:30:07","End":"1-6-2014 13:30:10"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 13:30:07","End":"1-6-2014 13:30:26"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 13:29:25","End":"1-6-2014 13:30:26"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 13:29:25","End":"1-6-2014 13:30:26"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 13:29:25","End":"1-6-2014 13:30:26"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 13:30:40","End":"1-6-2014 13:31:21"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 13:30:40","End":"1-6-2014 13:31:21"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 13:30:40","End":"1-6-2014 13:31:21"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 13:30:40","End":"1-6-2014 13:31:21"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 13:30:40","End":"1-6-2014 13:31:21"}}
+{"Application":{"ProcessName":"com.jb.gosms:im","Start":"1-6-2014 13:33:46","End":"1-6-2014 13:33:52"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 13:33:42","End":"1-6-2014 13:34:49"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 13:33:42","End":"1-6-2014 13:34:49"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 13:33:42","End":"1-6-2014 13:34:49"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 13:33:42","End":"1-6-2014 13:34:49"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 13:36:48","End":"1-6-2014 13:39:31"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 13:36:48","End":"1-6-2014 13:39:31"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 13:36:48","End":"1-6-2014 13:39:31"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 13:36:48","End":"1-6-2014 13:39:31"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 13:53:40","End":"1-6-2014 13:57:09"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 13:57:12","End":"1-6-2014 13:57:19"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 13:53:36","End":"1-6-2014 13:57:19"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 13:53:36","End":"1-6-2014 13:59:30"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 13:53:36","End":"1-6-2014 13:59:30"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 13:53:36","End":"1-6-2014 13:59:30"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 13:57:19","End":"1-6-2014 13:59:30"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 14:00:44","End":"1-6-2014 14:00:50"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 14:00:44","End":"1-6-2014 14:00:50"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 14:00:44","End":"1-6-2014 14:00:50"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"1-6-2014 14:00:44","End":"1-6-2014 14:00:50"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 14:00:44","End":"1-6-2014 14:00:50"}}
+{"Call": {"Number":"+98912389####","Duration":"0","Time":"1-6-2014 14:01:18","Type":"3"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 14:00:56","End":"1-6-2014 14:02:05"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 14:01:23","End":"1-6-2014 14:02:16"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 14:00:56","End":"1-6-2014 14:02:18"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 14:00:56","End":"1-6-2014 14:02:18"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 14:00:56","End":"1-6-2014 14:02:18"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"1-6-2014 14:08:43","End":"1-6-2014 14:08:44"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 14:08:44","End":"1-6-2014 14:08:53"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 14:08:53","End":"1-6-2014 14:09:04"}}
+{"Application":{"ProcessName":"com.google.android.apps.maps:FriendService","Start":"1-6-2014 14:09:04","End":"1-6-2014 14:09:05"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"1-6-2014 14:09:04","End":"1-6-2014 14:09:05"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 14:09:05","End":"1-6-2014 14:09:15"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 14:09:15","End":"1-6-2014 14:09:26"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 14:08:43","End":"1-6-2014 14:09:26"}}
+{"Application":{"ProcessName":"com.whatsapp","Start":"1-6-2014 14:09:26","End":"1-6-2014 14:09:26"}}
+{"Application":{"ProcessName":"com.facebook.katana:dash","Start":"1-6-2014 14:09:26","End":"1-6-2014 14:09:36"}}
+{"Application":{"ProcessName":"com.lge.wapservice","Start":"1-6-2014 14:09:26","End":"1-6-2014 14:09:46"}}
+{"Application":{"ProcessName":"com.google.android.apps.maps:LocationFriendService","Start":"1-6-2014 14:09:46","End":"1-6-2014 14:09:56"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 14:09:46","End":"1-6-2014 14:09:56"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 14:09:58","End":"1-6-2014 14:10:06"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 14:08:43","End":"1-6-2014 14:10:06"}}
+{"Application":{"ProcessName":"com.jb.gosms:individualypopup","Start":"1-6-2014 14:10:06","End":"1-6-2014 14:10:08"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 14:10:08","End":"1-6-2014 14:10:26"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 14:08:43","End":"1-6-2014 14:10:37"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 14:08:43","End":"1-6-2014 14:10:37"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 14:08:43","End":"1-6-2014 14:10:37"}}
+{"Call": {"Number":"+98939838####","Duration":"12","Time":"1-6-2014 14:10:22","Type":"1"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 14:10:48","End":"1-6-2014 14:10:58"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"1-6-2014 14:11:08","End":"1-6-2014 14:11:09"}}
+{"Application":{"ProcessName":"com.android.browser","Start":"1-6-2014 14:10:58","End":"1-6-2014 14:11:29"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 14:11:29","End":"1-6-2014 14:11:30"}}
+{"Application":{"ProcessName":"com.google.android.apps.plus","Start":"1-6-2014 14:11:30","End":"1-6-2014 14:11:39"}}
+{"Application":{"ProcessName":"com.google.android.youtube","Start":"1-6-2014 14:11:29","End":"1-6-2014 14:11:39"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 14:11:49","End":"1-6-2014 14:11:52"}}
+{"Application":{"ProcessName":"com.yahoo.mobile.client.android.mail","Start":"1-6-2014 14:11:52","End":"1-6-2014 14:11:59"}}
+{"Location":{"Latitude":"35.6967491","Longtitude":"51.4113447","Altitude":"0.0","time":"1-6-2014 14:12:12","Accuracy":"1270.0","Provider":"network"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 14:12:29","End":"1-6-2014 14:12:32"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 14:13:19","End":"1-6-2014 14:13:22"}}
+{"Application":{"ProcessName":"com.yahoo.mobile.client.android.mail","Start":"1-6-2014 14:13:22","End":"1-6-2014 14:13:30"}}
+{"Application":{"ProcessName":"com.cloudmosa.puffin","Start":"1-6-2014 14:11:39","End":"1-6-2014 14:14:03"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 14:14:10","End":"1-6-2014 14:14:20"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 14:10:48","End":"1-6-2014 14:14:20"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 14:10:48","End":"1-6-2014 14:14:20"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 14:10:48","End":"1-6-2014 14:14:20"}}
+{"Call": {"Number":"+98216636####","Duration":"109","Time":"1-6-2014 14:14:14","Type":"1"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 14:16:10","End":"1-6-2014 14:16:13"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 14:16:10","End":"1-6-2014 14:17:57"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 14:16:10","End":"1-6-2014 14:17:57"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 14:16:10","End":"1-6-2014 14:17:57"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 14:16:10","End":"1-6-2014 14:17:57"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 14:18:22","End":"1-6-2014 14:18:25"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 14:18:22","End":"1-6-2014 14:20:57"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 14:18:22","End":"1-6-2014 14:20:57"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 14:18:22","End":"1-6-2014 14:20:57"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 14:18:22","End":"1-6-2014 14:20:57"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 14:21:45","End":"1-6-2014 14:25:39"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 14:21:45","End":"1-6-2014 14:25:39"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 14:21:45","End":"1-6-2014 14:25:39"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 14:21:45","End":"1-6-2014 14:25:39"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 14:25:50","End":"1-6-2014 14:25:54"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 14:25:50","End":"1-6-2014 14:26:00"}}
+{"Call": {"Number":"+98216636####","Duration":"109","Time":"1-6-2014 14:14:14","Type":"1"}}
+{"Call": {"Number":"+98216636####","Duration":"109","Time":"1-6-2014 14:14:14","Type":"1"}}
+{"Call": {"Number":"+98216636####","Duration":"109","Time":"1-6-2014 14:14:14","Type":"1"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 14:25:50","End":"1-6-2014 14:26:10"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 14:25:50","End":"1-6-2014 14:26:10"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 14:25:50","End":"1-6-2014 14:26:10"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 14:26:00","End":"1-6-2014 14:26:10"}}
+{"Call": {"Number":"+98216636####","Duration":"265","Time":"1-6-2014 14:26:05","Type":"2"}}
+{"Call": {"Number":"+98216636####","Duration":"265","Time":"1-6-2014 14:26:05","Type":"2"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 14:30:49","End":"1-6-2014 14:30:53"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 14:30:53","End":"1-6-2014 14:30:59"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 14:30:53","End":"1-6-2014 14:32:26"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 14:30:40","End":"1-6-2014 14:32:26"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 14:30:40","End":"1-6-2014 14:32:26"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 14:30:40","End":"1-6-2014 14:32:26"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 14:33:38","End":"1-6-2014 14:33:48"}}
+{"Call": {"Number":"+98216636####","Duration":"265","Time":"1-6-2014 14:26:05","Type":"2"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 14:33:48","End":"1-6-2014 14:33:54"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 14:33:54","End":"1-6-2014 14:33:58"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 14:33:38","End":"1-6-2014 14:34:04"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 14:33:38","End":"1-6-2014 14:34:04"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 14:33:38","End":"1-6-2014 14:34:04"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 14:33:54","End":"1-6-2014 14:34:04"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 14:35:56","End":"1-6-2014 14:36:06"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 14:36:06","End":"1-6-2014 14:36:48"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 14:35:56","End":"1-6-2014 14:36:48"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 14:35:56","End":"1-6-2014 14:36:48"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 14:35:56","End":"1-6-2014 14:36:48"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 14:38:23","End":"1-6-2014 14:39:03"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 14:38:23","End":"1-6-2014 14:39:03"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 14:38:23","End":"1-6-2014 14:39:03"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 14:38:23","End":"1-6-2014 14:39:03"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 14:41:48","End":"1-6-2014 14:41:52"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 14:41:48","End":"1-6-2014 14:41:58"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 14:41:48","End":"1-6-2014 14:41:58"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 14:41:48","End":"1-6-2014 14:41:58"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 14:41:52","End":"1-6-2014 14:41:58"}}
+{"Call": {"Number":"+98216636####","Duration":"51","Time":"1-6-2014 14:41:55","Type":"2"}}
+{"Call": {"Number":"+98216636####","Duration":"51","Time":"1-6-2014 14:41:55","Type":"2"}}
+{"Call": {"Number":"+98216636####","Duration":"51","Time":"1-6-2014 14:41:55","Type":"2"}}
+{"Application":{"ProcessName":"com.lge.ime","Start":"1-6-2014 14:42:58","End":"1-6-2014 14:43:03"}}
+{"Call": {"Number":"+98216636####","Duration":"51","Time":"1-6-2014 14:41:55","Type":"2"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 14:43:03","End":"1-6-2014 14:43:14"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 14:42:58","End":"1-6-2014 14:43:18"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 14:42:58","End":"1-6-2014 14:43:18"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 14:42:58","End":"1-6-2014 14:43:18"}}
+{"Call": {"Number":"0919130####","Duration":"25","Time":"1-6-2014 14:43:13","Type":"2"}}
+{"Call": {"Number":"0919130####","Duration":"25","Time":"1-6-2014 14:43:13","Type":"2"}}
+{"Call": {"Number":"0919130####","Duration":"25","Time":"1-6-2014 14:43:13","Type":"2"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 14:44:13","End":"1-6-2014 14:44:50"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 14:44:13","End":"1-6-2014 14:44:50"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 14:44:13","End":"1-6-2014 14:44:50"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 14:44:19","End":"1-6-2014 14:44:50"}}
+{"Call": {"Number":"+98919130####","Duration":"89","Time":"1-6-2014 14:44:44","Type":"1"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 14:46:18","End":"1-6-2014 14:46:30"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 14:46:18","End":"1-6-2014 14:46:30"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 14:46:18","End":"1-6-2014 14:46:30"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 14:58:40","End":"1-6-2014 14:59:16"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 14:58:40","End":"1-6-2014 14:59:16"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 14:58:40","End":"1-6-2014 14:59:16"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 14:58:40","End":"1-6-2014 14:59:16"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 15:07:01","End":"1-6-2014 15:08:27"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 15:07:01","End":"1-6-2014 15:08:27"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 15:16:56","End":"1-6-2014 15:17:01"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 15:16:56","End":"1-6-2014 15:17:01"}}
+{"Application":{"ProcessName":"com.whatsapp","Start":"1-6-2014 15:16:56","End":"1-6-2014 15:17:01"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 15:16:56","End":"1-6-2014 15:17:01"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 15:16:56","End":"1-6-2014 15:17:01"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 15:24:14","End":"1-6-2014 15:24:18"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 15:24:14","End":"1-6-2014 15:24:18"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 15:24:14","End":"1-6-2014 15:24:18"}}
+{"Call": {"Number":"+98216636####","Duration":"94","Time":"1-6-2014 15:24:10","Type":"1"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 15:25:55","End":"1-6-2014 15:26:01"}}
+{"Application":{"ProcessName":"com.lge.music","Start":"1-6-2014 15:26:01","End":"1-6-2014 15:26:31"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 15:26:31","End":"1-6-2014 15:26:35"}}
+{"Application":{"ProcessName":"ir.fadesign.persian_date","Start":"1-6-2014 15:26:31","End":"1-6-2014 15:26:35"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 15:25:50","End":"1-6-2014 15:27:47"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 15:25:50","End":"1-6-2014 15:27:47"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 15:25:50","End":"1-6-2014 15:27:47"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 15:26:35","End":"1-6-2014 15:27:47"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 15:54:47","End":"1-6-2014 15:54:52"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 15:54:47","End":"1-6-2014 15:54:52"}}
+{"Call": {"Number":"+98216636####","Duration":"94","Time":"1-6-2014 15:24:10","Type":"1"}}
+{"Call": {"Number":"+98216636####","Duration":"94","Time":"1-6-2014 15:24:10","Type":"1"}}
+{"Call": {"Number":"+98216636####","Duration":"94","Time":"1-6-2014 15:24:10","Type":"1"}}
+{"Call": {"Number":"+98216636####","Duration":"94","Time":"1-6-2014 15:24:10","Type":"1"}}
+{"Call": {"Number":"+98216636####","Duration":"94","Time":"1-6-2014 15:24:10","Type":"1"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 15:54:52","End":"1-6-2014 15:56:52"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 15:57:08","End":"1-6-2014 15:57:12"}}
+{"Application":{"ProcessName":"com.jb.gosms:im","Start":"1-6-2014 15:57:08","End":"1-6-2014 15:57:12"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 15:54:47","End":"1-6-2014 15:57:47"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 15:54:47","End":"1-6-2014 15:57:47"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 15:54:47","End":"1-6-2014 15:57:47"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 15:56:52","End":"1-6-2014 15:57:47"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 16:11:56","End":"1-6-2014 16:12:02"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 16:11:56","End":"1-6-2014 16:12:02"}}
+{"Application":{"ProcessName":"com.android.gallery3d","Start":"1-6-2014 16:12:02","End":"1-6-2014 16:12:37"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 16:11:56","End":"1-6-2014 16:13:07"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 16:11:56","End":"1-6-2014 16:13:07"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 16:11:56","End":"1-6-2014 16:13:07"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 16:12:37","End":"1-6-2014 16:13:07"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 16:19:23","End":"1-6-2014 16:19:29"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 16:19:23","End":"1-6-2014 16:19:39"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 16:19:23","End":"1-6-2014 16:20:19"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 16:19:23","End":"1-6-2014 16:20:19"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 16:19:23","End":"1-6-2014 16:20:19"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 16:19:43","End":"1-6-2014 16:20:19"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 16:22:57","End":"1-6-2014 16:24:04"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 16:22:57","End":"1-6-2014 16:24:04"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 16:22:57","End":"1-6-2014 16:24:04"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 16:22:57","End":"1-6-2014 16:24:04"}}
+{"Application":{"ProcessName":"com.google.android.apps.maps:GoogleLocationService","Start":"1-6-2014 16:42:17","End":"1-6-2014 16:42:21"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 16:42:11","End":"1-6-2014 16:42:55"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 16:42:11","End":"1-6-2014 16:42:55"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 16:42:11","End":"1-6-2014 16:42:55"}}
+{"Application":{"ProcessName":"com.jb.gosms:individualypopup","Start":"1-6-2014 16:42:11","End":"1-6-2014 16:42:55"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 16:48:11","End":"1-6-2014 16:48:15"}}
+{"Application":{"ProcessName":"com.jb.gosms:individualypopup","Start":"1-6-2014 16:47:34","End":"1-6-2014 16:48:15"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 16:47:34","End":"1-6-2014 16:48:42"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 16:47:34","End":"1-6-2014 16:48:42"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 16:47:34","End":"1-6-2014 16:48:42"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 16:48:15","End":"1-6-2014 16:48:42"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 16:51:13","End":"1-6-2014 16:51:17"}}
+{"Application":{"ProcessName":"com.jb.gosms:individualypopup","Start":"1-6-2014 16:51:07","End":"1-6-2014 16:51:27"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 16:51:07","End":"1-6-2014 16:51:44"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 16:51:07","End":"1-6-2014 16:51:44"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 16:51:07","End":"1-6-2014 16:51:44"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 16:51:27","End":"1-6-2014 16:51:44"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 16:51:54","End":"1-6-2014 16:51:57"}}
+{"Application":{"ProcessName":"com.jb.gosms:individualypopup","Start":"1-6-2014 16:51:47","End":"1-6-2014 16:52:04"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 16:51:47","End":"1-6-2014 16:52:07"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 16:51:47","End":"1-6-2014 16:52:07"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 16:51:47","End":"1-6-2014 16:52:07"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 16:52:04","End":"1-6-2014 16:52:07"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 16:53:01","End":"1-6-2014 16:53:12"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 16:53:01","End":"1-6-2014 16:53:12"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 16:53:01","End":"1-6-2014 16:53:12"}}
+{"Application":{"ProcessName":"com.jb.gosms:individualypopup","Start":"1-6-2014 16:53:01","End":"1-6-2014 16:53:12"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 16:53:19","End":"1-6-2014 16:55:36"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 16:53:19","End":"1-6-2014 16:55:36"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 16:53:19","End":"1-6-2014 16:55:36"}}
+{"Application":{"ProcessName":"com.jb.gosms:individualypopup","Start":"1-6-2014 16:53:19","End":"1-6-2014 16:55:36"}}
+{"Call": {"Number":"+98216636####","Duration":"0","Time":"1-6-2014 16:59:48","Type":"3"}}
+{"Application":{"ProcessName":"com.jb.gosms:individualypopup","Start":"1-6-2014 17:03:17","End":"1-6-2014 17:03:27"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 17:03:17","End":"1-6-2014 17:03:27"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 17:03:17","End":"1-6-2014 17:03:27"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 17:03:17","End":"1-6-2014 17:03:27"}}
+{"Call": {"Number":"+98216636####","Duration":"0","Time":"1-6-2014 16:59:48","Type":"3"}}
+{"Call": {"Number":"+98216636####","Duration":"0","Time":"1-6-2014 17:03:26","Type":"2"}}
+{"Call": {"Number":"+98216636####","Duration":"0","Time":"1-6-2014 17:03:26","Type":"2"}}
+{"Call": {"Number":"+98216636####","Duration":"0","Time":"1-6-2014 17:03:26","Type":"2"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 17:04:17","End":"1-6-2014 17:04:27"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 17:04:17","End":"1-6-2014 17:04:27"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 17:04:17","End":"1-6-2014 17:04:27"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 17:04:17","End":"1-6-2014 17:04:27"}}
+{"Call": {"Number":"+98912827####","Duration":"79","Time":"1-6-2014 17:04:24","Type":"2"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 17:06:22","End":"1-6-2014 17:06:55"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 17:06:22","End":"1-6-2014 17:07:09"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 17:06:22","End":"1-6-2014 17:07:09"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 17:06:22","End":"1-6-2014 17:07:09"}}
+{"Call": {"Number":"+98912320####","Duration":"162","Time":"1-6-2014 17:06:48","Type":"1"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 17:09:40","End":"1-6-2014 17:10:04"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 17:09:40","End":"1-6-2014 17:10:04"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 17:09:40","End":"1-6-2014 17:10:04"}}
+{"Call": {"Number":"+98912320####","Duration":"25","Time":"1-6-2014 17:10:15","Type":"1"}}
+{"Application":{"ProcessName":"com.jb.gosms:individualypopup","Start":"1-6-2014 17:22:15","End":"1-6-2014 17:22:35"}}
+{"Call": {"Number":"+98912320####","Duration":"25","Time":"1-6-2014 17:10:15","Type":"1"}}
+{"Call": {"Number":"+98912320####","Duration":"25","Time":"1-6-2014 17:10:15","Type":"1"}}
+{"Call": {"Number":"+98912320####","Duration":"25","Time":"1-6-2014 17:10:15","Type":"1"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 17:23:02","End":"1-6-2014 17:23:03"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 17:22:35","End":"1-6-2014 17:25:50"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 17:22:15","End":"1-6-2014 17:25:50"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 17:22:15","End":"1-6-2014 17:25:50"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 17:22:15","End":"1-6-2014 17:25:50"}}
+{"Call": {"Number":"+98912320####","Duration":"25","Time":"1-6-2014 17:10:15","Type":"1"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 17:28:17","End":"1-6-2014 17:28:27"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 17:28:27","End":"1-6-2014 17:29:00"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 17:28:17","End":"1-6-2014 17:29:00"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 17:28:17","End":"1-6-2014 17:29:00"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 17:28:17","End":"1-6-2014 17:29:00"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 17:29:47","End":"1-6-2014 17:29:57"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 17:29:57","End":"1-6-2014 17:30:17"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 17:30:17","End":"1-6-2014 17:31:51"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 17:29:47","End":"1-6-2014 17:31:51"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 17:29:47","End":"1-6-2014 17:31:51"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 17:29:47","End":"1-6-2014 17:31:51"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 17:32:22","End":"1-6-2014 17:32:58"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 17:32:22","End":"1-6-2014 17:32:58"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 17:32:22","End":"1-6-2014 17:32:58"}}
+{"Call": {"Number":"+98912358####","Duration":"91","Time":"1-6-2014 17:32:18","Type":"1"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 17:33:59","End":"1-6-2014 17:33:59"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 17:33:59","End":"1-6-2014 17:36:20"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 17:33:59","End":"1-6-2014 17:36:20"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 17:33:59","End":"1-6-2014 17:36:20"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 17:33:59","End":"1-6-2014 17:36:20"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 18:45:21","End":"1-6-2014 18:45:31"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 18:45:21","End":"1-6-2014 18:45:31"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 18:48:24","End":"1-6-2014 18:48:24"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 18:45:21","End":"1-6-2014 18:50:25"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 18:45:21","End":"1-6-2014 18:50:25"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 18:45:21","End":"1-6-2014 18:50:25"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 18:45:31","End":"1-6-2014 18:50:35"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 18:50:35","End":"1-6-2014 18:52:16"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 18:50:25","End":"1-6-2014 18:52:16"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 18:50:25","End":"1-6-2014 18:52:16"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 18:50:25","End":"1-6-2014 18:52:16"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 18:52:44","End":"1-6-2014 18:54:49"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 18:52:44","End":"1-6-2014 18:54:49"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 18:52:44","End":"1-6-2014 18:54:49"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 18:52:44","End":"1-6-2014 18:54:49"}}
+{"Call": {"Number":"+98912358####","Duration":"91","Time":"1-6-2014 17:32:18","Type":"1"}}
+{"Call": {"Number":"+98912358####","Duration":"91","Time":"1-6-2014 17:32:18","Type":"1"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 18:55:57","End":"1-6-2014 18:56:17"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 18:55:57","End":"1-6-2014 18:56:17"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 18:55:57","End":"1-6-2014 18:56:17"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 18:55:57","End":"1-6-2014 18:56:17"}}
+{"Call": {"Number":"0217755####","Duration":"0","Time":"1-6-2014 18:56:14","Type":"2"}}
+{"Call": {"Number":"0217755####","Duration":"0","Time":"1-6-2014 18:56:14","Type":"2"}}
+{"Call": {"Number":"+98912827####","Duration":"0","Time":"1-6-2014 18:56:57","Type":"2"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 18:56:57","End":"1-6-2014 18:57:27"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 18:56:57","End":"1-6-2014 18:57:27"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 18:56:57","End":"1-6-2014 18:57:27"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 18:56:57","End":"1-6-2014 18:57:27"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 18:57:51","End":"1-6-2014 18:58:25"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 18:57:51","End":"1-6-2014 18:58:25"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 18:57:51","End":"1-6-2014 18:58:25"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 18:57:51","End":"1-6-2014 18:58:25"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 19:01:03","End":"1-6-2014 19:02:03"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 19:01:03","End":"1-6-2014 19:02:03"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 19:01:03","End":"1-6-2014 19:02:03"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 19:01:03","End":"1-6-2014 19:02:03"}}
+{"Call": {"Number":"+98216636####","Duration":"68","Time":"1-6-2014 19:01:52","Type":"1"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 19:03:09","End":"1-6-2014 19:04:11"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 19:03:09","End":"1-6-2014 19:04:11"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 19:03:09","End":"1-6-2014 19:04:11"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 19:03:09","End":"1-6-2014 19:04:11"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 19:06:49","End":"1-6-2014 19:06:59"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 19:06:49","End":"1-6-2014 19:06:59"}}
+{"Call": {"Number":"+98216636####","Duration":"68","Time":"1-6-2014 19:01:52","Type":"1"}}
+{"Call": {"Number":"+98216636####","Duration":"68","Time":"1-6-2014 19:01:52","Type":"1"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 19:06:59","End":"1-6-2014 19:07:12"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 19:06:49","End":"1-6-2014 19:07:12"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 19:06:49","End":"1-6-2014 19:07:12"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 19:06:49","End":"1-6-2014 19:07:12"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 19:09:57","End":"1-6-2014 19:10:07"}}
+{"Application":{"ProcessName":"com.jb.gosms:im","Start":"1-6-2014 19:10:07","End":"1-6-2014 19:10:18"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 19:10:07","End":"1-6-2014 19:10:38"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 19:09:57","End":"1-6-2014 19:10:38"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 19:09:57","End":"1-6-2014 19:10:38"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 19:09:57","End":"1-6-2014 19:10:38"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 19:11:02","End":"1-6-2014 19:11:46"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 19:11:02","End":"1-6-2014 19:11:46"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 19:11:02","End":"1-6-2014 19:11:46"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 19:11:02","End":"1-6-2014 19:11:46"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 19:18:18","End":"1-6-2014 19:18:28"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 19:18:18","End":"1-6-2014 19:18:28"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 19:18:18","End":"1-6-2014 19:18:28"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 19:18:18","End":"1-6-2014 19:18:28"}}
+{"Call": {"Number":"+98919130####","Duration":"30","Time":"1-6-2014 19:18:18","Type":"1"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 19:18:49","End":"1-6-2014 19:19:13"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 19:18:49","End":"1-6-2014 19:19:13"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 19:18:49","End":"1-6-2014 19:19:13"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 19:31:40","End":"1-6-2014 19:31:50"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 19:31:40","End":"1-6-2014 19:31:50"}}
+{"Application":{"ProcessName":"com.google.android.apps.plus","Start":"1-6-2014 19:31:50","End":"1-6-2014 19:32:01"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 19:31:50","End":"1-6-2014 19:32:11"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 19:31:40","End":"1-6-2014 19:32:11"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 19:31:40","End":"1-6-2014 19:32:11"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 19:31:40","End":"1-6-2014 19:32:11"}}
+{"Location":{"Latitude":"35.6913325","Longtitude":"51.3742167","Altitude":"0.0","time":"1-6-2014 19:32:15","Accuracy":"42.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6921163","Longtitude":"51.3745748","Altitude":"0.0","time":"1-6-2014 19:32:18","Accuracy":"1029.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913342","Longtitude":"51.3742472","Altitude":"0.0","time":"1-6-2014 19:32:59","Accuracy":"31.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913229","Longtitude":"51.3742156","Altitude":"0.0","time":"1-6-2014 19:33:44","Accuracy":"33.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913406","Longtitude":"51.3742441","Altitude":"0.0","time":"1-6-2014 19:34:29","Accuracy":"30.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913418","Longtitude":"51.3742302","Altitude":"0.0","time":"1-6-2014 19:35:14","Accuracy":"33.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913281","Longtitude":"51.3742425","Altitude":"0.0","time":"1-6-2014 19:35:59","Accuracy":"30.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913388","Longtitude":"51.3742393","Altitude":"0.0","time":"1-6-2014 19:36:44","Accuracy":"30.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913166","Longtitude":"51.3742158","Altitude":"0.0","time":"1-6-2014 19:38:14","Accuracy":"33.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913253","Longtitude":"51.3742342","Altitude":"0.0","time":"1-6-2014 19:38:59","Accuracy":"30.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913282","Longtitude":"51.3742456","Altitude":"0.0","time":"1-6-2014 19:39:44","Accuracy":"30.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913379","Longtitude":"51.3742462","Altitude":"0.0","time":"1-6-2014 19:40:29","Accuracy":"30.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913618","Longtitude":"51.3742197","Altitude":"0.0","time":"1-6-2014 19:41:14","Accuracy":"34.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914213","Longtitude":"51.3742296","Altitude":"0.0","time":"1-6-2014 19:41:59","Accuracy":"37.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913322","Longtitude":"51.3742428","Altitude":"0.0","time":"1-6-2014 19:42:44","Accuracy":"30.0","Provider":"network"}}
+{"Location":{"Latitude":"35.691345","Longtitude":"51.3742433","Altitude":"0.0","time":"1-6-2014 19:44:59","Accuracy":"31.0","Provider":"network"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 19:44:51","End":"1-6-2014 19:45:01"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 19:44:51","End":"1-6-2014 19:45:01"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 19:44:51","End":"1-6-2014 19:45:01"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 19:44:51","End":"1-6-2014 19:45:01"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 19:44:51","End":"1-6-2014 19:45:01"}}
+{"Location":{"Latitude":"35.6913346","Longtitude":"51.3742599","Altitude":"0.0","time":"1-6-2014 19:45:44","Accuracy":"30.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913696","Longtitude":"51.3742188","Altitude":"0.0","time":"1-6-2014 19:47:14","Accuracy":"34.0","Provider":"network"}}
+{"Location":{"Latitude":"35.69134","Longtitude":"51.374239","Altitude":"0.0","time":"1-6-2014 19:47:59","Accuracy":"30.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913299","Longtitude":"51.374212","Altitude":"0.0","time":"1-6-2014 19:50:14","Accuracy":"33.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914025","Longtitude":"51.3742242","Altitude":"0.0","time":"1-6-2014 19:52:29","Accuracy":"34.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913337","Longtitude":"51.374232","Altitude":"0.0","time":"1-6-2014 19:53:14","Accuracy":"30.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913632","Longtitude":"51.3742183","Altitude":"0.0","time":"1-6-2014 19:54:44","Accuracy":"31.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913428","Longtitude":"51.3742333","Altitude":"0.0","time":"1-6-2014 19:55:29","Accuracy":"30.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913568","Longtitude":"51.374258","Altitude":"0.0","time":"1-6-2014 19:59:14","Accuracy":"39.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6921163","Longtitude":"51.3745748","Altitude":"0.0","time":"1-6-2014 19:59:59","Accuracy":"1029.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914377","Longtitude":"51.3741881","Altitude":"0.0","time":"1-6-2014 20:00:43","Accuracy":"38.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914207","Longtitude":"51.3742255","Altitude":"0.0","time":"1-6-2014 20:01:30","Accuracy":"41.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914611","Longtitude":"51.3742402","Altitude":"0.0","time":"1-6-2014 20:02:15","Accuracy":"37.0","Provider":"network"}}
+{"Location":{"Latitude":"35.691453","Longtitude":"51.3742105","Altitude":"0.0","time":"1-6-2014 20:03:00","Accuracy":"37.0","Provider":"network"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 20:03:08","End":"1-6-2014 20:03:18"}}
+{"Location":{"Latitude":"35.691532","Longtitude":"51.3742214","Altitude":"0.0","time":"1-6-2014 20:03:45","Accuracy":"31.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 20:03:08","End":"1-6-2014 20:04:19"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 20:03:08","End":"1-6-2014 20:04:19"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 20:03:08","End":"1-6-2014 20:04:19"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 20:03:08","End":"1-6-2014 20:04:19"}}
+{"Location":{"Latitude":"35.6914291","Longtitude":"51.37422","Altitude":"0.0","time":"1-6-2014 20:04:30","Accuracy":"40.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 20:04:33","End":"1-6-2014 20:04:43"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 20:04:33","End":"1-6-2014 20:04:43"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 20:04:33","End":"1-6-2014 20:04:43"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 20:04:33","End":"1-6-2014 20:04:43"}}
+{"Location":{"Latitude":"35.6914937","Longtitude":"51.3742105","Altitude":"0.0","time":"1-6-2014 20:05:15","Accuracy":"34.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6915145","Longtitude":"51.3742213","Altitude":"0.0","time":"1-6-2014 20:06:00","Accuracy":"32.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914919","Longtitude":"51.3742161","Altitude":"0.0","time":"1-6-2014 20:06:45","Accuracy":"34.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6915842","Longtitude":"51.3742262","Altitude":"0.0","time":"1-6-2014 20:07:31","Accuracy":"27.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6915283","Longtitude":"51.3742283","Altitude":"0.0","time":"1-6-2014 20:08:15","Accuracy":"31.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914916","Longtitude":"51.3742253","Altitude":"0.0","time":"1-6-2014 20:09:00","Accuracy":"34.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6916084","Longtitude":"51.3742409","Altitude":"0.0","time":"1-6-2014 20:09:45","Accuracy":"26.0","Provider":"network"}}
+{"Location":{"Latitude":"35.691477","Longtitude":"51.3742094","Altitude":"0.0","time":"1-6-2014 20:10:30","Accuracy":"35.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914781","Longtitude":"51.3741915","Altitude":"0.0","time":"1-6-2014 20:12:00","Accuracy":"57.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914398","Longtitude":"51.3741849","Altitude":"0.0","time":"1-6-2014 20:12:45","Accuracy":"38.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6915376","Longtitude":"51.3742095","Altitude":"0.0","time":"1-6-2014 20:13:30","Accuracy":"30.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6915291","Longtitude":"51.3742171","Altitude":"0.0","time":"1-6-2014 20:14:15","Accuracy":"31.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914968","Longtitude":"51.3742206","Altitude":"0.0","time":"1-6-2014 20:15:00","Accuracy":"34.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914623","Longtitude":"51.3741913","Altitude":"0.0","time":"1-6-2014 20:15:45","Accuracy":"36.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914678","Longtitude":"51.3742139","Altitude":"0.0","time":"1-6-2014 20:16:30","Accuracy":"36.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914815","Longtitude":"51.3742049","Altitude":"0.0","time":"1-6-2014 20:17:15","Accuracy":"35.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6915016","Longtitude":"51.3742021","Altitude":"0.0","time":"1-6-2014 20:18:00","Accuracy":"33.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914558","Longtitude":"51.3741999","Altitude":"0.0","time":"1-6-2014 20:19:30","Accuracy":"37.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6915164","Longtitude":"51.3741914","Altitude":"0.0","time":"1-6-2014 20:20:15","Accuracy":"51.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914431","Longtitude":"51.3742033","Altitude":"0.0","time":"1-6-2014 20:21:00","Accuracy":"38.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914186","Longtitude":"51.3742064","Altitude":"0.0","time":"1-6-2014 20:21:45","Accuracy":"40.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914378","Longtitude":"51.3742142","Altitude":"0.0","time":"1-6-2014 20:22:30","Accuracy":"39.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914878","Longtitude":"51.3741817","Altitude":"0.0","time":"1-6-2014 20:23:15","Accuracy":"34.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6915087","Longtitude":"51.3742054","Altitude":"0.0","time":"1-6-2014 20:24:45","Accuracy":"51.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914819","Longtitude":"51.3742207","Altitude":"0.0","time":"1-6-2014 20:25:30","Accuracy":"35.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914451","Longtitude":"51.374182","Altitude":"0.0","time":"1-6-2014 20:26:15","Accuracy":"37.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914209","Longtitude":"51.3742035","Altitude":"0.0","time":"1-6-2014 20:27:00","Accuracy":"40.0","Provider":"network"}}
+{"Location":{"Latitude":"35.69144","Longtitude":"51.3742072","Altitude":"0.0","time":"1-6-2014 20:28:30","Accuracy":"38.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914528","Longtitude":"51.3742088","Altitude":"0.0","time":"1-6-2014 20:29:15","Accuracy":"37.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914805","Longtitude":"51.3742155","Altitude":"0.0","time":"1-6-2014 20:30:00","Accuracy":"35.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914618","Longtitude":"51.3742105","Altitude":"0.0","time":"1-6-2014 20:30:45","Accuracy":"37.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914524","Longtitude":"51.3742063","Altitude":"0.0","time":"1-6-2014 20:33:00","Accuracy":"37.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914668","Longtitude":"51.374209","Altitude":"0.0","time":"1-6-2014 20:34:30","Accuracy":"36.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914913","Longtitude":"51.3742133","Altitude":"0.0","time":"1-6-2014 20:36:00","Accuracy":"34.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914401","Longtitude":"51.3742341","Altitude":"0.0","time":"1-6-2014 20:36:45","Accuracy":"40.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914745","Longtitude":"51.3742134","Altitude":"0.0","time":"1-6-2014 20:37:30","Accuracy":"36.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914913","Longtitude":"51.3742114","Altitude":"0.0","time":"1-6-2014 20:39:00","Accuracy":"34.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914786","Longtitude":"51.3742113","Altitude":"0.0","time":"1-6-2014 20:39:46","Accuracy":"35.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914667","Longtitude":"51.3742134","Altitude":"0.0","time":"1-6-2014 20:40:31","Accuracy":"36.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914463","Longtitude":"51.3742054","Altitude":"0.0","time":"1-6-2014 20:41:16","Accuracy":"38.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914575","Longtitude":"51.374209","Altitude":"0.0","time":"1-6-2014 20:42:01","Accuracy":"37.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914382","Longtitude":"51.3742394","Altitude":"0.0","time":"1-6-2014 20:42:46","Accuracy":"39.0","Provider":"network"}}
+{"Location":{"Latitude":"35.691422","Longtitude":"51.3742344","Altitude":"0.0","time":"1-6-2014 20:43:31","Accuracy":"41.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914617","Longtitude":"51.3742048","Altitude":"0.0","time":"1-6-2014 20:44:16","Accuracy":"36.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914833","Longtitude":"51.3742153","Altitude":"0.0","time":"1-6-2014 20:45:01","Accuracy":"35.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914169","Longtitude":"51.3742353","Altitude":"0.0","time":"1-6-2014 20:45:46","Accuracy":"37.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914271","Longtitude":"51.3741981","Altitude":"0.0","time":"1-6-2014 20:46:31","Accuracy":"39.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914788","Longtitude":"51.3742144","Altitude":"0.0","time":"1-6-2014 20:47:16","Accuracy":"35.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914439","Longtitude":"51.3742102","Altitude":"0.0","time":"1-6-2014 20:48:01","Accuracy":"38.0","Provider":"network"}}
+{"Location":{"Latitude":"35.691427","Longtitude":"51.3742054","Altitude":"0.0","time":"1-6-2014 20:48:46","Accuracy":"40.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914585","Longtitude":"51.3742023","Altitude":"0.0","time":"1-6-2014 20:49:31","Accuracy":"37.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914763","Longtitude":"51.3742184","Altitude":"0.0","time":"1-6-2014 20:50:16","Accuracy":"36.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6915231","Longtitude":"51.3742279","Altitude":"0.0","time":"1-6-2014 20:51:01","Accuracy":"32.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914973","Longtitude":"51.3742178","Altitude":"0.0","time":"1-6-2014 20:51:46","Accuracy":"34.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914739","Longtitude":"51.3742268","Altitude":"0.0","time":"1-6-2014 20:52:31","Accuracy":"36.0","Provider":"network"}}
+{"Location":{"Latitude":"35.691482","Longtitude":"51.3742384","Altitude":"0.0","time":"1-6-2014 20:53:16","Accuracy":"36.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914518","Longtitude":"51.3742482","Altitude":"0.0","time":"1-6-2014 20:54:01","Accuracy":"45.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914668","Longtitude":"51.37425","Altitude":"0.0","time":"1-6-2014 20:55:31","Accuracy":"42.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914489","Longtitude":"51.3741726","Altitude":"0.0","time":"1-6-2014 20:56:16","Accuracy":"37.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914101","Longtitude":"51.3741888","Altitude":"0.0","time":"1-6-2014 20:57:46","Accuracy":"36.0","Provider":"network"}}
+{"Location":{"Latitude":"35.691427","Longtitude":"51.3741952","Altitude":"0.0","time":"1-6-2014 20:58:31","Accuracy":"45.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913986","Longtitude":"51.3741884","Altitude":"0.0","time":"1-6-2014 21:00:01","Accuracy":"36.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914706","Longtitude":"51.3742205","Altitude":"0.0","time":"1-6-2014 21:00:46","Accuracy":"36.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914526","Longtitude":"51.3742334","Altitude":"0.0","time":"1-6-2014 21:01:31","Accuracy":"38.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914199","Longtitude":"51.3742271","Altitude":"0.0","time":"1-6-2014 21:02:16","Accuracy":"41.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914054","Longtitude":"51.3742357","Altitude":"0.0","time":"1-6-2014 21:03:01","Accuracy":"42.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914607","Longtitude":"51.3742506","Altitude":"0.0","time":"1-6-2014 21:03:46","Accuracy":"38.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6915074","Longtitude":"51.3742411","Altitude":"0.0","time":"1-6-2014 21:04:31","Accuracy":"34.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914793","Longtitude":"51.3742484","Altitude":"0.0","time":"1-6-2014 21:05:16","Accuracy":"25.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914616","Longtitude":"51.374255","Altitude":"0.0","time":"1-6-2014 21:07:31","Accuracy":"38.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914957","Longtitude":"51.3742607","Altitude":"0.0","time":"1-6-2014 21:08:16","Accuracy":"35.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914651","Longtitude":"51.3742567","Altitude":"0.0","time":"1-6-2014 21:09:01","Accuracy":"38.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914547","Longtitude":"51.374249","Altitude":"0.0","time":"1-6-2014 21:09:49","Accuracy":"36.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6924374","Longtitude":"51.3758458","Altitude":"0.0","time":"1-6-2014 21:09:57","Accuracy":"1029.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 21:09:49","End":"1-6-2014 21:09:59"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 21:09:49","End":"1-6-2014 21:09:59"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 21:09:49","End":"1-6-2014 21:09:59"}}
+{"Call": {"Number":"+98919130####","Duration":"17","Time":"1-6-2014 21:09:42","Type":"1"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 21:10:11","End":"1-6-2014 21:10:21"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 21:10:11","End":"1-6-2014 21:10:21"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 21:10:11","End":"1-6-2014 21:10:21"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 21:10:11","End":"1-6-2014 21:10:21"}}
+{"Location":{"Latitude":"35.6914547","Longtitude":"51.374249","Altitude":"0.0","time":"1-6-2014 21:10:30","Accuracy":"36.0","Provider":"network"}}
+{"Location":{"Latitude":"35.691477","Longtitude":"51.3742465","Altitude":"0.0","time":"1-6-2014 21:11:17","Accuracy":"36.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6915189","Longtitude":"51.3742177","Altitude":"0.0","time":"1-6-2014 21:12:02","Accuracy":"32.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914136","Longtitude":"51.3741981","Altitude":"0.0","time":"1-6-2014 21:12:47","Accuracy":"41.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914072","Longtitude":"51.3742167","Altitude":"0.0","time":"1-6-2014 21:15:02","Accuracy":"42.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913965","Longtitude":"51.3741401","Altitude":"0.0","time":"1-6-2014 21:15:47","Accuracy":"41.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913873","Longtitude":"51.3741421","Altitude":"0.0","time":"1-6-2014 21:16:32","Accuracy":"42.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913965","Longtitude":"51.3741401","Altitude":"0.0","time":"1-6-2014 21:18:47","Accuracy":"41.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914123","Longtitude":"51.3742209","Altitude":"0.0","time":"1-6-2014 21:19:32","Accuracy":"41.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913997","Longtitude":"51.3742116","Altitude":"0.0","time":"1-6-2014 21:20:17","Accuracy":"42.0","Provider":"network"}}
+{"Location":{"Latitude":"35.691411","Longtitude":"51.3742181","Altitude":"0.0","time":"1-6-2014 21:21:02","Accuracy":"41.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913944","Longtitude":"51.3741401","Altitude":"0.0","time":"1-6-2014 21:23:17","Accuracy":"41.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913426","Longtitude":"51.3741742","Altitude":"0.0","time":"1-6-2014 21:24:47","Accuracy":"23.0","Provider":"network"}}
+{"Location":{"Latitude":"35.691416","Longtitude":"51.3742215","Altitude":"0.0","time":"1-6-2014 21:25:32","Accuracy":"41.0","Provider":"network"}}
+{"Location":{"Latitude":"35.691394","Longtitude":"51.3741384","Altitude":"0.0","time":"1-6-2014 21:27:02","Accuracy":"41.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914071","Longtitude":"51.374214","Altitude":"0.0","time":"1-6-2014 21:30:02","Accuracy":"41.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913965","Longtitude":"51.3741401","Altitude":"0.0","time":"1-6-2014 21:31:32","Accuracy":"41.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913998","Longtitude":"51.374214","Altitude":"0.0","time":"1-6-2014 21:32:17","Accuracy":"42.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913723","Longtitude":"51.3742259","Altitude":"0.0","time":"1-6-2014 21:33:02","Accuracy":"25.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913898","Longtitude":"51.3742249","Altitude":"0.0","time":"1-6-2014 21:33:47","Accuracy":"43.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914014","Longtitude":"51.3742142","Altitude":"0.0","time":"1-6-2014 21:35:17","Accuracy":"42.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914219","Longtitude":"51.3742188","Altitude":"0.0","time":"1-6-2014 21:36:03","Accuracy":"40.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914055","Longtitude":"51.3741934","Altitude":"0.0","time":"1-6-2014 21:36:48","Accuracy":"41.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913977","Longtitude":"51.3742119","Altitude":"0.0","time":"1-6-2014 21:39:03","Accuracy":"42.0","Provider":"network"}}
+{"Location":{"Latitude":"35.691389","Longtitude":"51.3742166","Altitude":"0.0","time":"1-6-2014 21:42:03","Accuracy":"43.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913691","Longtitude":"51.3742219","Altitude":"0.0","time":"1-6-2014 21:42:48","Accuracy":"23.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913995","Longtitude":"51.3742116","Altitude":"0.0","time":"1-6-2014 21:43:33","Accuracy":"42.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914512","Longtitude":"51.3742389","Altitude":"0.0","time":"1-6-2014 21:47:36","Accuracy":"38.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914117","Longtitude":"51.3741443","Altitude":"0.0","time":"1-6-2014 21:48:20","Accuracy":"40.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914306","Longtitude":"51.3741762","Altitude":"0.0","time":"1-6-2014 21:49:05","Accuracy":"39.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 21:47:33","End":"1-6-2014 21:49:14"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 21:47:33","End":"1-6-2014 21:49:14"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 21:47:33","End":"1-6-2014 21:49:14"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 21:47:33","End":"1-6-2014 21:49:14"}}
+{"Location":{"Latitude":"35.6914557","Longtitude":"51.3742692","Altitude":"0.0","time":"1-6-2014 21:49:50","Accuracy":"39.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914063","Longtitude":"51.3741952","Altitude":"0.0","time":"1-6-2014 21:50:35","Accuracy":"41.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913887","Longtitude":"51.3742343","Altitude":"0.0","time":"1-6-2014 21:52:50","Accuracy":"27.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913705","Longtitude":"51.3742632","Altitude":"0.0","time":"1-6-2014 21:53:35","Accuracy":"26.0","Provider":"network"}}
+{"Location":{"Latitude":"35.691358","Longtitude":"51.3742645","Altitude":"0.0","time":"1-6-2014 21:54:20","Accuracy":"28.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913946","Longtitude":"51.3742443","Altitude":"0.0","time":"1-6-2014 21:55:05","Accuracy":"43.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914058","Longtitude":"51.3742794","Altitude":"0.0","time":"1-6-2014 21:55:50","Accuracy":"43.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913746","Longtitude":"51.3742305","Altitude":"0.0","time":"1-6-2014 21:56:35","Accuracy":"45.0","Provider":"network"}}
+{"Location":{"Latitude":"35.691384","Longtitude":"51.3742378","Altitude":"0.0","time":"1-6-2014 21:57:20","Accuracy":"44.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914144","Longtitude":"51.3741883","Altitude":"0.0","time":"1-6-2014 21:58:05","Accuracy":"40.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914429","Longtitude":"51.374222","Altitude":"0.0","time":"1-6-2014 21:58:50","Accuracy":"39.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6915089","Longtitude":"51.3742746","Altitude":"0.0","time":"1-6-2014 21:59:35","Accuracy":"35.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914321","Longtitude":"51.374242","Altitude":"0.0","time":"1-6-2014 22:00:20","Accuracy":"40.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914548","Longtitude":"51.3742205","Altitude":"0.0","time":"1-6-2014 22:01:05","Accuracy":"37.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914428","Longtitude":"51.3742174","Altitude":"0.0","time":"1-6-2014 22:01:50","Accuracy":"38.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914609","Longtitude":"51.374206","Altitude":"0.0","time":"1-6-2014 22:02:35","Accuracy":"37.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6915207","Longtitude":"51.3742235","Altitude":"0.0","time":"1-6-2014 22:03:20","Accuracy":"32.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"1-6-2014 22:03:24","End":"1-6-2014 22:03:24"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 22:03:24","End":"1-6-2014 22:03:34"}}
+{"Location":{"Latitude":"35.6915307","Longtitude":"51.3742368","Altitude":"0.0","time":"1-6-2014 22:03:39","Accuracy":"32.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6915057","Longtitude":"51.3742382","Altitude":"0.0","time":"1-6-2014 22:03:41","Accuracy":"34.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 22:03:34","End":"1-6-2014 22:03:54"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 22:03:24","End":"1-6-2014 22:03:54"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 22:03:24","End":"1-6-2014 22:03:54"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 22:03:24","End":"1-6-2014 22:03:54"}}
+{"Location":{"Latitude":"35.6914639","Longtitude":"51.3742236","Altitude":"0.0","time":"1-6-2014 22:04:26","Accuracy":"37.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913653","Longtitude":"51.3742605","Altitude":"0.0","time":"1-6-2014 22:05:11","Accuracy":"33.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914493","Longtitude":"51.3742517","Altitude":"0.0","time":"1-6-2014 22:05:19","Accuracy":"39.0","Provider":"network"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 22:05:18","End":"1-6-2014 22:05:28"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 22:05:18","End":"1-6-2014 22:05:38"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 22:05:18","End":"1-6-2014 22:05:38"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 22:05:18","End":"1-6-2014 22:05:38"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 22:05:18","End":"1-6-2014 22:05:38"}}
+{"Location":{"Latitude":"35.6914045","Longtitude":"51.3742365","Altitude":"0.0","time":"1-6-2014 22:06:00","Accuracy":"33.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914453","Longtitude":"51.3742313","Altitude":"0.0","time":"1-6-2014 22:06:46","Accuracy":"34.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 22:07:27","End":"1-6-2014 22:07:27"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 22:07:27","End":"1-6-2014 22:07:27"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 22:07:27","End":"1-6-2014 22:07:27"}}
+{"Location":{"Latitude":"35.6914112","Longtitude":"51.3742429","Altitude":"0.0","time":"1-6-2014 22:07:28","Accuracy":"34.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914637","Longtitude":"51.3742325","Altitude":"0.0","time":"1-6-2014 22:07:46","Accuracy":"42.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914232","Longtitude":"51.3742362","Altitude":"0.0","time":"1-6-2014 22:07:48","Accuracy":"41.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 22:07:41","End":"1-6-2014 22:07:49"}}
+{"Call": {"Number":"+98919130####","Duration":"17","Time":"1-6-2014 21:09:42","Type":"1"}}
+{"Application":{"ProcessName":"com.google.android.apps.maps:FriendService","Start":"1-6-2014 22:08:01","End":"1-6-2014 22:08:09"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 22:07:49","End":"1-6-2014 22:08:29"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 22:07:41","End":"1-6-2014 22:08:29"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 22:07:41","End":"1-6-2014 22:08:29"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 22:07:41","End":"1-6-2014 22:08:29"}}
+{"Location":{"Latitude":"35.6914087","Longtitude":"51.3742343","Altitude":"0.0","time":"1-6-2014 22:08:32","Accuracy":"42.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914466","Longtitude":"51.3742354","Altitude":"0.0","time":"1-6-2014 22:09:18","Accuracy":"39.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6915125","Longtitude":"51.3742405","Altitude":"0.0","time":"1-6-2014 22:10:03","Accuracy":"33.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6915214","Longtitude":"51.374238","Altitude":"0.0","time":"1-6-2014 22:10:48","Accuracy":"32.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6915014","Longtitude":"51.374233","Altitude":"0.0","time":"1-6-2014 22:11:33","Accuracy":"34.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914383","Longtitude":"51.374239","Altitude":"0.0","time":"1-6-2014 22:12:18","Accuracy":"39.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914354","Longtitude":"51.3741928","Altitude":"0.0","time":"1-6-2014 22:13:03","Accuracy":"39.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914195","Longtitude":"51.3741807","Altitude":"0.0","time":"1-6-2014 22:13:48","Accuracy":"40.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914055","Longtitude":"51.3741821","Altitude":"0.0","time":"1-6-2014 22:15:18","Accuracy":"41.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914914","Longtitude":"51.3742358","Altitude":"0.0","time":"1-6-2014 22:16:03","Accuracy":"35.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914238","Longtitude":"51.3742312","Altitude":"0.0","time":"1-6-2014 22:16:48","Accuracy":"40.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914882","Longtitude":"51.3742356","Altitude":"0.0","time":"1-6-2014 22:17:33","Accuracy":"35.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914356","Longtitude":"51.3741558","Altitude":"0.0","time":"1-6-2014 22:18:18","Accuracy":"38.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913942","Longtitude":"51.3741923","Altitude":"0.0","time":"1-6-2014 22:19:03","Accuracy":"40.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914743","Longtitude":"51.3742425","Altitude":"0.0","time":"1-6-2014 22:19:48","Accuracy":"36.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914243","Longtitude":"51.3741812","Altitude":"0.0","time":"1-6-2014 22:20:33","Accuracy":"39.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914479","Longtitude":"51.3741852","Altitude":"0.0","time":"1-6-2014 22:21:18","Accuracy":"37.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914367","Longtitude":"51.3742307","Altitude":"0.0","time":"1-6-2014 22:22:03","Accuracy":"39.0","Provider":"network"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 22:22:12","End":"1-6-2014 22:22:16"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 22:22:12","End":"1-6-2014 22:22:16"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 22:22:12","End":"1-6-2014 22:22:22"}}
+{"Application":{"ProcessName":"com.whatsapp","Start":"1-6-2014 22:22:16","End":"1-6-2014 22:22:22"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 22:22:12","End":"1-6-2014 22:22:22"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 22:22:12","End":"1-6-2014 22:22:22"}}
+{"Location":{"Latitude":"35.6914253","Longtitude":"51.3742388","Altitude":"0.0","time":"1-6-2014 22:22:48","Accuracy":"45.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914659","Longtitude":"51.3742039","Altitude":"0.0","time":"1-6-2014 22:23:33","Accuracy":"36.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913907","Longtitude":"51.3742313","Altitude":"0.0","time":"1-6-2014 22:24:18","Accuracy":"43.0","Provider":"network"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 22:24:49","End":"1-6-2014 22:24:55"}}
+{"Location":{"Latitude":"35.6913274","Longtitude":"51.3742658","Altitude":"0.0","time":"1-6-2014 22:25:04","Accuracy":"31.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.whatsapp","Start":"1-6-2014 22:24:39","End":"1-6-2014 22:25:05"}}
+{"Location":{"Latitude":"35.6913383","Longtitude":"51.3742708","Altitude":"0.0","time":"1-6-2014 22:25:48","Accuracy":"30.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"1-6-2014 22:25:05","End":"1-6-2014 22:25:55"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 22:25:55","End":"1-6-2014 22:25:59"}}
+{"Location":{"Latitude":"35.6914281","Longtitude":"51.3742404","Altitude":"0.0","time":"1-6-2014 22:26:00","Accuracy":"40.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914198","Longtitude":"51.3741836","Altitude":"0.0","time":"1-6-2014 22:26:02","Accuracy":"40.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.whatsapp","Start":"1-6-2014 22:26:06","End":"1-6-2014 22:26:09"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 22:25:59","End":"1-6-2014 22:26:26"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 22:24:39","End":"1-6-2014 22:26:26"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 22:24:39","End":"1-6-2014 22:26:26"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 22:24:39","End":"1-6-2014 22:26:26"}}
+{"Location":{"Latitude":"35.6913888","Longtitude":"51.3742157","Altitude":"0.0","time":"1-6-2014 22:26:46","Accuracy":"43.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913801","Longtitude":"51.3742071","Altitude":"0.0","time":"1-6-2014 22:27:31","Accuracy":"44.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914143","Longtitude":"51.3742174","Altitude":"0.0","time":"1-6-2014 22:28:16","Accuracy":"41.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914041","Longtitude":"51.3742157","Altitude":"0.0","time":"1-6-2014 22:29:01","Accuracy":"42.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914164","Longtitude":"51.3742239","Altitude":"0.0","time":"1-6-2014 22:29:46","Accuracy":"41.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914159","Longtitude":"51.374241","Altitude":"0.0","time":"1-6-2014 22:32:02","Accuracy":"41.0","Provider":"network"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 22:32:16","End":"1-6-2014 22:32:23"}}
+{"Application":{"ProcessName":"com.whatsapp","Start":"1-6-2014 22:32:23","End":"1-6-2014 22:32:26"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 22:32:16","End":"1-6-2014 22:32:33"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"1-6-2014 22:32:33","End":"1-6-2014 22:32:36"}}
+{"Application":{"ProcessName":"jp.naver.android.npush","Start":"1-6-2014 22:32:33","End":"1-6-2014 22:32:36"}}
+{"Location":{"Latitude":"35.6914435","Longtitude":"51.3742311","Altitude":"0.0","time":"1-6-2014 22:32:38","Accuracy":"39.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914562","Longtitude":"51.3742135","Altitude":"0.0","time":"1-6-2014 22:32:43","Accuracy":"36.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 22:32:36","End":"1-6-2014 22:32:43"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 22:32:16","End":"1-6-2014 22:32:43"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 22:32:16","End":"1-6-2014 22:32:43"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 22:32:16","End":"1-6-2014 22:32:43"}}
+{"Location":{"Latitude":"35.6913827","Longtitude":"51.3742535","Altitude":"0.0","time":"1-6-2014 22:32:56","Accuracy":"45.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913617","Longtitude":"51.3742482","Altitude":"0.0","time":"1-6-2014 22:32:57","Accuracy":"39.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 22:32:54","End":"1-6-2014 22:33:24"}}
+{"Application":{"ProcessName":"com.lge.music","Start":"1-6-2014 22:33:24","End":"1-6-2014 22:33:27"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 22:33:27","End":"1-6-2014 22:33:35"}}
+{"Location":{"Latitude":"35.6913386","Longtitude":"51.3742124","Altitude":"0.0","time":"1-6-2014 22:33:42","Accuracy":"34.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914589","Longtitude":"51.374238","Altitude":"0.0","time":"1-6-2014 22:33:43","Accuracy":"37.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.lge.music","Start":"1-6-2014 22:33:35","End":"1-6-2014 22:33:45"}}
+{"Location":{"Latitude":"35.6914397","Longtitude":"51.3742336","Altitude":"0.0","time":"1-6-2014 22:34:28","Accuracy":"48.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6906795","Longtitude":"51.3720809","Altitude":"0.0","time":"1-6-2014 22:34:32","Accuracy":"1124.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914397","Longtitude":"51.3742336","Altitude":"0.0","time":"1-6-2014 22:35:12","Accuracy":"48.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914622","Longtitude":"51.37422","Altitude":"0.0","time":"1-6-2014 22:35:58","Accuracy":"39.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914046","Longtitude":"51.3742156","Altitude":"0.0","time":"1-6-2014 22:36:43","Accuracy":"37.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913927","Longtitude":"51.3742289","Altitude":"0.0","time":"1-6-2014 22:37:28","Accuracy":"34.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 22:32:54","End":"1-6-2014 22:37:56"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 22:32:54","End":"1-6-2014 22:37:56"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 22:32:54","End":"1-6-2014 22:37:56"}}
+{"Location":{"Latitude":"35.6913927","Longtitude":"51.3742143","Altitude":"0.0","time":"1-6-2014 22:38:13","Accuracy":"34.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 22:33:45","End":"1-6-2014 22:38:46"}}
+{"Location":{"Latitude":"35.6913823","Longtitude":"51.3742125","Altitude":"0.0","time":"1-6-2014 22:38:58","Accuracy":"34.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914457","Longtitude":"51.3742146","Altitude":"0.0","time":"1-6-2014 22:39:43","Accuracy":"48.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913019","Longtitude":"51.3742128","Altitude":"0.0","time":"1-6-2014 22:40:28","Accuracy":"21.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6912925","Longtitude":"51.3742088","Altitude":"0.0","time":"1-6-2014 22:42:44","Accuracy":"20.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 22:37:56","End":"1-6-2014 22:42:57"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 22:37:56","End":"1-6-2014 22:42:57"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 22:37:56","End":"1-6-2014 22:42:57"}}
+{"Location":{"Latitude":"35.6913016","Longtitude":"51.374203","Altitude":"0.0","time":"1-6-2014 22:43:28","Accuracy":"22.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 22:38:46","End":"1-6-2014 22:43:48"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 22:44:01","End":"1-6-2014 22:44:08"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 22:43:48","End":"1-6-2014 22:44:08"}}
+{"Location":{"Latitude":"35.6913355","Longtitude":"51.3741874","Altitude":"0.0","time":"1-6-2014 22:44:13","Accuracy":"24.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.jb.gosms:individualypopup","Start":"1-6-2014 22:44:08","End":"1-6-2014 22:44:18"}}
+{"Application":{"ProcessName":"jp.naver.android.npush","Start":"1-6-2014 22:44:21","End":"1-6-2014 22:44:28"}}
+{"Application":{"ProcessName":"com.yahoo.mobile.client.android.mail","Start":"1-6-2014 22:44:39","End":"1-6-2014 22:44:41"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 22:44:41","End":"1-6-2014 22:44:49"}}
+{"Application":{"ProcessName":"com.yahoo.mobile.client.android.mail","Start":"1-6-2014 22:45:02","End":"1-6-2014 22:45:09"}}
+{"Location":{"Latitude":"35.6913258","Longtitude":"51.3742141","Altitude":"0.0","time":"1-6-2014 22:45:44","Accuracy":"25.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913312","Longtitude":"51.3741997","Altitude":"0.0","time":"1-6-2014 22:46:28","Accuracy":"24.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6912889","Longtitude":"51.3742099","Altitude":"0.0","time":"1-6-2014 22:50:34","Accuracy":"20.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6912989","Longtitude":"51.3742146","Altitude":"0.0","time":"1-6-2014 22:51:19","Accuracy":"20.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.yahoo.mobile.client.android.mail:com.yahoo.snp.service","Start":"1-6-2014 22:51:54","End":"1-6-2014 22:51:54"}}
+{"Application":{"ProcessName":"com.yahoo.mobile.client.android.mail","Start":"1-6-2014 22:51:54","End":"1-6-2014 22:52:04"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"1-6-2014 22:52:54","End":"1-6-2014 22:53:04"}}
+{"Location":{"Latitude":"35.6912877","Longtitude":"51.3742258","Altitude":"0.0","time":"1-6-2014 22:55:05","Accuracy":"21.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 22:50:33","End":"1-6-2014 22:55:35"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 22:50:33","End":"1-6-2014 22:55:35"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 22:50:33","End":"1-6-2014 22:55:35"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 22:50:33","End":"1-6-2014 22:55:35"}}
+{"Location":{"Latitude":"35.6912933","Longtitude":"51.3742143","Altitude":"0.0","time":"1-6-2014 22:55:50","Accuracy":"22.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913303","Longtitude":"51.3741984","Altitude":"0.0","time":"1-6-2014 22:56:42","Accuracy":"26.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6912936","Longtitude":"51.3742109","Altitude":"0.0","time":"1-6-2014 22:56:43","Accuracy":"23.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913258","Longtitude":"51.3742141","Altitude":"0.0","time":"1-6-2014 22:58:13","Accuracy":"25.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6912888","Longtitude":"51.3742096","Altitude":"0.0","time":"1-6-2014 22:58:58","Accuracy":"20.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 22:55:35","End":"1-6-2014 23:00:38"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 22:55:35","End":"1-6-2014 23:00:38"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 22:55:35","End":"1-6-2014 23:00:38"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 22:55:35","End":"1-6-2014 23:00:38"}}
+{"Location":{"Latitude":"35.6913217","Longtitude":"51.3742121","Altitude":"0.0","time":"1-6-2014 23:01:13","Accuracy":"21.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913047","Longtitude":"51.3742187","Altitude":"0.0","time":"1-6-2014 23:01:58","Accuracy":"24.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.google.android.apps.maps","Start":"1-6-2014 23:02:09","End":"1-6-2014 23:02:19"}}
+{"Location":{"Latitude":"35.6913206","Longtitude":"51.3742244","Altitude":"0.0","time":"1-6-2014 23:03:28","Accuracy":"21.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 23:00:38","End":"1-6-2014 23:05:40"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 23:00:38","End":"1-6-2014 23:05:40"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 23:00:38","End":"1-6-2014 23:05:40"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 23:00:38","End":"1-6-2014 23:05:40"}}
+{"Location":{"Latitude":"35.6913014","Longtitude":"51.3742444","Altitude":"0.0","time":"1-6-2014 23:06:01","Accuracy":"24.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913102","Longtitude":"51.374218","Altitude":"0.0","time":"1-6-2014 23:06:46","Accuracy":"20.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913262","Longtitude":"51.3742235","Altitude":"0.0","time":"1-6-2014 23:07:31","Accuracy":"27.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913072","Longtitude":"51.3741788","Altitude":"0.0","time":"1-6-2014 23:08:16","Accuracy":"33.0","Provider":"network"}}
+{"Location":{"Latitude":"35.691289","Longtitude":"51.3742173","Altitude":"0.0","time":"1-6-2014 23:09:01","Accuracy":"24.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913004","Longtitude":"51.3742123","Altitude":"0.0","time":"1-6-2014 23:10:31","Accuracy":"20.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 23:05:40","End":"1-6-2014 23:10:42"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 23:05:40","End":"1-6-2014 23:10:42"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 23:05:40","End":"1-6-2014 23:10:42"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 23:05:40","End":"1-6-2014 23:10:42"}}
+{"Location":{"Latitude":"35.6913769","Longtitude":"51.3742156","Altitude":"0.0","time":"1-6-2014 23:12:01","Accuracy":"57.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913946","Longtitude":"51.3742304","Altitude":"0.0","time":"1-6-2014 23:12:46","Accuracy":"34.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913856","Longtitude":"51.3742275","Altitude":"0.0","time":"1-6-2014 23:14:17","Accuracy":"37.0","Provider":"network"}}
+{"Location":{"Latitude":"35.691377","Longtitude":"51.37422","Altitude":"0.0","time":"1-6-2014 23:15:01","Accuracy":"39.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913235","Longtitude":"51.3742189","Altitude":"0.0","time":"1-6-2014 23:15:23","Accuracy":"30.0","Provider":"network"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 23:15:16","End":"1-6-2014 23:15:24"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 23:10:43","End":"1-6-2014 23:15:45"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 23:10:43","End":"1-6-2014 23:15:45"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 23:10:43","End":"1-6-2014 23:15:45"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 23:10:43","End":"1-6-2014 23:15:45"}}
+{"Location":{"Latitude":"35.6914083","Longtitude":"51.374203","Altitude":"0.0","time":"1-6-2014 23:16:11","Accuracy":"42.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913941","Longtitude":"51.374268","Altitude":"0.0","time":"1-6-2014 23:16:55","Accuracy":"45.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913454","Longtitude":"51.3742497","Altitude":"0.0","time":"1-6-2014 23:17:41","Accuracy":"30.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913778","Longtitude":"51.3742235","Altitude":"0.0","time":"1-6-2014 23:18:26","Accuracy":"37.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913258","Longtitude":"51.3742129","Altitude":"0.0","time":"1-6-2014 23:19:11","Accuracy":"31.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913444","Longtitude":"51.3742153","Altitude":"0.0","time":"1-6-2014 23:19:55","Accuracy":"45.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 23:15:45","End":"1-6-2014 23:20:47"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 23:15:45","End":"1-6-2014 23:20:47"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 23:15:45","End":"1-6-2014 23:20:47"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 23:15:45","End":"1-6-2014 23:20:47"}}
+{"Location":{"Latitude":"35.6914151","Longtitude":"51.3742463","Altitude":"0.0","time":"1-6-2014 23:21:26","Accuracy":"39.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.google.android.apps.maps","Start":"1-6-2014 23:21:58","End":"1-6-2014 23:22:07"}}
+{"Location":{"Latitude":"35.6913525","Longtitude":"51.3742574","Altitude":"0.0","time":"1-6-2014 23:22:11","Accuracy":"34.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.lge.music","Start":"1-6-2014 23:22:17","End":"1-6-2014 23:22:28"}}
+{"Location":{"Latitude":"35.6913839","Longtitude":"51.3742572","Altitude":"0.0","time":"1-6-2014 23:22:56","Accuracy":"49.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913995","Longtitude":"51.3742475","Altitude":"0.0","time":"1-6-2014 23:23:41","Accuracy":"45.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913726","Longtitude":"51.3742567","Altitude":"0.0","time":"1-6-2014 23:24:26","Accuracy":"40.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913488","Longtitude":"51.3742546","Altitude":"0.0","time":"1-6-2014 23:30:59","Accuracy":"39.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913618","Longtitude":"51.3742519","Altitude":"0.0","time":"1-6-2014 23:31:44","Accuracy":"33.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913817","Longtitude":"51.3742238","Altitude":"0.0","time":"1-6-2014 23:32:39","Accuracy":"34.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913962","Longtitude":"51.3742255","Altitude":"0.0","time":"1-6-2014 23:33:25","Accuracy":"37.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913866","Longtitude":"51.3742184","Altitude":"0.0","time":"1-6-2014 23:34:09","Accuracy":"40.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913644","Longtitude":"51.3742284","Altitude":"0.0","time":"1-6-2014 23:34:54","Accuracy":"45.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913767","Longtitude":"51.374247","Altitude":"0.0","time":"1-6-2014 23:35:39","Accuracy":"39.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 23:30:58","End":"1-6-2014 23:35:59"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 23:30:58","End":"1-6-2014 23:35:59"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 23:30:58","End":"1-6-2014 23:35:59"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 23:30:58","End":"1-6-2014 23:35:59"}}
+{"Location":{"Latitude":"35.6913294","Longtitude":"51.3742201","Altitude":"0.0","time":"1-6-2014 23:36:24","Accuracy":"30.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6913695","Longtitude":"51.3742228","Altitude":"0.0","time":"1-6-2014 23:37:11","Accuracy":"63.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"1-6-2014 23:35:59","End":"1-6-2014 23:37:31"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 23:35:59","End":"1-6-2014 23:37:31"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"1-6-2014 23:35:59","End":"1-6-2014 23:37:31"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"1-6-2014 23:35:59","End":"1-6-2014 23:37:31"}}
+{"Location":{"Latitude":"35.6914029","Longtitude":"51.3742509","Altitude":"0.0","time":"1-6-2014 23:37:52","Accuracy":"61.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6914364","Longtitude":"51.3742414","Altitude":"0.0","time":"1-6-2014 23:37:52","Accuracy":"39.0","Provider":"network"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"1-6-2014 23:37:51","End":"1-6-2014 23:38:01"}}
+{"Location":{"Latitude":"35.6913569","Longtitude":"51.3742593","Altitude":"0.0","time":"1-6-2014 23:38:10","Accuracy":"40.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.yahoo.mobile.client.android.mail","Start":"1-6-2014 23:38:01","End":"1-6-2014 23:38:12"}}

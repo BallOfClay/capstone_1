@@ -1,0 +1,392 @@
+{"Call": {"Number":"+98930770####","Duration":"0","Time":"۱۲-۱۶-۲۰۱۳ ۲۳:۲۷:۳۲","Type":"2"}}
+{"Call": {"Number":"+98930770####","Duration":"0","Time":"۱۲-۱۶-۲۰۱۳ ۲۳:۲۷:۳۲","Type":"2"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"۱۲-۱۶-۲۰۱۳ ۲۳:۲۷:۲۸","End":"۱۲-۱۶-۲۰۱۳ ۲۳:۲۷:۴۸"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۶-۲۰۱۳ ۲۳:۲۷:۴۸","End":"۱۲-۱۶-۲۰۱۳ ۲۳:۲۷:۵۱"}}
+{"Application":{"ProcessName":"com.lge.clock","Start":"۱۲-۱۶-۲۰۱۳ ۲۳:۲۷:۵۱","End":"۱۲-۱۶-۲۰۱۳ ۲۳:۲۸:۵۸"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۶-۲۰۱۳ ۲۳:۲۷:۲۸","End":"۱۲-۱۶-۲۰۱۳ ۲۳:۲۹:۲۹"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۶-۲۰۱۳ ۲۳:۲۸:۵۸","End":"۱۲-۱۶-۲۰۱۳ ۲۳:۲۹:۲۹"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۶-۲۰۱۳ ۲۳:۲۷:۲۸","End":"۱۲-۱۶-۲۰۱۳ ۲۳:۲۹:۲۹"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۰۵:۴۵:۰۵","End":"۱۲-۱۷-۲۰۱۳ ۰۵:۴۶:۱۸"}}
+{"Application":{"ProcessName":"com.lge.clock","Start":"۱۲-۱۷-۲۰۱۳ ۰۵:۴۵:۰۵","End":"۱۲-۱۷-۲۰۱۳ ۰۵:۴۶:۱۸"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۰۵:۴۵:۰۵","End":"۱۲-۱۷-۲۰۱۳ ۰۵:۴۶:۱۸"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۰۵:۴۸:۰۵","End":"۱۲-۱۷-۲۰۱۳ ۰۵:۴۸:۱۵"}}
+{"Application":{"ProcessName":"com.lge.clock","Start":"۱۲-۱۷-۲۰۱۳ ۰۵:۴۸:۰۵","End":"۱۲-۱۷-۲۰۱۳ ۰۵:۴۸:۱۵"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۰۵:۴۸:۰۵","End":"۱۲-۱۷-۲۰۱۳ ۰۵:۴۸:۱۵"}}
+{"Application":{"ProcessName":"com.lge.sizechangable.weather","Start":"۱۲-۱۷-۲۰۱۳ ۰۵:۵۰:۰۰","End":"۱۲-۱۷-۲۰۱۳ ۰۵:۵۰:۰۱"}}
+{"Application":{"ProcessName":"com.lge.lmk","Start":"۱۲-۱۷-۲۰۱۳ ۰۵:۵۰:۰۱","End":"۱۲-۱۷-۲۰۱۳ ۰۵:۵۰:۱۱"}}
+{"Application":{"ProcessName":"com.lge.clock","Start":"۱۲-۱۷-۲۰۱۳ ۰۵:۵۰:۰۰","End":"۱۲-۱۷-۲۰۱۳ ۰۵:۵۰:۱۱"}}
+{"Application":{"ProcessName":"com.lge.sizechangable.weather","Start":"۱۲-۱۷-۲۰۱۳ ۰۵:۵۰:۰۱","End":"۱۲-۱۷-۲۰۱۳ ۰۵:۵۰:۱۱"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۰۵:۵۰:۰۰","End":"۱۲-۱۷-۲۰۱۳ ۰۵:۵۱:۰۲"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۰۵:۵۰:۱۱","End":"۱۲-۱۷-۲۰۱۳ ۰۵:۵۱:۰۲"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۰۵:۵۰:۰۰","End":"۱۲-۱۷-۲۰۱۳ ۰۵:۵۱:۰۲"}}
+{"Application":{"ProcessName":"com.android.gallery3d","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۰۹:۰۴","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۳:۲۴"}}
+{"Application":{"ProcessName":"com.lge.mlt","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۳:۲۴","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۳:۲۵"}}
+{"Application":{"ProcessName":"com.macropinch.pearl:remote","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۳:۲۵","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۳:۳۵"}}
+{"Application":{"ProcessName":"com.lge.sizechangable.weather","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۳:۲۵","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۳:۳۵"}}
+{"Application":{"ProcessName":"com.google.android.apps.uploader","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۳:۳۵","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۳:۳۵"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۳:۲۴","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۳:۴۵"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۰۹:۰۴","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۴:۰۵"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۰۹:۰۴","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۴:۰۵"}}
+{"Application":{"ProcessName":"com.android.browser","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۳:۴۵","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۴:۲۵"}}
+{"Application":{"ProcessName":"com.yahoo.mobile.client.android.mail","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۴:۲۵","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۶:۳۶"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۶:۳۶","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۶:۵۶"}}
+{"Application":{"ProcessName":"com.android.browser","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۶:۵۶","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۷:۲۶"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۷:۲۶","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۷:۴۶"}}
+{"Location":{"Latitude":"35.7006947","Longtitude":"51.3549695","Altitude":"0.0","time":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۸:۴۵","Accuracy":"1233.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.android.chrome:sandboxed_process0","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۷:۴۶","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۸:۵۶"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۴:۰۵","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۹:۰۶"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۴:۰۵","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۹:۰۶"}}
+{"SMS":{"Address":"+98930770####","type":"1","date":"۱۲-۱۷-۲۰۱۳ ۰۷:۲۰:۱۲","body":"ANONYMIZED","Type":"1", "metadata": {"name": "خانومی"}}}
+{"Location":{"Latitude":"35.7006947","Longtitude":"51.3549695","Altitude":"0.0","time":"۱۲-۱۷-۲۰۱۳ ۰۷:۲۰:۲۵","Accuracy":"1233.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۲۰:۱۷","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۲۰:۲۷"}}
+{"Location":{"Latitude":"35.7006947","Longtitude":"51.3549695","Altitude":"0.0","time":"۱۲-۱۷-۲۰۱۳ ۰۷:۲۱:۲۵","Accuracy":"1233.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.android.chrome:sandboxed_process1","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۸:۵۶","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۲۲:۰۷"}}
+{"Application":{"ProcessName":"com.android.chrome","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۷:۴۶","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۲۲:۰۷"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۲۲:۰۷","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۲۲:۴۷"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۲۲:۵۷","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۲۲:۵۸"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۲۲:۵۸","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۲۳:۲۷"}}
+{"Application":{"ProcessName":"com.lge.sizechangable.weather","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۲۳:۲۷","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۲۳:۲۸"}}
+{"SMS":{"Address":"+98930770####","type":"2","date":"۱۲-۱۷-۲۰۱۳ ۰۷:۲۳:۲۴","body":"ANONYMIZED","Type":"2", "metadata": {"name": "خانومی"}}}
+{"SMS":{"Address":"+98930770####","type":"1","date":"۱۲-۱۷-۲۰۱۳ ۰۷:۲۳:۴۸","body":"ANONYMIZED","Type":"1", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۹:۰۶","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۲۴:۰۸"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۲۳:۲۷","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۲۴:۰۸"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۰۷:۱۹:۰۶","End":"۱۲-۱۷-۲۰۱۳ ۰۷:۲۴:۰۸"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۱:۳۱","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۱:۳۵"}}
+{"SMS":{"Address":"+98930770####","type":"2","date":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۱:۴۳","body":"ANONYMIZED","Type":"2", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۱:۳۵","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۱:۵۱"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۱:۵۱","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۲:۰۱"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۱:۳۱","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۲:۳۱"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۱:۳۱","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۲:۳۱"}}
+{"Call": {"Number":"+98930770####","Duration":"0","Time":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۱:۵۹","Type":"2"}}
+{"Call": {"Number":"+98930770####","Duration":"0","Time":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۱:۵۹","Type":"2"}}
+{"Call": {"Number":"+98930770####","Duration":"0","Time":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۱:۵۹","Type":"2"}}
+{"Call": {"Number":"+98930770####","Duration":"0","Time":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۱:۵۹","Type":"2"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۲:۴۱","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۲:۴۶"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۲:۳۶","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۳:۰۱"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۲:۳۶","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۳:۰۱"}}
+{"Call": {"Number":"+98930770####","Duration":"0","Time":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۲:۴۲","Type":"2"}}
+{"Call": {"Number":"+98930770####","Duration":"0","Time":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۲:۴۲","Type":"2"}}
+{"Call": {"Number":"+98930770####","Duration":"0","Time":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۲:۴۲","Type":"2"}}
+{"Call": {"Number":"+98930770####","Duration":"0","Time":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۲:۴۲","Type":"2"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۳:۱۱","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۳:۱۶"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۳:۳۲","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۳:۳۶"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۳:۱۱","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۳:۵۸"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۳:۱۶","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۳:۵۸"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۳:۱۱","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۳:۵۸"}}
+{"SMS":{"Address":"+98930770####","type":"1","date":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۳:۵۹","body":"ANONYMIZED","Type":"1", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۴:۰۴","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۴:۳۶"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۴:۰۴","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۴:۳۶"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۴:۰۴","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۴:۳۶"}}
+{"SMS":{"Address":"+98930770####","type":"1","date":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۴:۴۶","body":"ANONYMIZED","Type":"1", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۴:۵۳","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۸:۳۳"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۴:۵۳","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۸:۳۳"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۴:۵۳","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۸:۳۳"}}
+{"SMS":{"Address":"+98930770####","type":"1","date":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۸:۴۱","body":"ANONYMIZED","Type":"1", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۸:۴۲","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۸:۴۹"}}
+{"Application":{"ProcessName":"com.lge.sizechangable.weather","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۸:۴۲","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۸:۴۹"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۸:۴۲","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۸:۵۹"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۸:۵۹","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۱۲:۳۲"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۸:۴۲","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۱۲:۳۲"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۰۸:۴۲","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۱۲:۳۲"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۱۳:۲۰","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۱۳:۳۰"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۱۳:۲۰","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۱۳:۳۰"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۱۳:۲۰","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۱۳:۳۰"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۲۴:۰۷","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۲۴:۱۷"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۲۴:۰۷","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۲۴:۱۷"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۲۴:۰۷","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۲۴:۱۷"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۲۴:۳۱","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۲۵:۰۳"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۲۴:۳۱","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۲۵:۰۳"}}
+{"Call": {"Number":"+98930770####","Duration":"581","Time":"۱۲-۱۷-۲۰۱۳ ۰۸:۲۴:۱۴","Type":"2"}}
+{"Call": {"Number":"+98930770####","Duration":"581","Time":"۱۲-۱۷-۲۰۱۳ ۰۸:۲۴:۱۴","Type":"2"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۳۴:۰۹","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۳۴:۳۹"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۳۴:۰۶","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۳۴:۳۹"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۳۴:۰۶","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۳۴:۳۹"}}
+{"SMS":{"Address":"+98930770####","type":"1","date":"۱۲-۱۷-۲۰۱۳ ۰۸:۵۶:۵۰","body":"ANONYMIZED","Type":"1", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۵۶:۵۱","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۵۷:۱۱"}}
+{"SMS":{"Address":"+98930770####","type":"2","date":"۱۲-۱۷-۲۰۱۳ ۰۸:۵۷:۱۷","body":"ANONYMIZED","Type":"2", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۵۷:۱۱","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۵۸:۳۳"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۵۶:۵۱","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۵۸:۳۳"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۰۸:۵۶:۵۱","End":"۱۲-۱۷-۲۰۱۳ ۰۸:۵۸:۳۳"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۰:۲۶:۲۸","End":"۱۲-۱۷-۲۰۱۳ ۱۰:۲۶:۳۱"}}
+{"Call": {"Number":"+98216618####","Duration":"0","Time":"۱۲-۱۷-۲۰۱۳ ۱۰:۲۶:۲۶","Type":"3"}}
+{"Call": {"Number":"+98216618####","Duration":"0","Time":"۱۲-۱۷-۲۰۱۳ ۱۰:۲۶:۲۶","Type":"3"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۱۰:۲۶:۳۸","End":"۱۲-۱۷-۲۰۱۳ ۱۰:۲۸:۵۱"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۰:۲۶:۲۸","End":"۱۲-۱۷-۲۰۱۳ ۱۰:۲۸:۵۱"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۰:۲۶:۲۸","End":"۱۲-۱۷-۲۰۱۳ ۱۰:۲۸:۵۱"}}
+{"Call": {"Number":"+98216618####","Duration":"36","Time":"۱۲-۱۷-۲۰۱۳ ۱۰:۳۱:۳۳","Type":"1"}}
+{"Call": {"Number":"+98216618####","Duration":"36","Time":"۱۲-۱۷-۲۰۱۳ ۱۰:۳۱:۳۳","Type":"1"}}
+{"Call": {"Number":"+98216618####","Duration":"36","Time":"۱۲-۱۷-۲۰۱۳ ۱۰:۳۱:۳۳","Type":"1"}}
+{"Call": {"Number":"+98216618####","Duration":"36","Time":"۱۲-۱۷-۲۰۱۳ ۱۰:۳۱:۳۳","Type":"1"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۱۰:۳۲:۱۶","End":"۱۲-۱۷-۲۰۱۳ ۱۰:۳۲:۲۳"}}
+{"Call": {"Number":"+98216618####","Duration":"36","Time":"۱۲-۱۷-۲۰۱۳ ۱۰:۳۱:۳۳","Type":"1"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"۱۲-۱۷-۲۰۱۳ ۱۰:۳۲:۲۳","End":"۱۲-۱۷-۲۰۱۳ ۱۰:۳۲:۲۶"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۰:۳۱:۳۶","End":"۱۲-۱۷-۲۰۱۳ ۱۰:۳۲:۲۶"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۰:۳۱:۳۶","End":"۱۲-۱۷-۲۰۱۳ ۱۰:۳۲:۲۶"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۰:۵۷:۱۲","End":"۱۲-۱۷-۲۰۱۳ ۱۰:۵۷:۲۷"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۰:۵۷:۱۲","End":"۱۲-۱۷-۲۰۱۳ ۱۰:۵۷:۲۷"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۰:۵۷:۱۲","End":"۱۲-۱۷-۲۰۱۳ ۱۰:۵۷:۲۷"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۳:۲۷","End":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۳:۳۰"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۳:۳۰","End":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۳:۳۳"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۳:۲۷","End":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۳:۵۳"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۳:۲۷","End":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۳:۵۳"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۴:۱۶","End":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۴:۲۳"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۴:۱۶","End":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۴:۲۳"}}
+{"Call": {"Number":"+98930770####","Duration":"165","Time":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۳:۳۳","Type":"2"}}
+{"Call": {"Number":"+98930770####","Duration":"165","Time":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۳:۳۳","Type":"2"}}
+{"Call": {"Number":"+98930770####","Duration":"165","Time":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۳:۳۳","Type":"2"}}
+{"Call": {"Number":"+98930770####","Duration":"165","Time":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۳:۳۳","Type":"2"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۶:۳۹","End":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۶:۴۲"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۶:۳۶","End":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۶:۴۲"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۶:۳۶","End":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۶:۴۲"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۹:۲۷","End":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۹:۳۰"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۹:۲۷","End":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۹:۳۳"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۹:۲۷","End":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۹:۳۳"}}
+{"Call": {"Number":"+98930770####","Duration":"5","Time":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۹:۲۵","Type":"1"}}
+{"Call": {"Number":"+98930770####","Duration":"5","Time":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۹:۲۵","Type":"1"}}
+{"SMS":{"Address":"+98930770####","type":"1","date":"۱۲-۱۷-۲۰۱۳ ۱۱:۳۰:۲۳","body":"ANONYMIZED","Type":"1", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۱:۳۰:۲۸","End":"۱۲-۱۷-۲۰۱۳ ۱۱:۳۰:۳۸"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۱:۳۰:۲۸","End":"۱۲-۱۷-۲۰۱۳ ۱۱:۳۰:۳۸"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۱:۳۰:۲۸","End":"۱۲-۱۷-۲۰۱۳ ۱۱:۳۰:۳۸"}}
+{"SMS":{"Address":"+98930770####","type":"1","date":"۱۲-۱۷-۲۰۱۳ ۱۲:۳۳:۳۴","body":"ANONYMIZED","Type":"1", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۲:۳۳:۳۵","End":"۱۲-۱۷-۲۰۱۳ ۱۲:۳۳:۴۵"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۲:۳۳:۳۵","End":"۱۲-۱۷-۲۰۱۳ ۱۲:۳۳:۴۵"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۲:۳۳:۳۵","End":"۱۲-۱۷-۲۰۱۳ ۱۲:۳۳:۴۵"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۲:۵۹:۳۶","End":"۱۲-۱۷-۲۰۱۳ ۱۲:۵۹:۴۰"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۱۲:۵۹:۴۰","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۰۰:۱۶"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۲:۵۹:۳۶","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۰۰:۱۶"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۲:۵۹:۳۶","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۰۰:۱۶"}}
+{"SMS":{"Address":"+98930770####","type":"2","date":"۱۲-۱۷-۲۰۱۳ ۱۳:۰۰:۱۳","body":"ANONYMIZED","Type":"2", "metadata": {"name": "خانومی"}}}
+{"SMS":{"Address":"+98930770####","type":"1","date":"۱۲-۱۷-۲۰۱۳ ۱۳:۰۱:۳۷","body":"ANONYMIZED","Type":"1", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۰۱:۳۹","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۰۲:۰۶"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۰۱:۳۹","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۰۲:۰۶"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۰۱:۳۹","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۰۲:۰۶"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۴:۰۸","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۴:۱۸"}}
+{"SMS":{"Address":"+98930770####","type":"2","date":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۶:۳۹","body":"ANONYMIZED","Type":"2", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۴:۱۸","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۷:۰۹"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۴:۰۸","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۷:۰۹"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۴:۰۸","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۷:۰۹"}}
+{"SMS":{"Address":"+98930770####","type":"1","date":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۷:۵۸","body":"ANONYMIZED","Type":"1", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۸:۰۰","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۸:۱۲"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۸:۱۲","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۸:۳۰"}}
+{"Application":{"ProcessName":"com.lge.sizechangable.weather","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۸:۳۰","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۸:۳۳"}}
+{"Call": {"Number":"+98930770####","Duration":"5","Time":"۱۲-۱۷-۲۰۱۳ ۱۱:۲۹:۲۵","Type":"1"}}
+{"SMS":{"Address":"+98930770####","type":"2","date":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۸:۲۹","body":"ANONYMIZED","Type":"2", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۸:۳۰","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۸:۴۱"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۸:۴۱","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۸:۵۱"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۸:۰۰","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۹:۰۳"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۸:۰۰","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۹:۰۳"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۹:۱۱","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۹:۱۳"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۹:۱۱","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۹:۱۳"}}
+{"SMS":{"Address":"+98930770####","type":"1","date":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۹:۱۷","body":"ANONYMIZED","Type":"1", "metadata": {"name": "خانومی"}}}
+{"Call": {"Number":"0912535####","Duration":"0","Time":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۸:۴۸","Type":"2"}}
+{"Call": {"Number":"0912535####","Duration":"0","Time":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۸:۴۸","Type":"2"}}
+{"Call": {"Number":"0912535####","Duration":"0","Time":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۸:۴۸","Type":"2"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۹:۲۱","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۹:۴۱"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۹:۲۱","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۹:۵۱"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۹:۲۱","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۹:۵۱"}}
+{"Call": {"Number":"0912535####","Duration":"0","Time":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۹:۳۵","Type":"2"}}
+{"Call": {"Number":"0912535####","Duration":"0","Time":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۹:۳۵","Type":"2"}}
+{"Call": {"Number":"0912535####","Duration":"0","Time":"۱۲-۱۷-۲۰۱۳ ۱۳:۳۹:۳۵","Type":"2"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۰:۰۱","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۰:۰۳"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۰:۰۳","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۰:۳۳"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۰:۰۱","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۰:۳۳"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۰:۰۱","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۰:۳۳"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۰:۴۲","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۱:۳۲"}}
+{"Call": {"Number":"0912535####","Duration":"0","Time":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۱:۲۸","Type":"2"}}
+{"Call": {"Number":"0912535####","Duration":"0","Time":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۱:۲۸","Type":"2"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۱:۵۴","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۲:۰۲"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۲:۰۲","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۲:۴۵"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۰:۴۲","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۲:۵۲"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۰:۴۲","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۲:۵۲"}}
+{"Call": {"Number":"0912535####","Duration":"2","Time":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۲:۴۳","Type":"2"}}
+{"Call": {"Number":"0912535####","Duration":"2","Time":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۲:۴۳","Type":"2"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۳:۰۵","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۳:۱۲"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۳:۱۲","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۳:۱۵"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۳:۱۵","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۳:۴۵"}}
+{"SMS":{"Address":"0912 535 ####","type":"2","date":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۳:۴۰","body":"ANONYMIZED","Type":"2", "metadata": {"name": "سهیل ضیاعی"}}}
+{"Call": {"Number":"0912535####","Duration":"2","Time":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۲:۴۳","Type":"2"}}
+{"Call": {"Number":"0912535####","Duration":"2","Time":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۲:۴۳","Type":"2"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۳:۴۵","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۳:۵۲"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۳:۵۵","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۳:۵۵"}}
+{"SMS":{"Address":"+98930770####","type":"2","date":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۴:۰۶","body":"ANONYMIZED","Type":"2", "metadata": {"name": "خانومی"}}}
+{"SMS":{"Address":"+98912535####","type":"1","date":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۴:۳۲","body":"ANONYMIZED","Type":"1", "metadata": {"name": "سهیل ضیاعی"}}}
+{"SMS":{"Address":"+98930770####","type":"1","date":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۴:۴۹","body":"ANONYMIZED","Type":"1", "metadata": {"name": "خانومی"}}}
+{"SMS":{"Address":"+98930770####","type":"2","date":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۵:۱۴","body":"ANONYMIZED","Type":"2", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۳:۵۲","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۵:۴۵"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۳:۰۵","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۵:۴۵"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۳:۰۵","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۵:۴۵"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۶:۰۶","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۶:۳۶"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۶:۰۶","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۶:۵۲"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۶:۳۶","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۶:۵۲"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۶:۰۶","End":"۱۲-۱۷-۲۰۱۳ ۱۳:۴۶:۵۲"}}
+{"SMS":{"Address":"+98930770####","type":"1","date":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۴:۴۸","body":"ANONYMIZED","Type":"1", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۴:۵۴","End":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۵:۰۴"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۵:۰۴","End":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۶:۳۵"}}
+{"SMS":{"Address":"+98930770####","type":"2","date":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۶:۳۱","body":"ANONYMIZED","Type":"2", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۴:۵۴","End":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۷:۱۸"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۶:۳۵","End":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۷:۱۸"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۴:۵۴","End":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۷:۱۸"}}
+{"SMS":{"Address":"+98930770####","type":"1","date":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۸:۲۱","body":"ANONYMIZED","Type":"1", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۸:۲۴","End":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۸:۲۷"}}
+{"SMS":{"Address":"+98930770####","type":"2","date":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۸:۵۶","body":"ANONYMIZED","Type":"2", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۸:۲۷","End":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۹:۲۷"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۸:۲۴","End":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۹:۲۷"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۸:۲۴","End":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۹:۲۷"}}
+{"SMS":{"Address":"+98930770####","type":"1","date":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۹:۴۴","body":"ANONYMIZED","Type":"1", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۹:۴۸","End":"۱۲-۱۷-۲۰۱۳ ۱۴:۴۰:۵۲"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۹:۴۸","End":"۱۲-۱۷-۲۰۱۳ ۱۴:۴۰:۵۲"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۴:۳۹:۴۸","End":"۱۲-۱۷-۲۰۱۳ ۱۴:۴۰:۵۲"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"۱۲-۱۷-۲۰۱۳ ۱۴:۴۸:۳۰","End":"۱۲-۱۷-۲۰۱۳ ۱۴:۴۸:۵۲"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۴:۴۸:۳۰","End":"۱۲-۱۷-۲۰۱۳ ۱۴:۵۰:۲۰"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۴:۴۸:۵۲","End":"۱۲-۱۷-۲۰۱۳ ۱۴:۵۰:۲۰"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۴:۴۸:۳۰","End":"۱۲-۱۷-۲۰۱۳ ۱۴:۵۰:۲۰"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۶:۲۹:۵۷","End":"۱۲-۱۷-۲۰۱۳ ۱۶:۳۰:۰۷"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۶:۲۹:۵۷","End":"۱۲-۱۷-۲۰۱۳ ۱۶:۳۰:۰۷"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۶:۲۹:۵۷","End":"۱۲-۱۷-۲۰۱۳ ۱۶:۳۰:۰۷"}}
+{"Call": {"Number":"+98930770####","Duration":"0","Time":"۱۲-۱۷-۲۰۱۳ ۱۶:۳۰:۰۵","Type":"2"}}
+{"Call": {"Number":"+98930770####","Duration":"0","Time":"۱۲-۱۷-۲۰۱۳ ۱۶:۳۰:۰۵","Type":"2"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۶:۳۰:۴۷","End":"۱۲-۱۷-۲۰۱۳ ۱۶:۳۰:۴۸"}}
+{"Call": {"Number":"+98930770####","Duration":"0","Time":"۱۲-۱۷-۲۰۱۳ ۱۶:۳۰:۰۵","Type":"2"}}
+{"Call": {"Number":"+98930770####","Duration":"0","Time":"۱۲-۱۷-۲۰۱۳ ۱۶:۳۰:۰۵","Type":"2"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"۱۲-۱۷-۲۰۱۳ ۱۶:۳۰:۵۰","End":"۱۲-۱۷-۲۰۱۳ ۱۶:۳۲:۰۵"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۶:۳۰:۴۷","End":"۱۲-۱۷-۲۰۱۳ ۱۶:۳۲:۰۵"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۶:۳۰:۴۷","End":"۱۲-۱۷-۲۰۱۳ ۱۶:۳۲:۰۵"}}
+{"Call": {"Number":"+98930770####","Duration":"113","Time":"۱۲-۱۷-۲۰۱۳ ۱۶:۳۳:۴۹","Type":"1"}}
+{"Call": {"Number":"+98930770####","Duration":"113","Time":"۱۲-۱۷-۲۰۱۳ ۱۶:۳۳:۴۹","Type":"1"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۶:۳۵:۴۸","End":"۱۲-۱۷-۲۰۱۳ ۱۶:۳۵:۵۸"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۶:۳۵:۴۸","End":"۱۲-۱۷-۲۰۱۳ ۱۶:۳۵:۵۸"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۶:۳۵:۴۸","End":"۱۲-۱۷-۲۰۱۳ ۱۶:۳۵:۵۸"}}
+{"SMS":{"Address":"+98930770####","type":"1","date":"۱۲-۱۷-۲۰۱۳ ۱۷:۴۰:۰۸","body":"ANONYMIZED","Type":"1", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۷:۴۰:۱۴","End":"۱۲-۱۷-۲۰۱۳ ۱۷:۴۲:۴۲"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۷:۴۰:۱۴","End":"۱۲-۱۷-۲۰۱۳ ۱۷:۴۲:۴۲"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۷:۴۰:۱۴","End":"۱۲-۱۷-۲۰۱۳ ۱۷:۴۲:۴۲"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۷:۵۰:۲۳","End":"۱۲-۱۷-۲۰۱۳ ۱۷:۵۰:۳۵"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۷:۵۰:۲۳","End":"۱۲-۱۷-۲۰۱۳ ۱۷:۵۰:۳۵"}}
+{"Call": {"Number":"+98930770####","Duration":"20","Time":"۱۲-۱۷-۲۰۱۳ ۱۷:۵۰:۲۰","Type":"1"}}
+{"Call": {"Number":"+98930770####","Duration":"20","Time":"۱۲-۱۷-۲۰۱۳ ۱۷:۵۰:۲۰","Type":"1"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۷:۵۰:۵۴","End":"۱۲-۱۷-۲۰۱۳ ۱۷:۵۱:۵۹"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۷:۵۰:۵۴","End":"۱۲-۱۷-۲۰۱۳ ۱۷:۵۱:۵۹"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۷:۵۰:۵۴","End":"۱۲-۱۷-۲۰۱۳ ۱۷:۵۱:۵۹"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۱۷:۵۶:۵۵","End":"۱۲-۱۷-۲۰۱۳ ۱۷:۵۷:۲۵"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۷:۵۶:۵۵","End":"۱۲-۱۷-۲۰۱۳ ۱۷:۵۷:۲۵"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۷:۵۶:۵۵","End":"۱۲-۱۷-۲۰۱۳ ۱۷:۵۷:۲۵"}}
+{"Call": {"Number":"+98930770####","Duration":"20","Time":"۱۲-۱۷-۲۰۱۳ ۱۷:۵۰:۲۰","Type":"1"}}
+{"Call": {"Number":"+98930770####","Duration":"20","Time":"۱۲-۱۷-۲۰۱۳ ۱۷:۵۰:۲۰","Type":"1"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۰۵:۰۰","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۰۵:۱۰"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۰۵:۰۰","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۰۵:۲۰"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۰۵:۰۰","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۰۵:۲۰"}}
+{"SMS":{"Address":"+98930770####","type":"1","date":"۱۲-۱۷-۲۰۱۳ ۱۸:۰۵:۲۶","body":"ANONYMIZED","Type":"1", "metadata": {"name": "خانومی"}}}
+{"Call": {"Number":"+98930770####","Duration":"50","Time":"۱۲-۱۷-۲۰۱۳ ۱۸:۰۵:۰۹","Type":"2"}}
+{"Call": {"Number":"+98930770####","Duration":"50","Time":"۱۲-۱۷-۲۰۱۳ ۱۸:۰۵:۰۹","Type":"2"}}
+{"Call": {"Number":"+98930770####","Duration":"50","Time":"۱۲-۱۷-۲۰۱۳ ۱۸:۰۵:۰۹","Type":"2"}}
+{"Call": {"Number":"+98930770####","Duration":"50","Time":"۱۲-۱۷-۲۰۱۳ ۱۸:۰۵:۰۹","Type":"2"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۰۶:۱۵","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۰۶:۳۸"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۰۶:۱۵","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۰۶:۳۸"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۰۶:۱۵","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۰۶:۳۸"}}
+{"SMS":{"Address":"+98930770####","type":"2","date":"۱۲-۱۷-۲۰۱۳ ۱۸:۱۵:۲۰","body":"ANONYMIZED","Type":"2", "metadata": {"name": "خانومی"}}}
+{"SMS":{"Address":"+98930770####","type":"2","date":"۱۲-۱۷-۲۰۱۳ ۱۸:۱۵:۴۶","body":"ANONYMIZED","Type":"2", "metadata": {"name": "خانومی"}}}
+{"SMS":{"Address":"+98930770####","type":"1","date":"۱۲-۱۷-۲۰۱۳ ۱۸:۱۵:۵۴","body":"ANONYMIZED","Type":"1", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۱۴:۵۵","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۱۶:۰۵"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۱۵:۵۵","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۱۶:۱۵"}}
+{"SMS":{"Address":"+98930770####","type":"2","date":"۱۲-۱۷-۲۰۱۳ ۱۸:۱۶:۴۶","body":"ANONYMIZED","Type":"2", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۱۶:۱۵","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۱۷:۰۸"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۱۴:۵۵","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۱۷:۰۸"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۱۴:۵۵","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۱۷:۰۸"}}
+{"SMS":{"Address":"+98930770####","type":"1","date":"۱۲-۱۷-۲۰۱۳ ۱۸:۱۸:۰۴","body":"ANONYMIZED","Type":"1", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۱۸:۰۷","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۱۸:۱۸"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۱۸:۰۷","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۱۸:۱۸"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۱۸:۰۷","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۱۸:۱۸"}}
+{"SMS":{"Address":"+98930770####","type":"1","date":"۱۲-۱۷-۲۰۱۳ ۱۸:۲۷:۲۸","body":"ANONYMIZED","Type":"1", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۲۷:۳۱","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۲۷:۴۶"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۲۷:۳۱","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۲۷:۴۶"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۲۷:۳۱","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۲۷:۴۶"}}
+{"SMS":{"Address":"+98930770####","type":"2","date":"۱۲-۱۷-۲۰۱۳ ۱۸:۲۸:۲۶","body":"ANONYMIZED","Type":"2", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۲۸:۰۲","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۲۸:۳۲"}}
+{"SMS":{"Address":"+98930770####","type":"1","date":"۱۲-۱۷-۲۰۱۳ ۱۸:۲۹:۰۰","body":"ANONYMIZED","Type":"1", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۲۸:۳۲","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۲۹:۱۲"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۲۸:۰۲","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۳۳:۰۲"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۲۸:۰۲","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۳۳:۰۲"}}
+{"Application":{"ProcessName":"com.game.BubbleShoot","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۲۹:۱۲","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۳۴:۱۲"}}
+{"Application":{"ProcessName":"com.game.BubbleShoot","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۳۴:۱۲","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۳۴:۵۲"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۳۳:۰۲","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۳۵:۰۹"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۳۴:۵۲","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۳۵:۰۹"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۳۳:۰۲","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۳۵:۰۹"}}
+{"SMS":{"Address":"+98930770####","type":"1","date":"۱۲-۱۷-۲۰۱۳ ۱۸:۴۱:۴۶","body":"ANONYMIZED","Type":"1", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۴۱:۴۸","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۴۱:۵۸"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۴۱:۴۸","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۴۲:۱۸"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۴۱:۴۸","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۴۲:۱۸"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۴۱:۴۸","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۴۲:۱۸"}}
+{"SMS":{"Address":"+98930770####","type":"2","date":"۱۲-۱۷-۲۰۱۳ ۱۸:۴۲:۱۵","body":"ANONYMIZED","Type":"2", "metadata": {"name": "خانومی"}}}
+{"SMS":{"Address":"+98930770####","type":"1","date":"۱۲-۱۷-۲۰۱۳ ۱۸:۴۳:۲۳","body":"ANONYMIZED","Type":"1", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"netspeed.pt","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۴۳:۳۳","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۴۳:۳۳"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۴۳:۳۲","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۴۳:۴۳"}}
+{"SMS":{"Address":"+98930770####","type":"2","date":"۱۲-۱۷-۲۰۱۳ ۱۸:۴۳:۴۱","body":"ANONYMIZED","Type":"2", "metadata": {"name": "خانومی"}}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۴۳:۳۲","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۴۴:۱۴"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۴۳:۴۳","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۴۴:۱۴"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۴۳:۳۲","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۴۴:۱۴"}}
+{"Call": {"Number":"+98930770####","Duration":"19","Time":"۱۲-۱۷-۲۰۱۳ ۱۸:۵۷:۰۴","Type":"1"}}
+{"Call": {"Number":"+98930770####","Duration":"19","Time":"۱۲-۱۷-۲۰۱۳ ۱۸:۵۷:۰۴","Type":"1"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۵۷:۰۶","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۵۸:۴۵"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۵۷:۴۱","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۵۸:۴۵"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۸:۵۷:۰۶","End":"۱۲-۱۷-۲۰۱۳ ۱۸:۵۸:۴۵"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۱۹:۵۸:۴۳","End":"۱۲-۱۷-۲۰۱۳ ۱۹:۵۸:۵۳"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۱۹:۵۸:۴۳","End":"۱۲-۱۷-۲۰۱۳ ۱۹:۵۸:۵۳"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۱۹:۵۸:۴۳","End":"۱۲-۱۷-۲۰۱۳ ۱۹:۵۸:۵۳"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"۱۲-۱۷-۲۰۱۳ ۲۱:۰۵:۵۶","End":"۱۲-۱۷-۲۰۱۳ ۲۱:۰۵:۵۷"}}
+{"Application":{"ProcessName":"netspeed.pt","Start":"۱۲-۱۷-۲۰۱۳ ۲۱:۰۵:۵۶","End":"۱۲-۱۷-۲۰۱۳ ۲۱:۰۵:۵۷"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۲۱:۰۵:۵۷","End":"۱۲-۱۷-۲۰۱۳ ۲۱:۰۶:۰۶"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۲۱:۰۵:۵۶","End":"۱۲-۱۷-۲۰۱۳ ۲۱:۰۷:۲۹"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۲۱:۰۵:۵۶","End":"۱۲-۱۷-۲۰۱۳ ۲۱:۰۷:۲۹"}}
+{"Call": {"Number":"+98912564####","Duration":"88","Time":"۱۲-۱۷-۲۰۱۳ ۲۱:۰۵:۵۶","Type":"1"}}
+{"Call": {"Number":"+98912564####","Duration":"88","Time":"۱۲-۱۷-۲۰۱۳ ۲۱:۰۵:۵۶","Type":"1"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۲۱:۰۷:۵۰","End":"۱۲-۱۷-۲۰۱۳ ۲۱:۰۸:۱۱"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۲۱:۰۷:۵۰","End":"۱۲-۱۷-۲۰۱۳ ۲۱:۰۸:۱۱"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۲۱:۰۷:۵۰","End":"۱۲-۱۷-۲۰۱۳ ۲۱:۰۸:۱۱"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۲۱:۲۹:۵۶","End":"۱۲-۱۷-۲۰۱۳ ۲۱:۳۱:۰۲"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۲۱:۲۹:۵۶","End":"۱۲-۱۷-۲۰۱۳ ۲۱:۳۱:۰۲"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۲۱:۲۹:۵۶","End":"۱۲-۱۷-۲۰۱۳ ۲۱:۳۱:۰۲"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۲۱:۳۱:۲۴","End":"۱۲-۱۷-۲۰۱۳ ۲۱:۳۱:۳۵"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"۱۲-۱۷-۲۰۱۳ ۲۱:۳۱:۳۵","End":"۱۲-۱۷-۲۰۱۳ ۲۱:۳۱:۴۳"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"۱۲-۱۷-۲۰۱۳ ۲۱:۳۱:۴۳","End":"۱۲-۱۷-۲۰۱۳ ۲۱:۳۱:۴۳"}}
+{"Application":{"ProcessName":"com.lge.mlt","Start":"۱۲-۱۷-۲۰۱۳ ۲۱:۳۱:۴۵","End":"۱۲-۱۷-۲۰۱۳ ۲۱:۳۱:۵۳"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"۱۲-۱۷-۲۰۱۳ ۲۱:۳۱:۴۳","End":"۱۲-۱۷-۲۰۱۳ ۲۱:۳۱:۵۳"}}
+{"WiFi":{"SSID":"svf","BSSID":"00:1b:9e:00:08:7e","capabilities":"[WPA-PSK-TKIP][ESS]","level":"0","frequency":"2462","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۲:۰۰ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"SH","BSSID":"64:70:02:c3:4b:d9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-76","frequency":"2457","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۲:۰۰ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"maryam","BSSID":"28:10:7b:37:13:cf","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-78","frequency":"2412","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۲:۰۰ (وقت عادی ایران)"}}
+{"Location":{"Latitude":"35.7066018","Longtitude":"51.1978893","Altitude":"0.0","time":"۱۲-۱۷-۲۰۱۳ ۲۱:۳۲:۰۵","Accuracy":"20.0","Provider":"fused","Speed":"0.0"}}
+{"WiFi":{"SSID":"svf","BSSID":"00:1b:9e:00:08:7e","capabilities":"[WPA-PSK-TKIP][ESS]","level":"0","frequency":"2462","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۲:۱۲ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"SH","BSSID":"64:70:02:c3:4b:d9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-76","frequency":"2457","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۲:۱۲ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"maryam","BSSID":"28:10:7b:37:13:cf","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-78","frequency":"2412","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۲:۱۲ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"svf","BSSID":"00:1b:9e:00:08:7e","capabilities":"[WPA-PSK-TKIP][ESS]","level":"0","frequency":"2462","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۲:۱۲ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"SH","BSSID":"64:70:02:c3:4b:d9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-76","frequency":"2457","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۲:۱۲ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"maryam","BSSID":"28:10:7b:37:13:cf","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-78","frequency":"2412","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۲:۱۲ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"svf","BSSID":"00:1b:9e:00:08:7e","capabilities":"[WPA-PSK-TKIP][ESS]","level":"0","frequency":"2462","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۳:۰۰ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"SH","BSSID":"64:70:02:c3:4b:d9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-76","frequency":"2457","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۳:۰۰ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"maryam","BSSID":"28:10:7b:37:13:cf","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-78","frequency":"2412","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۳:۰۰ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"svf","BSSID":"00:1b:9e:00:08:7e","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-67","frequency":"2462","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۳:۱۲ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"SH","BSSID":"64:70:02:c3:4b:d9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-77","frequency":"2457","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۳:۱۲ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"maryam","BSSID":"28:10:7b:37:13:cf","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-78","frequency":"2412","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۳:۱۲ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"svf","BSSID":"00:1b:9e:00:08:7e","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-67","frequency":"2462","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۳:۱۲ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"SH","BSSID":"64:70:02:c3:4b:d9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-77","frequency":"2457","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۳:۱۲ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"maryam","BSSID":"28:10:7b:37:13:cf","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-78","frequency":"2412","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۳:۱۲ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"svf","BSSID":"00:1b:9e:00:08:7e","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-67","frequency":"2462","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۴:۰۰ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"SH","BSSID":"64:70:02:c3:4b:d9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-77","frequency":"2457","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۴:۰۰ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"maryam","BSSID":"28:10:7b:37:13:cf","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-78","frequency":"2412","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۴:۰۰ (وقت عادی ایران)"}}
+{"Location":{"Latitude":"35.7064982","Longtitude":"51.1979298","Altitude":"0.0","time":"۱۲-۱۷-۲۰۱۳ ۲۱:۳۴:۰۳","Accuracy":"20.0","Provider":"fused","Speed":"0.0"}}
+{"WiFi":{"SSID":"svf","BSSID":"00:1b:9e:00:08:7e","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-74","frequency":"2462","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۴:۱۲ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"SH","BSSID":"64:70:02:c3:4b:d9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-77","frequency":"2457","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۴:۱۲ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"svf","BSSID":"00:1b:9e:00:08:7e","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-74","frequency":"2462","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۴:۱۲ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"SH","BSSID":"64:70:02:c3:4b:d9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-77","frequency":"2457","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۴:۱۲ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"svf","BSSID":"00:1b:9e:00:08:7e","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-74","frequency":"2462","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۵:۰۰ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"SH","BSSID":"64:70:02:c3:4b:d9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-77","frequency":"2457","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۵:۰۰ (وقت عادی ایران)"}}
+{"Location":{"Latitude":"35.7066019","Longtitude":"51.1979337","Altitude":"0.0","time":"۱۲-۱۷-۲۰۱۳ ۲۱:۳۵:۰۳","Accuracy":"20.0","Provider":"fused","Speed":"0.0"}}
+{"WiFi":{"SSID":"svf","BSSID":"00:1b:9e:00:08:7e","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-72","frequency":"2462","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۵:۱۲ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"SH","BSSID":"64:70:02:c3:4b:d9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-80","frequency":"2457","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۵:۱۲ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"maryam","BSSID":"28:10:7b:37:13:cf","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-78","frequency":"2412","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۵:۱۲ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"svf","BSSID":"00:1b:9e:00:08:7e","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-72","frequency":"2462","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۵:۱۲ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"SH","BSSID":"64:70:02:c3:4b:d9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-80","frequency":"2457","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۵:۱۲ (وقت عادی ایران)"}}
+{"WiFi":{"SSID":"maryam","BSSID":"28:10:7b:37:13:cf","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-78","frequency":"2412","time":"سه‌شنبه ۱۷ دسامبر ۲۰۱۳ ۲۱:۳۵:۱۲ (وقت عادی ایران)"}}
+{"Application":{"ProcessName":"com.lge.keepscreenon","Start":"۱۲-۱۷-۲۰۱۳ ۲۱:۳۱:۲۴","End":"۱۲-۱۷-۲۰۱۳ ۲۱:۳۵:۲۵"}}
+{"Application":{"ProcessName":"com.totrix.glwiz","Start":"۱۲-۱۷-۲۰۱۳ ۲۱:۳۱:۵۳","End":"۱۲-۱۷-۲۰۱۳ ۲۱:۳۵:۲۵"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"۱۲-۱۷-۲۰۱۳ ۲۱:۳۱:۲۴","End":"۱۲-۱۷-۲۰۱۳ ۲۱:۳۵:۲۵"}}
+{"Application":{"ProcessName":"com.totrix.glwiz","Start":"۱۲-۱۷-۲۰۱۳ ۲۱:۳۵:۳۳","End":"۱۲-۱۷-۲۰۱۳ ۲۱:۳۵:۳۵"}}

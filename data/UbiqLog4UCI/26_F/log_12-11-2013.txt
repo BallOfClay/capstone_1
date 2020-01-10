@@ -1,0 +1,198 @@
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 06:45:12","End":"12-11-2013 06:46:49"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 06:45:12","End":"12-11-2013 06:46:49"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 06:45:12","End":"12-11-2013 06:46:49"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 06:45:12","End":"12-11-2013 06:46:49"}}
+{"Application":{"ProcessName":"com.sonyericsson.conversations","Start":"12-11-2013 06:47:11","End":"12-11-2013 06:50:05"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 06:47:01","End":"12-11-2013 06:52:05"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 06:47:01","End":"12-11-2013 06:52:05"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 06:47:01","End":"12-11-2013 06:52:05"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 06:47:01","End":"12-11-2013 06:52:05"}}
+{"Call": {"Number":"+98919703####","Duration":"0","Time":"12-11-2013 06:50:04","Type":"3"}}
+{"Call": {"Number":"+98919703####","Duration":"0","Time":"12-11-2013 06:50:04","Type":"3"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 06:52:05","End":"12-11-2013 06:58:56"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 06:52:05","End":"12-11-2013 06:58:56"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 06:52:05","End":"12-11-2013 06:58:56"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 06:52:05","End":"12-11-2013 06:58:56"}}
+{"Call": {"Number":"+98919703####","Duration":"0","Time":"12-11-2013 06:58:51","Type":"3"}}
+{"Call": {"Number":"+98919703####","Duration":"0","Time":"12-11-2013 06:58:51","Type":"3"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 06:58:56","End":"12-11-2013 07:05:59"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 06:58:56","End":"12-11-2013 07:05:59"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 06:58:56","End":"12-11-2013 07:05:59"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 06:58:56","End":"12-11-2013 07:05:59"}}
+{"Application":{"ProcessName":"com.sonymobile.social.services","Start":"12-11-2013 09:23:25","End":"12-11-2013 09:23:25"}}
+{"Application":{"ProcessName":"com.sonyericsson.simcontacts","Start":"12-11-2013 09:23:25","End":"12-11-2013 09:23:35"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"12-11-2013 09:23:25","End":"12-11-2013 09:23:35"}}
+{"Call": {"Number":"+98212642####","Duration":"19","Time":"12-11-2013 09:25:17","Type":"1"}}
+{"Call": {"Number":"+98212642####","Duration":"19","Time":"12-11-2013 09:25:17","Type":"1"}}
+{"Call": {"Number":"+98919703####","Duration":"0","Time":"12-11-2013 09:28:12","Type":"1"}}
+{"Call": {"Number":"+98919703####","Duration":"0","Time":"12-11-2013 09:28:12","Type":"1"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 09:23:25","End":"12-11-2013 09:28:34"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 09:23:25","End":"12-11-2013 09:28:34"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 09:23:25","End":"12-11-2013 09:28:34"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 09:23:25","End":"12-11-2013 09:28:34"}}
+{"Call": {"Number":"+98919703####","Duration":"0","Time":"12-11-2013 09:28:12","Type":"1"}}
+{"Call": {"Number":"+98919703####","Duration":"0","Time":"12-11-2013 09:28:12","Type":"1"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 09:28:34","End":"12-11-2013 09:33:38"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 09:28:34","End":"12-11-2013 09:33:38"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 09:28:34","End":"12-11-2013 09:33:38"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 09:28:34","End":"12-11-2013 09:33:38"}}
+{"Application":{"ProcessName":"com.sonyericsson.android.socialphonebook","Start":"12-11-2013 09:33:18","End":"12-11-2013 09:37:48"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 09:33:38","End":"12-11-2013 09:37:58"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 09:33:38","End":"12-11-2013 09:37:58"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 09:33:38","End":"12-11-2013 09:37:58"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 09:33:38","End":"12-11-2013 09:37:58"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"12-11-2013 10:10:06","End":"12-11-2013 10:10:06"}}
+{"Application":{"ProcessName":"com.sonyericsson.simcontacts","Start":"12-11-2013 10:10:16","End":"12-11-2013 10:10:16"}}
+{"Application":{"ProcessName":"com.sonyericsson.dsds.widget","Start":"12-11-2013 10:10:16","End":"12-11-2013 10:10:27"}}
+{"Application":{"ProcessName":"com.google.android.gallery3d","Start":"12-11-2013 10:10:27","End":"12-11-2013 10:10:37"}}
+{"Application":{"ProcessName":"com.sonyericsson.android.socialphonebook","Start":"12-11-2013 10:11:07","End":"12-11-2013 10:11:27"}}
+{"Application":{"ProcessName":"com.sonyericsson.infiniteview","Start":"12-11-2013 10:11:27","End":"12-11-2013 10:17:05"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 10:10:06","End":"12-11-2013 10:17:05"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 10:10:06","End":"12-11-2013 10:17:05"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 10:10:06","End":"12-11-2013 10:17:05"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 10:10:06","End":"12-11-2013 10:17:05"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 10:17:05","End":"12-11-2013 10:36:53"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 10:17:05","End":"12-11-2013 10:36:53"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 10:17:05","End":"12-11-2013 10:36:53"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 10:17:05","End":"12-11-2013 10:36:53"}}
+{"Call": {"Number":"+98919500####","Duration":"0","Time":"12-11-2013 10:36:54","Type":"3"}}
+{"Call": {"Number":"+98919500####","Duration":"0","Time":"12-11-2013 10:36:54","Type":"3"}}
+{"Call": {"Number":"+98919500####","Duration":"0","Time":"12-11-2013 10:36:54","Type":"3"}}
+{"Call": {"Number":"+98919500####","Duration":"0","Time":"12-11-2013 10:36:54","Type":"3"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 10:37:03","End":"12-11-2013 10:48:03"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 10:37:03","End":"12-11-2013 10:48:03"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 10:37:03","End":"12-11-2013 10:48:03"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 10:37:03","End":"12-11-2013 10:48:03"}}
+{"Application":{"ProcessName":"com.sonyericsson.conversations","Start":"12-11-2013 10:55:34","End":"12-11-2013 10:56:24"}}
+{"SMS":{"Address":"0919703####","type":"2","date":"12-11-2013 10:59:06","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Pesaaaaraam :-)"}}}
+{"SMS":{"Address":"+98919703####","type":"1","date":"12-11-2013 10:59:36","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Pesaaaaraam :-)"}}}
+{"Application":{"ProcessName":"com.sonyericsson.conversations","Start":"12-11-2013 10:58:43","End":"12-11-2013 10:59:53"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 10:55:34","End":"12-11-2013 11:00:43"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 10:55:34","End":"12-11-2013 11:00:43"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 10:55:34","End":"12-11-2013 11:00:43"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 10:55:34","End":"12-11-2013 11:00:43"}}
+{"SMS":{"Address":"+98919703####","type":"1","date":"12-11-2013 11:02:29","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Pesaaaaraam :-)"}}}
+{"Application":{"ProcessName":"com.sonyericsson.conversations","Start":"12-11-2013 11:02:35","End":"12-11-2013 11:02:45"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 11:00:43","End":"12-11-2013 11:02:45"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 11:00:43","End":"12-11-2013 11:02:45"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 11:00:43","End":"12-11-2013 11:02:45"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 11:00:43","End":"12-11-2013 11:02:45"}}
+{"SMS":{"Address":"0919703####","type":"2","date":"12-11-2013 11:09:23","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Pesaaaaraam :-)"}}}
+{"Application":{"ProcessName":"com.sonyericsson.conversations","Start":"12-11-2013 11:08:17","End":"12-11-2013 11:10:55"}}
+{"Call": {"Number":"+98912699####","Duration":"0","Time":"12-11-2013 11:10:53","Type":"3"}}
+{"Application":{"ProcessName":"com.sonyericsson.conversations","Start":"12-11-2013 11:11:05","End":"12-11-2013 11:14:46"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 11:07:27","End":"12-11-2013 11:14:46"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 11:07:27","End":"12-11-2013 11:14:46"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 11:07:27","End":"12-11-2013 11:14:46"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 11:07:27","End":"12-11-2013 11:14:46"}}
+{"Application":{"ProcessName":"com.sonyericsson.dsds.widget","Start":"12-11-2013 15:40:02","End":"12-11-2013 15:40:03"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"12-11-2013 15:40:02","End":"12-11-2013 15:40:03"}}
+{"Application":{"ProcessName":"com.android.vending","Start":"12-11-2013 15:40:03","End":"12-11-2013 15:40:12"}}
+{"SMS":{"Address":"+98919646####","type":"2","date":"12-11-2013 13:36:31","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Abji Faeze"}}}
+{"SMS":{"Address":"+98919500####","type":"1","date":"12-11-2013 15:40:33","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"SMS":{"Address":"+98919500####","type":"1","date":"12-11-2013 15:40:37","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"12-11-2013 15:40:32","End":"12-11-2013 15:40:42"}}
+{"Application":{"ProcessName":"com.sonyericsson.conversations","Start":"12-11-2013 15:40:42","End":"12-11-2013 15:41:03"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 15:40:02","End":"12-11-2013 15:48:22"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 15:40:02","End":"12-11-2013 15:48:22"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 15:40:02","End":"12-11-2013 15:48:22"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 15:40:02","End":"12-11-2013 15:48:22"}}
+{"SMS":{"Address":"+98919646####","type":"2","date":"12-11-2013 15:48:26","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Abji Faeze"}}}
+{"Application":{"ProcessName":"com.sonyericsson.conversations","Start":"12-11-2013 15:48:22","End":"12-11-2013 15:48:42"}}
+{"SMS":{"Address":"+98919646####","type":"1","date":"12-11-2013 15:50:05","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Abji Faeze"}}}
+{"Application":{"ProcessName":"com.sonyericsson.conversations","Start":"12-11-2013 15:50:12","End":"12-11-2013 15:51:12"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 15:48:22","End":"12-11-2013 15:51:12"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 15:48:22","End":"12-11-2013 15:51:12"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 15:48:22","End":"12-11-2013 15:51:12"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 15:48:22","End":"12-11-2013 15:51:12"}}
+{"SMS":{"Address":"+98919646####","type":"1","date":"12-11-2013 15:52:14","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Abji Faeze"}}}
+{"Application":{"ProcessName":"com.android.exchange","Start":"12-11-2013 16:25:48","End":"12-11-2013 16:25:58"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 16:25:48","End":"12-11-2013 16:34:31"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 16:25:48","End":"12-11-2013 16:34:31"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 16:25:48","End":"12-11-2013 16:34:31"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 16:25:48","End":"12-11-2013 16:34:31"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 16:34:31","End":"12-11-2013 16:34:31"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 16:34:31","End":"12-11-2013 16:34:31"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 16:34:31","End":"12-11-2013 16:34:31"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 16:34:31","End":"12-11-2013 16:34:31"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 16:38:19","End":"12-11-2013 16:39:08"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 16:38:19","End":"12-11-2013 16:39:08"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 16:38:19","End":"12-11-2013 16:39:08"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 16:38:19","End":"12-11-2013 16:39:08"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 16:42:32","End":"12-11-2013 16:42:43"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 16:42:32","End":"12-11-2013 16:42:43"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 16:42:32","End":"12-11-2013 16:42:43"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 16:42:32","End":"12-11-2013 16:42:43"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 16:49:03","End":"12-11-2013 16:50:56"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 16:49:03","End":"12-11-2013 16:50:56"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 16:49:03","End":"12-11-2013 16:50:56"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 16:49:03","End":"12-11-2013 16:50:56"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 16:54:25","End":"12-11-2013 17:00:48"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 16:54:25","End":"12-11-2013 17:00:48"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 16:54:25","End":"12-11-2013 17:00:48"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 16:54:25","End":"12-11-2013 17:00:48"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 17:00:48","End":"12-11-2013 17:09:07"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 17:00:49","End":"12-11-2013 17:09:07"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 17:00:49","End":"12-11-2013 17:09:07"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 17:00:49","End":"12-11-2013 17:09:07"}}
+{"Call": {"Number":"+98218834####","Duration":"0","Time":"12-11-2013 16:07:24","Type":"1"}}
+{"Call": {"Number":"+98218834####","Duration":"0","Time":"12-11-2013 16:07:24","Type":"1"}}
+{"Call": {"Number":"+98218834####","Duration":"0","Time":"12-11-2013 16:07:24","Type":"1"}}
+{"Call": {"Number":"+98218834####","Duration":"0","Time":"12-11-2013 16:07:24","Type":"1"}}
+{"Call": {"Number":"+98218834####","Duration":"0","Time":"12-11-2013 16:07:24","Type":"1"}}
+{"Call": {"Number":"+98218834####","Duration":"0","Time":"12-11-2013 16:07:24","Type":"1"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 17:09:54","End":"12-11-2013 17:10:04"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 17:09:54","End":"12-11-2013 17:10:04"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 17:09:54","End":"12-11-2013 17:10:04"}}
+{"Application":{"ProcessName":"com.sonyericsson.android.socialphonebook","Start":"12-11-2013 17:09:54","End":"12-11-2013 17:10:04"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 17:09:54","End":"12-11-2013 17:10:04"}}
+{"Call": {"Number":"+98919646####","Duration":"0","Time":"12-11-2013 17:09:55","Type":"2"}}
+{"Call": {"Number":"+98919646####","Duration":"0","Time":"12-11-2013 17:09:55","Type":"2"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 17:10:35","End":"12-11-2013 17:15:18"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 17:10:35","End":"12-11-2013 17:15:18"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 17:10:35","End":"12-11-2013 17:15:18"}}
+{"Application":{"ProcessName":"com.sonyericsson.android.socialphonebook","Start":"12-11-2013 17:10:35","End":"12-11-2013 17:15:18"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 17:10:35","End":"12-11-2013 17:15:18"}}
+{"SMS":{"Address":"+98919646####","type":"1","date":"12-11-2013 17:17:22","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Abji Faeze"}}}
+{"Application":{"ProcessName":"com.sonyericsson.conversations","Start":"12-11-2013 17:17:33","End":"12-11-2013 17:25:16"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 17:17:33","End":"12-11-2013 17:25:16"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 17:17:33","End":"12-11-2013 17:25:16"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 17:17:33","End":"12-11-2013 17:25:16"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 17:17:33","End":"12-11-2013 17:25:16"}}
+{"Call": {"Number":"+98919646####","Duration":"40","Time":"12-11-2013 17:25:26","Type":"1"}}
+{"Call": {"Number":"+98919646####","Duration":"0","Time":"12-11-2013 17:26:40","Type":"2"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 17:26:55","End":"12-11-2013 17:27:27"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 17:26:55","End":"12-11-2013 17:27:27"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 17:26:55","End":"12-11-2013 17:27:27"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 17:26:55","End":"12-11-2013 17:27:27"}}
+{"Call": {"Number":"+98919646####","Duration":"35","Time":"12-11-2013 17:26:49","Type":"2"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 17:27:39","End":"12-11-2013 17:29:27"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 17:27:39","End":"12-11-2013 17:29:27"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 17:27:39","End":"12-11-2013 17:29:27"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 17:27:39","End":"12-11-2013 17:29:27"}}
+{"Application":{"ProcessName":"com.sonyericsson.simcontacts","Start":"12-11-2013 18:12:10","End":"12-11-2013 18:12:11"}}
+{"Application":{"ProcessName":"com.google.android.gallery3d","Start":"12-11-2013 18:12:11","End":"12-11-2013 18:12:21"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 18:12:10","End":"12-11-2013 18:12:31"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 18:12:10","End":"12-11-2013 18:12:31"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 18:12:10","End":"12-11-2013 18:12:31"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 18:12:10","End":"12-11-2013 18:12:31"}}
+{"SMS":{"Address":"0919703####","type":"2","date":"12-11-2013 18:15:40","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Pesaaaaraam :-)"}}}
+{"Application":{"ProcessName":"com.sonyericsson.conversations","Start":"12-11-2013 18:15:04","End":"12-11-2013 18:17:08"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 18:15:04","End":"12-11-2013 18:17:08"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 18:15:04","End":"12-11-2013 18:17:08"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 18:15:04","End":"12-11-2013 18:17:08"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 18:15:04","End":"12-11-2013 18:17:08"}}
+{"SMS":{"Address":"+98919703####","type":"1","date":"12-11-2013 18:17:06","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Pesaaaaraam :-)"}}}
+{"SMS":{"Address":"0919703####","type":"2","date":"12-11-2013 18:18:12","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Pesaaaaraam :-)"}}}
+{"Application":{"ProcessName":"com.sonyericsson.conversations","Start":"12-11-2013 18:17:46","End":"12-11-2013 18:18:37"}}
+{"SMS":{"Address":"+98919703####","type":"1","date":"12-11-2013 18:18:42","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Pesaaaaraam :-)"}}}
+{"SMS":{"Address":"0919703####","type":"2","date":"12-11-2013 18:19:13","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Pesaaaaraam :-)"}}}
+{"SMS":{"Address":"+98919703####","type":"1","date":"12-11-2013 18:19:34","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Pesaaaaraam :-)"}}}
+{"Application":{"ProcessName":"com.sonyericsson.conversations","Start":"12-11-2013 18:18:57","End":"12-11-2013 18:19:37"}}
+{"SMS":{"Address":"0919703####","type":"2","date":"12-11-2013 18:19:57","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Pesaaaaraam :-)"}}}
+{"SMS":{"Address":"+98919703####","type":"1","date":"12-11-2013 18:27:36","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Pesaaaaraam :-)"}}}
+{"Application":{"ProcessName":"com.sonyericsson.conversations","Start":"12-11-2013 18:19:47","End":"12-11-2013 18:27:37"}}
+{"Application":{"ProcessName":"com.sonyericsson.r2r.client","Start":"12-11-2013 18:17:36","End":"12-11-2013 18:27:37"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"12-11-2013 18:17:36","End":"12-11-2013 18:27:37"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"12-11-2013 18:17:36","End":"12-11-2013 18:27:37"}}
+{"Application":{"ProcessName":"com.sonyericsson.eventstream","Start":"12-11-2013 18:17:36","End":"12-11-2013 18:27:37"}}

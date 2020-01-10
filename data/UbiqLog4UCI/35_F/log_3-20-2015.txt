@@ -1,0 +1,803 @@
+{"Application":{"ProcessName":"com.google.android.talk","Start":"3-19-2015 23:25:38","End":"3-19-2015 23:26:38"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-19-2015 23:25:23","End":"3-19-2015 23:26:38"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"3-19-2015 23:26:13","End":"3-19-2015 23:26:38"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-19-2015 23:25:23","End":"3-19-2015 23:26:38"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-19-2015 23:28:09","End":"3-19-2015 23:28:15"}}
+{"Application":{"ProcessName":"com.google.android.talk","Start":"3-19-2015 23:28:15","End":"3-19-2015 23:28:25"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-19-2015 23:28:09","End":"3-19-2015 23:28:25"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"3-19-2015 23:28:15","End":"3-19-2015 23:28:25"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-19-2015 23:28:09","End":"3-19-2015 23:28:25"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-19-2015 23:28:46","End":"3-19-2015 23:28:51"}}
+{"Application":{"ProcessName":"com.google.android.talk","Start":"3-19-2015 23:28:51","End":"3-19-2015 23:29:21"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-19-2015 23:28:46","End":"3-19-2015 23:29:21"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"3-19-2015 23:28:51","End":"3-19-2015 23:29:21"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-19-2015 23:28:46","End":"3-19-2015 23:29:21"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 02:12:34","End":"3-20-2015 02:12:44"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox:search","Start":"3-20-2015 02:12:40","End":"3-20-2015 02:12:44"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 02:12:34","End":"3-20-2015 02:12:44"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-20-2015 02:12:34","End":"3-20-2015 02:12:44"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 07:32:02","End":"3-20-2015 07:32:28"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 07:32:02","End":"3-20-2015 07:32:28"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-20-2015 07:32:02","End":"3-20-2015 07:32:28"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 07:32:59","End":"3-20-2015 07:33:59"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox:search","Start":"3-20-2015 07:32:59","End":"3-20-2015 07:33:59"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 07:32:59","End":"3-20-2015 07:33:59"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-20-2015 07:32:59","End":"3-20-2015 07:33:59"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-57","frequency":"2437","time":"Friday, March 20, 2015 8:18:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-71","frequency":"2437","time":"Friday, March 20, 2015 8:18:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-67","frequency":"2412","time":"Friday, March 20, 2015 8:18:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-73","frequency":"2437","time":"Friday, March 20, 2015 8:18:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-89","frequency":"2462","time":"Friday, March 20, 2015 8:18:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BX4QN","BSSID":"f8:e4:fb:c9:bd:a3","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-91","frequency":"2462","time":"Friday, March 20, 2015 8:18:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-57","frequency":"2437","time":"Friday, March 20, 2015 8:18:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-71","frequency":"2437","time":"Friday, March 20, 2015 8:18:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-67","frequency":"2412","time":"Friday, March 20, 2015 8:18:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-73","frequency":"2437","time":"Friday, March 20, 2015 8:18:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-89","frequency":"2462","time":"Friday, March 20, 2015 8:18:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BX4QN","BSSID":"f8:e4:fb:c9:bd:a3","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-91","frequency":"2462","time":"Friday, March 20, 2015 8:18:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-63","frequency":"2437","time":"Friday, March 20, 2015 8:19:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-69","frequency":"2437","time":"Friday, March 20, 2015 8:19:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-67","frequency":"2412","time":"Friday, March 20, 2015 8:19:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-69","frequency":"2437","time":"Friday, March 20, 2015 8:19:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-85","frequency":"2437","time":"Friday, March 20, 2015 8:19:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"linksys_EXT","BSSID":"84:1b:5e:c9:33:78","capabilities":"[WPS][ESS]","level":"-88","frequency":"2437","time":"Friday, March 20, 2015 8:19:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-73","frequency":"2442","time":"Friday, March 20, 2015 8:19:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-88","frequency":"2437","time":"Friday, March 20, 2015 8:19:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-63","frequency":"2437","time":"Friday, March 20, 2015 8:19:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-69","frequency":"2437","time":"Friday, March 20, 2015 8:19:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-67","frequency":"2412","time":"Friday, March 20, 2015 8:19:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-69","frequency":"2437","time":"Friday, March 20, 2015 8:19:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-85","frequency":"2437","time":"Friday, March 20, 2015 8:19:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"linksys_EXT","BSSID":"84:1b:5e:c9:33:78","capabilities":"[WPS][ESS]","level":"-88","frequency":"2437","time":"Friday, March 20, 2015 8:19:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-73","frequency":"2442","time":"Friday, March 20, 2015 8:19:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-88","frequency":"2437","time":"Friday, March 20, 2015 8:19:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-53","frequency":"2437","time":"Friday, March 20, 2015 8:20:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-70","frequency":"2437","time":"Friday, March 20, 2015 8:20:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-70","frequency":"2412","time":"Friday, March 20, 2015 8:20:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-70","frequency":"2437","time":"Friday, March 20, 2015 8:20:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-89","frequency":"2437","time":"Friday, March 20, 2015 8:20:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-73","frequency":"2442","time":"Friday, March 20, 2015 8:20:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-86","frequency":"2462","time":"Friday, March 20, 2015 8:20:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Camille's Wi-Fi Network","BSSID":"28:cf:da:b0:89:a7","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-90","frequency":"2462","time":"Friday, March 20, 2015 8:20:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-53","frequency":"2437","time":"Friday, March 20, 2015 8:20:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-70","frequency":"2437","time":"Friday, March 20, 2015 8:20:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-70","frequency":"2412","time":"Friday, March 20, 2015 8:20:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-70","frequency":"2437","time":"Friday, March 20, 2015 8:20:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-89","frequency":"2437","time":"Friday, March 20, 2015 8:20:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-73","frequency":"2442","time":"Friday, March 20, 2015 8:20:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-86","frequency":"2462","time":"Friday, March 20, 2015 8:20:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Camille's Wi-Fi Network","BSSID":"28:cf:da:b0:89:a7","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-90","frequency":"2462","time":"Friday, March 20, 2015 8:20:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-59","frequency":"2437","time":"Friday, March 20, 2015 8:21:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-65","frequency":"2437","time":"Friday, March 20, 2015 8:21:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-73","frequency":"2412","time":"Friday, March 20, 2015 8:21:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-70","frequency":"2437","time":"Friday, March 20, 2015 8:21:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-87","frequency":"2437","time":"Friday, March 20, 2015 8:21:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-86","frequency":"2462","time":"Friday, March 20, 2015 8:21:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Camille's Wi-Fi Network","BSSID":"28:cf:da:b0:89:a7","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-90","frequency":"2462","time":"Friday, March 20, 2015 8:21:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-59","frequency":"2437","time":"Friday, March 20, 2015 8:21:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-65","frequency":"2437","time":"Friday, March 20, 2015 8:21:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-73","frequency":"2412","time":"Friday, March 20, 2015 8:21:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-70","frequency":"2437","time":"Friday, March 20, 2015 8:21:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-87","frequency":"2437","time":"Friday, March 20, 2015 8:21:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-86","frequency":"2462","time":"Friday, March 20, 2015 8:21:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Camille's Wi-Fi Network","BSSID":"28:cf:da:b0:89:a7","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-90","frequency":"2462","time":"Friday, March 20, 2015 8:21:03 AM Pacific Daylight Time"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-20-2015 08:17:19","End":"3-20-2015 08:21:54"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-52","frequency":"2437","time":"Friday, March 20, 2015 8:22:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-68","frequency":"2437","time":"Friday, March 20, 2015 8:22:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-75","frequency":"2412","time":"Friday, March 20, 2015 8:22:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-67","frequency":"2437","time":"Friday, March 20, 2015 8:22:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-90","frequency":"2437","time":"Friday, March 20, 2015 8:22:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 8:22:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2442","time":"Friday, March 20, 2015 8:22:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-88","frequency":"2462","time":"Friday, March 20, 2015 8:22:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-53","frequency":"2437","time":"Friday, March 20, 2015 8:22:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-68","frequency":"2437","time":"Friday, March 20, 2015 8:22:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-75","frequency":"2412","time":"Friday, March 20, 2015 8:22:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-67","frequency":"2437","time":"Friday, March 20, 2015 8:22:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-90","frequency":"2437","time":"Friday, March 20, 2015 8:22:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 8:22:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2442","time":"Friday, March 20, 2015 8:22:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-88","frequency":"2462","time":"Friday, March 20, 2015 8:22:03 AM Pacific Daylight Time"}}
+{"Application":{"ProcessName":"com.android.chrome:sandboxed_process3","Start":"3-20-2015 08:21:54","End":"3-20-2015 08:22:04"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 08:17:19","End":"3-20-2015 08:22:20"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox:search","Start":"3-20-2015 08:17:19","End":"3-20-2015 08:22:20"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 08:17:19","End":"3-20-2015 08:22:20"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"3-20-2015 08:21:54","End":"3-20-2015 08:22:40"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-57","frequency":"2437","time":"Friday, March 20, 2015 8:23:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-69","frequency":"2437","time":"Friday, March 20, 2015 8:23:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-73","frequency":"2412","time":"Friday, March 20, 2015 8:23:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-69","frequency":"2437","time":"Friday, March 20, 2015 8:23:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-82","frequency":"2442","time":"Friday, March 20, 2015 8:23:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 8:23:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-58","frequency":"2437","time":"Friday, March 20, 2015 8:23:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-69","frequency":"2437","time":"Friday, March 20, 2015 8:23:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-73","frequency":"2412","time":"Friday, March 20, 2015 8:23:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-69","frequency":"2437","time":"Friday, March 20, 2015 8:23:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-82","frequency":"2442","time":"Friday, March 20, 2015 8:23:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 8:23:03 AM Pacific Daylight Time"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"3-20-2015 08:23:24","End":"3-20-2015 08:23:30"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-56","frequency":"2437","time":"Friday, March 20, 2015 8:24:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-67","frequency":"2437","time":"Friday, March 20, 2015 8:24:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-73","frequency":"2412","time":"Friday, March 20, 2015 8:24:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-67","frequency":"2437","time":"Friday, March 20, 2015 8:24:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-82","frequency":"2442","time":"Friday, March 20, 2015 8:24:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 8:24:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-89","frequency":"2437","time":"Friday, March 20, 2015 8:24:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-89","frequency":"2437","time":"Friday, March 20, 2015 8:24:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-58","frequency":"2437","time":"Friday, March 20, 2015 8:24:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-67","frequency":"2437","time":"Friday, March 20, 2015 8:24:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-73","frequency":"2412","time":"Friday, March 20, 2015 8:24:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-67","frequency":"2437","time":"Friday, March 20, 2015 8:24:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-82","frequency":"2442","time":"Friday, March 20, 2015 8:24:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 8:24:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-89","frequency":"2437","time":"Friday, March 20, 2015 8:24:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-89","frequency":"2437","time":"Friday, March 20, 2015 8:24:03 AM Pacific Daylight Time"}}
+{"Application":{"ProcessName":"com.android.chrome:privileged_process0","Start":"3-20-2015 08:21:54","End":"3-20-2015 08:24:05"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox:search","Start":"3-20-2015 08:22:20","End":"3-20-2015 08:24:05"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"3-20-2015 08:24:00","End":"3-20-2015 08:24:05"}}
+{"Application":{"ProcessName":"com.android.chrome:sandboxed_process9","Start":"3-20-2015 08:22:00","End":"3-20-2015 08:24:05"}}
+{"Application":{"ProcessName":"com.android.chrome","Start":"3-20-2015 08:21:54","End":"3-20-2015 08:24:05"}}
+{"Application":{"ProcessName":"com.rovio.gold","Start":"3-20-2015 08:24:10","End":"3-20-2015 08:24:51"}}
+{"Application":{"ProcessName":"com.android.vending","Start":"3-20-2015 08:24:20","End":"3-20-2015 08:24:51"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"3-20-2015 08:24:20","End":"3-20-2015 08:25:01"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-51","frequency":"2437","time":"Friday, March 20, 2015 8:25:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-69","frequency":"2437","time":"Friday, March 20, 2015 8:25:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-73","frequency":"2412","time":"Friday, March 20, 2015 8:25:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-68","frequency":"2437","time":"Friday, March 20, 2015 8:25:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-82","frequency":"2442","time":"Friday, March 20, 2015 8:25:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 8:25:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-88","frequency":"2437","time":"Friday, March 20, 2015 8:25:01 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-50","frequency":"2437","time":"Friday, March 20, 2015 8:25:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-69","frequency":"2437","time":"Friday, March 20, 2015 8:25:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-73","frequency":"2412","time":"Friday, March 20, 2015 8:25:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-68","frequency":"2437","time":"Friday, March 20, 2015 8:25:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-82","frequency":"2442","time":"Friday, March 20, 2015 8:25:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 8:25:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-88","frequency":"2437","time":"Friday, March 20, 2015 8:25:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-53","frequency":"2437","time":"Friday, March 20, 2015 8:26:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-76","frequency":"2437","time":"Friday, March 20, 2015 8:26:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-71","frequency":"2412","time":"Friday, March 20, 2015 8:26:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-76","frequency":"2437","time":"Friday, March 20, 2015 8:26:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-88","frequency":"2442","time":"Friday, March 20, 2015 8:26:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 8:26:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-90","frequency":"2437","time":"Friday, March 20, 2015 8:26:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-53","frequency":"2437","time":"Friday, March 20, 2015 8:26:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-76","frequency":"2437","time":"Friday, March 20, 2015 8:26:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-71","frequency":"2412","time":"Friday, March 20, 2015 8:26:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-76","frequency":"2437","time":"Friday, March 20, 2015 8:26:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-88","frequency":"2442","time":"Friday, March 20, 2015 8:26:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 8:26:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-90","frequency":"2437","time":"Friday, March 20, 2015 8:26:03 AM Pacific Daylight Time"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox:search","Start":"3-20-2015 08:24:51","End":"3-20-2015 08:26:31"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-20-2015 08:24:51","End":"3-20-2015 08:26:35"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-47","frequency":"2437","time":"Friday, March 20, 2015 8:27:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-66","frequency":"2437","time":"Friday, March 20, 2015 8:27:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-72","frequency":"2412","time":"Friday, March 20, 2015 8:27:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-66","frequency":"2437","time":"Friday, March 20, 2015 8:27:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2442","time":"Friday, March 20, 2015 8:27:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-90","frequency":"2437","time":"Friday, March 20, 2015 8:27:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-85","frequency":"2437","time":"Friday, March 20, 2015 8:27:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-90","frequency":"2437","time":"Friday, March 20, 2015 8:27:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"linksys_EXT","BSSID":"84:1b:5e:c9:33:78","capabilities":"[WPS][ESS]","level":"-88","frequency":"2437","time":"Friday, March 20, 2015 8:27:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2462","time":"Friday, March 20, 2015 8:27:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-47","frequency":"2437","time":"Friday, March 20, 2015 8:27:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-66","frequency":"2437","time":"Friday, March 20, 2015 8:27:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-72","frequency":"2412","time":"Friday, March 20, 2015 8:27:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-66","frequency":"2437","time":"Friday, March 20, 2015 8:27:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2442","time":"Friday, March 20, 2015 8:27:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-90","frequency":"2437","time":"Friday, March 20, 2015 8:27:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-85","frequency":"2437","time":"Friday, March 20, 2015 8:27:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-90","frequency":"2437","time":"Friday, March 20, 2015 8:27:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"linksys_EXT","BSSID":"84:1b:5e:c9:33:78","capabilities":"[WPS][ESS]","level":"-88","frequency":"2437","time":"Friday, March 20, 2015 8:27:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2462","time":"Friday, March 20, 2015 8:27:03 AM Pacific Daylight Time"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 08:22:20","End":"3-20-2015 08:27:21"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 08:22:20","End":"3-20-2015 08:27:21"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-55","frequency":"2437","time":"Friday, March 20, 2015 8:28:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-69","frequency":"2437","time":"Friday, March 20, 2015 8:28:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-72","frequency":"2412","time":"Friday, March 20, 2015 8:28:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-69","frequency":"2437","time":"Friday, March 20, 2015 8:28:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2442","time":"Friday, March 20, 2015 8:28:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-91","frequency":"2437","time":"Friday, March 20, 2015 8:28:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-90","frequency":"2437","time":"Friday, March 20, 2015 8:28:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-86","frequency":"2437","time":"Friday, March 20, 2015 8:28:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"linksys_EXT","BSSID":"84:1b:5e:c9:33:78","capabilities":"[WPS][ESS]","level":"-89","frequency":"2437","time":"Friday, March 20, 2015 8:28:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2462","time":"Friday, March 20, 2015 8:28:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-55","frequency":"2437","time":"Friday, March 20, 2015 8:28:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-69","frequency":"2437","time":"Friday, March 20, 2015 8:28:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-72","frequency":"2412","time":"Friday, March 20, 2015 8:28:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-69","frequency":"2437","time":"Friday, March 20, 2015 8:28:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2442","time":"Friday, March 20, 2015 8:28:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-91","frequency":"2437","time":"Friday, March 20, 2015 8:28:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-90","frequency":"2437","time":"Friday, March 20, 2015 8:28:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-86","frequency":"2437","time":"Friday, March 20, 2015 8:28:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"linksys_EXT","BSSID":"84:1b:5e:c9:33:78","capabilities":"[WPS][ESS]","level":"-89","frequency":"2437","time":"Friday, March 20, 2015 8:28:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2462","time":"Friday, March 20, 2015 8:28:03 AM Pacific Daylight Time"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"3-20-2015 08:26:31","End":"3-20-2015 08:28:36"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-65","frequency":"2437","time":"Friday, March 20, 2015 8:29:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-65","frequency":"2437","time":"Friday, March 20, 2015 8:29:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-72","frequency":"2412","time":"Friday, March 20, 2015 8:29:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-64","frequency":"2437","time":"Friday, March 20, 2015 8:29:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2442","time":"Friday, March 20, 2015 8:29:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-85","frequency":"2437","time":"Friday, March 20, 2015 8:29:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"linksys_EXT","BSSID":"84:1b:5e:c9:33:78","capabilities":"[WPS][ESS]","level":"-89","frequency":"2437","time":"Friday, March 20, 2015 8:29:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2462","time":"Friday, March 20, 2015 8:29:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-65","frequency":"2437","time":"Friday, March 20, 2015 8:29:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-65","frequency":"2437","time":"Friday, March 20, 2015 8:29:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-72","frequency":"2412","time":"Friday, March 20, 2015 8:29:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-64","frequency":"2437","time":"Friday, March 20, 2015 8:29:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2442","time":"Friday, March 20, 2015 8:29:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-85","frequency":"2437","time":"Friday, March 20, 2015 8:29:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"linksys_EXT","BSSID":"84:1b:5e:c9:33:78","capabilities":"[WPS][ESS]","level":"-89","frequency":"2437","time":"Friday, March 20, 2015 8:29:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2462","time":"Friday, March 20, 2015 8:29:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-48","frequency":"2437","time":"Friday, March 20, 2015 8:30:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-73","frequency":"2437","time":"Friday, March 20, 2015 8:30:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-70","frequency":"2412","time":"Friday, March 20, 2015 8:30:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-73","frequency":"2437","time":"Friday, March 20, 2015 8:30:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2457","time":"Friday, March 20, 2015 8:30:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-92","frequency":"2437","time":"Friday, March 20, 2015 8:30:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-51","frequency":"2437","time":"Friday, March 20, 2015 8:30:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-73","frequency":"2437","time":"Friday, March 20, 2015 8:30:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-70","frequency":"2412","time":"Friday, March 20, 2015 8:30:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-73","frequency":"2437","time":"Friday, March 20, 2015 8:30:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2457","time":"Friday, March 20, 2015 8:30:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-92","frequency":"2437","time":"Friday, March 20, 2015 8:30:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-54","frequency":"2437","time":"Friday, March 20, 2015 8:31:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-67","frequency":"2437","time":"Friday, March 20, 2015 8:31:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-70","frequency":"2412","time":"Friday, March 20, 2015 8:31:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-68","frequency":"2437","time":"Friday, March 20, 2015 8:31:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2457","time":"Friday, March 20, 2015 8:31:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-89","frequency":"2437","time":"Friday, March 20, 2015 8:31:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2437","time":"Friday, March 20, 2015 8:31:02 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"FBI surveillance van #2","BSSID":"3c:15:c2:f2:0f:72","capabilities":"[WPA-PSK-TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-88","frequency":"2437","time":"Friday, March 20, 2015 8:31:02 AM Pacific Daylight Time"}}
+{"Application":{"ProcessName":"com.rovio.gold","Start":"3-20-2015 08:28:36","End":"3-20-2015 08:31:02"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-54","frequency":"2437","time":"Friday, March 20, 2015 8:31:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-73","frequency":"2437","time":"Friday, March 20, 2015 8:31:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-71","frequency":"2412","time":"Friday, March 20, 2015 8:31:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-73","frequency":"2437","time":"Friday, March 20, 2015 8:31:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-79","frequency":"2457","time":"Friday, March 20, 2015 8:31:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2437","time":"Friday, March 20, 2015 8:31:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"FBI surveillance van #2","BSSID":"3c:15:c2:f2:0f:72","capabilities":"[WPA-PSK-TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-88","frequency":"2437","time":"Friday, March 20, 2015 8:31:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-88","frequency":"2437","time":"Friday, March 20, 2015 8:31:03 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-89","frequency":"2462","time":"Friday, March 20, 2015 8:31:03 AM Pacific Daylight Time"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"3-20-2015 08:28:41","End":"3-20-2015 08:31:06"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 08:27:21","End":"3-20-2015 08:31:12"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox:search","Start":"3-20-2015 08:31:02","End":"3-20-2015 08:31:12"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 08:27:21","End":"3-20-2015 08:31:12"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-20-2015 08:31:02","End":"3-20-2015 08:31:12"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 08:31:26","End":"3-20-2015 08:31:42"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 08:31:26","End":"3-20-2015 08:31:42"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-20-2015 08:31:26","End":"3-20-2015 08:31:42"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 08:31:49","End":"3-20-2015 08:33:12"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 08:31:49","End":"3-20-2015 08:33:12"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-20-2015 08:31:49","End":"3-20-2015 08:33:12"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 10:03:35","End":"3-20-2015 10:03:54"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox:search","Start":"3-20-2015 10:03:40","End":"3-20-2015 10:03:54"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 10:03:35","End":"3-20-2015 10:03:54"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-20-2015 10:03:35","End":"3-20-2015 10:03:54"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 10:06:23","End":"3-20-2015 10:06:28"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 10:06:23","End":"3-20-2015 10:06:28"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-20-2015 10:06:23","End":"3-20-2015 10:06:28"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 10:22:56","End":"3-20-2015 10:23:07"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 10:22:56","End":"3-20-2015 10:23:07"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-20-2015 10:22:56","End":"3-20-2015 10:23:07"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox:search","Start":"3-20-2015 10:36:55","End":"3-20-2015 10:37:00"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-20-2015 10:36:50","End":"3-20-2015 10:37:00"}}
+{"Application":{"ProcessName":"com.google.android.gms:car","Start":"3-20-2015 10:37:10","End":"3-20-2015 10:37:15"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-61","frequency":"2437","time":"Friday, March 20, 2015 10:38:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2452","time":"Friday, March 20, 2015 10:38:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-84","frequency":"2412","time":"Friday, March 20, 2015 10:38:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-78","frequency":"2437","time":"Friday, March 20, 2015 10:38:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-78","frequency":"2437","time":"Friday, March 20, 2015 10:38:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-87","frequency":"2437","time":"Friday, March 20, 2015 10:38:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12-5G","BSSID":"e4:f4:c6:0a:55:b8","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-85","frequency":"5765","time":"Friday, March 20, 2015 10:38:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"DIRECT-roku-235","BSSID":"dc:3a:5e:bc:a0:ad","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-89","frequency":"2412","time":"Friday, March 20, 2015 10:38:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"linksys_EXT","BSSID":"84:1b:5e:c9:33:78","capabilities":"[WPS][ESS]","level":"-90","frequency":"2437","time":"Friday, March 20, 2015 10:38:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-61","frequency":"2437","time":"Friday, March 20, 2015 10:38:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2452","time":"Friday, March 20, 2015 10:38:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-84","frequency":"2412","time":"Friday, March 20, 2015 10:38:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-78","frequency":"2437","time":"Friday, March 20, 2015 10:38:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-78","frequency":"2437","time":"Friday, March 20, 2015 10:38:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-87","frequency":"2437","time":"Friday, March 20, 2015 10:38:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12-5G","BSSID":"e4:f4:c6:0a:55:b8","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-85","frequency":"5765","time":"Friday, March 20, 2015 10:38:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"DIRECT-roku-235","BSSID":"dc:3a:5e:bc:a0:ad","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-89","frequency":"2412","time":"Friday, March 20, 2015 10:38:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"linksys_EXT","BSSID":"84:1b:5e:c9:33:78","capabilities":"[WPS][ESS]","level":"-90","frequency":"2437","time":"Friday, March 20, 2015 10:38:43 AM Pacific Daylight Time"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"3-20-2015 10:39:21","End":"3-20-2015 10:39:36"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-48","frequency":"2437","time":"Friday, March 20, 2015 10:40:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-73","frequency":"2412","time":"Friday, March 20, 2015 10:40:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2462","time":"Friday, March 20, 2015 10:40:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-91","frequency":"2462","time":"Friday, March 20, 2015 10:40:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-92","frequency":"2437","time":"Friday, March 20, 2015 10:40:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-76","frequency":"2437","time":"Friday, March 20, 2015 10:40:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-94","frequency":"2437","time":"Friday, March 20, 2015 10:40:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-42","frequency":"2437","time":"Friday, March 20, 2015 10:40:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-73","frequency":"2412","time":"Friday, March 20, 2015 10:40:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2462","time":"Friday, March 20, 2015 10:40:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-91","frequency":"2462","time":"Friday, March 20, 2015 10:40:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-92","frequency":"2437","time":"Friday, March 20, 2015 10:40:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-76","frequency":"2437","time":"Friday, March 20, 2015 10:40:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-94","frequency":"2437","time":"Friday, March 20, 2015 10:40:44 AM Pacific Daylight Time"}}
+{"Application":{"ProcessName":"com.android.vending","Start":"3-20-2015 10:37:10","End":"3-20-2015 10:40:47"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-48","frequency":"2437","time":"Friday, March 20, 2015 10:41:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-76","frequency":"2412","time":"Friday, March 20, 2015 10:41:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 10:41:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-85","frequency":"2437","time":"Friday, March 20, 2015 10:41:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-69","frequency":"2437","time":"Friday, March 20, 2015 10:41:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2452","time":"Friday, March 20, 2015 10:41:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-71","frequency":"2437","time":"Friday, March 20, 2015 10:41:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2462","time":"Friday, March 20, 2015 10:41:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-48","frequency":"2437","time":"Friday, March 20, 2015 10:41:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-76","frequency":"2412","time":"Friday, March 20, 2015 10:41:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 10:41:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-85","frequency":"2437","time":"Friday, March 20, 2015 10:41:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-69","frequency":"2437","time":"Friday, March 20, 2015 10:41:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2452","time":"Friday, March 20, 2015 10:41:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-71","frequency":"2437","time":"Friday, March 20, 2015 10:41:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2462","time":"Friday, March 20, 2015 10:41:44 AM Pacific Daylight Time"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 10:36:50","End":"3-20-2015 10:41:52"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 10:36:50","End":"3-20-2015 10:41:52"}}
+{"Application":{"ProcessName":"com.rovio.gold","Start":"3-20-2015 10:37:00","End":"3-20-2015 10:42:02"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"3-20-2015 10:42:31","End":"3-20-2015 10:42:37"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2452","time":"Friday, March 20, 2015 10:42:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2452","time":"Friday, March 20, 2015 10:42:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-79","frequency":"2457","time":"Friday, March 20, 2015 10:43:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-44","frequency":"2437","time":"Friday, March 20, 2015 10:43:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-71","frequency":"2437","time":"Friday, March 20, 2015 10:43:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-77","frequency":"2412","time":"Friday, March 20, 2015 10:43:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-88","frequency":"2462","time":"Friday, March 20, 2015 10:43:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-71","frequency":"2437","time":"Friday, March 20, 2015 10:43:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-83","frequency":"2462","time":"Friday, March 20, 2015 10:43:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-89","frequency":"2462","time":"Friday, March 20, 2015 10:43:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-84","frequency":"2437","time":"Friday, March 20, 2015 10:43:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-79","frequency":"2457","time":"Friday, March 20, 2015 10:43:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-44","frequency":"2437","time":"Friday, March 20, 2015 10:43:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-71","frequency":"2437","time":"Friday, March 20, 2015 10:43:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-77","frequency":"2412","time":"Friday, March 20, 2015 10:43:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-88","frequency":"2462","time":"Friday, March 20, 2015 10:43:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-71","frequency":"2437","time":"Friday, March 20, 2015 10:43:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-83","frequency":"2462","time":"Friday, March 20, 2015 10:43:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-89","frequency":"2462","time":"Friday, March 20, 2015 10:43:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-84","frequency":"2437","time":"Friday, March 20, 2015 10:43:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-79","frequency":"2457","time":"Friday, March 20, 2015 10:44:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-45","frequency":"2437","time":"Friday, March 20, 2015 10:44:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-71","frequency":"2437","time":"Friday, March 20, 2015 10:44:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-83","frequency":"2412","time":"Friday, March 20, 2015 10:44:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-88","frequency":"2462","time":"Friday, March 20, 2015 10:44:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-70","frequency":"2437","time":"Friday, March 20, 2015 10:44:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-85","frequency":"2462","time":"Friday, March 20, 2015 10:44:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-93","frequency":"2462","time":"Friday, March 20, 2015 10:44:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-86","frequency":"2437","time":"Friday, March 20, 2015 10:44:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Mei","BSSID":"f8:35:dd:bc:8c:a1","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2412","time":"Friday, March 20, 2015 10:44:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"linksys_EXT","BSSID":"84:1b:5e:c9:33:78","capabilities":"[WPS][ESS]","level":"-88","frequency":"2437","time":"Friday, March 20, 2015 10:44:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-79","frequency":"2457","time":"Friday, March 20, 2015 10:44:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-44","frequency":"2437","time":"Friday, March 20, 2015 10:44:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-71","frequency":"2437","time":"Friday, March 20, 2015 10:44:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-83","frequency":"2412","time":"Friday, March 20, 2015 10:44:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-88","frequency":"2462","time":"Friday, March 20, 2015 10:44:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-70","frequency":"2437","time":"Friday, March 20, 2015 10:44:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-85","frequency":"2462","time":"Friday, March 20, 2015 10:44:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-93","frequency":"2462","time":"Friday, March 20, 2015 10:44:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-86","frequency":"2437","time":"Friday, March 20, 2015 10:44:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Mei","BSSID":"f8:35:dd:bc:8c:a1","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2412","time":"Friday, March 20, 2015 10:44:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"linksys_EXT","BSSID":"84:1b:5e:c9:33:78","capabilities":"[WPS][ESS]","level":"-88","frequency":"2437","time":"Friday, March 20, 2015 10:44:43 AM Pacific Daylight Time"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"3-20-2015 10:45:27","End":"3-20-2015 10:45:32"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-44","frequency":"2437","time":"Friday, March 20, 2015 10:46:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2457","time":"Friday, March 20, 2015 10:46:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-79","frequency":"2412","time":"Friday, March 20, 2015 10:46:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 10:46:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-85","frequency":"2462","time":"Friday, March 20, 2015 10:46:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-68","frequency":"2437","time":"Friday, March 20, 2015 10:46:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-68","frequency":"2437","time":"Friday, March 20, 2015 10:46:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Mei","BSSID":"f8:35:dd:bc:8c:a1","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-89","frequency":"2412","time":"Friday, March 20, 2015 10:46:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-84","frequency":"2437","time":"Friday, March 20, 2015 10:46:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-44","frequency":"2437","time":"Friday, March 20, 2015 10:46:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2457","time":"Friday, March 20, 2015 10:46:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-79","frequency":"2412","time":"Friday, March 20, 2015 10:46:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 10:46:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-85","frequency":"2462","time":"Friday, March 20, 2015 10:46:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-68","frequency":"2437","time":"Friday, March 20, 2015 10:46:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-68","frequency":"2437","time":"Friday, March 20, 2015 10:46:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Mei","BSSID":"f8:35:dd:bc:8c:a1","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-89","frequency":"2412","time":"Friday, March 20, 2015 10:46:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-84","frequency":"2437","time":"Friday, March 20, 2015 10:46:43 AM Pacific Daylight Time"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 10:41:52","End":"3-20-2015 10:46:52"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 10:41:52","End":"3-20-2015 10:46:52"}}
+{"Application":{"ProcessName":"com.rovio.gold","Start":"3-20-2015 10:42:02","End":"3-20-2015 10:47:02"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2462","time":"Friday, March 20, 2015 10:47:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-44","frequency":"2437","time":"Friday, March 20, 2015 10:47:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-75","frequency":"2437","time":"Friday, March 20, 2015 10:47:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-82","frequency":"2457","time":"Friday, March 20, 2015 10:47:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-83","frequency":"2412","time":"Friday, March 20, 2015 10:47:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-88","frequency":"2462","time":"Friday, March 20, 2015 10:47:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BX4QN","BSSID":"f8:e4:fb:c9:bd:a3","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-93","frequency":"2462","time":"Friday, March 20, 2015 10:47:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-74","frequency":"2437","time":"Friday, March 20, 2015 10:47:42 AM Pacific Daylight Time"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"3-20-2015 10:47:33","End":"3-20-2015 10:47:43"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2462","time":"Friday, March 20, 2015 10:47:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-45","frequency":"2437","time":"Friday, March 20, 2015 10:47:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-75","frequency":"2437","time":"Friday, March 20, 2015 10:47:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-82","frequency":"2457","time":"Friday, March 20, 2015 10:47:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-84","frequency":"2412","time":"Friday, March 20, 2015 10:47:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-88","frequency":"2462","time":"Friday, March 20, 2015 10:47:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BX4QN","BSSID":"f8:e4:fb:c9:bd:a3","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-93","frequency":"2462","time":"Friday, March 20, 2015 10:47:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-74","frequency":"2437","time":"Friday, March 20, 2015 10:47:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-85","frequency":"2437","time":"Friday, March 20, 2015 10:47:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-70","frequency":"2437","time":"Friday, March 20, 2015 10:49:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-44","frequency":"2437","time":"Friday, March 20, 2015 10:49:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-81","frequency":"2412","time":"Friday, March 20, 2015 10:49:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-83","frequency":"2457","time":"Friday, March 20, 2015 10:49:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-89","frequency":"2462","time":"Friday, March 20, 2015 10:49:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-93","frequency":"2462","time":"Friday, March 20, 2015 10:49:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BX4QN","BSSID":"f8:e4:fb:c9:bd:a3","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-89","frequency":"2462","time":"Friday, March 20, 2015 10:49:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-70","frequency":"2437","time":"Friday, March 20, 2015 10:49:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-44","frequency":"2437","time":"Friday, March 20, 2015 10:49:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-81","frequency":"2412","time":"Friday, March 20, 2015 10:49:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-83","frequency":"2457","time":"Friday, March 20, 2015 10:49:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-89","frequency":"2462","time":"Friday, March 20, 2015 10:49:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-93","frequency":"2462","time":"Friday, March 20, 2015 10:49:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BX4QN","BSSID":"f8:e4:fb:c9:bd:a3","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-89","frequency":"2462","time":"Friday, March 20, 2015 10:49:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-67","frequency":"2437","time":"Friday, March 20, 2015 10:50:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-44","frequency":"2437","time":"Friday, March 20, 2015 10:50:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2412","time":"Friday, March 20, 2015 10:50:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-78","frequency":"2457","time":"Friday, March 20, 2015 10:50:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-91","frequency":"2462","time":"Friday, March 20, 2015 10:50:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-67","frequency":"2437","time":"Friday, March 20, 2015 10:50:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2437","time":"Friday, March 20, 2015 10:50:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-89","frequency":"2462","time":"Friday, March 20, 2015 10:50:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-88","frequency":"2462","time":"Friday, March 20, 2015 10:50:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"linksys_EXT","BSSID":"84:1b:5e:c9:33:78","capabilities":"[WPS][ESS]","level":"-91","frequency":"2437","time":"Friday, March 20, 2015 10:50:42 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-67","frequency":"2437","time":"Friday, March 20, 2015 10:50:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-44","frequency":"2437","time":"Friday, March 20, 2015 10:50:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2412","time":"Friday, March 20, 2015 10:50:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-78","frequency":"2457","time":"Friday, March 20, 2015 10:50:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-91","frequency":"2462","time":"Friday, March 20, 2015 10:50:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-67","frequency":"2437","time":"Friday, March 20, 2015 10:50:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2437","time":"Friday, March 20, 2015 10:50:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-89","frequency":"2462","time":"Friday, March 20, 2015 10:50:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-88","frequency":"2462","time":"Friday, March 20, 2015 10:50:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"linksys_EXT","BSSID":"84:1b:5e:c9:33:78","capabilities":"[WPS][ESS]","level":"-91","frequency":"2437","time":"Friday, March 20, 2015 10:50:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-42","frequency":"2437","time":"Friday, March 20, 2015 10:51:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-72","frequency":"2437","time":"Friday, March 20, 2015 10:51:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-77","frequency":"2457","time":"Friday, March 20, 2015 10:51:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-73","frequency":"2437","time":"Friday, March 20, 2015 10:51:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-83","frequency":"2412","time":"Friday, March 20, 2015 10:51:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-86","frequency":"2437","time":"Friday, March 20, 2015 10:51:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2462","time":"Friday, March 20, 2015 10:51:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-90","frequency":"2462","time":"Friday, March 20, 2015 10:51:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-42","frequency":"2437","time":"Friday, March 20, 2015 10:51:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-72","frequency":"2437","time":"Friday, March 20, 2015 10:51:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-77","frequency":"2457","time":"Friday, March 20, 2015 10:51:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-73","frequency":"2437","time":"Friday, March 20, 2015 10:51:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-83","frequency":"2412","time":"Friday, March 20, 2015 10:51:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-86","frequency":"2437","time":"Friday, March 20, 2015 10:51:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2462","time":"Friday, March 20, 2015 10:51:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-90","frequency":"2462","time":"Friday, March 20, 2015 10:51:44 AM Pacific Daylight Time"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 10:46:52","End":"3-20-2015 10:51:55"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 10:46:52","End":"3-20-2015 10:51:55"}}
+{"Application":{"ProcessName":"com.rovio.gold","Start":"3-20-2015 10:47:02","End":"3-20-2015 10:52:05"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-44","frequency":"2437","time":"Friday, March 20, 2015 10:52:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-69","frequency":"2437","time":"Friday, March 20, 2015 10:52:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2457","time":"Friday, March 20, 2015 10:52:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-69","frequency":"2437","time":"Friday, March 20, 2015 10:52:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-77","frequency":"2412","time":"Friday, March 20, 2015 10:52:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-89","frequency":"2437","time":"Friday, March 20, 2015 10:52:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-88","frequency":"2462","time":"Friday, March 20, 2015 10:52:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 10:52:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 10:52:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-91","frequency":"2437","time":"Friday, March 20, 2015 10:52:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-42","frequency":"2437","time":"Friday, March 20, 2015 10:52:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-69","frequency":"2437","time":"Friday, March 20, 2015 10:52:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2457","time":"Friday, March 20, 2015 10:52:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-69","frequency":"2437","time":"Friday, March 20, 2015 10:52:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-77","frequency":"2412","time":"Friday, March 20, 2015 10:52:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-89","frequency":"2437","time":"Friday, March 20, 2015 10:52:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-88","frequency":"2462","time":"Friday, March 20, 2015 10:52:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 10:52:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 10:52:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-91","frequency":"2437","time":"Friday, March 20, 2015 10:52:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-64","frequency":"2437","time":"Friday, March 20, 2015 10:53:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-81","frequency":"2437","time":"Friday, March 20, 2015 10:53:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-67","frequency":"2457","time":"Friday, March 20, 2015 10:53:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-82","frequency":"2437","time":"Friday, March 20, 2015 10:53:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2412","time":"Friday, March 20, 2015 10:53:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2437","time":"Friday, March 20, 2015 10:53:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-88","frequency":"2462","time":"Friday, March 20, 2015 10:53:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 10:53:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-81","frequency":"2437","time":"Friday, March 20, 2015 10:53:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12-5G","BSSID":"e4:f4:c6:0a:55:b8","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-81","frequency":"5765","time":"Friday, March 20, 2015 10:53:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Z9CGN","BSSID":"18:1b:eb:c6:d8:67","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-81","frequency":"2412","time":"Friday, March 20, 2015 10:53:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-90","frequency":"2437","time":"Friday, March 20, 2015 10:53:43 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-64","frequency":"2437","time":"Friday, March 20, 2015 10:53:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-81","frequency":"2437","time":"Friday, March 20, 2015 10:53:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-67","frequency":"2457","time":"Friday, March 20, 2015 10:53:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-82","frequency":"2437","time":"Friday, March 20, 2015 10:53:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2412","time":"Friday, March 20, 2015 10:53:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2437","time":"Friday, March 20, 2015 10:53:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-88","frequency":"2462","time":"Friday, March 20, 2015 10:53:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 10:53:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-81","frequency":"2437","time":"Friday, March 20, 2015 10:53:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12-5G","BSSID":"e4:f4:c6:0a:55:b8","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-81","frequency":"5765","time":"Friday, March 20, 2015 10:53:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Z9CGN","BSSID":"18:1b:eb:c6:d8:67","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-81","frequency":"2412","time":"Friday, March 20, 2015 10:53:44 AM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-90","frequency":"2437","time":"Friday, March 20, 2015 10:53:44 AM Pacific Daylight Time"}}
+{"Application":{"ProcessName":"com.rovio.gold","Start":"3-20-2015 10:52:05","End":"3-20-2015 10:53:50"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 10:51:55","End":"3-20-2015 10:53:55"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 10:51:55","End":"3-20-2015 10:53:55"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-20-2015 10:53:50","End":"3-20-2015 10:53:55"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 10:55:07","End":"3-20-2015 10:55:18"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 10:55:07","End":"3-20-2015 10:55:18"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-20-2015 10:55:07","End":"3-20-2015 10:55:18"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 10:56:22","End":"3-20-2015 10:56:39"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 10:56:22","End":"3-20-2015 10:56:39"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-20-2015 10:56:22","End":"3-20-2015 10:56:39"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 10:58:47","End":"3-20-2015 10:59:34"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 10:58:47","End":"3-20-2015 10:59:34"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-20-2015 10:58:47","End":"3-20-2015 10:59:34"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 11:00:03","End":"3-20-2015 11:01:05"}}
+{"Application":{"ProcessName":"com.google.android.dialer","Start":"3-20-2015 11:00:03","End":"3-20-2015 11:01:05"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 11:00:03","End":"3-20-2015 11:01:05"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-20-2015 11:00:03","End":"3-20-2015 11:01:05"}}
+{"Call": {"Number":"16503087715","Duration":"2799","Time":"3-20-2015 10:59:59","Type":"1", "metadata":{"name":""}}}
+{"Call": {"Number":"16503087715","Duration":"2799","Time":"3-20-2015 10:59:59","Type":"1", "metadata":{"name":""}}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 11:46:45","End":"3-20-2015 11:48:15"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 11:46:45","End":"3-20-2015 11:48:15"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-20-2015 11:46:45","End":"3-20-2015 11:48:15"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 11:49:28","End":"3-20-2015 11:49:38"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 11:49:28","End":"3-20-2015 11:49:38"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-20-2015 11:49:28","End":"3-20-2015 11:49:38"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 11:50:47","End":"3-20-2015 11:51:05"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 11:50:47","End":"3-20-2015 11:51:05"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-20-2015 11:50:47","End":"3-20-2015 11:51:05"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-20-2015 11:56:35","End":"3-20-2015 11:56:41"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 11:56:35","End":"3-20-2015 11:57:05"}}
+{"Application":{"ProcessName":"com.skype.raider","Start":"3-20-2015 11:56:41","End":"3-20-2015 11:57:05"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 11:56:35","End":"3-20-2015 11:57:05"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 12:00:51","End":"3-20-2015 12:01:52"}}
+{"Application":{"ProcessName":"com.skype.raider","Start":"3-20-2015 12:00:51","End":"3-20-2015 12:01:52"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 12:00:51","End":"3-20-2015 12:01:52"}}
+{"Application":{"ProcessName":"com.skype.raider","Start":"3-20-2015 12:02:13","End":"3-20-2015 12:02:19"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-49","frequency":"2437","time":"Friday, March 20, 2015 12:02:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-73","frequency":"2412","time":"Friday, March 20, 2015 12:02:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-79","frequency":"2452","time":"Friday, March 20, 2015 12:02:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-84","frequency":"2462","time":"Friday, March 20, 2015 12:02:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2462","time":"Friday, March 20, 2015 12:02:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-65","frequency":"2437","time":"Friday, March 20, 2015 12:02:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-91","frequency":"2437","time":"Friday, March 20, 2015 12:02:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-65","frequency":"2437","time":"Friday, March 20, 2015 12:02:40 PM Pacific Daylight Time"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-20-2015 12:02:13","End":"3-20-2015 12:02:41"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-43","frequency":"2437","time":"Friday, March 20, 2015 12:02:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-75","frequency":"2412","time":"Friday, March 20, 2015 12:02:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-78","frequency":"2452","time":"Friday, March 20, 2015 12:02:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-88","frequency":"2462","time":"Friday, March 20, 2015 12:02:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2462","time":"Friday, March 20, 2015 12:02:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-62","frequency":"2437","time":"Friday, March 20, 2015 12:02:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-65","frequency":"2437","time":"Friday, March 20, 2015 12:02:42 PM Pacific Daylight Time"}}
+{"Application":{"ProcessName":"com.google.android.gms:car","Start":"3-20-2015 12:02:51","End":"3-20-2015 12:02:57"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-59","frequency":"2437","time":"Friday, March 20, 2015 12:03:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-73","frequency":"2412","time":"Friday, March 20, 2015 12:03:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-79","frequency":"2452","time":"Friday, March 20, 2015 12:03:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-82","frequency":"2462","time":"Friday, March 20, 2015 12:03:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-66","frequency":"2437","time":"Friday, March 20, 2015 12:03:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-62","frequency":"2437","time":"Friday, March 20, 2015 12:03:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-77","frequency":"2412","time":"Friday, March 20, 2015 12:03:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-79","frequency":"2452","time":"Friday, March 20, 2015 12:03:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-84","frequency":"2462","time":"Friday, March 20, 2015 12:03:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-67","frequency":"2437","time":"Friday, March 20, 2015 12:03:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-67","frequency":"2437","time":"Friday, March 20, 2015 12:03:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Mei","BSSID":"f8:35:dd:bc:8c:a1","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-89","frequency":"2412","time":"Friday, March 20, 2015 12:03:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-89","frequency":"2462","time":"Friday, March 20, 2015 12:03:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-60","frequency":"2437","time":"Friday, March 20, 2015 12:04:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2412","time":"Friday, March 20, 2015 12:04:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-83","frequency":"2452","time":"Friday, March 20, 2015 12:04:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-88","frequency":"2462","time":"Friday, March 20, 2015 12:04:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-68","frequency":"2437","time":"Friday, March 20, 2015 12:04:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-67","frequency":"2437","time":"Friday, March 20, 2015 12:04:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Mei","BSSID":"f8:35:dd:bc:8c:a1","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-89","frequency":"2412","time":"Friday, March 20, 2015 12:04:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-89","frequency":"2462","time":"Friday, March 20, 2015 12:04:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-90","frequency":"2462","time":"Friday, March 20, 2015 12:04:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-90","frequency":"2437","time":"Friday, March 20, 2015 12:04:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-93","frequency":"2437","time":"Friday, March 20, 2015 12:04:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-57","frequency":"2437","time":"Friday, March 20, 2015 12:04:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2412","time":"Friday, March 20, 2015 12:04:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-88","frequency":"2452","time":"Friday, March 20, 2015 12:04:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2462","time":"Friday, March 20, 2015 12:04:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-67","frequency":"2437","time":"Friday, March 20, 2015 12:04:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-68","frequency":"2437","time":"Friday, March 20, 2015 12:04:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 12:04:42 PM Pacific Daylight Time"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"3-20-2015 12:05:47","End":"3-20-2015 12:05:51"}}
+{"Application":{"ProcessName":"com.android.vending","Start":"3-20-2015 12:02:51","End":"3-20-2015 12:05:57"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-56","frequency":"2437","time":"Friday, March 20, 2015 12:06:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-81","frequency":"2412","time":"Friday, March 20, 2015 12:06:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 12:06:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2437","time":"Friday, March 20, 2015 12:06:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-77","frequency":"2452","time":"Friday, March 20, 2015 12:06:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-89","frequency":"2462","time":"Friday, March 20, 2015 12:06:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-76","frequency":"2437","time":"Friday, March 20, 2015 12:06:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-75","frequency":"2437","time":"Friday, March 20, 2015 12:06:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-56","frequency":"2437","time":"Friday, March 20, 2015 12:06:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-81","frequency":"2412","time":"Friday, March 20, 2015 12:06:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 12:06:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2437","time":"Friday, March 20, 2015 12:06:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-77","frequency":"2452","time":"Friday, March 20, 2015 12:06:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-89","frequency":"2462","time":"Friday, March 20, 2015 12:06:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-76","frequency":"2437","time":"Friday, March 20, 2015 12:06:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-75","frequency":"2437","time":"Friday, March 20, 2015 12:06:42 PM Pacific Daylight Time"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 12:02:13","End":"3-20-2015 12:07:17"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 12:02:13","End":"3-20-2015 12:07:17"}}
+{"Application":{"ProcessName":"com.rovio.gold","Start":"3-20-2015 12:02:41","End":"3-20-2015 12:07:41"}}
+{"Application":{"ProcessName":"com.google.android.gms.unstable","Start":"3-20-2015 12:07:52","End":"3-20-2015 12:07:58"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"3-20-2015 12:07:52","End":"3-20-2015 12:08:02"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-55","frequency":"2437","time":"Friday, March 20, 2015 12:08:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-77","frequency":"2412","time":"Friday, March 20, 2015 12:08:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-88","frequency":"2462","time":"Friday, March 20, 2015 12:08:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-75","frequency":"2437","time":"Friday, March 20, 2015 12:08:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-90","frequency":"2437","time":"Friday, March 20, 2015 12:08:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2437","time":"Friday, March 20, 2015 12:08:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-88","frequency":"2462","time":"Friday, March 20, 2015 12:08:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 12:08:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2452","time":"Friday, March 20, 2015 12:08:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-55","frequency":"2437","time":"Friday, March 20, 2015 12:08:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-77","frequency":"2412","time":"Friday, March 20, 2015 12:08:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-88","frequency":"2462","time":"Friday, March 20, 2015 12:08:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-75","frequency":"2437","time":"Friday, March 20, 2015 12:08:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-90","frequency":"2437","time":"Friday, March 20, 2015 12:08:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2437","time":"Friday, March 20, 2015 12:08:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-88","frequency":"2462","time":"Friday, March 20, 2015 12:08:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 12:08:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2452","time":"Friday, March 20, 2015 12:08:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-59","frequency":"2437","time":"Friday, March 20, 2015 12:10:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2412","time":"Friday, March 20, 2015 12:10:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-69","frequency":"2437","time":"Friday, March 20, 2015 12:10:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 12:10:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2452","time":"Friday, March 20, 2015 12:10:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-68","frequency":"2437","time":"Friday, March 20, 2015 12:10:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-91","frequency":"2462","time":"Friday, March 20, 2015 12:10:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-88","frequency":"2437","time":"Friday, March 20, 2015 12:10:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-59","frequency":"2437","time":"Friday, March 20, 2015 12:10:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2412","time":"Friday, March 20, 2015 12:10:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-69","frequency":"2437","time":"Friday, March 20, 2015 12:10:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2462","time":"Friday, March 20, 2015 12:10:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2452","time":"Friday, March 20, 2015 12:10:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-68","frequency":"2437","time":"Friday, March 20, 2015 12:10:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-91","frequency":"2462","time":"Friday, March 20, 2015 12:10:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-88","frequency":"2437","time":"Friday, March 20, 2015 12:10:43 PM Pacific Daylight Time"}}
+{"Application":{"ProcessName":"com.rovio.gold","Start":"3-20-2015 12:07:41","End":"3-20-2015 12:12:03"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 12:07:17","End":"3-20-2015 12:12:19"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"3-20-2015 12:12:13","End":"3-20-2015 12:12:19"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 12:07:17","End":"3-20-2015 12:12:19"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"3-20-2015 12:12:19","End":"3-20-2015 12:12:23"}}
+{"Application":{"ProcessName":"com.google.android.gms:car","Start":"3-20-2015 12:12:33","End":"3-20-2015 12:12:39"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-54","frequency":"2437","time":"Friday, March 20, 2015 12:12:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-74","frequency":"2437","time":"Friday, March 20, 2015 12:12:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Friday, March 20, 2015 12:12:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-77","frequency":"2412","time":"Friday, March 20, 2015 12:12:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-88","frequency":"2452","time":"Friday, March 20, 2015 12:12:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-90","frequency":"2437","time":"Friday, March 20, 2015 12:12:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-55","frequency":"2437","time":"Friday, March 20, 2015 12:12:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-74","frequency":"2437","time":"Friday, March 20, 2015 12:12:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Friday, March 20, 2015 12:12:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-77","frequency":"2412","time":"Friday, March 20, 2015 12:12:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-88","frequency":"2452","time":"Friday, March 20, 2015 12:12:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-90","frequency":"2437","time":"Friday, March 20, 2015 12:12:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-52","frequency":"2437","time":"Friday, March 20, 2015 12:13:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-75","frequency":"2437","time":"Friday, March 20, 2015 12:13:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-77","frequency":"2412","time":"Friday, March 20, 2015 12:13:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2452","time":"Friday, March 20, 2015 12:13:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-88","frequency":"2462","time":"Friday, March 20, 2015 12:13:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-90","frequency":"2437","time":"Friday, March 20, 2015 12:13:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-90","frequency":"2462","time":"Friday, March 20, 2015 12:13:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-88","frequency":"2462","time":"Friday, March 20, 2015 12:13:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-72","frequency":"2437","time":"Friday, March 20, 2015 12:13:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-52","frequency":"2437","time":"Friday, March 20, 2015 12:13:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-75","frequency":"2437","time":"Friday, March 20, 2015 12:13:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-77","frequency":"2412","time":"Friday, March 20, 2015 12:13:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2452","time":"Friday, March 20, 2015 12:13:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-88","frequency":"2462","time":"Friday, March 20, 2015 12:13:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-90","frequency":"2437","time":"Friday, March 20, 2015 12:13:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-90","frequency":"2462","time":"Friday, March 20, 2015 12:13:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-88","frequency":"2462","time":"Friday, March 20, 2015 12:13:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-72","frequency":"2437","time":"Friday, March 20, 2015 12:13:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-55","frequency":"2437","time":"Friday, March 20, 2015 12:14:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-73","frequency":"2437","time":"Friday, March 20, 2015 12:14:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-81","frequency":"2412","time":"Friday, March 20, 2015 12:14:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-82","frequency":"2452","time":"Friday, March 20, 2015 12:14:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-82","frequency":"2462","time":"Friday, March 20, 2015 12:14:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2462","time":"Friday, March 20, 2015 12:14:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-73","frequency":"2437","time":"Friday, March 20, 2015 12:14:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"moxica","BSSID":"e8:ed:05:57:f0:10","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2412","time":"Friday, March 20, 2015 12:14:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2437","time":"Friday, March 20, 2015 12:14:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Mei","BSSID":"f8:35:dd:bc:8c:a1","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-91","frequency":"2412","time":"Friday, March 20, 2015 12:14:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-53","frequency":"2437","time":"Friday, March 20, 2015 12:14:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-73","frequency":"2437","time":"Friday, March 20, 2015 12:14:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-81","frequency":"2412","time":"Friday, March 20, 2015 12:14:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-82","frequency":"2452","time":"Friday, March 20, 2015 12:14:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-82","frequency":"2462","time":"Friday, March 20, 2015 12:14:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2462","time":"Friday, March 20, 2015 12:14:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-73","frequency":"2437","time":"Friday, March 20, 2015 12:14:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"moxica","BSSID":"e8:ed:05:57:f0:10","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2412","time":"Friday, March 20, 2015 12:14:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2437","time":"Friday, March 20, 2015 12:14:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Mei","BSSID":"f8:35:dd:bc:8c:a1","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-91","frequency":"2412","time":"Friday, March 20, 2015 12:14:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-52","frequency":"2437","time":"Friday, March 20, 2015 12:15:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-72","frequency":"2437","time":"Friday, March 20, 2015 12:15:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-75","frequency":"2412","time":"Friday, March 20, 2015 12:15:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-84","frequency":"2452","time":"Friday, March 20, 2015 12:15:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-85","frequency":"2462","time":"Friday, March 20, 2015 12:15:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-71","frequency":"2437","time":"Friday, March 20, 2015 12:15:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Mei","BSSID":"f8:35:dd:bc:8c:a1","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-89","frequency":"2412","time":"Friday, March 20, 2015 12:15:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2437","time":"Friday, March 20, 2015 12:15:42 PM Pacific Daylight Time"}}
+{"Application":{"ProcessName":"com.android.vending","Start":"3-20-2015 12:12:33","End":"3-20-2015 12:15:59"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"3-20-2015 12:15:50","End":"3-20-2015 12:15:59"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-50","frequency":"2437","time":"Friday, March 20, 2015 12:16:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-71","frequency":"2437","time":"Friday, March 20, 2015 12:16:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-79","frequency":"2452","time":"Friday, March 20, 2015 12:16:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-78","frequency":"2412","time":"Friday, March 20, 2015 12:16:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-83","frequency":"2462","time":"Friday, March 20, 2015 12:16:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2462","time":"Friday, March 20, 2015 12:16:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"moxica","BSSID":"e8:ed:05:57:f0:10","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2412","time":"Friday, March 20, 2015 12:16:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-71","frequency":"2437","time":"Friday, March 20, 2015 12:16:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-90","frequency":"2462","time":"Friday, March 20, 2015 12:16:41 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-51","frequency":"2437","time":"Friday, March 20, 2015 12:16:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-71","frequency":"2437","time":"Friday, March 20, 2015 12:16:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-79","frequency":"2452","time":"Friday, March 20, 2015 12:16:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-78","frequency":"2412","time":"Friday, March 20, 2015 12:16:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-83","frequency":"2462","time":"Friday, March 20, 2015 12:16:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2462","time":"Friday, March 20, 2015 12:16:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"moxica","BSSID":"e8:ed:05:57:f0:10","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2412","time":"Friday, March 20, 2015 12:16:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-71","frequency":"2437","time":"Friday, March 20, 2015 12:16:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-90","frequency":"2462","time":"Friday, March 20, 2015 12:16:42 PM Pacific Daylight Time"}}
+{"Application":{"ProcessName":"com.rovio.gold","Start":"3-20-2015 12:12:09","End":"3-20-2015 12:17:10"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"3-20-2015 12:12:19","End":"3-20-2015 12:17:20"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"3-20-2015 12:12:19","End":"3-20-2015 12:17:20"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-54","frequency":"2437","time":"Friday, March 20, 2015 12:18:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-75","frequency":"2412","time":"Friday, March 20, 2015 12:18:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-70","frequency":"2437","time":"Friday, March 20, 2015 12:18:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-83","frequency":"2452","time":"Friday, March 20, 2015 12:18:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-85","frequency":"2462","time":"Friday, March 20, 2015 12:18:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-74","frequency":"2437","time":"Friday, March 20, 2015 12:18:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-88","frequency":"2437","time":"Friday, March 20, 2015 12:18:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-86","frequency":"2437","time":"Friday, March 20, 2015 12:18:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-91","frequency":"2462","time":"Friday, March 20, 2015 12:18:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-54","frequency":"2437","time":"Friday, March 20, 2015 12:18:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-75","frequency":"2412","time":"Friday, March 20, 2015 12:18:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-70","frequency":"2437","time":"Friday, March 20, 2015 12:18:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-83","frequency":"2452","time":"Friday, March 20, 2015 12:18:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-85","frequency":"2462","time":"Friday, March 20, 2015 12:18:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-74","frequency":"2437","time":"Friday, March 20, 2015 12:18:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-88","frequency":"2437","time":"Friday, March 20, 2015 12:18:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-86","frequency":"2437","time":"Friday, March 20, 2015 12:18:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-91","frequency":"2462","time":"Friday, March 20, 2015 12:18:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-52","frequency":"2437","time":"Friday, March 20, 2015 12:19:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-73","frequency":"2412","time":"Friday, March 20, 2015 12:19:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-71","frequency":"2437","time":"Friday, March 20, 2015 12:19:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-83","frequency":"2452","time":"Friday, March 20, 2015 12:19:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-85","frequency":"2462","time":"Friday, March 20, 2015 12:19:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-71","frequency":"2437","time":"Friday, March 20, 2015 12:19:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-88","frequency":"2437","time":"Friday, March 20, 2015 12:19:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-52","frequency":"2437","time":"Friday, March 20, 2015 12:19:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-73","frequency":"2412","time":"Friday, March 20, 2015 12:19:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-71","frequency":"2437","time":"Friday, March 20, 2015 12:19:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-83","frequency":"2452","time":"Friday, March 20, 2015 12:19:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-85","frequency":"2462","time":"Friday, March 20, 2015 12:19:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-71","frequency":"2437","time":"Friday, March 20, 2015 12:19:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-88","frequency":"2437","time":"Friday, March 20, 2015 12:19:43 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-51","frequency":"2437","time":"Friday, March 20, 2015 12:20:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-74","frequency":"2412","time":"Friday, March 20, 2015 12:20:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2452","time":"Friday, March 20, 2015 12:20:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-78","frequency":"2437","time":"Friday, March 20, 2015 12:20:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-51","frequency":"2437","time":"Friday, March 20, 2015 12:20:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-74","frequency":"2412","time":"Friday, March 20, 2015 12:20:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-81","frequency":"2437","time":"Friday, March 20, 2015 12:20:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-83","frequency":"2437","time":"Friday, March 20, 2015 12:20:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-91","frequency":"2462","time":"Friday, March 20, 2015 12:20:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-51","frequency":"2437","time":"Friday, March 20, 2015 12:21:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-83","frequency":"2412","time":"Friday, March 20, 2015 12:21:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-85","frequency":"2437","time":"Friday, March 20, 2015 12:21:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-78","frequency":"2437","time":"Friday, March 20, 2015 12:21:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-91","frequency":"2462","time":"Friday, March 20, 2015 12:21:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"linksys_EXT","BSSID":"84:1b:5e:c9:33:78","capabilities":"[WPS][ESS]","level":"-90","frequency":"2437","time":"Friday, March 20, 2015 12:21:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-82","frequency":"2452","time":"Friday, March 20, 2015 12:21:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2462","time":"Friday, March 20, 2015 12:21:40 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-52","frequency":"2437","time":"Friday, March 20, 2015 12:21:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-83","frequency":"2412","time":"Friday, March 20, 2015 12:21:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-83","frequency":"2437","time":"Friday, March 20, 2015 12:21:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-83","frequency":"2437","time":"Friday, March 20, 2015 12:21:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"OFFICE","BSSID":"00:7f:28:80:79:21","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-91","frequency":"2462","time":"Friday, March 20, 2015 12:21:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-82","frequency":"2452","time":"Friday, March 20, 2015 12:21:42 PM Pacific Daylight Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2462","time":"Friday, March 20, 2015 12:21:42 PM Pacific Daylight Time"}}
+{"Location":{"Latitude":"34.1423446","Longtitude":"-117.9923476","Altitude":"0.0","time":"3-20-2015 12:22:34","Accuracy":"24.326","Provider":"fused","Speed":"0.0"}}

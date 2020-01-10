@@ -1,0 +1,544 @@
+{"Call": {"Number":"+98913112####","Duration":"0","Time":"11-10-2013 23:51:01","Type":"2"}}
+{"Call": {"Number":"+98913112####","Duration":"0","Time":"11-10-2013 23:51:01","Type":"2"}}
+{"Application":{"ProcessName":"com.sonyericsson.conversations","Start":"11-10-2013 23:51:39","End":"11-10-2013 23:51:49"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-10-2013 23:50:59","End":"11-10-2013 23:59:39"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-10-2013 23:50:59","End":"11-10-2013 23:59:39"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-10-2013 23:50:28","End":"11-10-2013 23:59:39"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 00:06:23","End":"11-11-2013 00:11:25"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 00:06:23","End":"11-11-2013 00:11:25"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 00:06:23","End":"11-11-2013 00:11:25"}}
+{"Application":{"ProcessName":"me.pou.app","Start":"11-11-2013 00:06:23","End":"11-11-2013 00:11:25"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 00:11:25","End":"11-11-2013 00:16:26"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 00:11:25","End":"11-11-2013 00:16:26"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 00:11:25","End":"11-11-2013 00:16:26"}}
+{"Application":{"ProcessName":"me.pou.app","Start":"11-11-2013 00:11:25","End":"11-11-2013 00:16:26"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 00:16:26","End":"11-11-2013 00:21:29"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 00:16:26","End":"11-11-2013 00:21:29"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 00:16:26","End":"11-11-2013 00:21:29"}}
+{"Application":{"ProcessName":"me.pou.app","Start":"11-11-2013 00:16:26","End":"11-11-2013 00:21:29"}}
+{"Application":{"ProcessName":"me.pou.app","Start":"11-11-2013 00:21:29","End":"11-11-2013 00:24:54"}}
+{"Call": {"Number":"0933502####","Duration":"0","Time":"11-11-2013 00:24:58","Type":"2"}}
+{"Call": {"Number":"0933502####","Duration":"0","Time":"11-11-2013 00:24:58","Type":"2"}}
+{"SMS":{"Address":"0912145####","type":"2","date":"11-11-2013 00:35:57","body":"ANONYMIZED","Type":"2"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 00:34:56","End":"11-11-2013 00:36:06"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 00:34:56","End":"11-11-2013 00:36:06"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 00:34:56","End":"11-11-2013 00:36:06"}}
+{"SMS":{"Address":"+98933502####","type":"1","date":"11-11-2013 00:38:22","body":"ANONYMIZED","Type":"1"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 00:41:27","End":"11-11-2013 00:41:48"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 00:41:27","End":"11-11-2013 00:41:48"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 00:41:27","End":"11-11-2013 00:41:48"}}
+{"SMS":{"Address":"0933502####","type":"2","date":"11-11-2013 00:41:39","body":"ANONYMIZED","Type":"2"}}
+{"SMS":{"Address":"+98912145####","type":"1","date":"11-11-2013 00:55:46","body":"ANONYMIZED","Type":"1"}}
+{"SMS":{"Address":"0912145####","type":"2","date":"11-11-2013 00:56:14","body":"ANONYMIZED","Type":"2"}}
+{"SMS":{"Address":"+98912145####","type":"1","date":"11-11-2013 00:57:01","body":"ANONYMIZED","Type":"1"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 00:55:52","End":"11-11-2013 00:57:13"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 00:55:52","End":"11-11-2013 00:57:13"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 00:55:52","End":"11-11-2013 00:57:13"}}
+{"SMS":{"Address":"0912145####","type":"2","date":"11-11-2013 00:59:02","body":"ANONYMIZED","Type":"2"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 00:59:05","End":"11-11-2013 00:59:16"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 00:58:34","End":"11-11-2013 00:59:46"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 00:58:34","End":"11-11-2013 00:59:46"}}
+{"SMS":{"Address":"+98912145####","type":"1","date":"11-11-2013 01:00:42","body":"ANONYMIZED","Type":"1"}}
+{"SMS":{"Address":"+98933502####","type":"1","date":"11-11-2013 01:01:42","body":"ANONYMIZED","Type":"1"}}
+{"SMS":{"Address":"0912145####","type":"2","date":"11-11-2013 01:02:17","body":"ANONYMIZED","Type":"2"}}
+{"SMS":{"Address":"0933502####","type":"2","date":"11-11-2013 01:02:40","body":"ANONYMIZED","Type":"2"}}
+{"SMS":{"Address":"+98912145####","type":"1","date":"11-11-2013 01:03:13","body":"ANONYMIZED","Type":"1"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 01:01:56","End":"11-11-2013 01:03:18"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 01:01:56","End":"11-11-2013 01:03:18"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 01:01:56","End":"11-11-2013 01:03:18"}}
+{"SMS":{"Address":"+98933502####","type":"1","date":"11-11-2013 01:03:44","body":"ANONYMIZED","Type":"1"}}
+{"SMS":{"Address":"0912145####","type":"2","date":"11-11-2013 01:04:05","body":"ANONYMIZED","Type":"2"}}
+{"SMS":{"Address":"0933502####","type":"2","date":"11-11-2013 01:04:38","body":"ANONYMIZED","Type":"2"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 01:03:49","End":"11-11-2013 01:05:11"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 01:03:49","End":"11-11-2013 01:05:11"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 01:03:49","End":"11-11-2013 01:05:11"}}
+{"SMS":{"Address":"+98912145####","type":"1","date":"11-11-2013 01:05:33","body":"ANONYMIZED","Type":"1"}}
+{"SMS":{"Address":"+98933502####","type":"1","date":"11-11-2013 01:05:35","body":"ANONYMIZED","Type":"1"}}
+{"SMS":{"Address":"0933502####","type":"2","date":"11-11-2013 01:06:15","body":"ANONYMIZED","Type":"2"}}
+{"SMS":{"Address":"0912145####","type":"2","date":"11-11-2013 01:07:05","body":"ANONYMIZED","Type":"2"}}
+{"SMS":{"Address":"+98933502####","type":"1","date":"11-11-2013 01:07:25","body":"ANONYMIZED","Type":"1"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 01:05:41","End":"11-11-2013 01:07:39"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 01:05:41","End":"11-11-2013 01:07:39"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 01:05:41","End":"11-11-2013 01:07:39"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 01:07:49","End":"11-11-2013 01:08:01"}}
+{"SMS":{"Address":"+98912145####","type":"1","date":"11-11-2013 01:08:16","body":"ANONYMIZED","Type":"1"}}
+{"SMS":{"Address":"0933502####","type":"2","date":"11-11-2013 01:08:23","body":"ANONYMIZED","Type":"2"}}
+{"SMS":{"Address":"0912145####","type":"2","date":"11-11-2013 01:08:55","body":"ANONYMIZED","Type":"2"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 01:07:49","End":"11-11-2013 01:09:32"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 01:07:49","End":"11-11-2013 01:09:32"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 01:08:52","End":"11-11-2013 01:09:32"}}
+{"SMS":{"Address":"+98912145####","type":"1","date":"11-11-2013 01:09:52","body":"ANONYMIZED","Type":"1"}}
+{"SMS":{"Address":"+98933502####","type":"1","date":"11-11-2013 01:09:56","body":"ANONYMIZED","Type":"1"}}
+{"SMS":{"Address":"0912145####","type":"2","date":"11-11-2013 01:13:01","body":"ANONYMIZED","Type":"2"}}
+{"SMS":{"Address":"0933502####","type":"2","date":"11-11-2013 01:13:37","body":"ANONYMIZED","Type":"2"}}
+{"SMS":{"Address":"+98912145####","type":"1","date":"11-11-2013 01:13:51","body":"ANONYMIZED","Type":"1"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 01:12:54","End":"11-11-2013 01:13:55"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 01:12:54","End":"11-11-2013 01:14:15"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 01:12:54","End":"11-11-2013 01:14:15"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 01:14:05","End":"11-11-2013 01:14:15"}}
+{"SMS":{"Address":"+98933502####","type":"1","date":"11-11-2013 01:17:11","body":"ANONYMIZED","Type":"1"}}
+{"SMS":{"Address":"0933502####","type":"2","date":"11-11-2013 01:17:36","body":"ANONYMIZED","Type":"2"}}
+{"SMS":{"Address":"0912145####","type":"2","date":"11-11-2013 01:18:01","body":"ANONYMIZED","Type":"2"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 01:17:26","End":"11-11-2013 01:18:39"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 01:17:26","End":"11-11-2013 01:18:39"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 01:17:26","End":"11-11-2013 01:18:39"}}
+{"SMS":{"Address":"+98912145####","type":"1","date":"11-11-2013 01:18:55","body":"ANONYMIZED","Type":"1"}}
+{"SMS":{"Address":"0912145####","type":"2","date":"11-11-2013 01:19:12","body":"ANONYMIZED","Type":"2"}}
+{"SMS":{"Address":"+98912145####","type":"1","date":"11-11-2013 01:19:55","body":"ANONYMIZED","Type":"1"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 01:19:09","End":"11-11-2013 01:20:20"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 01:19:09","End":"11-11-2013 01:20:20"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 01:19:09","End":"11-11-2013 01:20:20"}}
+{"SMS":{"Address":"+98933502####","type":"1","date":"11-11-2013 01:20:25","body":"ANONYMIZED","Type":"1"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 01:21:20","End":"11-11-2013 01:21:30"}}
+{"SMS":{"Address":"0933502####","type":"2","date":"11-11-2013 01:21:44","body":"ANONYMIZED","Type":"2"}}
+{"SMS":{"Address":"0912145####","type":"2","date":"11-11-2013 01:22:03","body":"ANONYMIZED","Type":"2"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 01:21:20","End":"11-11-2013 01:22:24"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 01:21:20","End":"11-11-2013 01:22:24"}}
+{"SMS":{"Address":"+98933502####","type":"1","date":"11-11-2013 01:22:38","body":"ANONYMIZED","Type":"1"}}
+{"SMS":{"Address":"+98912145####","type":"1","date":"11-11-2013 01:22:53","body":"ANONYMIZED","Type":"1"}}
+{"Application":{"ProcessName":"com.sonyericsson.lockscreen.notifications","Start":"11-11-2013 01:23:06","End":"11-11-2013 01:23:16"}}
+{"SMS":{"Address":"0933502####","type":"2","date":"11-11-2013 01:23:35","body":"ANONYMIZED","Type":"2"}}
+{"SMS":{"Address":"0912145####","type":"2","date":"11-11-2013 01:23:51","body":"ANONYMIZED","Type":"2"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 01:22:44","End":"11-11-2013 01:24:20"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 01:22:44","End":"11-11-2013 01:24:20"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 01:23:16","End":"11-11-2013 01:24:20"}}
+{"SMS":{"Address":"+98912145####","type":"1","date":"11-11-2013 01:24:37","body":"ANONYMIZED","Type":"1"}}
+{"SMS":{"Address":"+98933502####","type":"1","date":"11-11-2013 01:32:55","body":"ANONYMIZED","Type":"1"}}
+{"SMS":{"Address":"0912145####","type":"2","date":"11-11-2013 01:37:37","body":"ANONYMIZED","Type":"2"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 01:37:47","End":"11-11-2013 01:37:58"}}
+{"SMS":{"Address":"0933502####","type":"2","date":"11-11-2013 01:38:07","body":"ANONYMIZED","Type":"2"}}
+{"SMS":{"Address":"+98933502####","type":"1","date":"11-11-2013 01:39:00","body":"ANONYMIZED","Type":"1"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 01:37:15","End":"11-11-2013 01:39:10"}}
+{"SMS":{"Address":"+98912145####","type":"1","date":"11-11-2013 01:39:38","body":"ANONYMIZED","Type":"1"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 01:37:15","End":"11-11-2013 01:39:41"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 01:37:15","End":"11-11-2013 01:39:41"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 01:39:20","End":"11-11-2013 01:39:41"}}
+{"SMS":{"Address":"0933502####","type":"2","date":"11-11-2013 01:40:25","body":"ANONYMIZED","Type":"2"}}
+{"SMS":{"Address":"0913305####","type":"2","date":"11-11-2013 01:42:04","body":"ANONYMIZED","Type":"2"}}
+{"SMS":{"Address":"+98933502####","type":"1","date":"11-11-2013 01:43:04","body":"ANONYMIZED","Type":"1"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 01:40:03","End":"11-11-2013 01:45:04"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 01:40:03","End":"11-11-2013 01:45:04"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 01:40:03","End":"11-11-2013 01:45:04"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 01:42:33","End":"11-11-2013 01:47:35"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 01:47:35","End":"11-11-2013 01:49:25"}}
+{"SMS":{"Address":"+98933502####","type":"1","date":"11-11-2013 01:49:31","body":"ANONYMIZED","Type":"1"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 01:45:04","End":"11-11-2013 01:49:37"}}
+{"SMS":{"Address":"0933502####","type":"2","date":"11-11-2013 01:49:47","body":"ANONYMIZED","Type":"2"}}
+{"Call": {"Number":"0933502####","Duration":"0","Time":"11-11-2013 08:44:15","Type":"3"}}
+{"Call": {"Number":"0933502####","Duration":"0","Time":"11-11-2013 08:44:15","Type":"3"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 08:44:24","End":"11-11-2013 08:45:04"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 08:44:24","End":"11-11-2013 08:54:06"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 08:44:24","End":"11-11-2013 08:54:06"}}
+{"Application":{"ProcessName":"com.google.android.deskclock","Start":"11-11-2013 09:00:04","End":"11-11-2013 09:01:34"}}
+{"SMS":{"Address":"+98913305####","type":"1","date":"11-11-2013 07:20:51","body":"ANONYMIZED","Type":"1"}}
+{"Application":{"ProcessName":"com.sonyericsson.lockscreen.notifications","Start":"11-11-2013 09:01:34","End":"11-11-2013 09:01:45"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 09:00:04","End":"11-11-2013 09:01:55"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 09:00:04","End":"11-11-2013 09:04:05"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 09:00:04","End":"11-11-2013 09:04:05"}}
+{"Call": {"Number":"0913305####","Duration":"272","Time":"11-11-2013 09:01:52","Type":"2"}}
+{"Call": {"Number":"0913305####","Duration":"272","Time":"11-11-2013 09:01:52","Type":"2"}}
+{"Call": {"Number":"0913305####","Duration":"272","Time":"11-11-2013 09:01:52","Type":"2"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 09:06:58","End":"11-11-2013 09:11:29"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 09:06:48","End":"11-11-2013 09:11:29"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 09:06:48","End":"11-11-2013 09:11:29"}}
+{"Call": {"Number":"0913401####","Duration":"0","Time":"11-11-2013 09:51:51","Type":"3"}}
+{"Call": {"Number":"0913401####","Duration":"0","Time":"11-11-2013 09:51:51","Type":"3"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 09:52:00","End":"11-11-2013 09:52:40"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 09:52:00","End":"11-11-2013 09:54:11"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 09:52:00","End":"11-11-2013 09:54:11"}}
+{"Call": {"Number":"0933502####","Duration":"0","Time":"11-11-2013 10:31:59","Type":"3"}}
+{"Call": {"Number":"0933502####","Duration":"0","Time":"11-11-2013 10:31:59","Type":"3"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 10:32:08","End":"11-11-2013 10:32:38"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 10:32:08","End":"11-11-2013 10:34:10"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 10:32:08","End":"11-11-2013 10:34:10"}}
+{"Call": {"Number":"0933502####","Duration":"0","Time":"11-11-2013 10:31:59","Type":"3"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 11:03:03","End":"11-11-2013 11:04:10"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 11:03:03","End":"11-11-2013 11:04:10"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 11:03:03","End":"11-11-2013 11:04:10"}}
+{"Call": {"Number":"0933502####","Duration":"148","Time":"11-11-2013 11:03:18","Type":"2"}}
+{"Call": {"Number":"0933502####","Duration":"148","Time":"11-11-2013 11:03:18","Type":"2"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 11:17:35","End":"11-11-2013 11:24:07"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 11:17:35","End":"11-11-2013 11:24:07"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 11:17:35","End":"11-11-2013 11:24:07"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 11:51:41","End":"11-11-2013 11:52:20"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 11:51:41","End":"11-11-2013 11:52:20"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 11:51:41","End":"11-11-2013 11:52:20"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 12:26:47","End":"11-11-2013 12:26:57"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 12:26:47","End":"11-11-2013 12:26:57"}}
+{"Call": {"Number":"0912145####","Duration":"109","Time":"11-11-2013 12:26:52","Type":"2"}}
+{"Call": {"Number":"0912145####","Duration":"109","Time":"11-11-2013 12:26:52","Type":"2"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 12:28:49","End":"11-11-2013 12:34:07"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 12:28:49","End":"11-11-2013 12:34:07"}}
+{"Application":{"ProcessName":"me.pou.app","Start":"11-11-2013 12:51:05","End":"11-11-2013 12:51:46"}}
+{"Application":{"ProcessName":"me.pou.app","Start":"11-11-2013 12:51:56","End":"11-11-2013 12:52:36"}}
+{"Call": {"Number":"0912145####","Duration":"64","Time":"11-11-2013 12:52:34","Type":"1"}}
+{"Call": {"Number":"0912145####","Duration":"64","Time":"11-11-2013 12:52:34","Type":"1"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 12:50:55","End":"11-11-2013 12:55:16"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 12:50:55","End":"11-11-2013 12:55:56"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 12:50:55","End":"11-11-2013 12:55:56"}}
+{"Application":{"ProcessName":"me.pou.app","Start":"11-11-2013 12:53:54","End":"11-11-2013 12:57:33"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 12:55:56","End":"11-11-2013 13:01:05"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 12:55:56","End":"11-11-2013 13:01:05"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 13:01:46","End":"11-11-2013 13:01:56"}}
+{"Application":{"ProcessName":"com.sonyericsson.lockscreen.notifications","Start":"11-11-2013 13:01:46","End":"11-11-2013 13:01:56"}}
+{"Application":{"ProcessName":"me.pou.app","Start":"11-11-2013 13:00:35","End":"11-11-2013 13:05:37"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 13:01:05","End":"11-11-2013 13:06:07"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 13:01:05","End":"11-11-2013 13:06:07"}}
+{"Application":{"ProcessName":"me.pou.app","Start":"11-11-2013 13:05:37","End":"11-11-2013 13:10:38"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 13:06:07","End":"11-11-2013 13:11:08"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 13:06:07","End":"11-11-2013 13:11:08"}}
+{"Application":{"ProcessName":"me.pou.app","Start":"11-11-2013 13:10:38","End":"11-11-2013 13:15:39"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 13:11:08","End":"11-11-2013 13:16:09"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 13:11:08","End":"11-11-2013 13:16:09"}}
+{"Application":{"ProcessName":"me.pou.app","Start":"11-11-2013 13:15:39","End":"11-11-2013 13:20:39"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 13:16:09","End":"11-11-2013 13:21:10"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 13:16:09","End":"11-11-2013 13:21:10"}}
+{"Application":{"ProcessName":"me.pou.app","Start":"11-11-2013 13:20:39","End":"11-11-2013 13:22:00"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 13:21:10","End":"11-11-2013 13:22:20"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 13:21:10","End":"11-11-2013 13:22:20"}}
+{"Call": {"Number":"0913117####","Duration":"0","Time":"11-11-2013 13:22:04","Type":"2"}}
+{"Call": {"Number":"0913117####","Duration":"0","Time":"11-11-2013 13:22:04","Type":"2"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 13:22:30","End":"11-11-2013 13:22:40"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 13:22:30","End":"11-11-2013 13:22:40"}}
+{"Call": {"Number":"0938053####","Duration":"0","Time":"11-11-2013 13:22:28","Type":"2"}}
+{"Call": {"Number":"0938053####","Duration":"0","Time":"11-11-2013 13:22:28","Type":"2"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 13:22:50","End":"11-11-2013 13:23:00"}}
+{"Application":{"ProcessName":"com.sonyericsson.album","Start":"11-11-2013 13:23:00","End":"11-11-2013 13:24:09"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 13:22:50","End":"11-11-2013 13:24:09"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 13:22:50","End":"11-11-2013 13:24:09"}}
+{"Call": {"Number":"0938053####","Duration":"223","Time":"11-11-2013 13:23:02","Type":"1"}}
+{"Call": {"Number":"0938053####","Duration":"223","Time":"11-11-2013 13:23:02","Type":"1"}}
+{"Call": {"Number":"+98913112####","Duration":"0","Time":"11-11-2013 13:57:26","Type":"2"}}
+{"Call": {"Number":"+98913112####","Duration":"0","Time":"11-11-2013 13:57:26","Type":"2"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 15:03:55","End":"11-11-2013 15:04:25"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 15:03:55","End":"11-11-2013 15:04:25"}}
+{"Application":{"ProcessName":"com.sonyericsson.music","Start":"11-11-2013 16:13:43","End":"11-11-2013 16:14:23"}}
+{"Application":{"ProcessName":"com.sonyericsson.music","Start":"11-11-2013 16:14:43","End":"11-11-2013 16:15:14"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 16:12:34","End":"11-11-2013 16:15:14"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 16:12:34","End":"11-11-2013 16:15:14"}}
+{"Application":{"ProcessName":"com.sonyericsson.music","Start":"11-11-2013 16:20:25","End":"11-11-2013 16:20:45"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 16:20:25","End":"11-11-2013 16:20:45"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 16:20:25","End":"11-11-2013 16:20:45"}}
+{"Application":{"ProcessName":"com.sonyericsson.music","Start":"11-11-2013 16:45:50","End":"11-11-2013 16:46:00"}}
+{"Application":{"ProcessName":"com.android.calculator2","Start":"11-11-2013 16:46:00","End":"11-11-2013 16:46:24"}}
+{"Application":{"ProcessName":"com.android.calculator2","Start":"11-11-2013 16:46:34","End":"11-11-2013 16:47:14"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 16:46:24","End":"11-11-2013 16:47:24"}}
+{"Application":{"ProcessName":"com.sonyericsson.advancedwidget.onoff","Start":"11-11-2013 16:47:24","End":"11-11-2013 16:47:44"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 16:45:50","End":"11-11-2013 16:48:08"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-11-2013 16:47:54","End":"11-11-2013 16:48:08"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 16:45:50","End":"11-11-2013 16:48:08"}}
+{"WiFi":{"SSID":"Majid","BSSID":"00:14:2b:15:84:7f","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-88","frequency":"2437","time":"Monday, November 11, 2013 4:54:15 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 17:05:03","End":"11-11-2013 17:13:37"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 17:05:03","End":"11-11-2013 17:13:37"}}
+{"WiFi":{"SSID":"Majid","BSSID":"00:14:2b:15:84:7f","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-84","frequency":"2437","time":"Monday, November 11, 2013 5:14:27 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Malek-1","BSSID":"00:0c:42:6c:09:b7","capabilities":"[ESS]","level":"-91","frequency":"2412","time":"Monday, November 11, 2013 5:14:27 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 17:25:41","End":"11-11-2013 17:26:01"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-11-2013 17:25:51","End":"11-11-2013 17:26:01"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 17:25:41","End":"11-11-2013 17:26:01"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-40","frequency":"2412","time":"Monday, November 11, 2013 5:26:31 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Majid","BSSID":"00:14:2b:15:84:7f","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2437","time":"Monday, November 11, 2013 5:26:31 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Malek-3","BSSID":"00:0c:42:6c:0b:bc","capabilities":"[ESS]","level":"-90","frequency":"2412","time":"Monday, November 11, 2013 5:26:31 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 17:28:46","End":"11-11-2013 17:29:06"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 17:28:46","End":"11-11-2013 17:29:06"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 17:28:46","End":"11-11-2013 17:29:06"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 17:29:16","End":"11-11-2013 17:29:30"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 17:29:16","End":"11-11-2013 17:29:30"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 17:29:16","End":"11-11-2013 17:29:30"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-40","frequency":"2412","time":"Monday, November 11, 2013 5:35:20 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Majid","BSSID":"00:14:2b:15:84:7f","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2437","time":"Monday, November 11, 2013 5:35:20 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Malek-3","BSSID":"00:0c:42:6c:0b:bc","capabilities":"[ESS]","level":"-90","frequency":"2412","time":"Monday, November 11, 2013 5:35:20 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"me.pou.app","Start":"11-11-2013 17:35:18","End":"11-11-2013 17:35:28"}}
+{"Application":{"ProcessName":"com.sonyericsson.illumination.service","Start":"11-11-2013 17:35:18","End":"11-11-2013 17:35:28"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-40","frequency":"2412","time":"Monday, November 11, 2013 5:36:20 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Majid","BSSID":"00:14:2b:15:84:7f","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2437","time":"Monday, November 11, 2013 5:36:20 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Malek-3","BSSID":"00:0c:42:6c:0b:bc","capabilities":"[ESS]","level":"-90","frequency":"2412","time":"Monday, November 11, 2013 5:36:20 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 17:35:18","End":"11-11-2013 17:40:26"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 17:35:18","End":"11-11-2013 17:40:26"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 17:35:18","End":"11-11-2013 17:40:26"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-40","frequency":"2412","time":"Monday, November 11, 2013 5:44:20 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Majid","BSSID":"00:14:2b:15:84:7f","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2437","time":"Monday, November 11, 2013 5:44:20 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Malek-3","BSSID":"00:0c:42:6c:0b:bc","capabilities":"[ESS]","level":"-90","frequency":"2412","time":"Monday, November 11, 2013 5:44:20 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 17:43:48","End":"11-11-2013 17:44:48"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 17:45:08","End":"11-11-2013 17:45:52"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 17:43:48","End":"11-11-2013 17:45:52"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 17:43:48","End":"11-11-2013 17:45:52"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-40","frequency":"2412","time":"Monday, November 11, 2013 5:45:53 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Majid","BSSID":"00:14:2b:15:84:7f","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2437","time":"Monday, November 11, 2013 5:45:53 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Malek-3","BSSID":"00:0c:42:6c:0b:bc","capabilities":"[ESS]","level":"-90","frequency":"2412","time":"Monday, November 11, 2013 5:45:53 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 17:54:48","End":"11-11-2013 17:54:58"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 17:54:48","End":"11-11-2013 17:54:58"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 17:54:48","End":"11-11-2013 17:54:58"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 17:55:27","End":"11-11-2013 17:55:38"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 17:55:27","End":"11-11-2013 17:55:38"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 17:55:27","End":"11-11-2013 17:55:38"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-40","frequency":"2412","time":"Monday, November 11, 2013 5:56:15 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Majid","BSSID":"00:14:2b:15:84:7f","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2437","time":"Monday, November 11, 2013 5:56:15 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Malek-3","BSSID":"00:0c:42:6c:0b:bc","capabilities":"[ESS]","level":"-90","frequency":"2412","time":"Monday, November 11, 2013 5:56:15 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 17:56:35","End":"11-11-2013 17:56:45"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 17:56:35","End":"11-11-2013 17:56:45"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 17:56:35","End":"11-11-2013 17:56:45"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 18:21:54","End":"11-11-2013 18:22:04"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 18:21:54","End":"11-11-2013 18:22:25"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 18:21:54","End":"11-11-2013 18:22:25"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"11-11-2013 18:22:04","End":"11-11-2013 18:22:25"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 6:24:13 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 18:24:15","End":"11-11-2013 18:24:35"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 18:24:15","End":"11-11-2013 18:24:35"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"11-11-2013 18:24:15","End":"11-11-2013 18:24:35"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 6:25:13 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 6:26:13 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 6:27:13 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 6:28:13 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 6:29:13 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 6:30:13 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 6:31:13 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 6:32:24 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.google.android.apps.maps","Start":"11-11-2013 18:32:17","End":"11-11-2013 18:32:27"}}
+{"Application":{"ProcessName":"com.google.android.apps.plus","Start":"11-11-2013 18:32:27","End":"11-11-2013 18:32:37"}}
+{"Application":{"ProcessName":"com.android.packageinstaller","Start":"11-11-2013 18:31:37","End":"11-11-2013 18:32:37"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"11-11-2013 18:32:37","End":"11-11-2013 18:33:14"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 18:31:37","End":"11-11-2013 18:33:14"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 18:31:37","End":"11-11-2013 18:33:14"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 18:33:40","End":"11-11-2013 18:33:50"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 6:34:07 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"11-11-2013 18:33:40","End":"11-11-2013 18:34:11"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 18:33:40","End":"11-11-2013 18:34:11"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 18:33:40","End":"11-11-2013 18:34:11"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 6:35:07 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 6:36:07 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 6:37:07 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 6:38:07 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"11-11-2013 18:38:42","End":"11-11-2013 18:38:52"}}
+{"Application":{"ProcessName":"com.sonyericsson.metadatacleanup","Start":"11-11-2013 18:38:42","End":"11-11-2013 18:38:52"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 6:39:07 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 6:40:07 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 18:38:52","End":"11-11-2013 18:40:42"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 18:38:42","End":"11-11-2013 18:40:42"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 18:38:42","End":"11-11-2013 18:40:42"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 6:44:06 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 6:45:06 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 18:43:32","End":"11-11-2013 18:45:42"}}
+{"Application":{"ProcessName":"com.tencent.mm:tools","Start":"11-11-2013 18:45:42","End":"11-11-2013 18:45:52"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 18:45:52","End":"11-11-2013 18:46:02"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 18:43:32","End":"11-11-2013 18:46:02"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 18:43:32","End":"11-11-2013 18:46:02"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 6:46:07 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 6:51:18 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 7:04:26 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 7:05:39 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 19:05:05","End":"11-11-2013 19:05:57"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 19:05:05","End":"11-11-2013 19:05:57"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 19:05:05","End":"11-11-2013 19:05:57"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 7:07:55 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 19:08:29","End":"11-11-2013 19:08:49"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 7:09:01 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.album","Start":"11-11-2013 19:08:59","End":"11-11-2013 19:09:09"}}
+{"Application":{"ProcessName":"com.tencent.mm:tools","Start":"11-11-2013 19:09:09","End":"11-11-2013 19:09:19"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 7:10:01 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 19:09:19","End":"11-11-2013 19:10:25"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 19:08:29","End":"11-11-2013 19:10:25"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 19:08:29","End":"11-11-2013 19:10:25"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 7:11:50 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 19:11:49","End":"11-11-2013 19:12:45"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 19:11:39","End":"11-11-2013 19:12:45"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 19:11:39","End":"11-11-2013 19:12:45"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 7:14:04 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 19:13:53","End":"11-11-2013 19:14:25"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 19:13:53","End":"11-11-2013 19:14:25"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 19:13:53","End":"11-11-2013 19:14:25"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 19:31:35","End":"11-11-2013 19:34:19"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 7:34:27 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 7:35:27 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 7:36:27 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 19:31:35","End":"11-11-2013 19:36:39"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 19:31:35","End":"11-11-2013 19:36:39"}}
+{"Application":{"ProcessName":"com.tencent.mm:tools","Start":"11-11-2013 19:34:19","End":"11-11-2013 19:36:50"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 7:37:27 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 7:38:27 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 7:39:27 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 7:40:27 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 7:41:27 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 19:36:40","End":"11-11-2013 19:41:41"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 19:36:40","End":"11-11-2013 19:41:41"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 19:36:50","End":"11-11-2013 19:41:51"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 19:41:51","End":"11-11-2013 19:42:11"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 7:42:27 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.cloudmosa.puffin","Start":"11-11-2013 19:42:11","End":"11-11-2013 19:43:21"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 7:43:27 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 19:43:21","End":"11-11-2013 19:45:44"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 19:41:41","End":"11-11-2013 19:45:44"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 19:41:41","End":"11-11-2013 19:45:44"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 7:46:06 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 19:46:00","End":"11-11-2013 19:46:51"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 19:46:00","End":"11-11-2013 19:46:51"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 19:46:00","End":"11-11-2013 19:46:51"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 7:47:30 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 19:47:25","End":"11-11-2013 19:50:15"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 19:47:25","End":"11-11-2013 19:50:15"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 19:47:25","End":"11-11-2013 19:50:15"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 7:52:20 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 19:52:15","End":"11-11-2013 19:55:43"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 19:52:05","End":"11-11-2013 19:55:43"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 19:52:05","End":"11-11-2013 19:55:43"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 20:08:44","End":"11-11-2013 20:12:32"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 20:08:44","End":"11-11-2013 20:12:32"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 20:08:44","End":"11-11-2013 20:12:32"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 8:15:57 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 20:20:38","End":"11-11-2013 20:21:49"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 20:16:03","End":"11-11-2013 20:21:49"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 20:16:03","End":"11-11-2013 20:21:49"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"11-11-2013 20:20:48","End":"11-11-2013 20:21:49"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 8:25:48 PM Iran Standard Time"}}
+{"SMS":{"Address":"+98935885####","type":"1","date":"11-11-2013 20:26:55","body":"ANONYMIZED","Type":"1"}}
+{"SMS":{"Address":"+98935885####","type":"1","date":"11-11-2013 20:27:03","body":"ANONYMIZED","Type":"1"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 8:30:04 PM Iran Standard Time"}}
+{"Call": {"Number":"0913411####","Duration":"0","Time":"11-11-2013 20:29:38","Type":"3"}}
+{"Call": {"Number":"0913411####","Duration":"0","Time":"11-11-2013 20:29:38","Type":"3"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 20:30:12","End":"11-11-2013 20:30:22"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 20:29:42","End":"11-11-2013 20:30:22"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 20:29:42","End":"11-11-2013 20:30:22"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 20:29:42","End":"11-11-2013 20:30:22"}}
+{"Call": {"Number":"0913411####","Duration":"0","Time":"11-11-2013 20:29:38","Type":"3"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 20:32:43","End":"11-11-2013 20:33:03"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 20:32:43","End":"11-11-2013 20:33:03"}}
+{"WiFi":{"SSID":"shahinnet---5248006","BSSID":"f8:d1:11:48:4e:a9","capabilities":"[WPA2-PSK-TKIP+CCMP][ESS]","level":"-38","frequency":"2412","time":"Monday, November 11, 2013 8:33:14 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 20:32:43","End":"11-11-2013 20:33:59"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 20:32:43","End":"11-11-2013 20:33:59"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 20:34:39","End":"11-11-2013 20:34:49"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 20:34:39","End":"11-11-2013 20:34:49"}}
+{"WiFi":{"SSID":"Irancell-3BF303","BSSID":"00:1d:93:3b:f3:03","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-76","frequency":"2412","time":"Monday, November 11, 2013 8:36:24 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Shayan","BSSID":"f8:1a:67:47:75:71","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-78","frequency":"2412","time":"Monday, November 11, 2013 8:36:24 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"tce","BSSID":"64:70:02:66:f5:c9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-91","frequency":"2422","time":"Monday, November 11, 2013 8:36:24 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Spadannet.ir","BSSID":"00:1f:1f:a0:9a:8a","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-91","frequency":"2437","time":"Monday, November 11, 2013 8:36:24 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Irancell-05CA49","BSSID":"98:42:46:05:ca:49","capabilities":"[WEP][ESS]","level":"-87","frequency":"2452","time":"Monday, November 11, 2013 8:36:24 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 20:36:13","End":"11-11-2013 20:37:02"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 20:36:13","End":"11-11-2013 20:37:02"}}
+{"SMS":{"Address":"+98913411####","type":"1","date":"11-11-2013 20:38:44","body":"ANONYMIZED","Type":"1"}}
+{"WiFi":{"SSID":"memar_koochooloo","BSSID":"90:f6:52:b0:99:ae","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-91","frequency":"2427","time":"Monday, November 11, 2013 8:39:40 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"maryam","BSSID":"60:a4:4c:ee:91:b0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2447","time":"Monday, November 11, 2013 8:39:40 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Aranet","BSSID":"20:dc:e6:68:47:92","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-92","frequency":"2412","time":"Monday, November 11, 2013 8:39:40 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"bime tose-eh","BSSID":"00:23:cd:d4:be:ef","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-94","frequency":"2437","time":"Monday, November 11, 2013 8:39:40 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 20:39:40","End":"11-11-2013 20:40:00"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 20:39:40","End":"11-11-2013 20:40:00"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 20:39:40","End":"11-11-2013 20:40:00"}}
+{"Call": {"Number":"0913411####","Duration":"13","Time":"11-11-2013 20:39:42","Type":"2"}}
+{"Call": {"Number":"0913411####","Duration":"13","Time":"11-11-2013 20:39:42","Type":"2"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 20:40:29","End":"11-11-2013 20:41:00"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 20:40:29","End":"11-11-2013 20:41:00"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 20:40:29","End":"11-11-2013 20:41:00"}}
+{"WiFi":{"SSID":"maryam","BSSID":"60:a4:4c:ee:91:b0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-85","frequency":"2447","time":"Monday, November 11, 2013 8:41:10 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 20:45:56","End":"11-11-2013 20:52:55"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 20:45:56","End":"11-11-2013 20:52:55"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 20:45:56","End":"11-11-2013 20:52:55"}}
+{"Application":{"ProcessName":"com.sonyericsson.illumination.service","Start":"11-11-2013 20:58:31","End":"11-11-2013 20:58:42"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 20:58:31","End":"11-11-2013 20:58:54"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 20:58:31","End":"11-11-2013 20:58:54"}}
+{"Call": {"Number":"0912145####","Duration":"86","Time":"11-11-2013 20:58:37","Type":"2"}}
+{"Call": {"Number":"0912145####","Duration":"86","Time":"11-11-2013 20:58:37","Type":"2"}}
+{"WiFi":{"SSID":"mostafa","BSSID":"d8:5d:4c:be:4f:b4","capabilities":"[WPA2-PSK-TKIP][ESS]","level":"-90","frequency":"2412","time":"Monday, November 11, 2013 9:00:35 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 21:00:16","End":"11-11-2013 21:01:16"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 21:00:16","End":"11-11-2013 21:01:16"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 21:00:26","End":"11-11-2013 21:01:16"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 21:01:43","End":"11-11-2013 21:04:44"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 21:01:43","End":"11-11-2013 21:04:44"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 21:01:43","End":"11-11-2013 21:04:44"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 21:01:43","End":"11-11-2013 21:04:44"}}
+{"WiFi":{"SSID":"mostafa","BSSID":"d8:5d:4c:be:4f:b4","capabilities":"[WPA2-PSK-TKIP][ESS]","level":"-88","frequency":"2412","time":"Monday, November 11, 2013 9:06:53 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 21:06:56","End":"11-11-2013 21:07:26"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 21:06:56","End":"11-11-2013 21:07:26"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 21:06:56","End":"11-11-2013 21:07:26"}}
+{"WiFi":{"SSID":"mostafa","BSSID":"d8:5d:4c:be:4f:b4","capabilities":"[WPA2-PSK-TKIP][ESS]","level":"-91","frequency":"2412","time":"Monday, November 11, 2013 9:11:49 PM Iran Standard Time"}}
+{"Call": {"Number":"+98935885####","Duration":"19","Time":"11-11-2013 21:18:59","Type":"2"}}
+{"Call": {"Number":"+98935885####","Duration":"19","Time":"11-11-2013 21:18:59","Type":"2"}}
+{"WiFi":{"SSID":"mostafa","BSSID":"d8:5d:4c:be:4f:b4","capabilities":"[WPA2-PSK-TKIP][ESS]","level":"-87","frequency":"2412","time":"Monday, November 11, 2013 9:19:52 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 21:18:50","End":"11-11-2013 21:25:30"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 21:18:50","End":"11-11-2013 21:25:30"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 21:19:46","End":"11-11-2013 21:25:30"}}
+{"Application":{"ProcessName":"com.sonyericsson.album","Start":"11-11-2013 21:29:25","End":"11-11-2013 21:31:15"}}
+{"WiFi":{"SSID":"mostafa","BSSID":"d8:5d:4c:be:4f:b4","capabilities":"[WPA2-PSK-TKIP][ESS]","level":"-95","frequency":"2412","time":"Monday, November 11, 2013 9:33:55 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 21:29:25","End":"11-11-2013 21:34:27"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 21:29:25","End":"11-11-2013 21:34:27"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"11-11-2013 21:31:15","End":"11-11-2013 21:34:37"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 21:34:27","End":"11-11-2013 21:35:07"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 21:34:27","End":"11-11-2013 21:35:07"}}
+{"WiFi":{"SSID":"mostafa","BSSID":"d8:5d:4c:be:4f:b4","capabilities":"[WPA2-PSK-TKIP][ESS]","level":"-87","frequency":"2412","time":"Monday, November 11, 2013 9:37:24 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"mostafa","BSSID":"d8:5d:4c:be:4f:b4","capabilities":"[WPA2-PSK-TKIP][ESS]","level":"-90","frequency":"2412","time":"Monday, November 11, 2013 9:41:10 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"mostafa","BSSID":"d8:5d:4c:be:4f:b4","capabilities":"[WPA2-PSK-TKIP][ESS]","level":"-88","frequency":"2412","time":"Monday, November 11, 2013 9:44:19 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 21:45:53","End":"11-11-2013 21:47:00"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 21:45:53","End":"11-11-2013 21:47:00"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 21:55:16","End":"11-11-2013 21:55:26"}}
+{"Call": {"Number":"+98913112####","Duration":"0","Time":"11-11-2013 21:55:17","Type":"2"}}
+{"Call": {"Number":"+98913112####","Duration":"0","Time":"11-11-2013 21:55:17","Type":"2"}}
+{"WiFi":{"SSID":"DLink","BSSID":"bc:f6:85:e0:12:e5","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2412","time":"Monday, November 11, 2013 9:55:53 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 21:55:06","End":"11-11-2013 21:56:16"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 21:55:06","End":"11-11-2013 21:56:16"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 21:56:06","End":"11-11-2013 21:56:16"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 21:57:16","End":"11-11-2013 21:57:26"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 21:57:16","End":"11-11-2013 21:57:26"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 21:57:16","End":"11-11-2013 21:57:26"}}
+{"Call": {"Number":"0912145####","Duration":"93","Time":"11-11-2013 21:57:09","Type":"1"}}
+{"Call": {"Number":"0912145####","Duration":"93","Time":"11-11-2013 21:57:09","Type":"1"}}
+{"WiFi":{"SSID":"kamalifar","BSSID":"54:a5:1b:d9:54:06","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-94","frequency":"2412","time":"Monday, November 11, 2013 9:59:53 PM Iran Standard Time"}}
+{"Call": {"Number":"0913117####","Duration":"110","Time":"11-11-2013 21:58:06","Type":"1"}}
+{"Call": {"Number":"0913117####","Duration":"110","Time":"11-11-2013 21:58:06","Type":"1"}}
+{"Call": {"Number":"0912145####","Duration":"0","Time":"11-11-2013 22:00:08","Type":"2"}}
+{"Call": {"Number":"0912145####","Duration":"0","Time":"11-11-2013 22:00:08","Type":"2"}}
+{"Call": {"Number":"0912145####","Duration":"0","Time":"11-11-2013 22:00:51","Type":"2"}}
+{"Call": {"Number":"0912145####","Duration":"0","Time":"11-11-2013 22:00:51","Type":"2"}}
+{"SMS":{"Address":"0912145####","type":"2","date":"11-11-2013 22:01:50","body":"ANONYMIZED","Type":"2"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 22:00:07","End":"11-11-2013 22:02:07"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 22:00:07","End":"11-11-2013 22:02:07"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 22:00:07","End":"11-11-2013 22:02:07"}}
+{"SMS":{"Address":"+98912145####","type":"1","date":"11-11-2013 22:04:35","body":"ANONYMIZED","Type":"1"}}
+{"WiFi":{"SSID":"kamalifar","BSSID":"54:a5:1b:d9:54:06","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-95","frequency":"2412","time":"Monday, November 11, 2013 10:07:53 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.infiniteview","Start":"11-11-2013 22:07:58","End":"11-11-2013 22:08:08"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 22:07:48","End":"11-11-2013 22:08:18"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 22:07:48","End":"11-11-2013 22:08:18"}}
+{"WiFi":{"SSID":"DLink","BSSID":"bc:f6:85:e0:12:e5","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-92","frequency":"2412","time":"Monday, November 11, 2013 10:08:53 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"DLink","BSSID":"bc:f6:85:e0:12:e5","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-91","frequency":"2412","time":"Monday, November 11, 2013 10:09:53 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"DLink","BSSID":"bc:f6:85:e0:12:e5","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-92","frequency":"2412","time":"Monday, November 11, 2013 10:10:53 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.infiniteview","Start":"11-11-2013 22:25:50","End":"11-11-2013 22:26:00"}}
+{"WiFi":{"SSID":"mostafa","BSSID":"d8:5d:4c:be:4f:b4","capabilities":"[WPA2-PSK-TKIP][ESS]","level":"-88","frequency":"2412","time":"Monday, November 11, 2013 10:29:19 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"mostafa","BSSID":"d8:5d:4c:be:4f:b4","capabilities":"[WPA2-PSK-TKIP][ESS]","level":"-92","frequency":"2412","time":"Monday, November 11, 2013 10:30:20 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 22:25:50","End":"11-11-2013 22:30:58"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 22:25:50","End":"11-11-2013 22:30:58"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 22:25:50","End":"11-11-2013 22:30:58"}}
+{"Application":{"ProcessName":"me.pou.app","Start":"11-11-2013 22:26:00","End":"11-11-2013 22:31:08"}}
+{"WiFi":{"SSID":"mostafa","BSSID":"d8:5d:4c:be:4f:b4","capabilities":"[WPA2-PSK-TKIP][ESS]","level":"-85","frequency":"2412","time":"Monday, November 11, 2013 10:31:20 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"mostafa","BSSID":"d8:5d:4c:be:4f:b4","capabilities":"[WPA2-PSK-TKIP][ESS]","level":"-91","frequency":"2412","time":"Monday, November 11, 2013 10:33:20 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"mostafa","BSSID":"d8:5d:4c:be:4f:b4","capabilities":"[WPA2-PSK-TKIP][ESS]","level":"-91","frequency":"2412","time":"Monday, November 11, 2013 10:34:20 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"mostafa","BSSID":"d8:5d:4c:be:4f:b4","capabilities":"[WPA2-PSK-TKIP][ESS]","level":"-90","frequency":"2412","time":"Monday, November 11, 2013 10:35:20 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 22:30:58","End":"11-11-2013 22:36:00"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 22:30:58","End":"11-11-2013 22:36:00"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 22:30:58","End":"11-11-2013 22:36:00"}}
+{"Application":{"ProcessName":"me.pou.app","Start":"11-11-2013 22:31:08","End":"11-11-2013 22:36:10"}}
+{"WiFi":{"SSID":"mostafa","BSSID":"d8:5d:4c:be:4f:b4","capabilities":"[WPA2-PSK-TKIP][ESS]","level":"-90","frequency":"2412","time":"Monday, November 11, 2013 10:37:20 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"mostafa","BSSID":"d8:5d:4c:be:4f:b4","capabilities":"[WPA2-PSK-TKIP][ESS]","level":"-92","frequency":"2412","time":"Monday, November 11, 2013 10:40:20 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 22:36:00","End":"11-11-2013 22:41:01"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 22:36:00","End":"11-11-2013 22:41:01"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 22:36:00","End":"11-11-2013 22:41:01"}}
+{"Application":{"ProcessName":"me.pou.app","Start":"11-11-2013 22:36:10","End":"11-11-2013 22:41:11"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 22:51:55","End":"11-11-2013 22:52:16"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 22:51:55","End":"11-11-2013 22:52:16"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 22:52:06","End":"11-11-2013 22:52:16"}}
+{"Application":{"ProcessName":"com.sonyericsson.illumination.service","Start":"11-11-2013 22:56:52","End":"11-11-2013 22:57:02"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 22:56:52","End":"11-11-2013 22:57:02"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 22:56:52","End":"11-11-2013 22:57:27"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 22:56:52","End":"11-11-2013 22:57:27"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 22:57:13","End":"11-11-2013 22:57:27"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 23:13:38","End":"11-11-2013 23:15:08"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 23:13:38","End":"11-11-2013 23:15:08"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 23:13:38","End":"11-11-2013 23:15:08"}}
+{"WiFi":{"SSID":"SHAHR","BSSID":"fc:f5:28:42:d9:66","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-87","frequency":"2437","time":"Monday, November 11, 2013 11:32:19 PM Iran Standard Time"}}
+{"SMS":{"Address":"0912145####","type":"2","date":"11-11-2013 23:32:20","body":"ANONYMIZED","Type":"2"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 23:31:56","End":"11-11-2013 23:32:33"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 23:31:56","End":"11-11-2013 23:32:33"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 23:31:56","End":"11-11-2013 23:32:33"}}
+{"SMS":{"Address":"+98912145####","type":"1","date":"11-11-2013 23:32:54","body":"ANONYMIZED","Type":"1"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 23:32:59","End":"11-11-2013 23:33:36"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 23:32:59","End":"11-11-2013 23:33:36"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 23:32:59","End":"11-11-2013 23:33:36"}}
+{"Application":{"ProcessName":"com.sonyericsson.home","Start":"11-11-2013 23:35:43","End":"11-11-2013 23:36:29"}}
+{"Application":{"ProcessName":"com.sonyericsson.customization","Start":"11-11-2013 23:35:43","End":"11-11-2013 23:36:29"}}
+{"Application":{"ProcessName":"com.sonyericsson.androidapp.smart","Start":"11-11-2013 23:35:43","End":"11-11-2013 23:36:29"}}
+{"SMS":{"Address":"0912145####","type":"2","date":"11-11-2013 23:36:25","body":"ANONYMIZED","Type":"2"}}

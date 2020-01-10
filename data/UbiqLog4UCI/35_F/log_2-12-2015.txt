@@ -1,0 +1,464 @@
+{"WiFi":{"SSID":"FredTheCat","BSSID":"00:00:00:00:00:00","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2462","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"eduroam","BSSID":"58:f3:9c:f1:8c:bd","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-65","frequency":"5240","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"ucrwpa","BSSID":"58:f3:9c:f1:8c:be","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-67","frequency":"5240","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"ucrwpa","BSSID":"58:f3:9c:f1:8d:91","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-67","frequency":"2412","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"eduroam","BSSID":"58:f3:9c:f1:8d:92","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-67","frequency":"2412","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"eduroam","BSSID":"58:f3:9c:f1:8c:b2","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-65","frequency":"2412","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"ucrwpa","BSSID":"58:f3:9c:f1:8c:b1","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-65","frequency":"2412","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"ucrwpa","BSSID":"7c:0e:ce:00:40:f1","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-72","frequency":"2437","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"eduroam","BSSID":"7c:0e:ce:00:40:f2","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-72","frequency":"2437","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"eduroam","BSSID":"58:f3:9c:e5:c9:f2","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-85","frequency":"2437","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"mobilenet","BSSID":"58:f3:9c:f1:8c:bf","capabilities":"[ESS]","level":"-68","frequency":"5240","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"mobilenet","BSSID":"58:f3:9c:f1:8d:90","capabilities":"[ESS]","level":"-67","frequency":"2412","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"mobilenet","BSSID":"58:f3:9c:f1:8c:b0","capabilities":"[ESS]","level":"-65","frequency":"2412","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"mobilenet","BSSID":"7c:0e:ce:00:40:f0","capabilities":"[ESS]","level":"-73","frequency":"2437","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"LATTE-LAB","BSSID":"c8:d7:19:2d:00:1b","capabilities":"[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2452","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"ucrwpa","BSSID":"58:f3:9c:e5:c9:f1","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-85","frequency":"2437","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"UCR-UAS","BSSID":"00:26:5a:ff:38:32","capabilities":"[WPA2-PSK-TKIP][ESS]","level":"-85","frequency":"2462","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"jbro","BSSID":"02:0b:6b:da:31:f3","capabilities":"[IBSS]","level":"-82","frequency":"2412","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"mobilenet","BSSID":"58:f3:9c:f3:5a:70","capabilities":"[ESS]","level":"-84","frequency":"2462","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"eduroam","BSSID":"7c:0e:ce:00:41:02","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-87","frequency":"2412","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"ucrwpa","BSSID":"7c:0e:ce:00:41:0e","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-91","frequency":"5180","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"ucrwpa","BSSID":"7c:0e:ce:00:41:01","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-88","frequency":"2412","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"ucrwpa","BSSID":"58:f3:9c:f3:5c:61","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-78","frequency":"2462","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"ucrwpa","BSSID":"58:f3:9c:f0:e1:51","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-86","frequency":"2462","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"mobilenet","BSSID":"58:f3:9c:e5:c9:f0","capabilities":"[ESS]","level":"-85","frequency":"2437","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"eduroam","BSSID":"58:f3:9c:f0:e1:52","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-86","frequency":"2462","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"mobilenet","BSSID":"7c:0e:ce:00:41:0f","capabilities":"[ESS]","level":"-90","frequency":"5180","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"mobilenet","BSSID":"7c:0e:ce:00:41:00","capabilities":"[ESS]","level":"-89","frequency":"2412","time":"Thursday, February 12, 2015 6:17:34 PM Pacific Standard Time"}}
+{"Location":{"Latitude":"33.9753903","Longtitude":"-117.3261945","Altitude":"0.0","time":"2-12-2015 18:17:34","Accuracy":"39.792","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9754118","Longtitude":"-117.326172","Altitude":"0.0","time":"2-12-2015 18:17:35","Accuracy":"46.941","Provider":"fused","Speed":"0.0"}}
+{"WiFi":{"SSID":"FredTheCat","BSSID":"00:00:00:00:00:00","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2462","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"eduroam","BSSID":"58:f3:9c:f1:8c:bd","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-68","frequency":"5240","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"ucrwpa","BSSID":"58:f3:9c:f1:8c:be","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-66","frequency":"5240","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"ucrwpa","BSSID":"58:f3:9c:f1:8d:91","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-67","frequency":"2412","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"eduroam","BSSID":"58:f3:9c:f1:8d:92","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-67","frequency":"2412","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"eduroam","BSSID":"58:f3:9c:f1:8c:b2","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-65","frequency":"2412","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"ucrwpa","BSSID":"58:f3:9c:f1:8c:b1","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-65","frequency":"2412","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"ucrwpa","BSSID":"7c:0e:ce:00:40:f1","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-71","frequency":"2437","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"eduroam","BSSID":"7c:0e:ce:00:40:f2","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-71","frequency":"2437","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"eduroam","BSSID":"58:f3:9c:e5:c9:f2","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-85","frequency":"2437","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"mobilenet","BSSID":"58:f3:9c:f1:8c:bf","capabilities":"[ESS]","level":"-65","frequency":"5240","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"mobilenet","BSSID":"58:f3:9c:f1:8d:90","capabilities":"[ESS]","level":"-67","frequency":"2412","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"mobilenet","BSSID":"58:f3:9c:f1:8c:b0","capabilities":"[ESS]","level":"-65","frequency":"2412","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"mobilenet","BSSID":"7c:0e:ce:00:40:f0","capabilities":"[ESS]","level":"-71","frequency":"2437","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"LATTE-LAB","BSSID":"c8:d7:19:2d:00:1b","capabilities":"[WPA-PSK-TKIP][WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2452","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"ucrwpa","BSSID":"58:f3:9c:e5:c9:f1","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-85","frequency":"2437","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"jbro","BSSID":"02:0b:6b:da:31:f3","capabilities":"[IBSS]","level":"-85","frequency":"2412","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"mobilenet","BSSID":"58:f3:9c:f3:5a:70","capabilities":"[ESS]","level":"-84","frequency":"2462","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"eduroam","BSSID":"7c:0e:ce:00:41:02","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-87","frequency":"2412","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"ucrwpa","BSSID":"7c:0e:ce:00:41:0e","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-89","frequency":"5180","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"ucrwpa","BSSID":"7c:0e:ce:00:41:01","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-88","frequency":"2412","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"ucrwpa","BSSID":"58:f3:9c:f3:5c:61","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-80","frequency":"2462","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"ucrwpa","BSSID":"58:f3:9c:f0:e1:51","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-88","frequency":"2462","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"mobilenet","BSSID":"58:f3:9c:e5:c9:f0","capabilities":"[ESS]","level":"-84","frequency":"2437","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"eduroam","BSSID":"58:f3:9c:f0:e1:52","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-86","frequency":"2462","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"mobilenet","BSSID":"7c:0e:ce:00:41:0f","capabilities":"[ESS]","level":"-91","frequency":"5180","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"mobilenet","BSSID":"7c:0e:ce:00:41:00","capabilities":"[ESS]","level":"-89","frequency":"2412","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"eduroam","BSSID":"7c:0e:ce:00:41:0d","capabilities":"[WPA2-EAP-CCMP][ESS]","level":"-90","frequency":"5180","time":"Thursday, February 12, 2015 6:17:51 PM Pacific Standard Time"}}
+{"Location":{"Latitude":"33.9754118","Longtitude":"-117.326172","Altitude":"0.0","time":"2-12-2015 18:17:52","Accuracy":"46.941","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9754458","Longtitude":"-117.3261476","Altitude":"0.0","time":"2-12-2015 18:17:53","Accuracy":"50.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"2-12-2015 18:17:52","End":"2-12-2015 18:18:02"}}
+{"Application":{"ProcessName":"com.android.server.telecom","Start":"2-12-2015 18:17:52","End":"2-12-2015 18:18:42"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"2-12-2015 18:17:52","End":"2-12-2015 18:18:42"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"2-12-2015 18:17:52","End":"2-12-2015 18:18:42"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"2-12-2015 18:18:12","End":"2-12-2015 18:18:42"}}
+{"Location":{"Latitude":"33.9753421","Longtitude":"-117.3262193","Altitude":"0.0","time":"2-12-2015 18:18:55","Accuracy":"31.64","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9754119","Longtitude":"-117.3261632","Altitude":"0.0","time":"2-12-2015 18:20:02","Accuracy":"50.168","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9754089","Longtitude":"-117.3261727","Altitude":"0.0","time":"2-12-2015 18:21:02","Accuracy":"49.97","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9754424","Longtitude":"-117.3262014","Altitude":"0.0","time":"2-12-2015 18:22:41","Accuracy":"29.253","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9755637","Longtitude":"-117.3257034","Altitude":"347.0","time":"2-12-2015 18:23:54","Accuracy":"41.0","Provider":"fused","Speed":"3.5"}}
+{"Location":{"Latitude":"33.978962","Longtitude":"-117.3271964","Altitude":"0.0","time":"2-12-2015 18:25:46","Accuracy":"42.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9792391","Longtitude":"-117.3274674","Altitude":"0.0","time":"2-12-2015 18:26:47","Accuracy":"31.5","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9793785","Longtitude":"-117.3276423","Altitude":"0.0","time":"2-12-2015 18:27:48","Accuracy":"152.462","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9782848","Longtitude":"-117.3283672","Altitude":"0.0","time":"2-12-2015 18:29:00","Accuracy":"149.784","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783762","Longtitude":"-117.3285664","Altitude":"0.0","time":"2-12-2015 18:30:01","Accuracy":"30.856","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9784557","Longtitude":"-117.3284051","Altitude":"263.0","time":"2-12-2015 18:31:02","Accuracy":"44.0","Provider":"fused","Speed":"0.75"}}
+{"Location":{"Latitude":"33.9783702","Longtitude":"-117.3286156","Altitude":"0.0","time":"2-12-2015 18:32:04","Accuracy":"33.44","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783715","Longtitude":"-117.3285973","Altitude":"0.0","time":"2-12-2015 18:33:05","Accuracy":"32.397","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783688","Longtitude":"-117.3285647","Altitude":"0.0","time":"2-12-2015 18:34:06","Accuracy":"30.306","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783897","Longtitude":"-117.328623","Altitude":"0.0","time":"2-12-2015 18:35:09","Accuracy":"30.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783816","Longtitude":"-117.3286097","Altitude":"0.0","time":"2-12-2015 18:36:10","Accuracy":"33.724","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783414","Longtitude":"-117.3285617","Altitude":"0.0","time":"2-12-2015 18:37:23","Accuracy":"28.528","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783473","Longtitude":"-117.3285568","Altitude":"0.0","time":"2-12-2015 18:38:24","Accuracy":"28.567","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783856","Longtitude":"-117.3285934","Altitude":"0.0","time":"2-12-2015 18:39:25","Accuracy":"32.998","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783734","Longtitude":"-117.3285806","Altitude":"0.0","time":"2-12-2015 18:40:26","Accuracy":"31.512","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783684","Longtitude":"-117.3285869","Altitude":"0.0","time":"2-12-2015 18:41:27","Accuracy":"31.593","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783752","Longtitude":"-117.3286033","Altitude":"0.0","time":"2-12-2015 18:42:28","Accuracy":"32.971","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783807","Longtitude":"-117.328615","Altitude":"0.0","time":"2-12-2015 18:43:29","Accuracy":"33.992","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783832","Longtitude":"-117.3285725","Altitude":"0.0","time":"2-12-2015 18:44:30","Accuracy":"31.637","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783824","Longtitude":"-117.328636","Altitude":"0.0","time":"2-12-2015 18:45:33","Accuracy":"35.371","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783826","Longtitude":"-117.328614","Altitude":"0.0","time":"2-12-2015 18:46:33","Accuracy":"34.04","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783795","Longtitude":"-117.3285877","Altitude":"0.0","time":"2-12-2015 18:47:33","Accuracy":"32.293","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.978353","Longtitude":"-117.3285562","Altitude":"0.0","time":"2-12-2015 18:48:33","Accuracy":"28.864","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783905","Longtitude":"-117.3286312","Altitude":"0.0","time":"2-12-2015 18:49:40","Accuracy":"27.795","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783822","Longtitude":"-117.3286221","Altitude":"0.0","time":"2-12-2015 18:50:40","Accuracy":"34.508","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783807","Longtitude":"-117.3286083","Altitude":"0.0","time":"2-12-2015 18:51:40","Accuracy":"33.588","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783842","Longtitude":"-117.3286254","Altitude":"0.0","time":"2-12-2015 18:52:41","Accuracy":"34.822","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783832","Longtitude":"-117.3286037","Altitude":"0.0","time":"2-12-2015 18:53:41","Accuracy":"33.458","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9780624","Longtitude":"-117.3294815","Altitude":"269.0","time":"2-12-2015 18:55:19","Accuracy":"85.0","Provider":"fused","Speed":"1.0"}}
+{"Location":{"Latitude":"33.9783815","Longtitude":"-117.3286383","Altitude":"0.0","time":"2-12-2015 18:56:43","Accuracy":"35.464","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783811","Longtitude":"-117.3286305","Altitude":"0.0","time":"2-12-2015 18:57:43","Accuracy":"34.96","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783828","Longtitude":"-117.3286324","Altitude":"0.0","time":"2-12-2015 18:58:43","Accuracy":"35.171","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783691","Longtitude":"-117.3285965","Altitude":"0.0","time":"2-12-2015 18:59:43","Accuracy":"32.211","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783737","Longtitude":"-117.3285858","Altitude":"0.0","time":"2-12-2015 19:00:46","Accuracy":"31.837","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783745","Longtitude":"-117.328608","Altitude":"0.0","time":"2-12-2015 19:01:58","Accuracy":"33.215","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783761","Longtitude":"-117.3286281","Altitude":"0.0","time":"2-12-2015 19:03:00","Accuracy":"27.005","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783696","Longtitude":"-117.3285998","Altitude":"0.0","time":"2-12-2015 19:04:00","Accuracy":"32.439","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783809","Longtitude":"-117.3285891","Altitude":"0.0","time":"2-12-2015 19:05:00","Accuracy":"32.459","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.978387","Longtitude":"-117.3285989","Altitude":"0.0","time":"2-12-2015 19:06:00","Accuracy":"33.398","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783688","Longtitude":"-117.3286018","Altitude":"0.0","time":"2-12-2015 19:07:00","Accuracy":"32.516","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783595","Longtitude":"-117.3285782","Altitude":"0.0","time":"2-12-2015 19:08:06","Accuracy":"30.557","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783868","Longtitude":"-117.3286146","Altitude":"0.0","time":"2-12-2015 19:09:06","Accuracy":"34.324","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783734","Longtitude":"-117.3285706","Altitude":"0.0","time":"2-12-2015 19:10:06","Accuracy":"30.928","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.978383","Longtitude":"-117.3286295","Altitude":"0.0","time":"2-12-2015 19:11:06","Accuracy":"35.005","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783856","Longtitude":"-117.3286479","Altitude":"0.0","time":"2-12-2015 19:12:06","Accuracy":"36.288","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783737","Longtitude":"-117.3286037","Altitude":"0.0","time":"2-12-2015 19:13:06","Accuracy":"32.909","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783781","Longtitude":"-117.3285877","Altitude":"0.0","time":"2-12-2015 19:14:07","Accuracy":"32.21","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783743","Longtitude":"-117.3286071","Altitude":"0.0","time":"2-12-2015 19:15:07","Accuracy":"33.149","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783697","Longtitude":"-117.3285605","Altitude":"0.0","time":"2-12-2015 19:16:07","Accuracy":"30.118","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783785","Longtitude":"-117.3286069","Altitude":"0.0","time":"2-12-2015 19:17:07","Accuracy":"33.377","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9784048","Longtitude":"-117.3286112","Altitude":"0.0","time":"2-12-2015 19:18:07","Accuracy":"35.188","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783957","Longtitude":"-117.3285908","Altitude":"0.0","time":"2-12-2015 19:19:07","Accuracy":"33.456","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783896","Longtitude":"-117.3285833","Altitude":"0.0","time":"2-12-2015 19:20:23","Accuracy":"32.65","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783832","Longtitude":"-117.3286161","Altitude":"0.0","time":"2-12-2015 19:21:23","Accuracy":"34.201","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783755","Longtitude":"-117.3285831","Altitude":"0.0","time":"2-12-2015 19:22:23","Accuracy":"31.784","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9784004","Longtitude":"-117.3285988","Altitude":"0.0","time":"2-12-2015 19:23:23","Accuracy":"34.204","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783885","Longtitude":"-117.3285998","Altitude":"0.0","time":"2-12-2015 19:24:23","Accuracy":"33.541","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783871","Longtitude":"-117.3286057","Altitude":"0.0","time":"2-12-2015 19:25:23","Accuracy":"33.806","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783835","Longtitude":"-117.328629","Altitude":"0.0","time":"2-12-2015 19:26:23","Accuracy":"35.002","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783754","Longtitude":"-117.3285824","Altitude":"0.0","time":"2-12-2015 19:27:23","Accuracy":"31.737","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783829","Longtitude":"-117.3285849","Altitude":"0.0","time":"2-12-2015 19:29:00","Accuracy":"32.334","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783777","Longtitude":"-117.3286079","Altitude":"0.0","time":"2-12-2015 19:30:02","Accuracy":"33.391","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.978384","Longtitude":"-117.3286087","Altitude":"0.0","time":"2-12-2015 19:31:07","Accuracy":"33.803","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783747","Longtitude":"-117.3286269","Altitude":"0.0","time":"2-12-2015 19:32:07","Accuracy":"30.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783674","Longtitude":"-117.3286093","Altitude":"0.0","time":"2-12-2015 19:33:07","Accuracy":"32.897","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783895","Longtitude":"-117.3285821","Altitude":"0.0","time":"2-12-2015 19:34:13","Accuracy":"32.576","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.978389","Longtitude":"-117.3286198","Altitude":"0.0","time":"2-12-2015 19:35:24","Accuracy":"34.758","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783584","Longtitude":"-117.3285757","Altitude":"0.0","time":"2-12-2015 19:36:24","Accuracy":"30.343","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783597","Longtitude":"-117.3286669","Altitude":"281.0","time":"2-12-2015 19:37:52","Accuracy":"96.0","Provider":"fused","Speed":"1.0"}}
+{"Location":{"Latitude":"33.9783931","Longtitude":"-117.3286053","Altitude":"0.0","time":"2-12-2015 19:38:59","Accuracy":"34.138","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783904","Longtitude":"-117.3286515","Altitude":"0.0","time":"2-12-2015 19:39:59","Accuracy":"36.769","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783903","Longtitude":"-117.328635","Altitude":"0.0","time":"2-12-2015 19:41:03","Accuracy":"35.751","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783824","Longtitude":"-117.3286256","Altitude":"0.0","time":"2-12-2015 19:42:04","Accuracy":"34.733","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783849","Longtitude":"-117.32862","Altitude":"0.0","time":"2-12-2015 19:43:04","Accuracy":"34.534","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783929","Longtitude":"-117.3286201","Altitude":"0.0","time":"2-12-2015 19:44:04","Accuracy":"35.008","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783924","Longtitude":"-117.3286245","Altitude":"0.0","time":"2-12-2015 19:45:04","Accuracy":"35.236","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783856","Longtitude":"-117.3286053","Altitude":"0.0","time":"2-12-2015 19:46:04","Accuracy":"33.7","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783882","Longtitude":"-117.3285726","Altitude":"0.0","time":"2-12-2015 19:47:04","Accuracy":"31.954","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783695","Longtitude":"-117.328576","Altitude":"0.0","time":"2-12-2015 19:48:04","Accuracy":"31.01","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.978382","Longtitude":"-117.3285916","Altitude":"0.0","time":"2-12-2015 19:49:04","Accuracy":"32.671","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783861","Longtitude":"-117.3285923","Altitude":"0.0","time":"2-12-2015 19:50:04","Accuracy":"32.958","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783716","Longtitude":"-117.3286197","Altitude":"0.0","time":"2-12-2015 19:51:15","Accuracy":"33.775","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783794","Longtitude":"-117.328583","Altitude":"0.0","time":"2-12-2015 19:53:15","Accuracy":"32.012","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783497","Longtitude":"-117.3285422","Altitude":"0.0","time":"2-12-2015 19:54:15","Accuracy":"27.843","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783604","Longtitude":"-117.3285521","Altitude":"0.0","time":"2-12-2015 19:55:15","Accuracy":"29.066","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783816","Longtitude":"-117.3286349","Altitude":"0.0","time":"2-12-2015 19:56:15","Accuracy":"35.259","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.978403","Longtitude":"-117.3285912","Altitude":"0.0","time":"2-12-2015 19:57:17","Accuracy":"33.933","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.978403","Longtitude":"-117.3285912","Altitude":"0.0","time":"2-12-2015 19:58:18","Accuracy":"33.933","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9795772","Longtitude":"-117.3290398","Altitude":"0.0","time":"2-12-2015 19:59:21","Accuracy":"44.811","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9795502","Longtitude":"-117.3288066","Altitude":"0.0","time":"2-12-2015 20:00:22","Accuracy":"62.499","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9794794","Longtitude":"-117.3277508","Altitude":"0.0","time":"2-12-2015 20:01:24","Accuracy":"143.59","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9792547","Longtitude":"-117.3274757","Altitude":"0.0","time":"2-12-2015 20:02:24","Accuracy":"45.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9793323","Longtitude":"-117.3277783","Altitude":"0.0","time":"2-12-2015 20:03:44","Accuracy":"49.5","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9783973","Longtitude":"-117.3262105","Altitude":"0.0","time":"2-12-2015 20:04:46","Accuracy":"64.5","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9782983","Longtitude":"-117.326774","Altitude":"0.0","time":"2-12-2015 20:05:46","Accuracy":"54.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9764464","Longtitude":"-117.3273679","Altitude":"0.0","time":"2-12-2015 20:06:48","Accuracy":"37.5","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9763273","Longtitude":"-117.3273495","Altitude":"0.0","time":"2-12-2015 20:07:49","Accuracy":"30.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9763236","Longtitude":"-117.3271851","Altitude":"0.0","time":"2-12-2015 20:08:49","Accuracy":"30.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9756933","Longtitude":"-117.3264705","Altitude":"0.0","time":"2-12-2015 20:09:50","Accuracy":"20.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9756921","Longtitude":"-117.3264285","Altitude":"0.0","time":"2-12-2015 20:10:50","Accuracy":"20.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9753637","Longtitude":"-117.3254425","Altitude":"0.0","time":"2-12-2015 20:11:51","Accuracy":"30.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9754926","Longtitude":"-117.320788","Altitude":"0.0","time":"2-12-2015 20:12:53","Accuracy":"167.657","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9756022","Longtitude":"-117.31894","Altitude":"297.0","time":"2-12-2015 20:14:08","Accuracy":"4.0","Provider":"fused","Speed":"3.5"}}
+{"Location":{"Latitude":"33.9755461","Longtitude":"-117.3169176","Altitude":"300.0","time":"2-12-2015 20:15:08","Accuracy":"3.9","Provider":"fused","Speed":"2.25"}}
+{"Location":{"Latitude":"33.9755582","Longtitude":"-117.3152279","Altitude":"304.0","time":"2-12-2015 20:16:08","Accuracy":"4.0","Provider":"fused","Speed":"2.25"}}
+{"Location":{"Latitude":"33.9753801","Longtitude":"-117.3137705","Altitude":"317.0","time":"2-12-2015 20:17:08","Accuracy":"3.9","Provider":"fused","Speed":"1.25"}}
+{"Location":{"Latitude":"33.9753464","Longtitude":"-117.314207","Altitude":"0.0","time":"2-12-2015 20:18:44","Accuracy":"39.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.google.android.gm","Start":"2-12-2015 20:19:30","End":"2-12-2015 20:20:10"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"2-12-2015 20:20:10","End":"2-12-2015 20:20:20"}}
+{"Location":{"Latitude":"33.9748947","Longtitude":"-117.3137675","Altitude":"317.0","time":"2-12-2015 20:20:20","Accuracy":"18.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9743855","Longtitude":"-117.3142549","Altitude":"321.0","time":"2-12-2015 20:21:21","Accuracy":"10.0","Provider":"fused","Speed":"7.5"}}
+{"Application":{"ProcessName":"de.zorillasoft.musicfolderplayer","Start":"2-12-2015 20:20:20","End":"2-12-2015 20:21:40"}}
+{"Application":{"ProcessName":"com.android.server.telecom","Start":"2-12-2015 20:19:20","End":"2-12-2015 20:21:40"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"2-12-2015 20:19:20","End":"2-12-2015 20:21:40"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"2-12-2015 20:19:20","End":"2-12-2015 20:21:40"}}
+{"Location":{"Latitude":"33.9817528","Longtitude":"-117.3687466","Altitude":"230.0","time":"2-12-2015 20:28:40","Accuracy":"9.0","Provider":"fused","Speed":"16.0"}}
+{"Location":{"Latitude":"33.9816667","Longtitude":"-117.3688408","Altitude":"231.0","time":"2-12-2015 20:28:40","Accuracy":"8.0","Provider":"fused","Speed":"15.5"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"2-12-2015 20:28:40","End":"2-12-2015 20:29:30"}}
+{"Location":{"Latitude":"33.9810133","Longtitude":"-117.3686034","Altitude":"234.0","time":"2-12-2015 20:29:41","Accuracy":"13.0","Provider":"fused","Speed":"10.25"}}
+{"Location":{"Latitude":"33.9911448","Longtitude":"-117.3583768","Altitude":"233.0","time":"2-12-2015 20:30:41","Accuracy":"14.0","Provider":"fused","Speed":"24.0"}}
+{"Location":{"Latitude":"33.9853616","Longtitude":"-117.3455804","Altitude":"255.0","time":"2-12-2015 20:31:41","Accuracy":"11.0","Provider":"fused","Speed":"23.5"}}
+{"Application":{"ProcessName":"com.google.android.tts","Start":"2-12-2015 20:28:40","End":"2-12-2015 20:32:00"}}
+{"Application":{"ProcessName":"com.google.android.apps.maps","Start":"2-12-2015 20:28:40","End":"2-12-2015 20:32:00"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"2-12-2015 20:31:30","End":"2-12-2015 20:32:00"}}
+{"Application":{"ProcessName":"com.android.server.telecom","Start":"2-12-2015 20:28:40","End":"2-12-2015 20:32:10"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"2-12-2015 20:28:40","End":"2-12-2015 20:32:10"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"2-12-2015 20:28:40","End":"2-12-2015 20:32:10"}}
+{"Location":{"Latitude":"33.9829676","Longtitude":"-117.3427531","Altitude":"239.0","time":"2-12-2015 20:33:01","Accuracy":"14.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9915621","Longtitude":"-117.3532932","Altitude":"282.0","time":"2-12-2015 20:34:01","Accuracy":"11.0","Provider":"fused","Speed":"35.25"}}
+{"Location":{"Latitude":"33.9860075","Longtitude":"-117.3463533","Altitude":"0.0","time":"2-12-2015 20:35:33","Accuracy":"1478.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.0039083","Longtitude":"-117.4060651","Altitude":"0.0","time":"2-12-2015 20:36:36","Accuracy":"27.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"33.9860075","Longtitude":"-117.3463533","Altitude":"0.0","time":"2-12-2015 20:37:37","Accuracy":"1478.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.0150481","Longtitude":"-117.4537352","Altitude":"253.0","time":"2-12-2015 20:39:00","Accuracy":"17.0","Provider":"fused","Speed":"32.25"}}
+{"Location":{"Latitude":"34.0184507","Longtitude":"-117.475369","Altitude":"257.0","time":"2-12-2015 20:40:01","Accuracy":"13.0","Provider":"fused","Speed":"35.5"}}
+{"Location":{"Latitude":"34.0193025","Longtitude":"-117.497333","Altitude":"191.0","time":"2-12-2015 20:41:04","Accuracy":"12.0","Provider":"fused","Speed":"32.25"}}
+{"Location":{"Latitude":"34.0185191","Longtitude":"-117.5188544","Altitude":"205.0","time":"2-12-2015 20:42:07","Accuracy":"18.0","Provider":"fused","Speed":"34.5"}}
+{"Location":{"Latitude":"34.0192089","Longtitude":"-117.5407077","Altitude":"240.0","time":"2-12-2015 20:43:08","Accuracy":"11.0","Provider":"fused","Speed":"33.25"}}
+{"Location":{"Latitude":"34.0261463","Longtitude":"-117.5633642","Altitude":"0.0","time":"2-12-2015 20:44:09","Accuracy":"24.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.0313219","Longtitude":"-117.5866213","Altitude":"0.0","time":"2-12-2015 20:45:11","Accuracy":"28.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.0313144","Longtitude":"-117.6088757","Altitude":"0.0","time":"2-12-2015 20:46:11","Accuracy":"120.775","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.android.server.telecom","Start":"2-12-2015 20:46:24","End":"2-12-2015 20:46:44"}}
+{"Application":{"ProcessName":"de.zorillasoft.musicfolderplayer","Start":"2-12-2015 20:46:24","End":"2-12-2015 20:46:44"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"2-12-2015 20:46:24","End":"2-12-2015 20:46:44"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"2-12-2015 20:46:24","End":"2-12-2015 20:46:44"}}
+{"Location":{"Latitude":"34.0312324","Longtitude":"-117.6348369","Altitude":"0.0","time":"2-12-2015 20:47:21","Accuracy":"24.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.0301862","Longtitude":"-117.626055","Altitude":"0.0","time":"2-12-2015 20:48:22","Accuracy":"793.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.0305685","Longtitude":"-117.6791895","Altitude":"241.0","time":"2-12-2015 20:49:23","Accuracy":"14.0","Provider":"fused","Speed":"31.75"}}
+{"Location":{"Latitude":"34.030183","Longtitude":"-117.7016345","Altitude":"210.0","time":"2-12-2015 20:50:23","Accuracy":"11.0","Provider":"fused","Speed":"34.5"}}
+{"Location":{"Latitude":"34.0265235","Longtitude":"-117.7224745","Altitude":"197.0","time":"2-12-2015 20:51:25","Accuracy":"8.0","Provider":"fused","Speed":"32.75"}}
+{"Location":{"Latitude":"34.0242803","Longtitude":"-117.7430824","Altitude":"208.0","time":"2-12-2015 20:52:26","Accuracy":"8.0","Provider":"fused","Speed":"32.25"}}
+{"Location":{"Latitude":"34.0259537","Longtitude":"-117.7485676","Altitude":"0.0","time":"2-12-2015 20:53:26","Accuracy":"84.969","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.0259537","Longtitude":"-117.748565","Altitude":"0.0","time":"2-12-2015 20:54:27","Accuracy":"84.884","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.0258066","Longtitude":"-117.7487939","Altitude":"0.0","time":"2-12-2015 20:55:29","Accuracy":"130.413","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.0257782","Longtitude":"-117.7487319","Altitude":"0.0","time":"2-12-2015 20:56:30","Accuracy":"134.61","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.0257675","Longtitude":"-117.748703","Altitude":"0.0","time":"2-12-2015 20:57:34","Accuracy":"136.38","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.0332141","Longtitude":"-117.7491902","Altitude":"0.0","time":"2-12-2015 20:58:46","Accuracy":"77.681","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.0332626","Longtitude":"-117.74923","Altitude":"0.0","time":"2-12-2015 20:59:47","Accuracy":"101.299","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.android.server.telecom","Start":"2-12-2015 21:00:41","End":"2-12-2015 21:00:51"}}
+{"Application":{"ProcessName":"de.zorillasoft.musicfolderplayer","Start":"2-12-2015 21:00:41","End":"2-12-2015 21:00:51"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"2-12-2015 21:00:41","End":"2-12-2015 21:00:51"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"2-12-2015 21:00:41","End":"2-12-2015 21:00:51"}}
+{"Location":{"Latitude":"34.032676","Longtitude":"-117.7565125","Altitude":"0.0","time":"2-12-2015 21:01:00","Accuracy":"25.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.032676","Longtitude":"-117.7565125","Altitude":"0.0","time":"2-12-2015 21:02:02","Accuracy":"25.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.043579","Longtitude":"-117.7706256","Altitude":"222.0","time":"2-12-2015 21:03:03","Accuracy":"25.0","Provider":"fused","Speed":"3.0"}}
+{"Location":{"Latitude":"34.046651","Longtitude":"-117.772811","Altitude":"0.0","time":"2-12-2015 21:04:05","Accuracy":"36.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.03861","Longtitude":"-117.7626736","Altitude":"0.0","time":"2-12-2015 21:05:07","Accuracy":"1066.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.0930314","Longtitude":"-117.8196631","Altitude":"0.0","time":"2-12-2015 21:06:10","Accuracy":"1446.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.0919543","Longtitude":"-117.8194343","Altitude":"246.0","time":"2-12-2015 21:07:11","Accuracy":"6.0","Provider":"fused","Speed":"34.0"}}
+{"Location":{"Latitude":"34.1180486","Longtitude":"-117.8254527","Altitude":"0.0","time":"2-12-2015 21:08:12","Accuracy":"24.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.0930314","Longtitude":"-117.8196631","Altitude":"0.0","time":"2-12-2015 21:09:15","Accuracy":"1446.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.0930314","Longtitude":"-117.8196631","Altitude":"0.0","time":"2-12-2015 21:10:22","Accuracy":"1446.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1191033","Longtitude":"-117.8689607","Altitude":"0.0","time":"2-12-2015 21:11:24","Accuracy":"22.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1260516","Longtitude":"-117.9155974","Altitude":"138.0","time":"2-12-2015 21:12:39","Accuracy":"12.0","Provider":"fused","Speed":"34.0"}}
+{"Location":{"Latitude":"34.1294612","Longtitude":"-117.936365","Altitude":"159.0","time":"2-12-2015 21:13:40","Accuracy":"11.0","Provider":"fused","Speed":"34.5"}}
+{"Location":{"Latitude":"34.1344944","Longtitude":"-117.9574124","Altitude":"123.0","time":"2-12-2015 21:15:01","Accuracy":"8.0","Provider":"fused","Speed":"34.25"}}
+{"Location":{"Latitude":"34.1363377","Longtitude":"-117.9823884","Altitude":"0.0","time":"2-12-2015 21:16:04","Accuracy":"27.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"de.zorillasoft.musicfolderplayer","Start":"2-12-2015 21:16:35","End":"2-12-2015 21:16:45"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"2-12-2015 21:16:45","End":"2-12-2015 21:16:55"}}
+{"Application":{"ProcessName":"com.google.android.gm","Start":"2-12-2015 21:16:55","End":"2-12-2015 21:17:05"}}
+{"Application":{"ProcessName":"com.android.server.telecom","Start":"2-12-2015 21:16:35","End":"2-12-2015 21:17:05"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"2-12-2015 21:16:35","End":"2-12-2015 21:17:05"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"2-12-2015 21:16:35","End":"2-12-2015 21:17:05"}}
+{"Location":{"Latitude":"34.1360667","Longtitude":"-117.9867166","Altitude":"90.0","time":"2-12-2015 21:17:38","Accuracy":"11.0","Provider":"fused","Speed":"9.5"}}
+{"Location":{"Latitude":"34.1357337","Longtitude":"-117.9872155","Altitude":"0.0","time":"2-12-2015 21:18:50","Accuracy":"212.269","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.142368","Longtitude":"-117.9924082","Altitude":"0.0","time":"2-12-2015 21:19:55","Accuracy":"23.48","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1421631","Longtitude":"-117.992406","Altitude":"134.0","time":"2-12-2015 21:21:26","Accuracy":"8.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423564","Longtitude":"-117.9923351","Altitude":"0.0","time":"2-12-2015 21:22:29","Accuracy":"30.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423726","Longtitude":"-117.9923679","Altitude":"0.0","time":"2-12-2015 21:23:30","Accuracy":"30.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423614","Longtitude":"-117.9923506","Altitude":"0.0","time":"2-12-2015 21:24:31","Accuracy":"25.493","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423563","Longtitude":"-117.99235","Altitude":"0.0","time":"2-12-2015 21:25:32","Accuracy":"25.945","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.142359","Longtitude":"-117.9923628","Altitude":"0.0","time":"2-12-2015 21:26:33","Accuracy":"30.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423803","Longtitude":"-117.9923275","Altitude":"0.0","time":"2-12-2015 21:27:34","Accuracy":"35.825","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423635","Longtitude":"-117.9923507","Altitude":"0.0","time":"2-12-2015 21:29:02","Accuracy":"38.103","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423382","Longtitude":"-117.9923717","Altitude":"0.0","time":"2-12-2015 21:30:03","Accuracy":"26.919","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423688","Longtitude":"-117.9923586","Altitude":"0.0","time":"2-12-2015 21:31:03","Accuracy":"38.435","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1422435","Longtitude":"-117.9924179","Altitude":"132.0","time":"2-12-2015 21:32:26","Accuracy":"12.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1422439","Longtitude":"-117.9924257","Altitude":"131.0","time":"2-12-2015 21:34:26","Accuracy":"9.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.142371","Longtitude":"-117.9923773","Altitude":"0.0","time":"2-12-2015 21:35:26","Accuracy":"30.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423549","Longtitude":"-117.9923791","Altitude":"0.0","time":"2-12-2015 21:36:27","Accuracy":"30.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1422396","Longtitude":"-117.9924295","Altitude":"130.0","time":"2-12-2015 21:37:28","Accuracy":"35.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423519","Longtitude":"-117.9923665","Altitude":"0.0","time":"2-12-2015 21:38:30","Accuracy":"25.855","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1422357","Longtitude":"-117.9924339","Altitude":"130.0","time":"2-12-2015 21:40:25","Accuracy":"9.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1422368","Longtitude":"-117.9924321","Altitude":"129.0","time":"2-12-2015 21:41:25","Accuracy":"8.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423735","Longtitude":"-117.9923199","Altitude":"0.0","time":"2-12-2015 21:42:33","Accuracy":"35.577","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423841","Longtitude":"-117.9923521","Altitude":"0.0","time":"2-12-2015 21:43:34","Accuracy":"25.881","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423729","Longtitude":"-117.9923743","Altitude":"0.0","time":"2-12-2015 21:44:34","Accuracy":"24.423","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423902","Longtitude":"-117.9923823","Altitude":"0.0","time":"2-12-2015 21:45:34","Accuracy":"22.108","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423597","Longtitude":"-117.9923608","Altitude":"0.0","time":"2-12-2015 21:46:34","Accuracy":"30.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423969","Longtitude":"-117.9923338","Altitude":"0.0","time":"2-12-2015 21:47:35","Accuracy":"35.64","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.142376","Longtitude":"-117.9923582","Altitude":"0.0","time":"2-12-2015 21:49:24","Accuracy":"38.128","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.142368","Longtitude":"-117.9923371","Altitude":"0.0","time":"2-12-2015 21:50:25","Accuracy":"36.984","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423687","Longtitude":"-117.9923598","Altitude":"0.0","time":"2-12-2015 21:52:24","Accuracy":"24.594","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1422851","Longtitude":"-117.9923955","Altitude":"129.0","time":"2-12-2015 21:53:26","Accuracy":"28.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1422838","Longtitude":"-117.9924076","Altitude":"129.0","time":"2-12-2015 21:54:26","Accuracy":"24.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.142372","Longtitude":"-117.9923411","Altitude":"0.0","time":"2-12-2015 21:55:31","Accuracy":"25.085","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423711","Longtitude":"-117.9923578","Altitude":"0.0","time":"2-12-2015 21:56:31","Accuracy":"24.602","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.142268","Longtitude":"-117.9924267","Altitude":"139.0","time":"2-12-2015 21:58:26","Accuracy":"16.0","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423607","Longtitude":"-117.9923112","Altitude":"0.0","time":"2-12-2015 22:00:02","Accuracy":"35.539","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423753","Longtitude":"-117.9923506","Altitude":"0.0","time":"2-12-2015 22:01:03","Accuracy":"25.139","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423511","Longtitude":"-117.9923462","Altitude":"0.0","time":"2-12-2015 22:02:03","Accuracy":"26.502","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423616","Longtitude":"-117.9923398","Altitude":"0.0","time":"2-12-2015 22:03:03","Accuracy":"37.436","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.142383","Longtitude":"-117.992359","Altitude":"0.0","time":"2-12-2015 22:04:03","Accuracy":"37.921","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423972","Longtitude":"-117.9923507","Altitude":"0.0","time":"2-12-2015 22:05:03","Accuracy":"22.489","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.142378","Longtitude":"-117.9923696","Altitude":"0.0","time":"2-12-2015 22:06:05","Accuracy":"23.513","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423748","Longtitude":"-117.9923891","Altitude":"0.0","time":"2-12-2015 22:07:05","Accuracy":"23.282","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"de.zorillasoft.musicfolderplayer","Start":"2-12-2015 22:07:55","End":"2-12-2015 22:08:06"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"2-12-2015 22:08:06","End":"2-12-2015 22:08:16"}}
+{"Location":{"Latitude":"34.1423694","Longtitude":"-117.9923237","Altitude":"0.0","time":"2-12-2015 22:08:17","Accuracy":"25.73","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.google.android.gms:car","Start":"2-12-2015 22:08:16","End":"2-12-2015 22:08:26"}}
+{"WiFi":{"SSID":"FredTheCat","BSSID":"00:00:00:00:00:00","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2462","time":"Thursday, February 12, 2015 10:08:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-46","frequency":"2437","time":"Thursday, February 12, 2015 10:08:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-74","frequency":"2412","time":"Thursday, February 12, 2015 10:08:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-81","frequency":"2452","time":"Thursday, February 12, 2015 10:08:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-63","frequency":"2437","time":"Thursday, February 12, 2015 10:08:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"linksys_EXT","BSSID":"84:1b:5e:c9:33:78","capabilities":"[WPS][ESS]","level":"-91","frequency":"2437","time":"Thursday, February 12, 2015 10:08:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-86","frequency":"2437","time":"Thursday, February 12, 2015 10:08:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"BX4QN","BSSID":"f8:e4:fb:c9:bd:a3","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2437","time":"Thursday, February 12, 2015 10:08:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Z9CGN","BSSID":"18:1b:eb:c6:d8:67","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-89","frequency":"2412","time":"Thursday, February 12, 2015 10:08:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-88","frequency":"2462","time":"Thursday, February 12, 2015 10:08:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"FredTheCat","BSSID":"00:00:00:00:00:00","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2462","time":"Thursday, February 12, 2015 10:09:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-58","frequency":"2437","time":"Thursday, February 12, 2015 10:09:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-78","frequency":"2412","time":"Thursday, February 12, 2015 10:09:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-83","frequency":"2452","time":"Thursday, February 12, 2015 10:09:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-72","frequency":"2437","time":"Thursday, February 12, 2015 10:09:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-88","frequency":"2437","time":"Thursday, February 12, 2015 10:09:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2462","time":"Thursday, February 12, 2015 10:09:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-89","frequency":"2462","time":"Thursday, February 12, 2015 10:09:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-72","frequency":"2437","time":"Thursday, February 12, 2015 10:09:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"BX4QN","BSSID":"f8:e4:fb:c9:bd:a3","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-89","frequency":"2437","time":"Thursday, February 12, 2015 10:09:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-89","frequency":"2437","time":"Thursday, February 12, 2015 10:09:33 PM Pacific Standard Time"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"2-12-2015 22:09:06","End":"2-12-2015 22:09:37"}}
+{"Location":{"Latitude":"34.1422554","Longtitude":"-117.9924197","Altitude":"137.0","time":"2-12-2015 22:09:51","Accuracy":"70.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.rovio.gold","Start":"2-12-2015 22:08:06","End":"2-12-2015 22:10:07"}}
+{"Application":{"ProcessName":"com.android.vending","Start":"2-12-2015 22:08:16","End":"2-12-2015 22:10:07"}}
+{"WiFi":{"SSID":"FredTheCat","BSSID":"00:00:00:00:00:00","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2462","time":"Thursday, February 12, 2015 10:10:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-48","frequency":"2437","time":"Thursday, February 12, 2015 10:10:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-82","frequency":"2412","time":"Thursday, February 12, 2015 10:10:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-83","frequency":"2452","time":"Thursday, February 12, 2015 10:10:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-63","frequency":"2437","time":"Thursday, February 12, 2015 10:10:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-64","frequency":"2437","time":"Thursday, February 12, 2015 10:10:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-82","frequency":"2437","time":"Thursday, February 12, 2015 10:10:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"BX4QN","BSSID":"f8:e4:fb:c9:bd:a3","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2437","time":"Thursday, February 12, 2015 10:10:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-87","frequency":"2437","time":"Thursday, February 12, 2015 10:10:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-90","frequency":"2462","time":"Thursday, February 12, 2015 10:10:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"linksys_EXT","BSSID":"84:1b:5e:c9:33:78","capabilities":"[WPS][ESS]","level":"-89","frequency":"2437","time":"Thursday, February 12, 2015 10:10:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Mei","BSSID":"00:1d:d6:cb:0c:50","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-88","frequency":"2462","time":"Thursday, February 12, 2015 10:10:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Z9CGN","BSSID":"18:1b:eb:c6:d8:67","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-88","frequency":"2412","time":"Thursday, February 12, 2015 10:10:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Camille's Wi-Fi Network","BSSID":"28:cf:da:b0:89:a7","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-88","frequency":"2462","time":"Thursday, February 12, 2015 10:10:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"BibityBoo","BSSID":"84:1b:5e:2c:d3:30","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2412","time":"Thursday, February 12, 2015 10:10:33 PM Pacific Standard Time"}}
+{"Location":{"Latitude":"34.1423524","Longtitude":"-117.9923161","Altitude":"0.0","time":"2-12-2015 22:11:01","Accuracy":"27.393","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.android.vending","Start":"2-12-2015 22:10:27","End":"2-12-2015 22:11:07"}}
+{"WiFi":{"SSID":"FredTheCat","BSSID":"00:00:00:00:00:00","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2462","time":"Thursday, February 12, 2015 10:11:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-47","frequency":"2437","time":"Thursday, February 12, 2015 10:11:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-77","frequency":"2412","time":"Thursday, February 12, 2015 10:11:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-72","frequency":"2437","time":"Thursday, February 12, 2015 10:11:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-87","frequency":"2437","time":"Thursday, February 12, 2015 10:11:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Z9CGN","BSSID":"18:1b:eb:c6:d8:67","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-89","frequency":"2412","time":"Thursday, February 12, 2015 10:11:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-89","frequency":"2412","time":"Thursday, February 12, 2015 10:11:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-72","frequency":"2437","time":"Thursday, February 12, 2015 10:11:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2462","time":"Thursday, February 12, 2015 10:11:33 PM Pacific Standard Time"}}
+{"Application":{"ProcessName":"com.rovio.gold","Start":"2-12-2015 22:10:17","End":"2-12-2015 22:11:47"}}
+{"Application":{"ProcessName":"com.android.vending","Start":"2-12-2015 22:11:17","End":"2-12-2015 22:11:47"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"2-12-2015 22:11:47","End":"2-12-2015 22:11:57"}}
+{"Location":{"Latitude":"34.142366","Longtitude":"-117.9923635","Altitude":"0.0","time":"2-12-2015 22:12:04","Accuracy":"24.024","Provider":"fused","Speed":"0.0"}}
+{"WiFi":{"SSID":"FredTheCat","BSSID":"00:00:00:00:00:00","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2462","time":"Thursday, February 12, 2015 10:12:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-43","frequency":"2437","time":"Thursday, February 12, 2015 10:12:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-78","frequency":"2412","time":"Thursday, February 12, 2015 10:12:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-66","frequency":"2437","time":"Thursday, February 12, 2015 10:12:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2462","time":"Thursday, February 12, 2015 10:12:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-82","frequency":"2452","time":"Thursday, February 12, 2015 10:12:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Z9CGN","BSSID":"18:1b:eb:c6:d8:67","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-91","frequency":"2412","time":"Thursday, February 12, 2015 10:12:33 PM Pacific Standard Time"}}
+{"Application":{"ProcessName":"com.rovio.gold","Start":"2-12-2015 22:11:57","End":"2-12-2015 22:12:37"}}
+{"Application":{"ProcessName":"com.android.vending","Start":"2-12-2015 22:12:07","End":"2-12-2015 22:12:37"}}
+{"Application":{"ProcessName":"com.android.server.telecom","Start":"2-12-2015 22:07:55","End":"2-12-2015 22:12:57"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"2-12-2015 22:07:55","End":"2-12-2015 22:12:57"}}
+{"Application":{"ProcessName":"com.redbend.vdmc","Start":"2-12-2015 22:07:55","End":"2-12-2015 22:12:57"}}
+{"Application":{"ProcessName":"com.rovio.gold","Start":"2-12-2015 22:12:47","End":"2-12-2015 22:13:28"}}
+{"Application":{"ProcessName":"com.android.vending","Start":"2-12-2015 22:12:57","End":"2-12-2015 22:13:28"}}
+{"Location":{"Latitude":"34.1423669","Longtitude":"-117.9923711","Altitude":"0.0","time":"2-12-2015 22:13:30","Accuracy":"30.0","Provider":"fused","Speed":"0.0"}}
+{"WiFi":{"SSID":"FredTheCat","BSSID":"00:00:00:00:00:00","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2462","time":"Thursday, February 12, 2015 10:13:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-45","frequency":"2437","time":"Thursday, February 12, 2015 10:13:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-86","frequency":"2412","time":"Thursday, February 12, 2015 10:13:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-71","frequency":"2437","time":"Thursday, February 12, 2015 10:13:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-89","frequency":"2462","time":"Thursday, February 12, 2015 10:13:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-84","frequency":"2452","time":"Thursday, February 12, 2015 10:13:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-70","frequency":"2437","time":"Thursday, February 12, 2015 10:13:33 PM Pacific Standard Time"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"2-12-2015 22:13:28","End":"2-12-2015 22:13:38"}}
+{"Application":{"ProcessName":"com.rovio.gold","Start":"2-12-2015 22:13:38","End":"2-12-2015 22:14:28"}}
+{"Application":{"ProcessName":"com.android.vending","Start":"2-12-2015 22:13:48","End":"2-12-2015 22:14:28"}}
+{"Location":{"Latitude":"34.1423824","Longtitude":"-117.9923497","Altitude":"0.0","time":"2-12-2015 22:14:32","Accuracy":"30.0","Provider":"fused","Speed":"0.0"}}
+{"WiFi":{"SSID":"FredTheCat","BSSID":"00:00:00:00:00:00","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2462","time":"Thursday, February 12, 2015 10:14:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-46","frequency":"2437","time":"Thursday, February 12, 2015 10:14:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-81","frequency":"2412","time":"Thursday, February 12, 2015 10:14:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-72","frequency":"2437","time":"Thursday, February 12, 2015 10:14:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-90","frequency":"2462","time":"Thursday, February 12, 2015 10:14:33 PM Pacific Standard Time"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"2-12-2015 22:14:28","End":"2-12-2015 22:14:38"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"2-12-2015 22:15:08","End":"2-12-2015 22:15:28"}}
+{"Application":{"ProcessName":"com.rovio.gold","Start":"2-12-2015 22:14:38","End":"2-12-2015 22:15:28"}}
+{"Application":{"ProcessName":"com.android.vending","Start":"2-12-2015 22:14:48","End":"2-12-2015 22:15:28"}}
+{"WiFi":{"SSID":"FredTheCat","BSSID":"00:00:00:00:00:00","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2462","time":"Thursday, February 12, 2015 10:15:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-48","frequency":"2437","time":"Thursday, February 12, 2015 10:15:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-72","frequency":"2412","time":"Thursday, February 12, 2015 10:15:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-86","frequency":"2437","time":"Thursday, February 12, 2015 10:15:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"NETGEAR59","BSSID":"9c:d3:6d:a4:af:36","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-82","frequency":"2462","time":"Thursday, February 12, 2015 10:15:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-88","frequency":"2437","time":"Thursday, February 12, 2015 10:15:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-81","frequency":"2452","time":"Thursday, February 12, 2015 10:15:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-83","frequency":"2437","time":"Thursday, February 12, 2015 10:15:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Mei","BSSID":"00:1d:d6:cb:0c:50","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-89","frequency":"2462","time":"Thursday, February 12, 2015 10:15:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"FBI surveillance van #2","BSSID":"3c:15:c2:f2:0f:72","capabilities":"[WPA-PSK-TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-90","frequency":"2462","time":"Thursday, February 12, 2015 10:15:33 PM Pacific Standard Time"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"2-12-2015 22:15:28","End":"2-12-2015 22:15:38"}}
+{"Location":{"Latitude":"34.1424152","Longtitude":"-117.9923534","Altitude":"0.0","time":"2-12-2015 22:15:43","Accuracy":"36.432","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"2-12-2015 22:15:48","End":"2-12-2015 22:16:28"}}
+{"Application":{"ProcessName":"com.android.vending","Start":"2-12-2015 22:15:48","End":"2-12-2015 22:16:28"}}
+{"WiFi":{"SSID":"FredTheCat","BSSID":"00:00:00:00:00:00","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2462","time":"Thursday, February 12, 2015 10:16:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-45","frequency":"2437","time":"Thursday, February 12, 2015 10:16:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-68","frequency":"2412","time":"Thursday, February 12, 2015 10:16:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-62","frequency":"2437","time":"Thursday, February 12, 2015 10:16:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-84","frequency":"2452","time":"Thursday, February 12, 2015 10:16:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"FBI surveillance van #2","BSSID":"3c:15:c2:f2:0f:72","capabilities":"[WPA-PSK-TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-91","frequency":"2462","time":"Thursday, February 12, 2015 10:16:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Thursday, February 12, 2015 10:16:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-84","frequency":"2437","time":"Thursday, February 12, 2015 10:16:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-83","frequency":"2462","time":"Thursday, February 12, 2015 10:16:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Z9CGN","BSSID":"18:1b:eb:c6:d8:67","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2412","time":"Thursday, February 12, 2015 10:16:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"BibityBoo","BSSID":"84:1b:5e:2c:d3:30","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-91","frequency":"2412","time":"Thursday, February 12, 2015 10:16:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-92","frequency":"2412","time":"Thursday, February 12, 2015 10:16:33 PM Pacific Standard Time"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"2-12-2015 22:16:28","End":"2-12-2015 22:16:38"}}
+{"Location":{"Latitude":"34.1422537","Longtitude":"-117.9924183","Altitude":"138.0","time":"2-12-2015 22:17:29","Accuracy":"24.0","Provider":"fused","Speed":"0.0"}}
+{"WiFi":{"SSID":"FredTheCat","BSSID":"00:00:00:00:00:00","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2462","time":"Thursday, February 12, 2015 10:17:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-42","frequency":"2437","time":"Thursday, February 12, 2015 10:17:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-77","frequency":"2412","time":"Thursday, February 12, 2015 10:17:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-66","frequency":"2437","time":"Thursday, February 12, 2015 10:17:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2452","time":"Thursday, February 12, 2015 10:17:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"FBI surveillance van #2","BSSID":"3c:15:c2:f2:0f:72","capabilities":"[WPA-PSK-TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-91","frequency":"2462","time":"Thursday, February 12, 2015 10:17:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-67","frequency":"2437","time":"Thursday, February 12, 2015 10:17:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-86","frequency":"2437","time":"Thursday, February 12, 2015 10:17:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"YXNXR","BSSID":"f8:e4:fb:ec:8e:57","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-83","frequency":"2462","time":"Thursday, February 12, 2015 10:17:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Z9CGN","BSSID":"18:1b:eb:c6:d8:67","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2412","time":"Thursday, February 12, 2015 10:17:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"BibityBoo","BSSID":"84:1b:5e:2c:d3:30","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-91","frequency":"2412","time":"Thursday, February 12, 2015 10:17:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-92","frequency":"2412","time":"Thursday, February 12, 2015 10:17:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-85","frequency":"2437","time":"Thursday, February 12, 2015 10:17:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"BX4QN","BSSID":"f8:e4:fb:c9:bd:a3","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-89","frequency":"2437","time":"Thursday, February 12, 2015 10:17:33 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"FredTheCat","BSSID":"00:00:00:00:00:00","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2462","time":"Thursday, February 12, 2015 10:18:59 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-46","frequency":"2437","time":"Thursday, February 12, 2015 10:18:59 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-78","frequency":"2412","time":"Thursday, February 12, 2015 10:18:59 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-71","frequency":"2437","time":"Thursday, February 12, 2015 10:18:59 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Denise","BSSID":"00:7f:28:89:91:e7","capabilities":"[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]","level":"-89","frequency":"2412","time":"Thursday, February 12, 2015 10:18:59 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-86","frequency":"2437","time":"Thursday, February 12, 2015 10:18:59 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-83","frequency":"2452","time":"Thursday, February 12, 2015 10:18:59 PM Pacific Standard Time"}}
+{"Location":{"Latitude":"34.1423868","Longtitude":"-117.9923222","Altitude":"0.0","time":"2-12-2015 22:19:00","Accuracy":"12.573","Provider":"fused","Speed":"0.0"}}
+{"Location":{"Latitude":"34.1423869","Longtitude":"-117.9923245","Altitude":"0.0","time":"2-12-2015 22:19:01","Accuracy":"11.131","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"2-12-2015 22:18:59","End":"2-12-2015 22:19:10"}}
+{"WiFi":{"SSID":"FredTheCat","BSSID":"00:00:00:00:00:00","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2462","time":"Thursday, February 12, 2015 10:19:59 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-48","frequency":"2437","time":"Thursday, February 12, 2015 10:19:59 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-78","frequency":"2412","time":"Thursday, February 12, 2015 10:19:59 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-74","frequency":"2437","time":"Thursday, February 12, 2015 10:19:59 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-89","frequency":"2437","time":"Thursday, February 12, 2015 10:19:59 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-87","frequency":"2452","time":"Thursday, February 12, 2015 10:19:59 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-75","frequency":"2437","time":"Thursday, February 12, 2015 10:19:59 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Z9CGN","BSSID":"18:1b:eb:c6:d8:67","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2412","time":"Thursday, February 12, 2015 10:19:59 PM Pacific Standard Time"}}
+{"Location":{"Latitude":"34.142383","Longtitude":"-117.9923519","Altitude":"0.0","time":"2-12-2015 22:20:01","Accuracy":"25.788","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.rovio.gold","Start":"2-12-2015 22:18:59","End":"2-12-2015 22:20:40"}}
+{"Application":{"ProcessName":"com.android.vending","Start":"2-12-2015 22:18:59","End":"2-12-2015 22:20:40"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox:search","Start":"2-12-2015 22:20:40","End":"2-12-2015 22:20:50"}}
+{"Application":{"ProcessName":"com.google.android.googlequicksearchbox","Start":"2-12-2015 22:20:40","End":"2-12-2015 22:20:50"}}
+{"WiFi":{"SSID":"FredTheCat","BSSID":"00:00:00:00:00:00","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2462","time":"Thursday, February 12, 2015 10:20:59 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Ulanovs","BSSID":"20:e5:2a:0d:9e:04","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-53","frequency":"2437","time":"Thursday, February 12, 2015 10:20:59 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"belkin.363d","BSSID":"94:44:52:b1:16:5d","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS][ESS]","level":"-77","frequency":"2412","time":"Thursday, February 12, 2015 10:20:59 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"08FX09003285","BSSID":"00:18:3a:c6:fe:8d","capabilities":"[WEP][ESS]","level":"-70","frequency":"2437","time":"Thursday, February 12, 2015 10:20:59 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"BIG-D","BSSID":"38:2c:4a:a1:7a:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-88","frequency":"2437","time":"Thursday, February 12, 2015 10:20:59 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"NETGEAR12","BSSID":"e4:f4:c6:0a:55:b9","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-85","frequency":"2452","time":"Thursday, February 12, 2015 10:20:59 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"","BSSID":"00:18:3a:c6:fe:8e","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-70","frequency":"2437","time":"Thursday, February 12, 2015 10:20:59 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"Z9CGN","BSSID":"18:1b:eb:c6:d8:67","capabilities":"[WPA2-PSK-CCMP+TKIP][ESS]","level":"-87","frequency":"2412","time":"Thursday, February 12, 2015 10:20:59 PM Pacific Standard Time"}}
+{"WiFi":{"SSID":"07B401642510","BSSID":"00:12:0e:5a:63:74","capabilities":"[WEP][ESS]","level":"-88","frequency":"2437","time":"Thursday, February 12, 2015 10:20:59 PM Pacific Standard Time"}}
+{"Location":{"Latitude":"34.1423634","Longtitude":"-117.9923453","Altitude":"0.0","time":"2-12-2015 22:21:02","Accuracy":"25.489","Provider":"fused","Speed":"0.0"}}

@@ -1,0 +1,580 @@
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"12-6-2013 08:03:05","End":"12-6-2013 08:03:15"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 08:03:05","End":"12-6-2013 08:03:15"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"12-6-2013 08:09:56","End":"12-6-2013 08:10:06"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 08:09:56","End":"12-6-2013 08:10:06"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"12-6-2013 08:10:46","End":"12-6-2013 08:10:56"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 08:10:56","End":"12-6-2013 08:12:52"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 08:10:46","End":"12-6-2013 08:12:52"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 08:15:26","End":"12-6-2013 08:17:37"}}
+{"Application":{"ProcessName":"com.sec.android.inputmethod.axt9","Start":"12-6-2013 08:17:37","End":"12-6-2013 08:17:47"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 08:17:47","End":"12-6-2013 08:18:52"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 08:15:26","End":"12-6-2013 08:18:52"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 08:43:39","End":"12-6-2013 08:50:12"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 08:43:39","End":"12-6-2013 08:50:12"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 08:52:40","End":"12-6-2013 08:52:50"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 08:52:40","End":"12-6-2013 08:52:50"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 09:20:27","End":"12-6-2013 09:21:03"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 09:20:27","End":"12-6-2013 09:21:03"}}
+{"Call": {"Number":"+98852324####","Duration":"0","Time":"12-6-2013 09:28:36","Type":"3"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 09:28:55","End":"12-6-2013 09:29:10"}}
+{"Call": {"Number":"+98852324####","Duration":"0","Time":"12-6-2013 09:29:08","Type":"3"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 09:29:30","End":"12-6-2013 09:30:12"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 09:28:45","End":"12-6-2013 09:30:12"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 09:32:58","End":"12-6-2013 09:34:08"}}
+{"Application":{"ProcessName":"com.sec.android.inputmethod.axt9","Start":"12-6-2013 09:34:08","End":"12-6-2013 09:34:18"}}
+{"Call": {"Number":"+98852324####","Duration":"0","Time":"12-6-2013 09:29:08","Type":"3"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 09:34:18","End":"12-6-2013 09:35:09"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 09:35:09","End":"12-6-2013 09:35:29"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 09:35:09","End":"12-6-2013 09:35:29"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 09:35:25","Type":"2"}}
+{"Call": {"Number":"+98917836####","Duration":"18","Time":"12-6-2013 09:36:06","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 09:37:08","End":"12-6-2013 09:37:18"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 09:37:08","End":"12-6-2013 09:37:18"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 09:32:58","End":"12-6-2013 09:37:38"}}
+{"Call": {"Number":"+98917836####","Duration":"53","Time":"12-6-2013 09:37:12","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 09:38:28","End":"12-6-2013 09:40:08"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 09:38:28","End":"12-6-2013 09:40:08"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 09:38:28","End":"12-6-2013 09:40:08"}}
+{"Call": {"Number":"+98935377####","Duration":"0","Time":"12-6-2013 09:46:30","Type":"3"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 09:46:34","End":"12-6-2013 09:46:44"}}
+{"Call": {"Number":"+98935377####","Duration":"0","Time":"12-6-2013 09:46:30","Type":"3"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 09:47:32","End":"12-6-2013 09:47:43"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 09:47:32","End":"12-6-2013 09:47:43"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 09:47:32","End":"12-6-2013 09:47:53"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 09:49:20","Type":"3"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 09:50:01","Type":"3"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 09:50:01","Type":"3"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 09:50:01","Type":"3"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 09:50:13","End":"12-6-2013 09:50:23"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 09:50:13","End":"12-6-2013 09:50:23"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 09:50:13","End":"12-6-2013 09:50:33"}}
+{"Call": {"Number":"+98917836####","Duration":"336","Time":"12-6-2013 09:50:14","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 09:56:05","End":"12-6-2013 09:56:35"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 09:56:05","End":"12-6-2013 09:56:35"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 09:56:27","Type":"3"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 09:56:45","End":"12-6-2013 09:56:55"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 09:56:45","End":"12-6-2013 09:56:55"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 09:56:05","End":"12-6-2013 09:57:26"}}
+{"Call": {"Number":"+98212286####","Duration":"0","Time":"12-6-2013 10:23:05","Type":"3"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 10:23:05","End":"12-6-2013 10:23:25"}}
+{"Call": {"Number":"+98212286####","Duration":"0","Time":"12-6-2013 10:23:05","Type":"3"}}
+{"Call": {"Number":"+98212286####","Duration":"0","Time":"12-6-2013 10:23:05","Type":"3"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 10:24:05","End":"12-6-2013 10:24:15"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 10:24:05","End":"12-6-2013 10:24:15"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 10:24:15","End":"12-6-2013 10:25:09"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 10:24:05","End":"12-6-2013 10:25:09"}}
+{"Call": {"Number":"+98935377####","Duration":"0","Time":"12-6-2013 10:27:14","Type":"3"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 10:27:20","End":"12-6-2013 10:30:07"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 10:27:20","End":"12-6-2013 10:30:07"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 10:41:52","Type":"3"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 10:41:55","End":"12-6-2013 10:42:15"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 10:42:29","End":"12-6-2013 10:50:11"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 10:42:29","End":"12-6-2013 10:50:11"}}
+{"Call": {"Number":"+98212286####","Duration":"0","Time":"12-6-2013 11:11:29","Type":"3"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 11:11:50","End":"12-6-2013 11:19:20"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 11:11:30","End":"12-6-2013 11:19:20"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 11:19:17","Type":"3"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 11:19:20","End":"12-6-2013 11:19:40"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 11:22:42","End":"12-6-2013 11:23:29"}}
+{"Call": {"Number":"+98912779####","Duration":"0","Time":"12-6-2013 11:23:27","Type":"3"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 11:23:49","End":"12-6-2013 11:25:04"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 11:22:42","End":"12-6-2013 11:25:04"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 11:26:44","End":"12-6-2013 11:26:54"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 11:26:44","End":"12-6-2013 11:26:54"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 12:06:23","End":"12-6-2013 12:06:33"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"12-6-2013 12:06:23","End":"12-6-2013 12:06:33"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 12:06:23","Type":"3"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 12:06:58","End":"12-6-2013 12:09:48"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 12:06:43","End":"12-6-2013 12:09:58"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 12:06:23","End":"12-6-2013 12:09:58"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 12:10:08","End":"12-6-2013 12:10:18"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 12:10:08","End":"12-6-2013 12:10:18"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 12:06:23","Type":"3"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 12:17:54","End":"12-6-2013 12:18:05"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 12:18:05","End":"12-6-2013 12:18:15"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 12:18:05","End":"12-6-2013 12:18:15"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 12:18:15","End":"12-6-2013 12:19:15"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 12:17:54","End":"12-6-2013 12:19:15"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 12:31:02","Type":"3"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 12:31:18","End":"12-6-2013 12:31:29"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 12:31:18","End":"12-6-2013 12:31:29"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 12:31:08","End":"12-6-2013 12:31:29"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 12:31:02","Type":"3"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 12:31:02","Type":"3"}}
+{"Application":{"ProcessName":"com.sec.android.provider.badge","Start":"12-6-2013 12:36:05","End":"12-6-2013 12:36:15"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 12:36:05","End":"12-6-2013 12:36:15"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 12:31:02","Type":"3"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 12:31:02","Type":"3"}}
+{"Call": {"Number":"+98917836####","Duration":"1","Time":"12-6-2013 12:36:13","Type":"2"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 12:36:05","End":"12-6-2013 12:36:35"}}
+{"Call": {"Number":"+98917836####","Duration":"1","Time":"12-6-2013 12:36:13","Type":"2"}}
+{"Call": {"Number":"+98917836####","Duration":"1","Time":"12-6-2013 12:36:13","Type":"2"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 12:36:39","Type":"3"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 12:36:39","Type":"3"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 12:36:39","Type":"3"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 12:36:56","End":"12-6-2013 12:37:07"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 12:36:56","End":"12-6-2013 12:37:07"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 12:37:06","Type":"2"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 12:37:06","Type":"2"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 12:37:06","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 12:37:17","End":"12-6-2013 12:37:27"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 12:37:17","End":"12-6-2013 12:37:27"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 12:36:46","End":"12-6-2013 12:37:57"}}
+{"Call": {"Number":"+98212286####","Duration":"0","Time":"12-6-2013 12:40:16","Type":"3"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 12:40:18","End":"12-6-2013 12:40:38"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 12:40:58","End":"12-6-2013 12:41:08"}}
+{"Call": {"Number":"+98212286####","Duration":"0","Time":"12-6-2013 12:40:16","Type":"3"}}
+{"Call": {"Number":"+98212286####","Duration":"0","Time":"12-6-2013 12:40:16","Type":"3"}}
+{"Call": {"Number":"+98212286####","Duration":"0","Time":"12-6-2013 12:40:16","Type":"3"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 13:01:14","End":"12-6-2013 13:10:12"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 13:01:14","End":"12-6-2013 13:10:12"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 13:01:14","End":"12-6-2013 13:10:12"}}
+{"Call": {"Number":"+98212286####","Duration":"0","Time":"12-6-2013 12:40:16","Type":"3"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 13:25:03","End":"12-6-2013 13:25:13"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 13:25:03","End":"12-6-2013 13:25:13"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 13:25:13","End":"12-6-2013 13:27:28"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 13:25:03","End":"12-6-2013 13:27:28"}}
+{"Call": {"Number":"+98212286####","Duration":"0","Time":"12-6-2013 12:40:16","Type":"3"}}
+{"Call": {"Number":"+98212286####","Duration":"0","Time":"12-6-2013 12:40:16","Type":"3"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 13:29:28","End":"12-6-2013 13:29:38"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 13:29:28","End":"12-6-2013 13:29:38"}}
+{"Call": {"Number":"+98912118####","Duration":"0","Time":"12-6-2013 13:29:44","Type":"2"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 13:29:28","End":"12-6-2013 13:31:08"}}
+{"Call": {"Number":"0912779####","Duration":"0","Time":"12-6-2013 13:30:31","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 13:33:13","End":"12-6-2013 13:33:23"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 13:34:44","End":"12-6-2013 13:34:54"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 13:33:13","End":"12-6-2013 13:34:54"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 13:33:03","End":"12-6-2013 13:36:49"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 13:39:30","End":"12-6-2013 13:40:13"}}
+{"Call": {"Number":"0912764####","Duration":"372","Time":"12-6-2013 13:35:42","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 13:42:22","End":"12-6-2013 13:42:32"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 13:42:22","End":"12-6-2013 13:42:32"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 13:42:22","End":"12-6-2013 13:42:32"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 1:52:39 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 1:52:39 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 1:52:39 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.wssyncmldm","Start":"12-6-2013 13:53:00","End":"12-6-2013 13:53:10"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 1:53:39 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 1:53:39 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 1:53:39 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 1:54:39 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 1:54:39 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 1:54:39 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"12-6-2013 13:52:39","End":"12-6-2013 13:55:32"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 1:55:40 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 1:55:40 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 1:55:40 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 13:52:39","End":"12-6-2013 13:56:33"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 1:56:40 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 1:56:40 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 1:56:40 PM Iran Standard Time"}}
+{"Call": {"Number":"+98912779####","Duration":"61","Time":"12-6-2013 13:55:24","Type":"1"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"12-6-2013 13:56:45","End":"12-6-2013 13:56:56"}}
+{"Application":{"ProcessName":"com.android.music","Start":"12-6-2013 13:56:56","End":"12-6-2013 13:57:06"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 1:57:40 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 1:57:40 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 1:57:40 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 1:58:40 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 1:58:40 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 1:58:40 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 1:59:40 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 1:59:40 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 1:59:40 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:00:40 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:00:40 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:00:40 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"12-6-2013 13:57:06","End":"12-6-2013 14:01:31"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:01:41 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:01:41 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:01:41 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 14:01:42","End":"12-6-2013 14:01:53"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 13:56:45","End":"12-6-2013 14:01:53"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 14:01:31","End":"12-6-2013 14:02:24"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:02:41 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:02:41 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:02:41 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:14:31 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:14:31 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:14:31 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.samsung.sec.android.appwidget.programmonitorwidget","Start":"12-6-2013 14:14:31","End":"12-6-2013 14:14:42"}}
+{"Application":{"ProcessName":"com.rechild.advancedtaskkillerpro","Start":"12-6-2013 14:14:31","End":"12-6-2013 14:14:42"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"12-6-2013 14:14:42","End":"12-6-2013 14:14:54"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:15:31 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:15:31 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:15:31 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 14:14:42","End":"12-6-2013 14:16:15"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:16:31 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:16:31 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:16:31 PM Iran Standard Time"}}
+{"Call": {"Number":"0####","Duration":"32","Time":"12-6-2013 14:16:07","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"12-6-2013 14:16:55","End":"12-6-2013 14:17:06"}}
+{"Application":{"ProcessName":"com.tencent.mm:tools","Start":"12-6-2013 14:17:06","End":"12-6-2013 14:17:16"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:17:31 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:17:31 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:17:31 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:18:31 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:18:31 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:18:31 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:19:31 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:19:31 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:19:31 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 14:14:31","End":"12-6-2013 14:19:37"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:20:31 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:20:31 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:20:31 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:21:31 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:21:31 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:21:31 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"12-6-2013 14:17:06","End":"12-6-2013 14:22:08"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:22:32 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:22:32 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:22:32 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:23:32 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:23:32 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:23:32 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"12-6-2013 14:22:08","End":"12-6-2013 14:24:09"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:24:32 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:24:32 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:24:32 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 14:19:37","End":"12-6-2013 14:24:39"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:40:41 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:40:41 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:40:41 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:41:41 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:41:41 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:41:41 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:42:41 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:42:41 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:42:41 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:43:41 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:43:41 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:43:41 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:44:41 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:44:41 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:44:41 PM Iran Standard Time"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 14:45:02","Type":"3"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 14:45:02","Type":"3"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"12-6-2013 14:45:21","End":"12-6-2013 14:45:32"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:45:41 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:45:41 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:45:41 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:50:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:50:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:50:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:51:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:51:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:51:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:52:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:52:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:52:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:53:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:53:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:53:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:54:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:54:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:54:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:55:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:55:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:55:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 2:56:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 2:56:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 2:56:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 3:07:03 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 3:07:03 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 3:07:03 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 3:08:03 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 3:08:03 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 3:08:03 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 3:09:03 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 3:09:03 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 3:09:03 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 15:09:23","End":"12-6-2013 15:09:33"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 15:09:23","End":"12-6-2013 15:09:33"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 3:10:03 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 3:10:03 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 3:10:03 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 15:10:06","End":"12-6-2013 15:10:16"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 15:09:33","End":"12-6-2013 15:10:16"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 15:10:26","End":"12-6-2013 15:10:37"}}
+{"WiFi":{"SSID":"melikarst","BSSID":"b0:48:7a:ec:87:97","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-83","frequency":"2457","time":"Friday, December 6, 2013 3:11:05 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Melika-Melina","BSSID":"78:54:2e:d7:c1:5d","capabilities":"[WPA-PSK-TKIP+CCMP][WPS]","level":"-84","frequency":"2462","time":"Friday, December 6, 2013 3:11:05 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP","BSSID":"d8:5d:4c:b1:cc:39","capabilities":"[WPA2-PSK-CCMP]","level":"-86","frequency":"2417","time":"Friday, December 6, 2013 3:11:05 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"12-6-2013 15:10:16","End":"12-6-2013 15:11:48"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 15:15:43","End":"12-6-2013 15:15:53"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 15:15:43","End":"12-6-2013 15:15:53"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 15:16:04","End":"12-6-2013 15:16:37"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 15:16:04","End":"12-6-2013 15:16:37"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 15:22:09","End":"12-6-2013 15:22:19"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 15:22:39","End":"12-6-2013 15:22:49"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 15:23:29","End":"12-6-2013 15:23:40"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 15:22:09","End":"12-6-2013 15:23:50"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 15:22:09","End":"12-6-2013 15:23:50"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 15:24:04","End":"12-6-2013 15:29:04"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 15:24:04","End":"12-6-2013 15:29:04"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 15:29:04","End":"12-6-2013 15:34:05"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 15:29:04","End":"12-6-2013 15:34:05"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 15:34:05","End":"12-6-2013 15:34:45"}}
+{"Call": {"Number":"+98918707####","Duration":"7","Time":"12-6-2013 15:34:40","Type":"1"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 15:34:57","End":"12-6-2013 15:37:28"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 15:34:05","End":"12-6-2013 15:37:38"}}
+{"Call": {"Number":"+98918707####","Duration":"193","Time":"12-6-2013 15:37:28","Type":"2"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 15:41:07","End":"12-6-2013 15:44:25"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 15:41:07","End":"12-6-2013 15:44:45"}}
+{"Call": {"Number":"+98917836####","Duration":"82","Time":"12-6-2013 15:44:20","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"12-6-2013 15:58:55","End":"12-6-2013 15:59:05"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 15:58:55","End":"12-6-2013 15:59:05"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"12-6-2013 16:01:52","End":"12-6-2013 16:02:02"}}
+{"Call": {"Number":"0912575####","Duration":"0","Time":"12-6-2013 16:02:01","Type":"2"}}
+{"Call": {"Number":"0912779####","Duration":"234","Time":"12-6-2013 16:02:09","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 16:06:17","End":"12-6-2013 16:07:08"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 16:01:52","End":"12-6-2013 16:07:08"}}
+{"Call": {"Number":"+98935377####","Duration":"0","Time":"12-6-2013 16:07:07","Type":"3"}}
+{"Call": {"Number":"+98935377####","Duration":"0","Time":"12-6-2013 16:07:07","Type":"3"}}
+{"Call": {"Number":"+98935377####","Duration":"0","Time":"12-6-2013 16:07:07","Type":"3"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 16:07:18","End":"12-6-2013 16:07:28"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 16:07:18","End":"12-6-2013 16:07:28"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 16:07:08","End":"12-6-2013 16:07:28"}}
+{"Call": {"Number":"+98935377####","Duration":"0","Time":"12-6-2013 16:07:19","Type":"2"}}
+{"Call": {"Number":"+98935377####","Duration":"0","Time":"12-6-2013 16:07:19","Type":"2"}}
+{"Call": {"Number":"+98935377####","Duration":"0","Time":"12-6-2013 16:07:19","Type":"2"}}
+{"Call": {"Number":"+98935377####","Duration":"0","Time":"12-6-2013 16:07:36","Type":"2"}}
+{"Call": {"Number":"+98935377####","Duration":"0","Time":"12-6-2013 16:07:36","Type":"2"}}
+{"Call": {"Number":"+98935377####","Duration":"0","Time":"12-6-2013 16:07:37","Type":"3"}}
+{"Call": {"Number":"+98935377####","Duration":"0","Time":"12-6-2013 16:07:37","Type":"3"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 16:07:38","End":"12-6-2013 16:07:48"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 16:07:38","End":"12-6-2013 16:08:32"}}
+{"Call": {"Number":"+98912458####","Duration":"0","Time":"12-6-2013 16:08:32","Type":"3"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 16:08:56","Type":"3"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 16:10:28","Type":"3"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 16:10:28","Type":"3"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 16:10:28","Type":"3"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 16:10:28","Type":"3"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 16:13:13","End":"12-6-2013 16:13:23"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 16:13:13","End":"12-6-2013 16:13:23"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 16:13:56","Type":"3"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 16:13:56","Type":"3"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 16:13:23","End":"12-6-2013 16:14:14"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 16:13:56","Type":"3"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 16:14:14","End":"12-6-2013 16:14:24"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 16:14:14","End":"12-6-2013 16:14:24"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 16:14:23","Type":"2"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 16:13:13","End":"12-6-2013 16:14:54"}}
+{"Call": {"Number":"+98917836####","Duration":"192","Time":"12-6-2013 16:14:41","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 16:18:05","End":"12-6-2013 16:18:15"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 16:18:05","End":"12-6-2013 16:18:15"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 16:18:25","End":"12-6-2013 16:18:55"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 16:19:15","End":"12-6-2013 16:19:25"}}
+{"Application":{"ProcessName":"com.sec.android.provider.badge","Start":"12-6-2013 16:19:15","End":"12-6-2013 16:19:35"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 16:20:26","End":"12-6-2013 16:20:46"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 16:20:56","End":"12-6-2013 16:21:06"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 16:18:15","End":"12-6-2013 16:22:17"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 16:22:17","End":"12-6-2013 16:22:27"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 16:22:17","End":"12-6-2013 16:22:37"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 16:18:05","End":"12-6-2013 16:23:08"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 16:23:28","End":"12-6-2013 16:23:38"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 16:22:27","End":"12-6-2013 16:23:38"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 16:23:08","End":"12-6-2013 16:23:38"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 16:24:45","End":"12-6-2013 16:26:14"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 16:24:45","End":"12-6-2013 16:26:14"}}
+{"Call": {"Number":"+98935716####","Duration":"0","Time":"12-6-2013 16:26:10","Type":"3"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 16:24:45","End":"12-6-2013 16:26:34"}}
+{"Call": {"Number":"+98935716####","Duration":"0","Time":"12-6-2013 16:26:10","Type":"3"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 16:26:49","End":"12-6-2013 16:27:25"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 16:26:49","End":"12-6-2013 16:27:25"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 16:27:35","End":"12-6-2013 16:27:45"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 16:27:25","End":"12-6-2013 16:27:45"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 16:26:49","End":"12-6-2013 16:27:45"}}
+{"Call": {"Number":"+98935716####","Duration":"8","Time":"12-6-2013 16:27:41","Type":"1"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 16:27:58","End":"12-6-2013 16:28:08"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 16:27:58","End":"12-6-2013 16:28:08"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 16:27:58","End":"12-6-2013 16:28:48"}}
+{"Call": {"Number":"+98930297####","Duration":"67","Time":"12-6-2013 16:28:10","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 16:29:35","End":"12-6-2013 16:29:45"}}
+{"Application":{"ProcessName":"com.sec.android.provider.badge","Start":"12-6-2013 16:29:45","End":"12-6-2013 16:29:56"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 16:29:35","End":"12-6-2013 16:31:16"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 16:29:35","End":"12-6-2013 16:31:16"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 16:32:34","End":"12-6-2013 16:33:15"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 16:32:34","End":"12-6-2013 16:33:15"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 16:33:39","End":"12-6-2013 16:36:19"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 16:33:39","End":"12-6-2013 16:36:52"}}
+{"Call": {"Number":"+98935716####","Duration":"0","Time":"12-6-2013 16:37:09","Type":"3"}}
+{"Call": {"Number":"+98935716####","Duration":"0","Time":"12-6-2013 16:37:09","Type":"3"}}
+{"Call": {"Number":"+98935716####","Duration":"0","Time":"12-6-2013 16:37:09","Type":"3"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 16:38:14","End":"12-6-2013 16:38:24"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 16:38:14","End":"12-6-2013 16:38:24"}}
+{"Call": {"Number":"+98930297####","Duration":"22","Time":"12-6-2013 16:38:20","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 16:39:04","End":"12-6-2013 16:39:34"}}
+{"Call": {"Number":"+98930850####","Duration":"0","Time":"12-6-2013 16:39:36","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 16:39:04","End":"12-6-2013 16:39:44"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 16:39:34","End":"12-6-2013 16:39:44"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"12-6-2013 18:14:41","End":"12-6-2013 18:14:53"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 18:14:10","End":"12-6-2013 18:14:53"}}
+{"Call": {"Number":"+98917836####","Duration":"45","Time":"12-6-2013 18:14:09","Type":"1"}}
+{"Application":{"ProcessName":"com.sec.android.provider.badge","Start":"12-6-2013 18:15:03","End":"12-6-2013 18:18:38"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 18:15:03","End":"12-6-2013 18:18:38"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"12-6-2013 18:15:03","End":"12-6-2013 18:18:38"}}
+{"Call": {"Number":"+98852324####","Duration":"122","Time":"12-6-2013 18:18:35","Type":"1"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 18:15:03","End":"12-6-2013 18:20:49"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 18:20:49","End":"12-6-2013 18:21:28"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"12-6-2013 18:20:49","End":"12-6-2013 18:21:28"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 18:20:51","End":"12-6-2013 18:21:28"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 18:38:54","Type":"3"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 18:39:14","End":"12-6-2013 18:39:24"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"12-6-2013 18:39:24","End":"12-6-2013 18:39:34"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 18:39:04","End":"12-6-2013 18:40:15"}}
+{"Call": {"Number":"0917836####","Duration":"330","Time":"12-6-2013 18:39:24","Type":"2"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 18:46:46","End":"12-6-2013 18:47:56"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 18:48:16","End":"12-6-2013 18:48:27"}}
+{"Call": {"Number":"0917836####","Duration":"220","Time":"12-6-2013 18:46:43","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"12-6-2013 18:50:37","End":"12-6-2013 18:51:11"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 18:50:37","End":"12-6-2013 18:51:11"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 18:56:29","End":"12-6-2013 18:56:39"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 18:56:29","End":"12-6-2013 18:56:39"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 19:07:29","End":"12-6-2013 19:07:39"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 19:07:29","End":"12-6-2013 19:07:39"}}
+{"Call": {"Number":"+98935377####","Duration":"0","Time":"12-6-2013 19:13:02","Type":"3"}}
+{"Call": {"Number":"+98935377####","Duration":"0","Time":"12-6-2013 19:13:02","Type":"3"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 19:13:08","End":"12-6-2013 19:13:18"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 19:13:18","End":"12-6-2013 19:13:28"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 19:13:08","End":"12-6-2013 19:13:28"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 19:13:08","End":"12-6-2013 19:13:28"}}
+{"Call": {"Number":"+98935377####","Duration":"0","Time":"12-6-2013 19:13:19","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 19:13:39","End":"12-6-2013 19:13:59"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 19:13:39","End":"12-6-2013 19:13:59"}}
+{"Call": {"Number":"+98935377####","Duration":"0","Time":"12-6-2013 19:13:58","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 19:14:09","End":"12-6-2013 19:14:19"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 19:13:39","End":"12-6-2013 19:14:29"}}
+{"Call": {"Number":"+98935377####","Duration":"26","Time":"12-6-2013 19:14:15","Type":"2"}}
+{"Application":{"ProcessName":"com.grinzone.incallrecorder","Start":"12-6-2013 19:14:56","End":"12-6-2013 19:15:07"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 19:15:07","End":"12-6-2013 19:15:19"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 19:14:56","End":"12-6-2013 19:15:39"}}
+{"Call": {"Number":"+98935377####","Duration":"0","Time":"12-6-2013 19:16:05","Type":"3"}}
+{"Call": {"Number":"+98935377####","Duration":"0","Time":"12-6-2013 19:16:43","Type":"3"}}
+{"Call": {"Number":"+98935377####","Duration":"0","Time":"12-6-2013 19:16:43","Type":"3"}}
+{"Call": {"Number":"+98935377####","Duration":"0","Time":"12-6-2013 19:16:43","Type":"3"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 19:17:22","End":"12-6-2013 19:17:32"}}
+{"Call": {"Number":"+98935377####","Duration":"58","Time":"12-6-2013 19:17:28","Type":"2"}}
+{"Call": {"Number":"+98935377####","Duration":"58","Time":"12-6-2013 19:17:28","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 19:18:46","End":"12-6-2013 19:19:16"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 19:18:46","End":"12-6-2013 19:19:16"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 19:18:46","End":"12-6-2013 19:20:36"}}
+{"Call": {"Number":"+98918442####","Duration":"0","Time":"12-6-2013 19:20:34","Type":"3"}}
+{"Call": {"Number":"+98918442####","Duration":"0","Time":"12-6-2013 19:20:34","Type":"3"}}
+{"Call": {"Number":"+98918442####","Duration":"0","Time":"12-6-2013 19:20:34","Type":"3"}}
+{"Call": {"Number":"+98918442####","Duration":"0","Time":"12-6-2013 19:20:34","Type":"3"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 19:20:56","End":"12-6-2013 19:21:16"}}
+{"Call": {"Number":"0912390####","Duration":"0","Time":"12-6-2013 19:21:10","Type":"2"}}
+{"Application":{"ProcessName":"hongbo.callrecorder","Start":"12-6-2013 19:21:56","End":"12-6-2013 19:22:06"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 19:21:56","End":"12-6-2013 19:22:16"}}
+{"Call": {"Number":"0939120####","Duration":"10","Time":"12-6-2013 19:21:56","Type":"2"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 19:22:32","End":"12-6-2013 19:22:42"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 19:22:52","End":"12-6-2013 19:23:02"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 19:22:52","End":"12-6-2013 19:23:02"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 19:22:52","End":"12-6-2013 19:23:02"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 19:25:10","End":"12-6-2013 19:25:20"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 19:25:10","End":"12-6-2013 19:25:20"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 19:25:10","End":"12-6-2013 19:25:20"}}
+{"Call": {"Number":"+98912472####","Duration":"0","Time":"12-6-2013 19:25:17","Type":"2"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 19:26:11","End":"12-6-2013 19:26:51"}}
+{"Call": {"Number":"+98912472####","Duration":"0","Time":"12-6-2013 19:25:17","Type":"2"}}
+{"Call": {"Number":"+98912472####","Duration":"0","Time":"12-6-2013 19:25:17","Type":"2"}}
+{"Call": {"Number":"+98912472####","Duration":"0","Time":"12-6-2013 19:25:17","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 19:27:19","End":"12-6-2013 19:29:19"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 19:27:19","End":"12-6-2013 19:29:19"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 19:27:19","End":"12-6-2013 19:29:19"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 19:30:45","End":"12-6-2013 19:30:57"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 19:30:45","End":"12-6-2013 19:30:57"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 19:30:57","End":"12-6-2013 19:31:07"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 19:30:45","End":"12-6-2013 19:31:21"}}
+{"Call": {"Number":"+98917836####","Duration":"71","Time":"12-6-2013 19:31:00","Type":"1"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 19:32:21","End":"12-6-2013 19:32:31"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 19:32:31","End":"12-6-2013 19:32:51"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 19:32:31","End":"12-6-2013 19:32:51"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 19:32:21","End":"12-6-2013 19:33:01"}}
+{"Call": {"Number":"+98912472####","Duration":"0","Time":"12-6-2013 19:36:20","Type":"3"}}
+{"Call": {"Number":"+98912472####","Duration":"0","Time":"12-6-2013 19:36:20","Type":"3"}}
+{"Call": {"Number":"+98912472####","Duration":"0","Time":"12-6-2013 19:36:20","Type":"3"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 19:37:02","End":"12-6-2013 19:37:49"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 19:37:02","End":"12-6-2013 19:37:49"}}
+{"Call": {"Number":"+98912472####","Duration":"0","Time":"12-6-2013 19:37:46","Type":"3"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 19:37:02","End":"12-6-2013 19:38:09"}}
+{"Call": {"Number":"+98912472####","Duration":"0","Time":"12-6-2013 19:37:46","Type":"3"}}
+{"Call": {"Number":"+98912472####","Duration":"0","Time":"12-6-2013 19:45:36","Type":"3"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 19:45:52","End":"12-6-2013 19:46:07"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 19:45:52","End":"12-6-2013 19:46:07"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 19:45:42","End":"12-6-2013 19:46:07"}}
+{"Call": {"Number":"+98912472####","Duration":"0","Time":"12-6-2013 19:45:36","Type":"3"}}
+{"Call": {"Number":"+98912472####","Duration":"0","Time":"12-6-2013 19:55:58","Type":"3"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 19:56:03","End":"12-6-2013 19:56:23"}}
+{"Call": {"Number":"+98912472####","Duration":"0","Time":"12-6-2013 19:55:58","Type":"3"}}
+{"Call": {"Number":"+98912472####","Duration":"0","Time":"12-6-2013 20:28:32","Type":"3"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 20:28:49","End":"12-6-2013 20:28:59"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 20:28:49","End":"12-6-2013 20:28:59"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 20:28:38","End":"12-6-2013 20:28:59"}}
+{"Call": {"Number":"+98912472####","Duration":"0","Time":"12-6-2013 20:28:32","Type":"3"}}
+{"Application":{"ProcessName":"com.sec.android.app.dialertab","Start":"12-6-2013 20:32:02","End":"12-6-2013 20:35:17"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 20:32:02","End":"12-6-2013 20:35:17"}}
+{"Application":{"ProcessName":"hongbo.callrecorder","Start":"12-6-2013 21:36:36","End":"12-6-2013 21:36:46"}}
+{"Application":{"ProcessName":"com.behsazan.client.Activity","Start":"12-6-2013 21:36:26","End":"12-6-2013 21:37:07"}}
+{"Call": {"Number":"+98917836####","Duration":"0","Time":"12-6-2013 21:37:05","Type":"3"}}
+{"Application":{"ProcessName":"com.behsazan.client.Activity","Start":"12-6-2013 21:37:27","End":"12-6-2013 21:38:17"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 21:38:17","End":"12-6-2013 21:38:27"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 21:36:26","End":"12-6-2013 21:38:37"}}
+{"Call": {"Number":"+98917836####","Duration":"214","Time":"12-6-2013 21:38:23","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 21:42:10","End":"12-6-2013 21:42:20"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 21:42:10","End":"12-6-2013 21:45:00"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 21:42:10","End":"12-6-2013 21:45:00"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 21:45:10","End":"12-6-2013 21:48:01"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 21:45:10","End":"12-6-2013 21:48:11"}}
+{"Call": {"Number":"0917836####","Duration":"247","Time":"12-6-2013 21:48:00","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 21:52:22","End":"12-6-2013 21:52:32"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 21:52:22","End":"12-6-2013 21:52:32"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 21:52:22","End":"12-6-2013 21:52:32"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 21:53:09","End":"12-6-2013 21:54:05"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 21:53:09","End":"12-6-2013 21:54:05"}}
+{"Call": {"Number":"+98917836####","Duration":"89","Time":"12-6-2013 21:54:01","Type":"2"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 21:56:05","End":"12-6-2013 21:56:45"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 21:56:05","End":"12-6-2013 21:56:55"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 21:57:26","End":"12-6-2013 21:57:36"}}
+{"Call": {"Number":"+98917836####","Duration":"218","Time":"12-6-2013 21:56:39","Type":"1"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 22:00:38","End":"12-6-2013 22:03:44"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 22:00:38","End":"12-6-2013 22:03:44"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 22:07:50","End":"12-6-2013 22:24:49"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 22:07:50","End":"12-6-2013 22:24:49"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 22:26:49","End":"12-6-2013 22:27:39"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 22:26:49","End":"12-6-2013 22:27:39"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 22:27:54","End":"12-6-2013 22:28:04"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 22:27:54","End":"12-6-2013 22:28:34"}}
+{"Call": {"Number":"+98917836####","Duration":"329","Time":"12-6-2013 22:27:57","Type":"2"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 22:33:46","End":"12-6-2013 22:33:56"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 22:33:46","End":"12-6-2013 22:35:37"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 22:33:46","End":"12-6-2013 22:35:37"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 22:36:11","End":"12-6-2013 22:41:21"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 22:36:11","End":"12-6-2013 22:41:21"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 22:41:21","End":"12-6-2013 22:41:31"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 22:41:21","End":"12-6-2013 22:41:31"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 22:41:43","End":"12-6-2013 22:43:28"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 22:41:43","End":"12-6-2013 22:43:28"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 22:43:41","End":"12-6-2013 22:45:04"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 22:43:41","End":"12-6-2013 22:45:04"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 22:46:43","End":"12-6-2013 22:46:53"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 22:46:43","End":"12-6-2013 22:48:03"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 22:46:43","End":"12-6-2013 22:48:03"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 22:48:29","End":"12-6-2013 22:54:22"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 22:48:29","End":"12-6-2013 22:54:22"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 22:55:11","End":"12-6-2013 22:55:41"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 22:55:11","End":"12-6-2013 22:55:41"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 23:00:34","End":"12-6-2013 23:01:14"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 23:00:34","End":"12-6-2013 23:01:14"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 23:01:41","End":"12-6-2013 23:04:21"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 23:01:41","End":"12-6-2013 23:05:50"}}
+{"Call": {"Number":"+98912127####","Duration":"199","Time":"12-6-2013 23:04:14","Type":"1"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 23:07:46","End":"12-6-2013 23:07:56"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 23:07:46","End":"12-6-2013 23:08:06"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 23:07:46","End":"12-6-2013 23:08:06"}}
+{"Call": {"Number":"+98912127####","Duration":"277","Time":"12-6-2013 23:08:02","Type":"1"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 23:12:44","End":"12-6-2013 23:12:54"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 23:12:44","End":"12-6-2013 23:12:54"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-6-2013 23:13:04","End":"12-6-2013 23:13:14"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-6-2013 23:13:04","End":"12-6-2013 23:13:24"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-6-2013 23:13:04","End":"12-6-2013 23:13:24"}}

@@ -1,0 +1,105 @@
+{"Location":{"Latitude":"35.80431","Longtitude":"51.4656951","Altitude":"0.0","time":"12-15-2013 22:31:15","Accuracy":"1206.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.htc.android.htcime:provider","Start":"12-15-2013 23:03:28","End":"12-15-2013 23:07:05"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"12-15-2013 23:03:28","End":"12-15-2013 23:07:05"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-15-2013 23:03:28","End":"12-15-2013 23:07:05"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-15-2013 23:54:03","End":"12-15-2013 23:55:13"}}
+{"Location":{"Latitude":"35.7999954","Longtitude":"51.4664916","Altitude":"0.0","time":"12-16-2013 00:23:49","Accuracy":"1286.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.htc.android.htcime:provider","Start":"12-16-2013 00:23:36","End":"12-16-2013 00:24:16"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"12-16-2013 00:23:36","End":"12-16-2013 00:24:16"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-16-2013 00:23:36","End":"12-16-2013 00:24:16"}}
+{"Location":{"Latitude":"35.8057492","Longtitude":"51.4624758","Altitude":"0.0","time":"12-16-2013 00:35:50","Accuracy":"1234.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"12-16-2013 00:35:42","End":"12-16-2013 00:35:52"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-16-2013 00:35:42","End":"12-16-2013 00:36:02"}}
+{"Call": {"Number":"+98213335####","Duration":"21","Time":"12-16-2013 00:35:33","Type":"1"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-16-2013 00:36:41","End":"12-16-2013 00:37:01"}}
+{"Location":{"Latitude":"35.8070082","Longtitude":"51.4617229","Altitude":"0.0","time":"12-16-2013 00:37:21","Accuracy":"1148.0","Provider":"network"}}
+{"Call": {"Number":"+98213335####","Duration":"114","Time":"12-16-2013 00:36:35","Type":"1"}}
+{"Location":{"Latitude":"35.8063787","Longtitude":"51.4620993","Altitude":"0.0","time":"12-16-2013 00:38:51","Accuracy":"1148.0","Provider":"network"}}
+{"Location":{"Latitude":"35.8070082","Longtitude":"51.4617229","Altitude":"0.0","time":"12-16-2013 00:39:36","Accuracy":"1148.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-16-2013 00:46:13","End":"12-16-2013 00:46:33"}}
+{"Call": {"Number":"0912614####","Duration":"41","Time":"12-16-2013 00:46:22","Type":"2"}}
+{"Application":{"ProcessName":"com.dropbox.android","Start":"12-16-2013 00:47:29","End":"12-16-2013 00:47:39"}}
+{"Location":{"Latitude":"35.6650716","Longtitude":"51.4497159","Altitude":"0.0","time":"12-16-2013 02:04:13","Accuracy":"1202.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-16-2013 02:04:03","End":"12-16-2013 02:04:23"}}
+{"Application":{"ProcessName":"com.htc.android.htcime:provider","Start":"12-16-2013 02:04:03","End":"12-16-2013 02:05:53"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"12-16-2013 02:04:03","End":"12-16-2013 02:05:53"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"12-16-2013 02:05:53","End":"12-16-2013 02:07:14"}}
+{"Application":{"ProcessName":"com.sgiggle.production","Start":"12-16-2013 02:07:14","End":"12-16-2013 02:07:34"}}
+{"Application":{"ProcessName":"com.htc.android.htcime:provider","Start":"12-16-2013 02:07:34","End":"12-16-2013 02:07:54"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"12-16-2013 02:07:34","End":"12-16-2013 02:07:54"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-16-2013 02:04:03","End":"12-16-2013 02:08:44"}}
+{"Application":{"ProcessName":"com.dropbox.android","Start":"12-16-2013 02:19:21","End":"12-16-2013 02:19:31"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-16-2013 02:19:21","End":"12-16-2013 02:19:51"}}
+{"Application":{"ProcessName":"com.jetappfactory.jetaudioplus","Start":"12-16-2013 02:19:31","End":"12-16-2013 02:19:51"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-16-2013 02:20:01","End":"12-16-2013 02:20:11"}}
+{"Application":{"ProcessName":"com.jetappfactory.jetaudioplus","Start":"12-16-2013 02:20:01","End":"12-16-2013 02:20:11"}}
+{"Application":{"ProcessName":"com.tencent.mm:tools","Start":"12-16-2013 02:31:55","End":"12-16-2013 02:32:05"}}
+{"Location":{"Latitude":"35.6631237","Longtitude":"51.453082","Altitude":"0.0","time":"12-16-2013 02:35:01","Accuracy":"1107.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.htc.android.htcime:provider","Start":"12-16-2013 02:31:34","End":"12-16-2013 02:35:16"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"12-16-2013 02:31:34","End":"12-16-2013 02:35:16"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-16-2013 02:31:34","End":"12-16-2013 02:35:16"}}
+{"Location":{"Latitude":"35.6650716","Longtitude":"51.4497159","Altitude":"0.0","time":"12-16-2013 02:38:32","Accuracy":"1202.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6631237","Longtitude":"51.453082","Altitude":"0.0","time":"12-16-2013 02:40:30","Accuracy":"1107.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6650716","Longtitude":"51.4497159","Altitude":"0.0","time":"12-16-2013 03:24:20","Accuracy":"1202.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.estrongs.android.pop","Start":"12-16-2013 03:24:16","End":"12-16-2013 03:24:26"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-16-2013 03:24:16","End":"12-16-2013 03:24:26"}}
+{"Application":{"ProcessName":"com.htc.album","Start":"12-16-2013 03:26:36","End":"12-16-2013 03:26:56"}}
+{"Application":{"ProcessName":"com.htc.android.htcime:provider","Start":"12-16-2013 03:28:37","End":"12-16-2013 03:28:47"}}
+{"Application":{"ProcessName":"com.htc.slideshow","Start":"12-16-2013 03:26:56","End":"12-16-2013 03:29:27"}}
+{"Application":{"ProcessName":"com.htc.album","Start":"12-16-2013 03:29:27","End":"12-16-2013 03:29:57"}}
+{"Application":{"ProcessName":"com.htc.android.htcime:provider","Start":"12-16-2013 03:30:17","End":"12-16-2013 03:30:37"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"12-16-2013 03:30:17","End":"12-16-2013 03:30:37"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-16-2013 03:26:36","End":"12-16-2013 03:30:47"}}
+{"Application":{"ProcessName":"com.sgiggle.production","Start":"12-16-2013 03:30:58","End":"12-16-2013 03:31:08"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-16-2013 03:30:58","End":"12-16-2013 03:31:28"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-16-2013 03:34:39","End":"12-16-2013 03:35:29"}}
+{"Application":{"ProcessName":"com.htc.android.htcime:provider","Start":"12-16-2013 03:39:30","End":"12-16-2013 03:39:50"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"12-16-2013 03:39:30","End":"12-16-2013 03:39:50"}}
+{"Application":{"ProcessName":"com.estrongs.android.pop","Start":"12-16-2013 03:39:50","End":"12-16-2013 03:40:00"}}
+{"Location":{"Latitude":"35.6631237","Longtitude":"51.453082","Altitude":"0.0","time":"12-16-2013 03:40:09","Accuracy":"1107.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6650716","Longtitude":"51.4497159","Altitude":"0.0","time":"12-16-2013 03:41:39","Accuracy":"1202.0","Provider":"network"}}
+{"Location":{"Latitude":"35.6611021","Longtitude":"51.448412","Altitude":"0.0","time":"12-16-2013 03:43:09","Accuracy":"1111.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.htc.android.htcime:provider","Start":"12-16-2013 03:40:00","End":"12-16-2013 03:43:41"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"12-16-2013 03:40:00","End":"12-16-2013 03:43:41"}}
+{"Location":{"Latitude":"35.663773","Longtitude":"51.45196","Altitude":"0.0","time":"12-16-2013 12:16:18","Accuracy":"1107.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-16-2013 12:16:08","End":"12-16-2013 12:16:38"}}
+{"Location":{"Latitude":"35.6650716","Longtitude":"51.4497159","Altitude":"0.0","time":"12-16-2013 12:16:48","Accuracy":"1202.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.htc.android.htcime:provider","Start":"12-16-2013 12:16:28","End":"12-16-2013 12:18:48"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"12-16-2013 12:16:28","End":"12-16-2013 12:18:48"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-16-2013 12:16:08","End":"12-16-2013 12:19:08"}}
+{"Call": {"Number":"+98912770####","Duration":"69","Time":"12-16-2013 12:18:58","Type":"2"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"12-16-2013 12:20:21","End":"12-16-2013 12:20:31"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"12-16-2013 12:20:31","End":"12-16-2013 12:20:41"}}
+{"Application":{"ProcessName":"com.htc.android.htcime:provider","Start":"12-16-2013 12:20:31","End":"12-16-2013 12:20:51"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-16-2013 12:20:21","End":"12-16-2013 12:22:52"}}
+{"Application":{"ProcessName":"com.htc.launcher.add_to_home","Start":"12-16-2013 12:20:51","End":"12-16-2013 12:22:52"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-16-2013 12:28:55","End":"12-16-2013 12:29:15"}}
+{"Location":{"Latitude":"35.6631237","Longtitude":"51.453082","Altitude":"0.0","time":"12-16-2013 12:29:37","Accuracy":"1107.0","Provider":"network"}}
+{"Call": {"Number":"+98217735####","Duration":"60","Time":"12-16-2013 12:28:54","Type":"1"}}
+{"Location":{"Latitude":"35.6650716","Longtitude":"51.4497159","Altitude":"0.0","time":"12-16-2013 12:30:25","Accuracy":"1202.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-16-2013 12:30:05","End":"12-16-2013 12:30:25"}}
+{"Call": {"Number":"0935169####","Duration":"242","Time":"12-16-2013 12:30:17","Type":"2"}}
+{"Application":{"ProcessName":"com.htc.android.htcime:provider","Start":"12-16-2013 13:17:55","End":"12-16-2013 13:18:15"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"12-16-2013 13:17:55","End":"12-16-2013 13:18:15"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-16-2013 13:17:55","End":"12-16-2013 13:18:32"}}
+{"Location":{"Latitude":"35.6631237","Longtitude":"51.453082","Altitude":"0.0","time":"12-16-2013 13:18:33","Accuracy":"1107.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-16-2013 13:23:58","End":"12-16-2013 13:24:18"}}
+{"Call": {"Number":"+98912770####","Duration":"8","Time":"12-16-2013 13:24:07","Type":"2"}}
+{"Location":{"Latitude":"35.6650716","Longtitude":"51.4497159","Altitude":"0.0","time":"12-16-2013 13:24:34","Accuracy":"1202.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-16-2013 13:24:38","End":"12-16-2013 13:24:48"}}
+{"Application":{"ProcessName":"com.google.android.apps.plus","Start":"12-16-2013 13:24:38","End":"12-16-2013 13:24:48"}}
+{"Location":{"Latitude":"35.6611021","Longtitude":"51.448412","Altitude":"0.0","time":"12-16-2013 13:34:22","Accuracy":"1111.0","Provider":"network"}}
+{"Call": {"Number":"+98912770####","Duration":"0","Time":"12-16-2013 13:34:15","Type":"3"}}
+{"Application":{"ProcessName":"com.htc.task","Start":"12-16-2013 13:34:17","End":"12-16-2013 13:34:27"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-16-2013 13:34:17","End":"12-16-2013 13:34:47"}}
+{"Call": {"Number":"+98912770####","Duration":"0","Time":"12-16-2013 14:01:05","Type":"3"}}
+{"Location":{"Latitude":"35.6631237","Longtitude":"51.453082","Altitude":"0.0","time":"12-16-2013 14:01:26","Accuracy":"1107.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-16-2013 14:01:11","End":"12-16-2013 14:01:41"}}
+{"Call": {"Number":"+98935877####","Duration":"0","Time":"12-16-2013 15:07:44","Type":"3"}}
+{"Location":{"Latitude":"35.6611021","Longtitude":"51.448412","Altitude":"0.0","time":"12-16-2013 15:08:23","Accuracy":"1111.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.htc.bg","Start":"12-16-2013 15:08:18","End":"12-16-2013 15:08:28"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"12-16-2013 15:08:18","End":"12-16-2013 15:08:28"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-16-2013 15:07:48","End":"12-16-2013 15:08:38"}}
+{"Application":{"ProcessName":"www.esteghlalrss.com","Start":"12-16-2013 15:30:03","End":"12-16-2013 15:30:13"}}
+{"Location":{"Latitude":"35.6650716","Longtitude":"51.4497159","Altitude":"0.0","time":"12-16-2013 15:30:19","Accuracy":"1202.0","Provider":"network"}}
+{"Call": {"Number":"+98912298####","Duration":"0","Time":"12-16-2013 15:29:55","Type":"3"}}

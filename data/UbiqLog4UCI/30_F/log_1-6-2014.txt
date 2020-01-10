@@ -1,0 +1,508 @@
+{"Application":{"ProcessName":"com.tencent.mm","Start":"1-6-2014 08:35:51","End":"1-6-2014 08:35:51"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 08:35:51","End":"1-6-2014 08:36:01"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 08:35:51","End":"1-6-2014 08:36:01"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-6-2014 08:35:51","End":"1-6-2014 08:36:01"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"1-6-2014 08:35:51","End":"1-6-2014 08:36:01"}}
+{"Application":{"ProcessName":"com.htc.flexnet","Start":"1-6-2014 08:36:03","End":"1-6-2014 08:36:12"}}
+{"Application":{"ProcessName":"com.vodafone.smhs","Start":"1-6-2014 08:36:03","End":"1-6-2014 08:36:12"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"1-6-2014 08:36:12","End":"1-6-2014 08:36:13"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"1-6-2014 08:36:12","End":"1-6-2014 08:36:13"}}
+{"Location":{"Latitude":"35.7818101","Longtitude":"51.3452926","Altitude":"0.0","time":"1-6-2014 08:36:13","Accuracy":"1349.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.android.settings:remote","Start":"1-6-2014 08:36:13","End":"1-6-2014 08:36:13"}}
+{"Application":{"ProcessName":"com.google.android.apps.maps:FriendService","Start":"1-6-2014 08:36:13","End":"1-6-2014 08:36:23"}}
+{"Application":{"ProcessName":"com.htc.launcher.widgetscanner","Start":"1-6-2014 08:36:25","End":"1-6-2014 08:36:25"}}
+{"Application":{"ProcessName":"com.android.vending","Start":"1-6-2014 08:36:23","End":"1-6-2014 08:36:25"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 08:36:34","End":"1-6-2014 08:36:35"}}
+{"Application":{"ProcessName":"com.vodafone.vodafone360updates","Start":"1-6-2014 08:36:34","End":"1-6-2014 08:36:35"}}
+{"Application":{"ProcessName":"com.htc.flexnet","Start":"1-6-2014 08:36:35","End":"1-6-2014 08:36:35"}}
+{"SMS":{"Address":"+98218806####","type":"1","date":"1-5-2014 19:48:47","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-59","frequency":"2452","time":"Monday, January 6, 2014 8:36:52 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-77","frequency":"2462","time":"Monday, January 6, 2014 8:36:52 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"0063774402","BSSID":"ac:e8:7b:ab:66:65","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-86","frequency":"2432","time":"Monday, January 6, 2014 8:36:52 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-91","frequency":"2462","time":"Monday, January 6, 2014 8:36:52 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-72","frequency":"2447","time":"Monday, January 6, 2014 8:36:52 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-95","frequency":"2412","time":"Monday, January 6, 2014 8:36:52 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-59","frequency":"2452","time":"Monday, January 6, 2014 8:36:54 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-77","frequency":"2462","time":"Monday, January 6, 2014 8:36:54 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"0063774402","BSSID":"ac:e8:7b:ab:66:65","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-86","frequency":"2432","time":"Monday, January 6, 2014 8:36:54 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-91","frequency":"2462","time":"Monday, January 6, 2014 8:36:54 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-72","frequency":"2447","time":"Monday, January 6, 2014 8:36:54 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-95","frequency":"2412","time":"Monday, January 6, 2014 8:36:54 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-59","frequency":"2452","time":"Monday, January 6, 2014 8:37:12 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-77","frequency":"2462","time":"Monday, January 6, 2014 8:37:12 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"0063774402","BSSID":"ac:e8:7b:ab:66:65","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-86","frequency":"2432","time":"Monday, January 6, 2014 8:37:12 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-91","frequency":"2462","time":"Monday, January 6, 2014 8:37:12 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-72","frequency":"2447","time":"Monday, January 6, 2014 8:37:12 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-95","frequency":"2412","time":"Monday, January 6, 2014 8:37:12 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"1-6-2014 08:36:25","End":"1-6-2014 08:37:12"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"1-6-2014 08:37:12","End":"1-6-2014 08:37:22"}}
+{"Application":{"ProcessName":"com.google.android.apps.plus","Start":"1-6-2014 08:37:22","End":"1-6-2014 08:37:22"}}
+{"Application":{"ProcessName":"com.google.android.apps.plus","Start":"1-6-2014 08:37:33","End":"1-6-2014 08:37:42"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-59","frequency":"2452","time":"Monday, January 6, 2014 8:37:54 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-77","frequency":"2462","time":"Monday, January 6, 2014 8:37:54 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"0063774402","BSSID":"ac:e8:7b:ab:66:65","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-86","frequency":"2432","time":"Monday, January 6, 2014 8:37:54 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-91","frequency":"2462","time":"Monday, January 6, 2014 8:37:54 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-72","frequency":"2447","time":"Monday, January 6, 2014 8:37:54 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-95","frequency":"2412","time":"Monday, January 6, 2014 8:37:54 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-59","frequency":"2452","time":"Monday, January 6, 2014 8:37:55 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-77","frequency":"2462","time":"Monday, January 6, 2014 8:37:55 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"0063774402","BSSID":"ac:e8:7b:ab:66:65","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-86","frequency":"2432","time":"Monday, January 6, 2014 8:37:55 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-91","frequency":"2462","time":"Monday, January 6, 2014 8:37:55 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-72","frequency":"2447","time":"Monday, January 6, 2014 8:37:55 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-95","frequency":"2412","time":"Monday, January 6, 2014 8:37:55 AM Iran Standard Time"}}
+{"Location":{"Latitude":"35.782416","Longtitude":"51.349608","Altitude":"0.0","time":"1-6-2014 08:37:59","Accuracy":"39.0","Provider":"fused","Speed":"0.0"}}
+{"Application":{"ProcessName":"com.google.android.apps.plus","Start":"1-6-2014 08:38:02","End":"1-6-2014 08:38:02"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-58","frequency":"2452","time":"Monday, January 6, 2014 8:38:12 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-74","frequency":"2462","time":"Monday, January 6, 2014 8:38:12 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"0063774402","BSSID":"ac:e8:7b:ab:66:65","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-79","frequency":"2432","time":"Monday, January 6, 2014 8:38:12 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-91","frequency":"2462","time":"Monday, January 6, 2014 8:38:12 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-72","frequency":"2447","time":"Monday, January 6, 2014 8:38:12 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-95","frequency":"2412","time":"Monday, January 6, 2014 8:38:12 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"info.androidz.horoscope","Start":"1-6-2014 08:37:12","End":"1-6-2014 08:38:43"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 08:38:54","End":"1-6-2014 08:38:57"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 08:35:51","End":"1-6-2014 08:38:57"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 08:35:51","End":"1-6-2014 08:38:57"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"1-6-2014 08:38:43","End":"1-6-2014 08:38:57"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 08:35:51","End":"1-6-2014 08:38:57"}}
+{"Application":{"ProcessName":"com.htc.flexnet","Start":"1-6-2014 12:17:47","End":"1-6-2014 12:17:56"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 12:17:46","End":"1-6-2014 12:17:56"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 12:17:46","End":"1-6-2014 12:17:56"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 12:17:46","End":"1-6-2014 12:17:56"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"1-6-2014 12:17:46","End":"1-6-2014 12:17:56"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 12:20:58","End":"1-6-2014 12:21:08"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"1-6-2014 12:20:58","End":"1-6-2014 12:21:08"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 12:20:58","End":"1-6-2014 12:21:08"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 12:20:58","End":"1-6-2014 12:21:08"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"1-6-2014 12:20:58","End":"1-6-2014 12:21:08"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 14:50:50","End":"1-6-2014 14:51:13"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 14:50:50","End":"1-6-2014 14:51:13"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 14:50:50","End":"1-6-2014 14:51:13"}}
+{"Application":{"ProcessName":"com.htc.android.mail:sync","Start":"1-6-2014 14:50:50","End":"1-6-2014 14:51:13"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 15:05:41","End":"1-6-2014 15:06:24"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 15:05:41","End":"1-6-2014 15:06:24"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 15:05:41","End":"1-6-2014 15:06:24"}}
+{"Application":{"ProcessName":"com.android.settings:remote","Start":"1-6-2014 15:05:42","End":"1-6-2014 15:06:24"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 17:43:27","End":"1-6-2014 17:44:05"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 17:43:27","End":"1-6-2014 17:44:05"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 17:43:27","End":"1-6-2014 17:44:05"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 17:46:51","End":"1-6-2014 17:47:01"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 17:46:51","End":"1-6-2014 17:47:01"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 17:46:51","End":"1-6-2014 17:47:01"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 17:51:19","End":"1-6-2014 17:51:19"}}
+{"Application":{"ProcessName":"com.android.settings:remote","Start":"1-6-2014 17:51:19","End":"1-6-2014 17:51:29"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 17:51:19","End":"1-6-2014 17:52:03"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 17:51:19","End":"1-6-2014 17:52:03"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 17:51:19","End":"1-6-2014 17:52:03"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 18:03:38","End":"1-6-2014 18:04:09"}}
+{"SMS":{"Address":"+98930275####","type":"2","date":"1-6-2014 18:04:12","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 18:03:38","End":"1-6-2014 18:05:33"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 18:04:19","End":"1-6-2014 18:05:33"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 18:03:38","End":"1-6-2014 18:05:33"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 18:03:38","End":"1-6-2014 18:05:33"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 18:03:38","End":"1-6-2014 18:05:33"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"1-6-2014 18:07:13","End":"1-6-2014 18:07:13"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 18:07:13","End":"1-6-2014 18:07:23"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 18:07:13","End":"1-6-2014 18:07:23"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 18:07:13","End":"1-6-2014 18:07:23"}}
+{"Application":{"ProcessName":"com.htc.reportagent","Start":"1-6-2014 18:08:15","End":"1-6-2014 18:08:15"}}
+{"Application":{"ProcessName":"com.google.android.apps.plus","Start":"1-6-2014 18:08:15","End":"1-6-2014 18:08:25"}}
+{"SMS":{"Address":"+98930275####","type":"1","date":"1-6-2014 18:12:37","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.htc.home.personalize","Start":"1-6-2014 18:12:26","End":"1-6-2014 18:12:26"}}
+{"Application":{"ProcessName":"com.android.settings:remote","Start":"1-6-2014 18:12:36","End":"1-6-2014 18:12:46"}}
+{"Application":{"ProcessName":"com.htc.sdm","Start":"1-6-2014 18:12:46","End":"1-6-2014 18:12:46"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 18:08:15","End":"1-6-2014 18:13:16"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 18:08:15","End":"1-6-2014 18:13:16"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 18:08:15","End":"1-6-2014 18:13:16"}}
+{"SMS":{"Address":"+98930275####","type":"2","date":"1-6-2014 18:14:19","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 18:12:26","End":"1-6-2014 18:14:57"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 18:12:26","End":"1-6-2014 18:14:57"}}
+{"Application":{"ProcessName":"com.htc.calendar","Start":"1-6-2014 18:15:07","End":"1-6-2014 18:15:07"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"1-6-2014 18:15:07","End":"1-6-2014 18:15:57"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 18:13:16","End":"1-6-2014 18:15:57"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 18:13:16","End":"1-6-2014 18:15:57"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 18:13:16","End":"1-6-2014 18:15:57"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"1-6-2014 18:15:07","End":"1-6-2014 18:15:57"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"1-6-2014 18:16:07","End":"1-6-2014 18:16:09"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 18:16:07","End":"1-6-2014 18:16:09"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 18:16:07","End":"1-6-2014 18:16:09"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 18:16:07","End":"1-6-2014 18:16:09"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"1-6-2014 18:16:07","End":"1-6-2014 18:16:09"}}
+{"Application":{"ProcessName":"com.htc.flexnet","Start":"1-6-2014 18:16:18","End":"1-6-2014 18:16:20"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"1-6-2014 18:16:17","End":"1-6-2014 18:16:31"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"1-6-2014 18:16:17","End":"1-6-2014 18:16:31"}}
+{"SMS":{"Address":"+98930275####","type":"1","date":"1-6-2014 18:16:58","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.htc.bg","Start":"1-6-2014 18:16:39","End":"1-6-2014 18:16:39"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 18:16:39","End":"1-6-2014 18:18:40"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 18:16:39","End":"1-6-2014 18:18:40"}}
+{"Application":{"ProcessName":"com.tencent.mm:push","Start":"1-6-2014 18:18:32","End":"1-6-2014 18:18:40"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"1-6-2014 18:18:41","End":"1-6-2014 18:18:42"}}
+{"SMS":{"Address":"+98930275####","type":"2","date":"1-6-2014 18:18:35","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.htc.HtcBeatsNotify","Start":"1-6-2014 18:18:42","End":"1-6-2014 18:18:50"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"1-6-2014 18:18:40","End":"1-6-2014 18:19:00"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 18:16:17","End":"1-6-2014 18:19:00"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 18:16:17","End":"1-6-2014 18:19:00"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 18:16:17","End":"1-6-2014 18:19:00"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"1-6-2014 18:18:40","End":"1-6-2014 18:19:00"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"1-6-2014 18:20:40","End":"1-6-2014 18:20:51"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 18:20:40","End":"1-6-2014 18:20:51"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 18:20:40","End":"1-6-2014 18:20:51"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 18:20:40","End":"1-6-2014 18:20:51"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"1-6-2014 18:20:40","End":"1-6-2014 18:20:51"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"1-6-2014 18:21:01","End":"1-6-2014 18:21:02"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 18:21:01","End":"1-6-2014 18:21:02"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 18:21:01","End":"1-6-2014 18:21:02"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 18:21:01","End":"1-6-2014 18:21:02"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"1-6-2014 18:21:01","End":"1-6-2014 18:21:02"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"1-6-2014 18:21:32","End":"1-6-2014 18:21:34"}}
+{"Application":{"ProcessName":"com.htc.flexnet","Start":"1-6-2014 18:21:34","End":"1-6-2014 18:21:41"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"1-6-2014 18:21:32","End":"1-6-2014 18:22:03"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 18:21:32","End":"1-6-2014 18:22:03"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 18:21:32","End":"1-6-2014 18:22:03"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 18:21:32","End":"1-6-2014 18:22:03"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"1-6-2014 18:21:32","End":"1-6-2014 18:22:03"}}
+{"SMS":{"Address":"+98930275####","type":"1","date":"1-6-2014 18:23:46","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.htc.flexnet","Start":"1-6-2014 18:23:44","End":"1-6-2014 18:23:46"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"1-6-2014 18:23:44","End":"1-6-2014 18:23:54"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"1-6-2014 18:23:46","End":"1-6-2014 18:23:54"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"1-6-2014 18:23:44","End":"1-6-2014 18:23:54"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 18:23:54","End":"1-6-2014 18:24:14"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 18:23:54","End":"1-6-2014 18:24:14"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 18:23:44","End":"1-6-2014 18:24:14"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 18:23:44","End":"1-6-2014 18:24:14"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 18:23:44","End":"1-6-2014 18:24:14"}}
+{"Application":{"ProcessName":"com.htc.calendar","Start":"1-6-2014 18:25:34","End":"1-6-2014 18:25:36"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"1-6-2014 18:25:36","End":"1-6-2014 18:26:04"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"1-6-2014 18:25:36","End":"1-6-2014 18:26:04"}}
+{"Application":{"ProcessName":"com.google.android.apps.maps:LocationFriendService","Start":"1-6-2014 18:26:14","End":"1-6-2014 18:26:15"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 18:26:04","End":"1-6-2014 18:27:48"}}
+{"SMS":{"Address":"+98930275####","type":"2","date":"1-6-2014 18:27:45","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 18:26:04","End":"1-6-2014 18:27:52"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"1-6-2014 18:27:58","End":"1-6-2014 18:29:13"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 18:25:34","End":"1-6-2014 18:29:13"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 18:25:34","End":"1-6-2014 18:29:13"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 18:25:34","End":"1-6-2014 18:29:13"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"1-6-2014 18:27:58","End":"1-6-2014 18:29:13"}}
+{"SMS":{"Address":"+98930275####","type":"1","date":"1-6-2014 18:29:53","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.android.settings:remote","Start":"1-6-2014 18:29:44","End":"1-6-2014 18:29:44"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"1-6-2014 18:29:44","End":"1-6-2014 18:29:48"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"1-6-2014 18:29:44","End":"1-6-2014 18:29:48"}}
+{"SMS":{"Address":"+98930275####","type":"2","date":"1-6-2014 18:31:16","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 18:29:48","End":"1-6-2014 18:31:27"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 18:29:54","End":"1-6-2014 18:31:27"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 18:31:35","End":"1-6-2014 18:31:39"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 18:31:35","End":"1-6-2014 18:31:39"}}
+{"Application":{"ProcessName":"com.htc.lockscreen","Start":"1-6-2014 18:32:13","End":"1-6-2014 18:32:15"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"1-6-2014 18:31:45","End":"1-6-2014 18:32:18"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 18:29:44","End":"1-6-2014 18:32:18"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 18:29:44","End":"1-6-2014 18:32:18"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 18:29:44","End":"1-6-2014 18:32:18"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"1-6-2014 18:31:45","End":"1-6-2014 18:32:18"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"1-6-2014 18:33:14","End":"1-6-2014 18:33:26"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 18:33:14","End":"1-6-2014 18:33:26"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 18:33:14","End":"1-6-2014 18:33:26"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 18:33:14","End":"1-6-2014 18:33:26"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"1-6-2014 18:33:14","End":"1-6-2014 18:33:26"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"1-6-2014 18:33:34","End":"1-6-2014 18:33:48"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 18:33:34","End":"1-6-2014 18:33:48"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 18:33:34","End":"1-6-2014 18:33:48"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 18:33:34","End":"1-6-2014 18:33:48"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"1-6-2014 18:33:34","End":"1-6-2014 18:33:48"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"1-6-2014 18:34:26","End":"1-6-2014 18:34:35"}}
+{"Application":{"ProcessName":"com.htc.weather.bg","Start":"1-6-2014 18:34:29","End":"1-6-2014 18:34:35"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 18:34:26","End":"1-6-2014 18:34:35"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 18:34:26","End":"1-6-2014 18:34:35"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 18:34:26","End":"1-6-2014 18:34:35"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"1-6-2014 18:34:26","End":"1-6-2014 18:34:35"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 18:34:49","End":"1-6-2014 18:35:13"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 18:34:49","End":"1-6-2014 18:35:13"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 18:34:49","End":"1-6-2014 18:35:13"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 18:35:36","End":"1-6-2014 18:35:51"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 18:35:36","End":"1-6-2014 18:35:51"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 18:35:36","End":"1-6-2014 18:35:51"}}
+{"Application":{"ProcessName":"com.htc.flexnet","Start":"1-6-2014 18:37:07","End":"1-6-2014 18:37:10"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 18:37:07","End":"1-6-2014 18:37:32"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 18:37:07","End":"1-6-2014 18:37:32"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 18:37:07","End":"1-6-2014 18:37:32"}}
+{"SMS":{"Address":"+98930275####","type":"1","date":"1-6-2014 18:39:03","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.htc.flexnet","Start":"1-6-2014 18:39:10","End":"1-6-2014 18:39:12"}}
+{"SMS":{"Address":"+98930275####","type":"2","date":"1-6-2014 18:40:08","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 18:39:21","End":"1-6-2014 18:40:21"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 18:39:21","End":"1-6-2014 18:40:21"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 18:39:10","End":"1-6-2014 18:40:21"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 18:39:10","End":"1-6-2014 18:40:21"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 18:39:10","End":"1-6-2014 18:40:21"}}
+{"SMS":{"Address":"+98930275####","type":"1","date":"1-6-2014 18:44:58","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.htc.weather.bg","Start":"1-6-2014 18:51:00","End":"1-6-2014 18:51:01"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"1-6-2014 18:51:01","End":"1-6-2014 18:51:04"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 18:51:01","End":"1-6-2014 18:51:11"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 18:51:01","End":"1-6-2014 18:51:11"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 18:50:49","End":"1-6-2014 18:51:20"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 18:50:49","End":"1-6-2014 18:51:20"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 18:50:49","End":"1-6-2014 18:51:20"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 18:59:07","End":"1-6-2014 18:59:18"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 18:59:07","End":"1-6-2014 18:59:18"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 18:59:07","End":"1-6-2014 18:59:18"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 19:08:50","End":"1-6-2014 19:09:21"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 19:08:50","End":"1-6-2014 19:09:21"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 19:08:50","End":"1-6-2014 19:09:21"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 19:15:34","End":"1-6-2014 19:15:36"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 19:15:34","End":"1-6-2014 19:15:36"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 19:15:34","End":"1-6-2014 19:15:36"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 19:17:21","End":"1-6-2014 19:17:39"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 19:17:21","End":"1-6-2014 19:17:39"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 19:17:21","End":"1-6-2014 19:17:39"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 19:19:07","End":"1-6-2014 19:19:14"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 19:19:07","End":"1-6-2014 19:19:14"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 19:19:07","End":"1-6-2014 19:19:14"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 19:20:00","End":"1-6-2014 19:20:13"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 19:20:00","End":"1-6-2014 19:20:13"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 19:20:00","End":"1-6-2014 19:20:13"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 19:20:59","End":"1-6-2014 19:21:23"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 19:20:59","End":"1-6-2014 19:21:23"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 19:20:59","End":"1-6-2014 19:21:23"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 20:11:17","End":"1-6-2014 20:11:17"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 20:11:17","End":"1-6-2014 20:11:17"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 20:11:17","End":"1-6-2014 20:11:17"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 20:40:32","End":"1-6-2014 20:40:45"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 20:40:32","End":"1-6-2014 20:40:45"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 20:40:32","End":"1-6-2014 20:40:45"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 20:52:57","End":"1-6-2014 20:53:41"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 20:52:57","End":"1-6-2014 20:53:41"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 20:52:57","End":"1-6-2014 20:53:41"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 21:13:04","End":"1-6-2014 21:13:07"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 21:13:04","End":"1-6-2014 21:13:07"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 21:13:04","End":"1-6-2014 21:13:07"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 21:13:49","End":"1-6-2014 21:14:01"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 21:13:49","End":"1-6-2014 21:14:01"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 21:13:49","End":"1-6-2014 21:14:01"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 21:14:53","End":"1-6-2014 21:15:06"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 21:14:53","End":"1-6-2014 21:15:06"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 21:14:53","End":"1-6-2014 21:15:06"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 21:15:10","End":"1-6-2014 21:15:30"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 21:15:10","End":"1-6-2014 21:15:30"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 21:15:10","End":"1-6-2014 21:15:30"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"1-6-2014 21:22:54","End":"1-6-2014 21:22:56"}}
+{"Application":{"ProcessName":"com.htc.calendar","Start":"1-6-2014 21:22:56","End":"1-6-2014 21:23:01"}}
+{"SMS":{"Address":"+98930275####","type":"2","date":"1-6-2014 21:23:22","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 21:22:54","End":"1-6-2014 21:24:22"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 21:22:54","End":"1-6-2014 21:24:22"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 21:25:15","End":"1-6-2014 21:26:56"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 21:25:15","End":"1-6-2014 21:26:56"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 21:22:29","End":"1-6-2014 21:27:33"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 21:22:29","End":"1-6-2014 21:27:33"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 21:22:29","End":"1-6-2014 21:27:33"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 21:27:33","End":"1-6-2014 21:27:53"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 21:27:33","End":"1-6-2014 21:27:53"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 21:27:33","End":"1-6-2014 21:27:53"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 21:28:52","End":"1-6-2014 21:29:16"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 21:28:52","End":"1-6-2014 21:29:16"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 21:28:52","End":"1-6-2014 21:29:16"}}
+{"SMS":{"Address":"+98930275####","type":"1","date":"1-6-2014 21:32:41","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.htc.weather.bg","Start":"1-6-2014 21:47:42","End":"1-6-2014 21:47:50"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"1-6-2014 21:47:43","End":"1-6-2014 21:47:50"}}
+{"SMS":{"Address":"+98930275####","type":"2","date":"1-6-2014 21:50:18","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 21:47:50","End":"1-6-2014 21:51:01"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 21:47:50","End":"1-6-2014 21:51:01"}}
+{"SMS":{"Address":"+98930275####","type":"1","date":"1-6-2014 21:52:24","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 21:47:40","End":"1-6-2014 21:52:41"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 21:47:40","End":"1-6-2014 21:52:41"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 21:47:40","End":"1-6-2014 21:52:41"}}
+{"SMS":{"Address":"+98930275####","type":"2","date":"1-6-2014 21:53:23","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Shima"}}}
+{"SMS":{"Address":"+98930275####","type":"2","date":"1-6-2014 21:53:55","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 21:52:11","End":"1-6-2014 21:54:26"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 21:52:11","End":"1-6-2014 21:54:26"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 21:52:41","End":"1-6-2014 21:55:27"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 21:52:41","End":"1-6-2014 21:55:27"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 21:52:41","End":"1-6-2014 21:55:27"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 21:56:10","End":"1-6-2014 21:56:15"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 21:56:05","End":"1-6-2014 21:56:15"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 21:56:05","End":"1-6-2014 21:56:15"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 21:56:05","End":"1-6-2014 21:56:15"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 21:56:34","End":"1-6-2014 21:56:44"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 21:56:34","End":"1-6-2014 21:56:44"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 21:56:34","End":"1-6-2014 21:56:44"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 21:56:58","End":"1-6-2014 21:57:26"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 21:56:58","End":"1-6-2014 21:57:26"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 21:56:58","End":"1-6-2014 21:57:26"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 21:57:45","End":"1-6-2014 21:57:55"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 21:57:45","End":"1-6-2014 21:57:55"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 21:57:45","End":"1-6-2014 21:57:55"}}
+{"Application":{"ProcessName":"com.htc.flexnet","Start":"1-6-2014 21:58:23","End":"1-6-2014 21:58:27"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 21:58:23","End":"1-6-2014 21:58:37"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 21:58:23","End":"1-6-2014 21:58:37"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 21:58:23","End":"1-6-2014 21:58:37"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 21:58:57","End":"1-6-2014 21:59:17"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 21:58:57","End":"1-6-2014 21:59:17"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 21:58:57","End":"1-6-2014 21:59:17"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 21:59:42","End":"1-6-2014 21:59:57"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 21:59:42","End":"1-6-2014 21:59:57"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 21:59:42","End":"1-6-2014 21:59:57"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 22:00:08","End":"1-6-2014 22:00:34"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 22:00:08","End":"1-6-2014 22:00:34"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 22:00:08","End":"1-6-2014 22:00:34"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 22:00:53","End":"1-6-2014 22:01:03"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 22:00:53","End":"1-6-2014 22:01:03"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 22:00:53","End":"1-6-2014 22:01:03"}}
+{"SMS":{"Address":"+98930275####","type":"1","date":"1-6-2014 22:11:26","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.htc.weather.bg","Start":"1-6-2014 22:42:53","End":"1-6-2014 22:42:53"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"1-6-2014 22:42:53","End":"1-6-2014 22:42:59"}}
+{"SMS":{"Address":"+98930275####","type":"2","date":"1-6-2014 22:44:04","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 22:42:59","End":"1-6-2014 22:45:04"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 22:42:59","End":"1-6-2014 22:45:04"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 22:46:09","End":"1-6-2014 22:46:19"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 22:42:49","End":"1-6-2014 22:46:59"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 22:42:49","End":"1-6-2014 22:46:59"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 22:42:49","End":"1-6-2014 22:46:59"}}
+{"SMS":{"Address":"+98930275####","type":"1","date":"1-6-2014 22:47:40","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.android.settings:remote","Start":"1-6-2014 22:47:44","End":"1-6-2014 22:47:49"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 22:47:49","End":"1-6-2014 22:49:15"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 22:47:49","End":"1-6-2014 22:49:15"}}
+{"SMS":{"Address":"+98930275####","type":"2","date":"1-6-2014 22:50:36","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 22:50:15","End":"1-6-2014 22:51:31"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 22:50:15","End":"1-6-2014 22:51:31"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 22:47:44","End":"1-6-2014 22:52:35"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 22:47:44","End":"1-6-2014 22:52:35"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 22:47:44","End":"1-6-2014 22:52:35"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 22:53:16","End":"1-6-2014 22:53:34"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 22:53:16","End":"1-6-2014 22:53:34"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 22:53:16","End":"1-6-2014 22:53:34"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 22:54:25","End":"1-6-2014 22:55:19"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 22:54:25","End":"1-6-2014 22:55:19"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 22:54:25","End":"1-6-2014 22:55:19"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 22:56:24","End":"1-6-2014 22:56:40"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 22:56:24","End":"1-6-2014 22:56:40"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 22:56:24","End":"1-6-2014 22:56:40"}}
+{"Application":{"ProcessName":"com.htc.flexnet","Start":"1-6-2014 22:57:30","End":"1-6-2014 22:57:35"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 22:57:30","End":"1-6-2014 22:58:00"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 22:57:30","End":"1-6-2014 22:58:00"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 22:57:30","End":"1-6-2014 22:58:00"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 22:58:28","End":"1-6-2014 22:58:38"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 22:58:28","End":"1-6-2014 22:58:38"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 22:58:28","End":"1-6-2014 22:58:38"}}
+{"SMS":{"Address":"+98930275####","type":"1","date":"1-6-2014 22:59:03","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 22:59:13","End":"1-6-2014 23:00:18"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 22:59:13","End":"1-6-2014 23:00:18"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 22:58:58","End":"1-6-2014 23:00:18"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 22:58:58","End":"1-6-2014 23:00:18"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 22:58:58","End":"1-6-2014 23:00:18"}}
+{"Application":{"ProcessName":"com.htc.weather.bg","Start":"1-6-2014 23:00:37","End":"1-6-2014 23:00:37"}}
+{"SMS":{"Address":"+98930275####","type":"2","date":"1-6-2014 23:02:04","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 23:00:42","End":"1-6-2014 23:03:03"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 23:00:42","End":"1-6-2014 23:03:03"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 23:00:37","End":"1-6-2014 23:03:03"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 23:00:37","End":"1-6-2014 23:03:03"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 23:00:37","End":"1-6-2014 23:03:03"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 23:04:46","End":"1-6-2014 23:05:24"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 23:04:46","End":"1-6-2014 23:05:24"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 23:04:46","End":"1-6-2014 23:05:24"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 23:04:46","End":"1-6-2014 23:05:24"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 23:04:46","End":"1-6-2014 23:05:24"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 23:05:52","End":"1-6-2014 23:06:52"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 23:05:52","End":"1-6-2014 23:06:52"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"1-6-2014 23:07:22","End":"1-6-2014 23:07:32"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"1-6-2014 23:07:36","End":"1-6-2014 23:07:36"}}
+{"Application":{"ProcessName":"com.htc.bg","Start":"1-6-2014 23:07:36","End":"1-6-2014 23:07:42"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"1-6-2014 23:07:42","End":"1-6-2014 23:07:52"}}
+{"Application":{"ProcessName":"com.htc.android.worldclock","Start":"1-6-2014 23:07:52","End":"1-6-2014 23:07:56"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"1-6-2014 23:07:52","End":"1-6-2014 23:07:56"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-77","frequency":"2452","time":"Monday, January 6, 2014 11:08:19 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-86","frequency":"2462","time":"Monday, January 6, 2014 11:08:19 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"0063774402","BSSID":"ac:e8:7b:ab:66:65","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2432","time":"Monday, January 6, 2014 11:08:19 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"e0:cb:4e:d2:8b:96","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-93","frequency":"2462","time":"Monday, January 6, 2014 11:08:19 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-80","frequency":"2447","time":"Monday, January 6, 2014 11:08:19 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-77","frequency":"2452","time":"Monday, January 6, 2014 11:08:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-86","frequency":"2462","time":"Monday, January 6, 2014 11:08:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"0063774402","BSSID":"ac:e8:7b:ab:66:65","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2432","time":"Monday, January 6, 2014 11:08:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"e0:cb:4e:d2:8b:96","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-93","frequency":"2462","time":"Monday, January 6, 2014 11:08:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-80","frequency":"2447","time":"Monday, January 6, 2014 11:08:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-77","frequency":"2452","time":"Monday, January 6, 2014 11:08:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-86","frequency":"2462","time":"Monday, January 6, 2014 11:08:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"0063774402","BSSID":"ac:e8:7b:ab:66:65","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2432","time":"Monday, January 6, 2014 11:08:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"e0:cb:4e:d2:8b:96","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-93","frequency":"2462","time":"Monday, January 6, 2014 11:08:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-80","frequency":"2447","time":"Monday, January 6, 2014 11:08:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-77","frequency":"2452","time":"Monday, January 6, 2014 11:09:19 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-86","frequency":"2462","time":"Monday, January 6, 2014 11:09:19 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"0063774402","BSSID":"ac:e8:7b:ab:66:65","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2432","time":"Monday, January 6, 2014 11:09:19 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"e0:cb:4e:d2:8b:96","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-93","frequency":"2462","time":"Monday, January 6, 2014 11:09:19 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-80","frequency":"2447","time":"Monday, January 6, 2014 11:09:19 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-77","frequency":"2452","time":"Monday, January 6, 2014 11:09:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-86","frequency":"2462","time":"Monday, January 6, 2014 11:09:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"0063774402","BSSID":"ac:e8:7b:ab:66:65","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2432","time":"Monday, January 6, 2014 11:09:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"e0:cb:4e:d2:8b:96","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-93","frequency":"2462","time":"Monday, January 6, 2014 11:09:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-80","frequency":"2447","time":"Monday, January 6, 2014 11:09:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-77","frequency":"2452","time":"Monday, January 6, 2014 11:09:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-86","frequency":"2462","time":"Monday, January 6, 2014 11:09:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"0063774402","BSSID":"ac:e8:7b:ab:66:65","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2432","time":"Monday, January 6, 2014 11:09:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"e0:cb:4e:d2:8b:96","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-93","frequency":"2462","time":"Monday, January 6, 2014 11:09:21 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-80","frequency":"2447","time":"Monday, January 6, 2014 11:09:21 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.htc.weather.bg","Start":"1-6-2014 23:09:43","End":"1-6-2014 23:09:48"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"1-6-2014 23:09:43","End":"1-6-2014 23:09:48"}}
+{"Application":{"ProcessName":"com.android.camera","Start":"1-6-2014 23:10:04","End":"1-6-2014 23:10:08"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"1-6-2014 23:10:14","End":"1-6-2014 23:10:18"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"1-6-2014 23:10:18","End":"1-6-2014 23:10:48"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"1-6-2014 23:10:14","End":"1-6-2014 23:10:48"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 23:05:52","End":"1-6-2014 23:10:57"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 23:05:52","End":"1-6-2014 23:10:57"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 23:05:52","End":"1-6-2014 23:10:57"}}
+{"SMS":{"Address":"+98930275####","type":"1","date":"1-6-2014 23:11:05","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 23:12:21","End":"1-6-2014 23:12:28"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 23:12:21","End":"1-6-2014 23:12:28"}}
+{"Application":{"ProcessName":"com.android.htccontacts","Start":"1-6-2014 23:12:29","End":"1-6-2014 23:12:31"}}
+{"Application":{"ProcessName":"com.htc.album","Start":"1-6-2014 23:10:57","End":"1-6-2014 23:13:59"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 23:14:00","End":"1-6-2014 23:15:04"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 23:14:00","End":"1-6-2014 23:15:04"}}
+{"Application":{"ProcessName":"com.android.htccontacts","Start":"1-6-2014 23:15:07","End":"1-6-2014 23:15:08"}}
+{"SMS":{"Address":"+98930275####","type":"2","date":"1-6-2014 23:15:00","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Shima"}}}
+{"Application":{"ProcessName":"com.android.updater","Start":"1-6-2014 23:15:08","End":"1-6-2014 23:15:14"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"1-6-2014 23:15:04","End":"1-6-2014 23:15:14"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 23:15:14","End":"1-6-2014 23:15:18"}}
+{"Application":{"ProcessName":"com.htc.task.gtask","Start":"1-6-2014 23:15:28","End":"1-6-2014 23:15:29"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"1-6-2014 23:15:28","End":"1-6-2014 23:15:29"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 23:10:57","End":"1-6-2014 23:15:58"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 23:10:57","End":"1-6-2014 23:15:58"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 23:10:57","End":"1-6-2014 23:15:58"}}
+{"Application":{"ProcessName":"com.google.android.apps.maps:FriendService","Start":"1-6-2014 23:16:05","End":"1-6-2014 23:16:08"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"1-6-2014 23:15:28","End":"1-6-2014 23:17:00"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"1-6-2014 23:15:28","End":"1-6-2014 23:17:00"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"1-6-2014 23:16:58","End":"1-6-2014 23:17:06"}}
+{"Application":{"ProcessName":"com.htc.lockscreen","Start":"1-6-2014 23:17:00","End":"1-6-2014 23:17:06"}}
+{"Application":{"ProcessName":"com.android.vending","Start":"1-6-2014 23:17:06","End":"1-6-2014 23:17:08"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"1-6-2014 23:17:18","End":"1-6-2014 23:17:19"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 23:15:58","End":"1-6-2014 23:20:59"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 23:15:58","End":"1-6-2014 23:20:59"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 23:15:58","End":"1-6-2014 23:20:59"}}
+{"Application":{"ProcessName":"com.htc.album","Start":"1-6-2014 23:17:18","End":"1-6-2014 23:22:19"}}
+{"Application":{"ProcessName":"com.htc.album","Start":"1-6-2014 23:22:19","End":"1-6-2014 23:22:23"}}
+{"Application":{"ProcessName":"com.htc.album","Start":"1-6-2014 23:22:33","End":"1-6-2014 23:22:59"}}
+{"Application":{"ProcessName":"com.htc.album","Start":"1-6-2014 23:23:03","End":"1-6-2014 23:24:20"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-6-2014 23:24:23","End":"1-6-2014 23:24:30"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 23:24:23","End":"1-6-2014 23:24:30"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 23:20:59","End":"1-6-2014 23:24:30"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 23:20:59","End":"1-6-2014 23:24:41"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 23:20:59","End":"1-6-2014 23:24:41"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 23:25:01","End":"1-6-2014 23:25:22"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 23:25:01","End":"1-6-2014 23:25:22"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 23:25:01","End":"1-6-2014 23:25:22"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"1-6-2014 23:26:29","End":"1-6-2014 23:28:19"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"1-6-2014 23:26:16","End":"1-6-2014 23:28:19"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"1-6-2014 23:28:24","End":"1-6-2014 23:28:29"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 23:25:50","End":"1-6-2014 23:30:54"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 23:25:50","End":"1-6-2014 23:30:54"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 23:25:50","End":"1-6-2014 23:30:54"}}
+{"Application":{"ProcessName":"com.htc.album","Start":"1-6-2014 23:28:23","End":"1-6-2014 23:31:50"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"1-6-2014 23:31:56","End":"1-6-2014 23:32:34"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"1-6-2014 23:31:56","End":"1-6-2014 23:32:34"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"1-6-2014 23:35:42","End":"1-6-2014 23:35:44"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 23:30:54","End":"1-6-2014 23:35:54"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 23:30:54","End":"1-6-2014 23:35:54"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 23:30:54","End":"1-6-2014 23:35:54"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-6-2014 23:36:12","End":"1-6-2014 23:36:22"}}
+{"Application":{"ProcessName":"com.htc.album","Start":"1-6-2014 23:32:41","End":"1-6-2014 23:37:42"}}
+{"Application":{"ProcessName":"com.htc.album","Start":"1-6-2014 23:37:42","End":"1-6-2014 23:38:07"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"1-6-2014 23:38:12","End":"1-6-2014 23:38:17"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 23:35:54","End":"1-6-2014 23:38:32"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 23:35:54","End":"1-6-2014 23:38:32"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 23:35:54","End":"1-6-2014 23:38:32"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-6-2014 23:43:25","End":"1-6-2014 23:43:34"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-6-2014 23:43:25","End":"1-6-2014 23:43:34"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-6-2014 23:43:25","End":"1-6-2014 23:43:34"}}

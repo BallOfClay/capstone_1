@@ -1,0 +1,132 @@
+{"Location":{"Latitude":"35.72390045","Longtitude":"51.320305250000004","Altitude":"0.0","time":"11-22-2013 00:05:47","Accuracy":"45.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-22-2013 00:05:43","End":"11-22-2013 00:05:53"}}
+{"Application":{"ProcessName":"com.android.deskclock","Start":"11-22-2013 00:05:53","End":"11-22-2013 00:06:03"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"11-22-2013 00:06:03","End":"11-22-2013 00:06:13"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-22-2013 00:06:13","End":"11-22-2013 00:06:33"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"11-22-2013 00:06:33","End":"11-22-2013 00:06:43"}}
+{"Application":{"ProcessName":"com.android.deskclock","Start":"11-22-2013 00:06:43","End":"11-22-2013 00:07:13"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-22-2013 00:07:13","End":"11-22-2013 00:07:53"}}
+{"Application":{"ProcessName":"com.sec.android.app.memo","Start":"11-22-2013 00:16:41","End":"11-22-2013 00:21:41"}}
+{"Application":{"ProcessName":"com.sec.android.app.controlpanel","Start":"11-22-2013 00:21:41","End":"11-22-2013 00:21:57"}}
+{"Application":{"ProcessName":"com.android.deskclock","Start":"11-22-2013 08:08:06","End":"11-22-2013 08:08:16"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"11-22-2013 09:59:02","End":"11-22-2013 09:59:12"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"11-22-2013 10:01:26","End":"11-22-2013 10:01:47"}}
+{"SMS":{"Address":"+98937798####","type":"2","date":"11-21-2013 20:56:33","body":"ANONYMIZED","Type":"2", "metadata": {"name": ""}}}
+{"SMS":{"Address":"+98938494####","type":"1","date":"11-22-2013 10:19:06","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Fahime"}}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"11-22-2013 10:19:07","End":"11-22-2013 10:19:26"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"11-22-2013 10:23:49","End":"11-22-2013 10:23:59"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-22-2013 10:23:59","End":"11-22-2013 10:24:29"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"11-22-2013 10:24:29","End":"11-22-2013 10:25:20"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"11-22-2013 10:35:36","End":"11-22-2013 10:35:57"}}
+{"SMS":{"Address":"0938494####","type":"2","date":"11-22-2013 10:40:18","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Fahime"}}}
+{"Location":{"Latitude":"35.72390045","Longtitude":"51.320305250000004","Altitude":"0.0","time":"11-22-2013 17:26:19","Accuracy":"45.0","Provider":"network"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"11-22-2013 18:10:30","End":"11-22-2013 18:10:50"}}
+{"Application":{"ProcessName":"com.sec.android.app.memo","Start":"11-22-2013 18:10:50","End":"11-22-2013 18:14:31"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"11-22-2013 18:14:31","End":"11-22-2013 18:14:51"}}
+{"SMS":{"Address":"+98937798####","type":"1","date":"11-22-2013 19:29:28","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"11-22-2013 19:31:42","End":"11-22-2013 19:31:52"}}
+{"SMS":{"Address":"+98937798####","type":"2","date":"11-22-2013 19:32:11","body":"ANONYMIZED","Type":"2", "metadata": {"name": ""}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-22-2013 19:31:52","End":"11-22-2013 19:32:42"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"11-22-2013 19:33:30","End":"11-22-2013 19:34:14"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"11-22-2013 19:38:46","End":"11-22-2013 19:38:56"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-22-2013 19:38:56","End":"11-22-2013 19:39:16"}}
+{"Application":{"ProcessName":"com.sec.android.app.controlpanel","Start":"11-22-2013 19:39:16","End":"11-22-2013 19:39:26"}}
+{"SMS":{"Address":"+98937798####","type":"1","date":"11-22-2013 19:40:01","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"11-22-2013 19:40:09","End":"11-22-2013 19:40:19"}}
+{"Application":{"ProcessName":"com.sec.android.provider.badge","Start":"11-22-2013 19:40:19","End":"11-22-2013 19:40:29"}}
+{"SMS":{"Address":"+98937798####","type":"2","date":"11-22-2013 19:40:32","body":"ANONYMIZED","Type":"2", "metadata": {"name": ""}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-22-2013 19:40:19","End":"11-22-2013 19:40:39"}}
+{"Application":{"ProcessName":"com.sec.android.provider.badge","Start":"11-22-2013 19:40:39","End":"11-22-2013 19:40:49"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"11-22-2013 19:40:39","End":"11-22-2013 19:40:49"}}
+{"SMS":{"Address":"+98937798####","type":"1","date":"11-22-2013 19:42:04","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"11-22-2013 19:42:09","End":"11-22-2013 19:42:34"}}
+{"SMS":{"Address":"+98937798####","type":"2","date":"11-22-2013 19:44:22","body":"ANONYMIZED","Type":"2", "metadata": {"name": ""}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-22-2013 19:43:42","End":"11-22-2013 19:44:33"}}
+{"Application":{"ProcessName":"com.sec.android.app.controlpanel","Start":"11-22-2013 19:44:33","End":"11-22-2013 19:44:43"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"11-22-2013 20:25:26","End":"11-22-2013 20:25:46"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"11-22-2013 21:07:55","End":"11-22-2013 21:08:16"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"11-22-2013 21:21:33","End":"11-22-2013 21:21:43"}}
+{"Application":{"ProcessName":"com.sec.android.app.myfiles","Start":"11-22-2013 21:21:43","End":"11-22-2013 21:21:53"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"11-22-2013 21:21:53","End":"11-22-2013 21:22:48"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"11-22-2013 22:08:17","End":"11-22-2013 22:08:27"}}
+{"Application":{"ProcessName":"com.sec.android.app.memo","Start":"11-22-2013 22:08:27","End":"11-22-2013 22:08:47"}}
+{"Application":{"ProcessName":"com.sec.android.app.controlpanel","Start":"11-22-2013 22:08:47","End":"11-22-2013 22:08:57"}}
+{"Application":{"ProcessName":"com.sec.android.app.memo","Start":"11-22-2013 22:08:57","End":"11-22-2013 22:10:51"}}
+{"Application":{"ProcessName":"com.sec.android.app.memo","Start":"11-22-2013 22:12:42","End":"11-22-2013 22:14:04"}}
+{"Application":{"ProcessName":"com.sec.android.app.memo","Start":"11-22-2013 22:14:22","End":"11-22-2013 22:15:38"}}
+{"Application":{"ProcessName":"com.sec.android.app.memo","Start":"11-22-2013 22:15:54","End":"11-22-2013 22:16:24"}}
+{"Application":{"ProcessName":"com.sec.android.app.memo","Start":"11-22-2013 22:17:14","End":"11-22-2013 22:18:07"}}
+{"Application":{"ProcessName":"com.sec.android.app.controlpanel","Start":"11-22-2013 22:19:18","End":"11-22-2013 22:19:28"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"11-22-2013 22:19:28","End":"11-22-2013 22:20:38"}}
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"11-22-2013 22:50:38","End":"11-22-2013 22:50:48"}}
+{"Application":{"ProcessName":"com.cooliris.media","Start":"11-22-2013 22:50:48","End":"11-22-2013 22:51:28"}}
+{"Application":{"ProcessName":"com.whatsapp","Start":"11-22-2013 22:52:46","End":"11-22-2013 22:52:57"}}
+{"Location":{"Latitude":"35.723956466666664","Longtitude":"51.320252966666665","Altitude":"0.0","time":"11-22-2013 23:13:08","Accuracy":"55.0","Provider":"network"}}
+{"WiFi":{"SSID":"Parsa","BSSID":"90:f6:52:b0:8c:d2","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS]","level":"-34","frequency":"2457","time":"Friday, November 22, 2013 11:13:36 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"kambizghaznavi","BSSID":"ac:e8:7b:1f:f7:75","capabilities":"[WPA2-PSK-CCMP]","level":"-80","frequency":"2432","time":"Friday, November 22, 2013 11:13:36 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"hedieh","BSSID":"00:0d:f0:a7:19:fb","capabilities":"[WPA-PSK-TKIP]","level":"-84","frequency":"2422","time":"Friday, November 22, 2013 11:13:36 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"amo.myna","BSSID":"28:3c:e4:35:11:ef","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP]","level":"-90","frequency":"2442","time":"Friday, November 22, 2013 11:13:36 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"Afshin","BSSID":"28:10:7b:3e:9c:40","capabilities":"[WEP]","level":"-92","frequency":"2412","time":"Friday, November 22, 2013 11:13:36 PM Azerbaijan Time"}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"11-22-2013 23:13:26","End":"11-22-2013 23:13:53"}}
+{"Application":{"ProcessName":"com.whatsapp","Start":"11-22-2013 23:12:56","End":"11-22-2013 23:13:53"}}
+{"WiFi":{"SSID":"Parsa","BSSID":"90:f6:52:b0:8c:d2","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS]","level":"-32","frequency":"2457","time":"Friday, November 22, 2013 11:17:42 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"hedieh","BSSID":"00:0d:f0:a7:19:fb","capabilities":"[WPA-PSK-TKIP]","level":"-80","frequency":"2422","time":"Friday, November 22, 2013 11:17:42 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"kambizghaznavi","BSSID":"ac:e8:7b:1f:f7:75","capabilities":"[WPA2-PSK-CCMP]","level":"-83","frequency":"2432","time":"Friday, November 22, 2013 11:17:42 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"amo.myna","BSSID":"28:3c:e4:35:11:ef","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP]","level":"-87","frequency":"2442","time":"Friday, November 22, 2013 11:17:42 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"MRFO2013","BSSID":"94:0c:6d:ee:40:e6","capabilities":"[WPA2-PSK-TKIP]","level":"-91","frequency":"2412","time":"Friday, November 22, 2013 11:17:42 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"Afshin","BSSID":"28:10:7b:3e:9c:40","capabilities":"[WEP]","level":"-92","frequency":"2412","time":"Friday, November 22, 2013 11:17:42 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"Parsa","BSSID":"90:f6:52:b0:8c:d2","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS]","level":"-30","frequency":"2457","time":"Friday, November 22, 2013 11:22:59 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"hedieh","BSSID":"00:0d:f0:a7:19:fb","capabilities":"[WPA-PSK-TKIP]","level":"-71","frequency":"2422","time":"Friday, November 22, 2013 11:22:59 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"kambizghaznavi","BSSID":"ac:e8:7b:1f:f7:75","capabilities":"[WPA2-PSK-CCMP]","level":"-83","frequency":"2432","time":"Friday, November 22, 2013 11:22:59 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"amo.myna","BSSID":"28:3c:e4:35:11:ef","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP]","level":"-83","frequency":"2442","time":"Friday, November 22, 2013 11:22:59 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"Afshin","BSSID":"28:10:7b:3e:9c:40","capabilities":"[WEP]","level":"-87","frequency":"2412","time":"Friday, November 22, 2013 11:22:59 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"Parsa","BSSID":"90:f6:52:b0:8c:d2","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS]","level":"-31","frequency":"2457","time":"Friday, November 22, 2013 11:28:14 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"hedieh","BSSID":"00:0d:f0:a7:19:fb","capabilities":"[WPA-PSK-TKIP]","level":"-79","frequency":"2422","time":"Friday, November 22, 2013 11:28:14 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"kambizghaznavi","BSSID":"ac:e8:7b:1f:f7:75","capabilities":"[WPA2-PSK-CCMP]","level":"-83","frequency":"2432","time":"Friday, November 22, 2013 11:28:14 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"amo.myna","BSSID":"28:3c:e4:35:11:ef","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP]","level":"-90","frequency":"2442","time":"Friday, November 22, 2013 11:28:14 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"mobinnet9ee3","BSSID":"00:0d:f0:a6:b6:e7","capabilities":"[WPA2-PSK-TKIP]","level":"-93","frequency":"2412","time":"Friday, November 22, 2013 11:28:14 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"hesam","BSSID":"f4:3e:61:25:dd:45","capabilities":"[WEP]","level":"-87","frequency":"2462","time":"Friday, November 22, 2013 11:28:14 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"ITM","BSSID":"f4:ec:38:d5:dd:ec","capabilities":"[WEP]","level":"-93","frequency":"2447","time":"Friday, November 22, 2013 11:28:14 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"Parsa","BSSID":"90:f6:52:b0:8c:d2","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS]","level":"-30","frequency":"2457","time":"Friday, November 22, 2013 11:30:00 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"hedieh","BSSID":"00:0d:f0:a7:19:fb","capabilities":"[WPA-PSK-TKIP]","level":"-71","frequency":"2422","time":"Friday, November 22, 2013 11:30:00 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"amo.myna","BSSID":"28:3c:e4:35:11:ef","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP]","level":"-85","frequency":"2442","time":"Friday, November 22, 2013 11:30:00 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"kambizghaznavi","BSSID":"ac:e8:7b:1f:f7:75","capabilities":"[WPA2-PSK-CCMP]","level":"-85","frequency":"2432","time":"Friday, November 22, 2013 11:30:00 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"TP-LINK_783C59","BSSID":"f8:1a:67:78:3c:59","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS]","level":"-90","frequency":"2462","time":"Friday, November 22, 2013 11:30:00 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"Danger","BSSID":"f8:d1:11:82:42:09","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-93","frequency":"2447","time":"Friday, November 22, 2013 11:30:00 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"Afshin","BSSID":"28:10:7b:3e:9c:40","capabilities":"[WEP]","level":"-90","frequency":"2412","time":"Friday, November 22, 2013 11:30:00 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"hedieh","BSSID":"00:0d:f0:a7:19:fb","capabilities":"[WPA-PSK-TKIP]","level":"-71","frequency":"2422","time":"Friday, November 22, 2013 11:32:54 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"kambizghaznavi","BSSID":"ac:e8:7b:1f:f7:75","capabilities":"[WPA2-PSK-CCMP]","level":"-85","frequency":"2432","time":"Friday, November 22, 2013 11:32:54 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"amo.myna","BSSID":"28:3c:e4:35:11:ef","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP]","level":"-85","frequency":"2442","time":"Friday, November 22, 2013 11:32:54 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"Parsa","BSSID":"90:f6:52:b0:8c:d2","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS]","level":"-27","frequency":"2457","time":"Friday, November 22, 2013 11:35:46 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"Afshin","BSSID":"28:10:7b:3e:9c:40","capabilities":"[WEP]","level":"-92","frequency":"2412","time":"Friday, November 22, 2013 11:35:46 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"Parsa","BSSID":"90:f6:52:b0:8c:d2","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS]","level":"-28","frequency":"2457","time":"Friday, November 22, 2013 11:38:11 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"hedieh","BSSID":"00:0d:f0:a7:19:fb","capabilities":"[WPA-PSK-TKIP]","level":"-80","frequency":"2422","time":"Friday, November 22, 2013 11:38:11 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"kambizghaznavi","BSSID":"ac:e8:7b:1f:f7:75","capabilities":"[WPA2-PSK-CCMP]","level":"-82","frequency":"2432","time":"Friday, November 22, 2013 11:38:11 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"amo.myna","BSSID":"28:3c:e4:35:11:ef","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP]","level":"-88","frequency":"2442","time":"Friday, November 22, 2013 11:38:11 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"mobinnet9ee3","BSSID":"00:0d:f0:a6:b6:e7","capabilities":"[WPA2-PSK-TKIP]","level":"-92","frequency":"2412","time":"Friday, November 22, 2013 11:38:11 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"Afshin","BSSID":"28:10:7b:3e:9c:40","capabilities":"[WEP]","level":"-94","frequency":"2412","time":"Friday, November 22, 2013 11:38:11 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"Parsa","BSSID":"90:f6:52:b0:8c:d2","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS]","level":"-27","frequency":"2457","time":"Friday, November 22, 2013 11:40:25 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"hedieh","BSSID":"00:0d:f0:a7:19:fb","capabilities":"[WPA-PSK-TKIP]","level":"-79","frequency":"2422","time":"Friday, November 22, 2013 11:40:25 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"amo.myna","BSSID":"28:3c:e4:35:11:ef","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP]","level":"-87","frequency":"2442","time":"Friday, November 22, 2013 11:40:25 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"Danger","BSSID":"f8:d1:11:82:42:09","capabilities":"[WPA-PSK-TKIP+CCMP]","level":"-93","frequency":"2447","time":"Friday, November 22, 2013 11:40:25 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"Parsa","BSSID":"90:f6:52:b0:8c:d2","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS]","level":"-27","frequency":"2457","time":"Friday, November 22, 2013 11:43:21 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"hedieh","BSSID":"00:0d:f0:a7:19:fb","capabilities":"[WPA-PSK-TKIP]","level":"-80","frequency":"2422","time":"Friday, November 22, 2013 11:43:21 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"amo.myna","BSSID":"28:3c:e4:35:11:ef","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP]","level":"-88","frequency":"2442","time":"Friday, November 22, 2013 11:43:21 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"mobinnet9ee3","BSSID":"00:0d:f0:a6:b6:e7","capabilities":"[WPA2-PSK-TKIP]","level":"-90","frequency":"2412","time":"Friday, November 22, 2013 11:43:21 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"Afshin","BSSID":"28:10:7b:3e:9c:40","capabilities":"[WEP]","level":"-94","frequency":"2412","time":"Friday, November 22, 2013 11:43:21 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"Parsa","BSSID":"90:f6:52:b0:8c:d2","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS]","level":"-31","frequency":"2457","time":"Friday, November 22, 2013 11:45:40 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"hedieh","BSSID":"00:0d:f0:a7:19:fb","capabilities":"[WPA-PSK-TKIP]","level":"-73","frequency":"2422","time":"Friday, November 22, 2013 11:45:40 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"mobinnet9ee3","BSSID":"00:0d:f0:a6:b6:e7","capabilities":"[WPA2-PSK-TKIP]","level":"-94","frequency":"2412","time":"Friday, November 22, 2013 11:45:40 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"net@","BSSID":"40:4d:8e:d0:2a:40","capabilities":"[WPA2-PSK-CCMP][WPS]","level":"-95","frequency":"2447","time":"Friday, November 22, 2013 11:45:40 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"Afshin","BSSID":"28:10:7b:3e:9c:40","capabilities":"[WEP]","level":"-90","frequency":"2412","time":"Friday, November 22, 2013 11:45:40 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"Parsa","BSSID":"90:f6:52:b0:8c:d2","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS]","level":"-32","frequency":"2457","time":"Friday, November 22, 2013 11:48:31 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"hedieh","BSSID":"00:0d:f0:a7:19:fb","capabilities":"[WPA-PSK-TKIP]","level":"-72","frequency":"2422","time":"Friday, November 22, 2013 11:48:31 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"amo.myna","BSSID":"28:3c:e4:35:11:ef","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP]","level":"-86","frequency":"2442","time":"Friday, November 22, 2013 11:48:31 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"Afshin","BSSID":"28:10:7b:3e:9c:40","capabilities":"[WEP]","level":"-89","frequency":"2412","time":"Friday, November 22, 2013 11:48:31 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"Parsa","BSSID":"90:f6:52:b0:8c:d2","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS]","level":"-34","frequency":"2457","time":"Friday, November 22, 2013 11:50:50 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"hedieh","BSSID":"00:0d:f0:a7:19:fb","capabilities":"[WPA-PSK-TKIP]","level":"-73","frequency":"2422","time":"Friday, November 22, 2013 11:50:50 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"amo.myna","BSSID":"28:3c:e4:35:11:ef","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP]","level":"-85","frequency":"2442","time":"Friday, November 22, 2013 11:50:50 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"MRFO2013","BSSID":"94:0c:6d:ee:40:e6","capabilities":"[WPA2-PSK-TKIP]","level":"-91","frequency":"2412","time":"Friday, November 22, 2013 11:50:50 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"TP-LINK_783C59","BSSID":"f8:1a:67:78:3c:59","capabilities":"[WPA-PSK-CCMP][WPA2-PSK-CCMP][WPS]","level":"-92","frequency":"2462","time":"Friday, November 22, 2013 11:50:50 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"Afshin","BSSID":"28:10:7b:3e:9c:40","capabilities":"[WEP]","level":"-89","frequency":"2412","time":"Friday, November 22, 2013 11:50:50 PM Azerbaijan Time"}}
+{"WiFi":{"SSID":"ITM","BSSID":"f4:ec:38:d5:dd:ec","capabilities":"[WEP]","level":"-93","frequency":"2447","time":"Friday, November 22, 2013 11:50:50 PM Azerbaijan Time"}}

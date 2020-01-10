@@ -1,0 +1,967 @@
+{"Application":{"ProcessName":"com.htc.lockscreen","Start":"12-30-2013 23:19:07","End":"12-30-2013 23:19:13"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"12-30-2013 23:17:33","End":"12-30-2013 23:19:43"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-30-2013 23:17:33","End":"12-30-2013 23:19:43"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-30-2013 23:17:33","End":"12-30-2013 23:19:43"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-30-2013 23:17:33","End":"12-30-2013 23:19:43"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"12-30-2013 23:17:33","End":"12-30-2013 23:19:43"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"12-30-2013 23:22:29","End":"12-30-2013 23:22:34"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"12-30-2013 23:22:29","End":"12-30-2013 23:22:34"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-30-2013 23:22:29","End":"12-30-2013 23:22:36"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-30-2013 23:22:29","End":"12-30-2013 23:22:36"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-30-2013 23:22:29","End":"12-30-2013 23:22:36"}}
+{"Application":{"ProcessName":"com.htc.android.worldclock","Start":"12-31-2013 07:15:02","End":"12-31-2013 07:15:12"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"12-31-2013 07:15:12","End":"12-31-2013 07:15:16"}}
+{"Application":{"ProcessName":"com.google.android.apps.maps:FriendService","Start":"12-31-2013 07:15:16","End":"12-31-2013 07:15:16"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"12-31-2013 07:15:16","End":"12-31-2013 07:15:22"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 07:15:02","End":"12-31-2013 07:15:32"}}
+{"Application":{"ProcessName":"com.htc.android.worldclock","Start":"12-31-2013 07:15:16","End":"12-31-2013 07:15:32"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 07:15:02","End":"12-31-2013 07:15:32"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 07:15:02","End":"12-31-2013 07:15:32"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"12-31-2013 07:56:56","End":"12-31-2013 07:56:57"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-63","frequency":"2462","time":"Tuesday, December 31, 2013 7:57:04 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-91","frequency":"2462","time":"Tuesday, December 31, 2013 7:57:04 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-95","frequency":"2417","time":"Tuesday, December 31, 2013 7:57:04 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-73","frequency":"2447","time":"Tuesday, December 31, 2013 7:57:04 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-88","frequency":"2412","time":"Tuesday, December 31, 2013 7:57:04 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"12-31-2013 07:56:56","End":"12-31-2013 07:57:42"}}
+{"Application":{"ProcessName":"com.htc.home.personalize","Start":"12-31-2013 07:57:42","End":"12-31-2013 07:57:46"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 07:56:52","End":"12-31-2013 08:01:52"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 07:56:52","End":"12-31-2013 08:01:52"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 07:56:52","End":"12-31-2013 08:01:52"}}
+{"Application":{"ProcessName":"com.webs.groapp.slimmagazine","Start":"12-31-2013 07:58:06","End":"12-31-2013 08:03:07"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 08:01:52","End":"12-31-2013 08:06:53"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 08:01:52","End":"12-31-2013 08:06:53"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 08:01:52","End":"12-31-2013 08:06:53"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 08:06:53","End":"12-31-2013 08:07:48"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 08:06:53","End":"12-31-2013 08:07:48"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 08:06:53","End":"12-31-2013 08:07:48"}}
+{"Application":{"ProcessName":"com.webs.groapp.slimmagazine","Start":"12-31-2013 08:03:07","End":"12-31-2013 08:07:48"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 08:17:36","End":"12-31-2013 08:17:57"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 08:17:36","End":"12-31-2013 08:17:57"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 08:17:36","End":"12-31-2013 08:17:57"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-72","frequency":"2462","time":"Tuesday, December 31, 2013 9:29:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-83","frequency":"2452","time":"Tuesday, December 31, 2013 9:29:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:29:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-67","frequency":"2447","time":"Tuesday, December 31, 2013 9:29:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-72","frequency":"2462","time":"Tuesday, December 31, 2013 9:29:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-83","frequency":"2452","time":"Tuesday, December 31, 2013 9:29:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:29:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-67","frequency":"2447","time":"Tuesday, December 31, 2013 9:29:58 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"12-31-2013 09:29:43","End":"12-31-2013 09:30:01"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-72","frequency":"2462","time":"Tuesday, December 31, 2013 9:30:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-83","frequency":"2452","time":"Tuesday, December 31, 2013 9:30:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:30:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-67","frequency":"2447","time":"Tuesday, December 31, 2013 9:30:02 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.google.android.apps.uploader","Start":"12-31-2013 09:30:01","End":"12-31-2013 09:30:05"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"12-31-2013 09:30:05","End":"12-31-2013 09:30:11"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"12-31-2013 09:30:15","End":"12-31-2013 09:30:22"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"12-31-2013 09:30:11","End":"12-31-2013 09:30:22"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"12-31-2013 09:30:15","End":"12-31-2013 09:30:22"}}
+{"Application":{"ProcessName":"com.htc.calendar","Start":"12-31-2013 09:30:22","End":"12-31-2013 09:30:22"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"12-31-2013 09:30:32","End":"12-31-2013 09:30:33"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:30:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:30:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:30:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:30:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:30:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:31:01 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:31:01 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:31:01 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:31:01 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:31:01 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:31:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:31:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:31:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:31:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:31:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:31:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:31:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:31:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:31:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:31:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:32:01 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:32:01 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:32:01 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:32:01 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:32:01 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:32:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:32:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:32:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:32:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:32:02 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"info.androidz.horoscope","Start":"12-31-2013 09:30:05","End":"12-31-2013 09:32:03"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-31-2013 09:32:03","End":"12-31-2013 09:32:08"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"12-31-2013 09:32:03","End":"12-31-2013 09:32:23"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:32:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:32:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:32:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:32:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:32:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:33:01 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:33:01 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:33:01 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:33:01 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:33:01 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:33:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:33:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:33:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:33:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:33:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:33:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:33:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:33:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:33:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:33:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:34:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:34:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:34:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:34:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:34:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:34:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:34:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:34:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:34:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:34:02 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 09:29:39","End":"12-31-2013 09:34:40"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 09:29:39","End":"12-31-2013 09:34:40"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 09:29:39","End":"12-31-2013 09:34:40"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:34:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:34:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:34:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:34:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:34:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:35:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:35:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:35:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:35:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:35:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:35:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:35:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:35:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:35:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:35:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:35:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:35:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:35:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:35:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:35:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:36:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:36:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:36:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:36:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:36:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:36:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:36:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:36:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:36:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:36:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:36:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:36:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:36:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:36:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:36:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:37:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:37:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:37:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:37:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:37:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:37:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:37:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:37:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:37:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:37:02 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"12-31-2013 09:32:23","End":"12-31-2013 09:37:25"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:37:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:37:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:37:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:37:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:37:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:38:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:38:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:38:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:38:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:38:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:38:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:38:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:38:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:38:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:38:02 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"12-31-2013 09:37:25","End":"12-31-2013 09:38:20"}}
+{"Application":{"ProcessName":"com.htc.launcher.widgetscanner","Start":"12-31-2013 09:38:32","End":"12-31-2013 09:38:36"}}
+{"Application":{"ProcessName":"com.htc.HtcLinkifyDispatcher:remote","Start":"12-31-2013 09:38:36","End":"12-31-2013 09:38:38"}}
+{"Application":{"ProcessName":"com.android.packageinstaller","Start":"12-31-2013 09:38:20","End":"12-31-2013 09:38:38"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"12-31-2013 09:38:38","End":"12-31-2013 09:38:45"}}
+{"Application":{"ProcessName":"com.vodafone.shop","Start":"12-31-2013 09:38:45","End":"12-31-2013 09:38:48"}}
+{"Application":{"ProcessName":"com.aportela.diets.view","Start":"12-31-2013 09:38:48","End":"12-31-2013 09:38:55"}}
+{"Application":{"ProcessName":"com.android.vending","Start":"12-31-2013 09:38:48","End":"12-31-2013 09:38:55"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"12-31-2013 09:38:48","End":"12-31-2013 09:38:55"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:38:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:38:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:38:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:38:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:38:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:39:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:39:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:39:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:39:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:39:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:39:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:39:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:39:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:39:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:39:02 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 09:34:40","End":"12-31-2013 09:39:45"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 09:34:40","End":"12-31-2013 09:39:45"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 09:34:40","End":"12-31-2013 09:39:45"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:39:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:39:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:39:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:39:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:39:58 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:40:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:40:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:40:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:40:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:40:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:40:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:40:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:40:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:40:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:40:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:40:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:40:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:40:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:40:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:40:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:41:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:41:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:41:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:41:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:41:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:41:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:41:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:41:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:41:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:41:02 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.fooducate.nutritionapp","Start":"12-31-2013 09:38:45","End":"12-31-2013 09:41:57"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:41:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:41:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:41:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:41:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:41:59 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"12-31-2013 09:41:57","End":"12-31-2013 09:41:59"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:42:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:42:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:42:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:42:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:42:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-67","frequency":"2462","time":"Tuesday, December 31, 2013 9:42:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:42:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-90","frequency":"2462","time":"Tuesday, December 31, 2013 9:42:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-75","frequency":"2447","time":"Tuesday, December 31, 2013 9:42:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-85","frequency":"2412","time":"Tuesday, December 31, 2013 9:42:02 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.android.htccontacts","Start":"12-31-2013 09:42:07","End":"12-31-2013 09:42:10"}}
+{"Application":{"ProcessName":"com.htc.music:mediaplaybackservice","Start":"12-31-2013 09:42:07","End":"12-31-2013 09:42:10"}}
+{"Application":{"ProcessName":"com.htc.lockscreen","Start":"12-31-2013 09:42:07","End":"12-31-2013 09:42:10"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"12-31-2013 09:42:10","End":"12-31-2013 09:42:17"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer","Start":"12-31-2013 09:42:10","End":"12-31-2013 09:42:17"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"12-31-2013 09:42:06","End":"12-31-2013 09:42:21"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"12-31-2013 09:42:33","End":"12-31-2013 09:42:45"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"12-31-2013 09:42:36","End":"12-31-2013 09:42:45"}}
+{"Application":{"ProcessName":"com.google.android.apps.maps:LocationFriendService","Start":"12-31-2013 09:42:45","End":"12-31-2013 09:42:47"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:42:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:42:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:42:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:42:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:42:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:42:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:43:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:43:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:43:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:43:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:43:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:43:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:43:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:43:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:43:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:43:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:43:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:43:02 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"12-31-2013 09:42:57","End":"12-31-2013 09:43:08"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:43:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:43:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:43:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:43:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:43:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:43:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:44:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:44:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:44:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:44:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:44:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:44:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:44:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:44:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:44:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:44:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:44:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:44:02 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.fooducate.nutritionapp","Start":"12-31-2013 09:42:45","End":"12-31-2013 09:44:49"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 09:39:45","End":"12-31-2013 09:44:49"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 09:39:45","End":"12-31-2013 09:44:49"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 09:39:45","End":"12-31-2013 09:44:49"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:44:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:44:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:44:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:44:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:44:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:44:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:45:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:45:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:45:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:45:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:45:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:45:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:45:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:45:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:45:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:45:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:45:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:45:02 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"12-31-2013 09:45:29","End":"12-31-2013 09:45:40"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 09:44:49","End":"12-31-2013 09:45:40"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 09:44:49","End":"12-31-2013 09:45:40"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 09:44:49","End":"12-31-2013 09:45:40"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"12-31-2013 09:45:19","End":"12-31-2013 09:45:40"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:45:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:45:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:45:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:45:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:45:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:45:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:46:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:46:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:46:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:46:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:46:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:46:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:46:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:46:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:46:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:46:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:46:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:46:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:46:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:46:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:46:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:46:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:46:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:46:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:47:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:47:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:47:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:47:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:47:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:47:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:47:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:47:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:47:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:47:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:47:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:47:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:47:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:47:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:47:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:47:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:47:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:47:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:48:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:48:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:48:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:48:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:48:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:48:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:48:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:48:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:48:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:48:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:48:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:48:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:48:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:48:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:48:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:48:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:48:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:48:59 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"12-31-2013 09:48:52","End":"12-31-2013 09:49:01"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:49:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:49:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:49:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:49:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:49:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:49:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:49:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:49:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:49:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:49:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:49:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:49:03 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"12-31-2013 09:48:51","End":"12-31-2013 09:49:52"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 09:48:51","End":"12-31-2013 09:49:52"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 09:48:51","End":"12-31-2013 09:49:52"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 09:48:51","End":"12-31-2013 09:49:52"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"12-31-2013 09:48:51","End":"12-31-2013 09:49:52"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:49:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:49:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:49:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:49:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:49:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:49:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:50:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:50:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:50:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:50:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:50:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:50:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:50:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:50:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:50:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:50:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:50:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:50:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:50:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:50:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:50:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:50:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:50:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:50:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:51:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:51:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:51:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:51:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:51:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:51:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 9:51:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-68","frequency":"2462","time":"Tuesday, December 31, 2013 9:51:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 9:51:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-93","frequency":"2417","time":"Tuesday, December 31, 2013 9:51:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-Local","BSSID":"52:75:16:d4:c1:99","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-94","frequency":"2412","time":"Tuesday, December 31, 2013 9:51:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-69","frequency":"2447","time":"Tuesday, December 31, 2013 9:51:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2452","time":"Tuesday, December 31, 2013 9:51:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-82","frequency":"2462","time":"Tuesday, December 31, 2013 9:51:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-79","frequency":"2447","time":"Tuesday, December 31, 2013 9:51:59 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2452","time":"Tuesday, December 31, 2013 9:52:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-82","frequency":"2462","time":"Tuesday, December 31, 2013 9:52:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-79","frequency":"2447","time":"Tuesday, December 31, 2013 9:52:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2452","time":"Tuesday, December 31, 2013 9:52:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-82","frequency":"2462","time":"Tuesday, December 31, 2013 9:52:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-79","frequency":"2447","time":"Tuesday, December 31, 2013 9:52:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2452","time":"Tuesday, December 31, 2013 9:53:00 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-82","frequency":"2462","time":"Tuesday, December 31, 2013 9:53:00 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-79","frequency":"2447","time":"Tuesday, December 31, 2013 9:53:00 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2452","time":"Tuesday, December 31, 2013 9:53:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-82","frequency":"2462","time":"Tuesday, December 31, 2013 9:53:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-79","frequency":"2447","time":"Tuesday, December 31, 2013 9:53:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-87","frequency":"2452","time":"Tuesday, December 31, 2013 9:53:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-82","frequency":"2462","time":"Tuesday, December 31, 2013 9:53:03 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-79","frequency":"2447","time":"Tuesday, December 31, 2013 9:53:03 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.htc.flexnet","Start":"12-31-2013 09:53:23","End":"12-31-2013 09:53:27"}}
+{"Application":{"ProcessName":"com.htc.weather.bg","Start":"12-31-2013 09:53:27","End":"12-31-2013 09:53:27"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"12-31-2013 09:53:23","End":"12-31-2013 09:53:34"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"12-31-2013 09:53:23","End":"12-31-2013 09:53:34"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"12-31-2013 09:53:27","End":"12-31-2013 09:53:37"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"12-31-2013 09:53:34","End":"12-31-2013 09:53:38"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 09:53:23","End":"12-31-2013 09:53:44"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 09:53:23","End":"12-31-2013 09:53:44"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 09:53:23","End":"12-31-2013 09:53:44"}}
+{"Application":{"ProcessName":"com.android.settings:remote","Start":"12-31-2013 09:53:37","End":"12-31-2013 09:53:44"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 10:16:33","End":"12-31-2013 10:16:49"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 10:16:33","End":"12-31-2013 10:16:49"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 10:16:33","End":"12-31-2013 10:16:49"}}
+{"Application":{"ProcessName":"com.android.updater","Start":"12-31-2013 10:35:27","End":"12-31-2013 10:35:28"}}
+{"Application":{"ProcessName":"info.androidz.horoscope","Start":"12-31-2013 10:35:38","End":"12-31-2013 10:35:47"}}
+{"Application":{"ProcessName":"com.google.android.apps.plus","Start":"12-31-2013 10:35:43","End":"12-31-2013 10:35:47"}}
+{"Application":{"ProcessName":"com.android.updater","Start":"12-31-2013 10:35:53","End":"12-31-2013 10:35:57"}}
+{"Application":{"ProcessName":"com.android.updater","Start":"12-31-2013 10:37:04","End":"12-31-2013 10:37:09"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 10:35:17","End":"12-31-2013 10:39:59"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 10:35:17","End":"12-31-2013 10:39:59"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 10:35:17","End":"12-31-2013 10:39:59"}}
+{"SMS":{"Address":"+983000####","type":"1","date":"12-31-2013 10:59:03","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"Application":{"ProcessName":"com.htc.weather.bg","Start":"12-31-2013 10:59:10","End":"12-31-2013 10:59:15"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"12-31-2013 10:59:10","End":"12-31-2013 10:59:15"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-31-2013 10:59:15","End":"12-31-2013 10:59:19"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-31-2013 10:59:15","End":"12-31-2013 10:59:19"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 10:59:09","End":"12-31-2013 10:59:19"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 10:59:09","End":"12-31-2013 10:59:19"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 10:59:09","End":"12-31-2013 10:59:19"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-31-2013 11:03:15","End":"12-31-2013 11:03:54"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-31-2013 11:03:15","End":"12-31-2013 11:03:55"}}
+{"SMS":{"Address":"+98938399####","type":"2","date":"12-31-2013 11:03:51","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Negin"}}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 11:03:08","End":"12-31-2013 11:04:59"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 11:03:08","End":"12-31-2013 11:04:59"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 11:03:08","End":"12-31-2013 11:04:59"}}
+{"SMS":{"Address":"+98938399####","type":"1","date":"12-31-2013 11:07:56","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Negin"}}}
+{"Application":{"ProcessName":"com.htc.lockscreen","Start":"12-31-2013 11:07:21","End":"12-31-2013 11:07:22"}}
+{"Application":{"ProcessName":"com.htc.flexnet","Start":"12-31-2013 11:07:22","End":"12-31-2013 11:07:26"}}
+{"Application":{"ProcessName":"com.htc.weather.bg","Start":"12-31-2013 11:07:26","End":"12-31-2013 11:07:31"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"12-31-2013 11:07:26","End":"12-31-2013 11:07:31"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-31-2013 11:07:26","End":"12-31-2013 11:08:31"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-31-2013 11:07:26","End":"12-31-2013 11:08:31"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 11:07:21","End":"12-31-2013 11:08:31"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 11:07:21","End":"12-31-2013 11:08:31"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 11:07:21","End":"12-31-2013 11:08:31"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 12:17:59","End":"12-31-2013 12:18:22"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 12:17:59","End":"12-31-2013 12:18:22"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 12:17:59","End":"12-31-2013 12:18:22"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 12:59:24","End":"12-31-2013 13:00:07"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 12:59:24","End":"12-31-2013 13:00:07"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 12:59:24","End":"12-31-2013 13:00:07"}}
+{"Application":{"ProcessName":"com.android.settings:remote","Start":"12-31-2013 12:59:24","End":"12-31-2013 13:00:07"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-31-2013 13:40:13","End":"12-31-2013 13:40:21"}}
+{"Application":{"ProcessName":"com.rebelvox.voxer","Start":"12-31-2013 13:40:13","End":"12-31-2013 13:40:21"}}
+{"SMS":{"Address":"0912813####","type":"2","date":"12-31-2013 13:40:42","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Mona"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-31-2013 13:40:10","End":"12-31-2013 13:41:05"}}
+{"Application":{"ProcessName":"com.android.updater","Start":"12-31-2013 13:41:05","End":"12-31-2013 13:41:11"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-31-2013 13:41:11","End":"12-31-2013 13:41:16"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-31-2013 13:40:45","End":"12-31-2013 13:41:16"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"12-31-2013 13:41:31","End":"12-31-2013 13:41:36"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"12-31-2013 13:41:16","End":"12-31-2013 13:41:42"}}
+{"SMS":{"Address":"+98912813####","type":"1","date":"12-31-2013 13:41:48","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Mona"}}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"12-31-2013 13:41:42","End":"12-31-2013 13:41:46"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-69","frequency":"2452","time":"Tuesday, December 31, 2013 1:41:46 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-80","frequency":"2462","time":"Tuesday, December 31, 2013 1:41:46 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-91","frequency":"2462","time":"Tuesday, December 31, 2013 1:41:46 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-92","frequency":"2417","time":"Tuesday, December 31, 2013 1:41:46 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-71","frequency":"2447","time":"Tuesday, December 31, 2013 1:41:46 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 1:41:46 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-69","frequency":"2452","time":"Tuesday, December 31, 2013 1:41:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-80","frequency":"2462","time":"Tuesday, December 31, 2013 1:41:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-91","frequency":"2462","time":"Tuesday, December 31, 2013 1:41:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-92","frequency":"2417","time":"Tuesday, December 31, 2013 1:41:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-71","frequency":"2447","time":"Tuesday, December 31, 2013 1:41:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 1:41:54 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-69","frequency":"2452","time":"Tuesday, December 31, 2013 1:41:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-80","frequency":"2462","time":"Tuesday, December 31, 2013 1:41:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-91","frequency":"2462","time":"Tuesday, December 31, 2013 1:41:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-92","frequency":"2417","time":"Tuesday, December 31, 2013 1:41:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-71","frequency":"2447","time":"Tuesday, December 31, 2013 1:41:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 1:41:55 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-31-2013 13:41:53","End":"12-31-2013 13:41:58"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"12-31-2013 13:41:53","End":"12-31-2013 13:41:58"}}
+{"Application":{"ProcessName":"com.htc.weather.bg","Start":"12-31-2013 13:41:58","End":"12-31-2013 13:42:02"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-31-2013 13:42:12","End":"12-31-2013 13:42:42"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-69","frequency":"2452","time":"Tuesday, December 31, 2013 1:42:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-80","frequency":"2462","time":"Tuesday, December 31, 2013 1:42:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-91","frequency":"2462","time":"Tuesday, December 31, 2013 1:42:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-92","frequency":"2417","time":"Tuesday, December 31, 2013 1:42:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-71","frequency":"2447","time":"Tuesday, December 31, 2013 1:42:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 1:42:48 PM Iran Standard Time"}}
+{"SMS":{"Address":"0912813####","type":"2","date":"12-31-2013 13:42:38","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Mona"}}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-31-2013 13:42:18","End":"12-31-2013 13:42:54"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-69","frequency":"2452","time":"Tuesday, December 31, 2013 1:42:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-80","frequency":"2462","time":"Tuesday, December 31, 2013 1:42:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-91","frequency":"2462","time":"Tuesday, December 31, 2013 1:42:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-92","frequency":"2417","time":"Tuesday, December 31, 2013 1:42:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-71","frequency":"2447","time":"Tuesday, December 31, 2013 1:42:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 1:42:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-69","frequency":"2452","time":"Tuesday, December 31, 2013 1:42:57 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-80","frequency":"2462","time":"Tuesday, December 31, 2013 1:42:57 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-91","frequency":"2462","time":"Tuesday, December 31, 2013 1:42:57 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-92","frequency":"2417","time":"Tuesday, December 31, 2013 1:42:57 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-71","frequency":"2447","time":"Tuesday, December 31, 2013 1:42:57 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 1:42:57 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.htc.task","Start":"12-31-2013 13:42:54","End":"12-31-2013 13:42:57"}}
+{"SMS":{"Address":"+98912813####","type":"1","date":"12-31-2013 13:43:43","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Mona"}}}
+{"Application":{"ProcessName":"com.android.htccontacts","Start":"12-31-2013 13:43:38","End":"12-31-2013 13:43:38"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-69","frequency":"2452","time":"Tuesday, December 31, 2013 1:43:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-80","frequency":"2462","time":"Tuesday, December 31, 2013 1:43:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-91","frequency":"2462","time":"Tuesday, December 31, 2013 1:43:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-92","frequency":"2417","time":"Tuesday, December 31, 2013 1:43:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-71","frequency":"2447","time":"Tuesday, December 31, 2013 1:43:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 1:43:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-69","frequency":"2452","time":"Tuesday, December 31, 2013 1:43:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-80","frequency":"2462","time":"Tuesday, December 31, 2013 1:43:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-91","frequency":"2462","time":"Tuesday, December 31, 2013 1:43:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-92","frequency":"2417","time":"Tuesday, December 31, 2013 1:43:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-71","frequency":"2447","time":"Tuesday, December 31, 2013 1:43:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 1:43:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-69","frequency":"2452","time":"Tuesday, December 31, 2013 1:43:57 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-80","frequency":"2462","time":"Tuesday, December 31, 2013 1:43:57 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-91","frequency":"2462","time":"Tuesday, December 31, 2013 1:43:57 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-92","frequency":"2417","time":"Tuesday, December 31, 2013 1:43:57 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-71","frequency":"2447","time":"Tuesday, December 31, 2013 1:43:57 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 1:43:57 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-69","frequency":"2452","time":"Tuesday, December 31, 2013 1:44:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-80","frequency":"2462","time":"Tuesday, December 31, 2013 1:44:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-91","frequency":"2462","time":"Tuesday, December 31, 2013 1:44:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-92","frequency":"2417","time":"Tuesday, December 31, 2013 1:44:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-71","frequency":"2447","time":"Tuesday, December 31, 2013 1:44:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 1:44:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-69","frequency":"2452","time":"Tuesday, December 31, 2013 1:44:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-80","frequency":"2462","time":"Tuesday, December 31, 2013 1:44:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-91","frequency":"2462","time":"Tuesday, December 31, 2013 1:44:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-92","frequency":"2417","time":"Tuesday, December 31, 2013 1:44:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-71","frequency":"2447","time":"Tuesday, December 31, 2013 1:44:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 1:44:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-69","frequency":"2452","time":"Tuesday, December 31, 2013 1:44:58 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-80","frequency":"2462","time":"Tuesday, December 31, 2013 1:44:58 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-91","frequency":"2462","time":"Tuesday, December 31, 2013 1:44:58 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-92","frequency":"2417","time":"Tuesday, December 31, 2013 1:44:58 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-71","frequency":"2447","time":"Tuesday, December 31, 2013 1:44:58 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 1:44:58 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.viber.voip:remote","Start":"12-31-2013 13:45:03","End":"12-31-2013 13:45:14"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 13:40:10","End":"12-31-2013 13:45:14"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 13:40:10","End":"12-31-2013 13:45:14"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 13:40:10","End":"12-31-2013 13:45:14"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-31-2013 13:45:14","End":"12-31-2013 13:45:16"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-69","frequency":"2452","time":"Tuesday, December 31, 2013 1:45:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-80","frequency":"2462","time":"Tuesday, December 31, 2013 1:45:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-91","frequency":"2462","time":"Tuesday, December 31, 2013 1:45:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-92","frequency":"2417","time":"Tuesday, December 31, 2013 1:45:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-71","frequency":"2447","time":"Tuesday, December 31, 2013 1:45:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 1:45:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-69","frequency":"2452","time":"Tuesday, December 31, 2013 1:45:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-80","frequency":"2462","time":"Tuesday, December 31, 2013 1:45:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-91","frequency":"2462","time":"Tuesday, December 31, 2013 1:45:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-92","frequency":"2417","time":"Tuesday, December 31, 2013 1:45:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-71","frequency":"2447","time":"Tuesday, December 31, 2013 1:45:55 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 1:45:55 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"12-31-2013 13:42:42","End":"12-31-2013 13:45:55"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-69","frequency":"2452","time":"Tuesday, December 31, 2013 1:46:03 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-80","frequency":"2462","time":"Tuesday, December 31, 2013 1:46:03 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-91","frequency":"2462","time":"Tuesday, December 31, 2013 1:46:03 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-92","frequency":"2417","time":"Tuesday, December 31, 2013 1:46:03 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-71","frequency":"2447","time":"Tuesday, December 31, 2013 1:46:03 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-92","frequency":"2412","time":"Tuesday, December 31, 2013 1:46:03 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-31-2013 13:45:55","End":"12-31-2013 13:46:06"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-31-2013 13:45:55","End":"12-31-2013 13:46:06"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"12-31-2013 13:46:06","End":"12-31-2013 13:46:09"}}
+{"Application":{"ProcessName":"com.htc.calendar","Start":"12-31-2013 13:46:09","End":"12-31-2013 13:46:19"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 13:45:14","End":"12-31-2013 13:46:29"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 13:45:14","End":"12-31-2013 13:46:29"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 13:45:14","End":"12-31-2013 13:46:29"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 14:01:24","End":"12-31-2013 14:06:25"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 14:01:24","End":"12-31-2013 14:06:25"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 14:01:24","End":"12-31-2013 14:06:25"}}
+{"Application":{"ProcessName":"com.webs.groapp.slimmagazine","Start":"12-31-2013 14:01:34","End":"12-31-2013 14:06:36"}}
+{"Application":{"ProcessName":"com.webs.groapp.slimmagazine","Start":"12-31-2013 14:06:36","End":"12-31-2013 14:07:26"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 14:06:25","End":"12-31-2013 14:07:26"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 14:06:25","End":"12-31-2013 14:07:26"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 14:06:25","End":"12-31-2013 14:07:26"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-97","frequency":"2462","time":"Tuesday, December 31, 2013 2:08:08 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 2:08:08 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-84","frequency":"2462","time":"Tuesday, December 31, 2013 2:08:08 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"e0:cb:4e:d2:8b:96","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-93","frequency":"2462","time":"Tuesday, December 31, 2013 2:08:08 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-74","frequency":"2447","time":"Tuesday, December 31, 2013 2:08:08 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"12-31-2013 14:08:02","End":"12-31-2013 14:08:12"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-97","frequency":"2462","time":"Tuesday, December 31, 2013 2:08:14 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 2:08:14 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-84","frequency":"2462","time":"Tuesday, December 31, 2013 2:08:14 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"e0:cb:4e:d2:8b:96","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-93","frequency":"2462","time":"Tuesday, December 31, 2013 2:08:14 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-74","frequency":"2447","time":"Tuesday, December 31, 2013 2:08:14 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-97","frequency":"2462","time":"Tuesday, December 31, 2013 2:08:23 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-79","frequency":"2452","time":"Tuesday, December 31, 2013 2:08:23 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-84","frequency":"2462","time":"Tuesday, December 31, 2013 2:08:23 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"e0:cb:4e:d2:8b:96","capabilities":"[WPA-PSK-TKIP][ESS]","level":"-93","frequency":"2462","time":"Tuesday, December 31, 2013 2:08:23 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-74","frequency":"2447","time":"Tuesday, December 31, 2013 2:08:23 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.google.android.talk","Start":"12-31-2013 14:08:42","End":"12-31-2013 14:08:42"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"12-31-2013 14:08:12","End":"12-31-2013 14:09:02"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"12-31-2013 14:09:03","End":"12-31-2013 14:09:13"}}
+{"Application":{"ProcessName":"com.htc.weather.bg","Start":"12-31-2013 14:09:13","End":"12-31-2013 14:09:14"}}
+{"Application":{"ProcessName":"com.htc.bg","Start":"12-31-2013 14:09:13","End":"12-31-2013 14:09:14"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 14:08:01","End":"12-31-2013 14:09:23"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 14:08:01","End":"12-31-2013 14:09:23"}}
+{"Application":{"ProcessName":"com.htc.htcMessageUploader","Start":"12-31-2013 14:09:14","End":"12-31-2013 14:09:23"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 14:08:01","End":"12-31-2013 14:09:23"}}
+{"Application":{"ProcessName":"com.htc.lockscreen","Start":"12-31-2013 14:24:54","End":"12-31-2013 14:24:54"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"12-31-2013 14:24:54","End":"12-31-2013 14:25:01"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 14:24:51","End":"12-31-2013 14:25:04"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 14:24:51","End":"12-31-2013 14:25:04"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 14:24:51","End":"12-31-2013 14:25:04"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"12-31-2013 14:46:12","End":"12-31-2013 14:46:15"}}
+{"Application":{"ProcessName":"com.google.android.apps.maps:FriendService","Start":"12-31-2013 14:46:23","End":"12-31-2013 14:46:25"}}
+{"Application":{"ProcessName":"com.htc.lockscreen","Start":"12-31-2013 14:47:13","End":"12-31-2013 14:47:17"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"12-31-2013 14:46:23","End":"12-31-2013 14:47:48"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 14:46:12","End":"12-31-2013 14:47:48"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 14:46:12","End":"12-31-2013 14:47:48"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 14:46:12","End":"12-31-2013 14:47:48"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"12-31-2013 14:46:23","End":"12-31-2013 14:47:48"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"12-31-2013 14:48:58","End":"12-31-2013 14:51:06"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 14:48:54","End":"12-31-2013 14:51:06"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 14:48:54","End":"12-31-2013 14:51:06"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 14:48:54","End":"12-31-2013 14:51:06"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"12-31-2013 14:48:58","End":"12-31-2013 14:51:06"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"12-31-2013 14:53:22","End":"12-31-2013 14:53:26"}}
+{"Application":{"ProcessName":"com.htc.musicenhancer:enhancerprovider","Start":"12-31-2013 14:53:22","End":"12-31-2013 14:56:38"}}
+{"Application":{"ProcessName":"com.htc.music","Start":"12-31-2013 14:53:22","End":"12-31-2013 14:56:38"}}
+{"Application":{"ProcessName":"tunein.player","Start":"12-31-2013 14:56:38","End":"12-31-2013 14:56:45"}}
+{"Application":{"ProcessName":"com.htc.android.worldclock","Start":"12-31-2013 14:56:45","End":"12-31-2013 14:57:05"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 14:53:22","End":"12-31-2013 14:57:08"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 14:53:22","End":"12-31-2013 14:57:08"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 14:53:22","End":"12-31-2013 14:57:08"}}
+{"Application":{"ProcessName":"com.htc.flexnet","Start":"12-31-2013 15:22:00","End":"12-31-2013 15:22:10"}}
+{"Application":{"ProcessName":"com.htc.flexnet","Start":"12-31-2013 15:22:10","End":"12-31-2013 15:22:13"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 15:22:00","End":"12-31-2013 15:22:24"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 15:22:00","End":"12-31-2013 15:22:24"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 15:22:00","End":"12-31-2013 15:22:24"}}
+{"SMS":{"Address":"+98912813####","type":"1","date":"12-31-2013 15:22:31","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Mona"}}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 15:22:50","End":"12-31-2013 15:22:56"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 15:22:50","End":"12-31-2013 15:22:56"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 15:22:50","End":"12-31-2013 15:22:56"}}
+{"Application":{"ProcessName":"com.android.settings:remote","Start":"12-31-2013 15:22:50","End":"12-31-2013 15:22:56"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-31-2013 16:11:51","End":"12-31-2013 16:12:01"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-31-2013 16:11:58","End":"12-31-2013 16:12:01"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 16:11:46","End":"12-31-2013 16:12:08"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 16:11:46","End":"12-31-2013 16:12:08"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 16:11:46","End":"12-31-2013 16:12:08"}}
+{"Application":{"ProcessName":"ir.zinutech.android.hotelyab","Start":"12-31-2013 17:08:31","End":"12-31-2013 17:08:31"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 17:08:21","End":"12-31-2013 17:13:22"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 17:08:21","End":"12-31-2013 17:13:22"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 17:08:21","End":"12-31-2013 17:13:22"}}
+{"Application":{"ProcessName":"com.webs.groapp.slimmagazine","Start":"12-31-2013 17:08:41","End":"12-31-2013 17:13:42"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 17:13:22","End":"12-31-2013 17:17:53"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 17:13:22","End":"12-31-2013 17:17:53"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 17:13:22","End":"12-31-2013 17:17:53"}}
+{"Application":{"ProcessName":"com.webs.groapp.slimmagazine","Start":"12-31-2013 17:13:42","End":"12-31-2013 17:17:53"}}
+{"Application":{"ProcessName":"com.htc.flexnet","Start":"12-31-2013 17:20:53","End":"12-31-2013 17:20:56"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 17:20:53","End":"12-31-2013 17:20:56"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 17:20:53","End":"12-31-2013 17:20:56"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 17:20:53","End":"12-31-2013 17:20:56"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-31-2013 17:31:32","End":"12-31-2013 17:31:40"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-31-2013 17:31:32","End":"12-31-2013 17:32:00"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 17:31:29","End":"12-31-2013 17:32:00"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 17:31:29","End":"12-31-2013 17:32:00"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 17:31:29","End":"12-31-2013 17:32:00"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 17:32:02","End":"12-31-2013 17:32:28"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 17:32:02","End":"12-31-2013 17:32:28"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 17:32:02","End":"12-31-2013 17:32:28"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-31-2013 17:34:34","End":"12-31-2013 17:34:34"}}
+{"SMS":{"Address":"+98938140####","type":"2","date":"12-31-2013 17:34:57","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Papar"}}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-31-2013 17:35:04","End":"12-31-2013 17:35:14"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-31-2013 17:34:34","End":"12-31-2013 17:36:04"}}
+{"SMS":{"Address":"0939424####","type":"2","date":"12-31-2013 17:36:00","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Nooshin"}}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 17:34:34","End":"12-31-2013 17:37:05"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 17:34:34","End":"12-31-2013 17:37:05"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 17:34:34","End":"12-31-2013 17:37:05"}}
+{"SMS":{"Address":"+98919484####","type":"1","date":"12-31-2013 17:37:42","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"SMS":{"Address":"+98919484####","type":"2","date":"12-31-2013 17:38:09","body":"ANONYMIZED","Type":"2", "metadata": {"name": ""}}}
+{"SMS":{"Address":"+98939424####","type":"1","date":"12-31-2013 17:39:09","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-31-2013 17:37:56","End":"12-31-2013 17:38:46"}}
+{"SMS":{"Address":"+98919484####","type":"2","date":"12-31-2013 17:39:28","body":"ANONYMIZED","Type":"2", "metadata": {"name": ""}}}
+{"SMS":{"Address":"+98919484####","type":"1","date":"12-31-2013 17:40:14","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"SMS":{"Address":"0939424####","type":"2","date":"12-31-2013 17:40:31","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Nooshin"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-31-2013 17:37:56","End":"12-31-2013 17:40:57"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-31-2013 17:38:56","End":"12-31-2013 17:40:57"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-31-2013 17:40:58","End":"12-31-2013 17:41:39"}}
+{"SMS":{"Address":"+98919426####","type":"2","date":"12-31-2013 17:41:36","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Zahra"}}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:41:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-SSS","BSSID":"52:75:16:d4:c1:9b","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:41:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-59","frequency":"2452","time":"Tuesday, December 31, 2013 5:41:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-62","frequency":"2462","time":"Tuesday, December 31, 2013 5:41:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2462","time":"Tuesday, December 31, 2013 5:41:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-95","frequency":"2417","time":"Tuesday, December 31, 2013 5:41:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-74","frequency":"2447","time":"Tuesday, December 31, 2013 5:41:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-93","frequency":"2412","time":"Tuesday, December 31, 2013 5:41:51 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"12-31-2013 17:41:49","End":"12-31-2013 17:41:59"}}
+{"Application":{"ProcessName":"com.google.android.apps.plus","Start":"12-31-2013 17:41:59","End":"12-31-2013 17:42:00"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"12-31-2013 17:42:00","End":"12-31-2013 17:42:01"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"12-31-2013 17:42:10","End":"12-31-2013 17:42:21"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:42:36 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-SSS","BSSID":"52:75:16:d4:c1:9b","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:42:36 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-59","frequency":"2452","time":"Tuesday, December 31, 2013 5:42:36 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-62","frequency":"2462","time":"Tuesday, December 31, 2013 5:42:36 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2462","time":"Tuesday, December 31, 2013 5:42:36 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-95","frequency":"2417","time":"Tuesday, December 31, 2013 5:42:36 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-74","frequency":"2447","time":"Tuesday, December 31, 2013 5:42:36 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-93","frequency":"2412","time":"Tuesday, December 31, 2013 5:42:36 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:42:43 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-SSS","BSSID":"52:75:16:d4:c1:9b","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:42:43 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-59","frequency":"2452","time":"Tuesday, December 31, 2013 5:42:43 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-62","frequency":"2462","time":"Tuesday, December 31, 2013 5:42:43 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2462","time":"Tuesday, December 31, 2013 5:42:43 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-95","frequency":"2417","time":"Tuesday, December 31, 2013 5:42:43 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-74","frequency":"2447","time":"Tuesday, December 31, 2013 5:42:43 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-93","frequency":"2412","time":"Tuesday, December 31, 2013 5:42:43 PM Iran Standard Time"}}
+{"SMS":{"Address":"+98939424####","type":"1","date":"12-31-2013 17:43:23","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 17:37:46","End":"12-31-2013 17:42:51"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 17:37:46","End":"12-31-2013 17:42:51"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 17:37:46","End":"12-31-2013 17:42:51"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:42:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-SSS","BSSID":"52:75:16:d4:c1:9b","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:42:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-59","frequency":"2452","time":"Tuesday, December 31, 2013 5:42:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-62","frequency":"2462","time":"Tuesday, December 31, 2013 5:42:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2462","time":"Tuesday, December 31, 2013 5:42:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-95","frequency":"2417","time":"Tuesday, December 31, 2013 5:42:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-74","frequency":"2447","time":"Tuesday, December 31, 2013 5:42:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-93","frequency":"2412","time":"Tuesday, December 31, 2013 5:42:51 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"12-31-2013 17:42:10","End":"12-31-2013 17:43:11"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:43:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-SSS","BSSID":"52:75:16:d4:c1:9b","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:43:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-59","frequency":"2452","time":"Tuesday, December 31, 2013 5:43:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-62","frequency":"2462","time":"Tuesday, December 31, 2013 5:43:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2462","time":"Tuesday, December 31, 2013 5:43:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-95","frequency":"2417","time":"Tuesday, December 31, 2013 5:43:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-74","frequency":"2447","time":"Tuesday, December 31, 2013 5:43:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-93","frequency":"2412","time":"Tuesday, December 31, 2013 5:43:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:43:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-SSS","BSSID":"52:75:16:d4:c1:9b","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:43:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-59","frequency":"2452","time":"Tuesday, December 31, 2013 5:43:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-62","frequency":"2462","time":"Tuesday, December 31, 2013 5:43:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2462","time":"Tuesday, December 31, 2013 5:43:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-95","frequency":"2417","time":"Tuesday, December 31, 2013 5:43:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-74","frequency":"2447","time":"Tuesday, December 31, 2013 5:43:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-93","frequency":"2412","time":"Tuesday, December 31, 2013 5:43:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:43:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-SSS","BSSID":"52:75:16:d4:c1:9b","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:43:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-59","frequency":"2452","time":"Tuesday, December 31, 2013 5:43:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-62","frequency":"2462","time":"Tuesday, December 31, 2013 5:43:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2462","time":"Tuesday, December 31, 2013 5:43:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-95","frequency":"2417","time":"Tuesday, December 31, 2013 5:43:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-74","frequency":"2447","time":"Tuesday, December 31, 2013 5:43:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-93","frequency":"2412","time":"Tuesday, December 31, 2013 5:43:51 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-31-2013 17:43:11","End":"12-31-2013 17:44:36"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-31-2013 17:43:11","End":"12-31-2013 17:44:36"}}
+{"SMS":{"Address":"0939424####","type":"2","date":"12-31-2013 17:44:34","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Nooshin"}}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:44:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-SSS","BSSID":"52:75:16:d4:c1:9b","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:44:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-59","frequency":"2452","time":"Tuesday, December 31, 2013 5:44:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-62","frequency":"2462","time":"Tuesday, December 31, 2013 5:44:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2462","time":"Tuesday, December 31, 2013 5:44:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-95","frequency":"2417","time":"Tuesday, December 31, 2013 5:44:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-74","frequency":"2447","time":"Tuesday, December 31, 2013 5:44:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-93","frequency":"2412","time":"Tuesday, December 31, 2013 5:44:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:44:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-SSS","BSSID":"52:75:16:d4:c1:9b","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:44:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-59","frequency":"2452","time":"Tuesday, December 31, 2013 5:44:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-62","frequency":"2462","time":"Tuesday, December 31, 2013 5:44:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2462","time":"Tuesday, December 31, 2013 5:44:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-95","frequency":"2417","time":"Tuesday, December 31, 2013 5:44:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-74","frequency":"2447","time":"Tuesday, December 31, 2013 5:44:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-93","frequency":"2412","time":"Tuesday, December 31, 2013 5:44:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:44:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-SSS","BSSID":"52:75:16:d4:c1:9b","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:44:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-59","frequency":"2452","time":"Tuesday, December 31, 2013 5:44:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-62","frequency":"2462","time":"Tuesday, December 31, 2013 5:44:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2462","time":"Tuesday, December 31, 2013 5:44:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-95","frequency":"2417","time":"Tuesday, December 31, 2013 5:44:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-74","frequency":"2447","time":"Tuesday, December 31, 2013 5:44:51 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-93","frequency":"2412","time":"Tuesday, December 31, 2013 5:44:51 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"12-31-2013 17:44:46","End":"12-31-2013 17:45:06"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"12-31-2013 17:45:06","End":"12-31-2013 17:45:16"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:45:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-SSS","BSSID":"52:75:16:d4:c1:9b","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:45:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-59","frequency":"2452","time":"Tuesday, December 31, 2013 5:45:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-62","frequency":"2462","time":"Tuesday, December 31, 2013 5:45:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2462","time":"Tuesday, December 31, 2013 5:45:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-95","frequency":"2417","time":"Tuesday, December 31, 2013 5:45:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-74","frequency":"2447","time":"Tuesday, December 31, 2013 5:45:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-93","frequency":"2412","time":"Tuesday, December 31, 2013 5:45:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:45:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-SSS","BSSID":"52:75:16:d4:c1:9b","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:45:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-59","frequency":"2452","time":"Tuesday, December 31, 2013 5:45:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-62","frequency":"2462","time":"Tuesday, December 31, 2013 5:45:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2462","time":"Tuesday, December 31, 2013 5:45:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-95","frequency":"2417","time":"Tuesday, December 31, 2013 5:45:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-74","frequency":"2447","time":"Tuesday, December 31, 2013 5:45:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-93","frequency":"2412","time":"Tuesday, December 31, 2013 5:45:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:45:52 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-SSS","BSSID":"52:75:16:d4:c1:9b","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:45:52 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-59","frequency":"2452","time":"Tuesday, December 31, 2013 5:45:52 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-62","frequency":"2462","time":"Tuesday, December 31, 2013 5:45:52 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2462","time":"Tuesday, December 31, 2013 5:45:52 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-95","frequency":"2417","time":"Tuesday, December 31, 2013 5:45:52 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-74","frequency":"2447","time":"Tuesday, December 31, 2013 5:45:52 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-93","frequency":"2412","time":"Tuesday, December 31, 2013 5:45:52 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-31-2013 17:45:56","End":"12-31-2013 17:46:09"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-31-2013 17:45:56","End":"12-31-2013 17:46:29"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"12-31-2013 17:46:09","End":"12-31-2013 17:46:29"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:46:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-SSS","BSSID":"52:75:16:d4:c1:9b","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:46:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-59","frequency":"2452","time":"Tuesday, December 31, 2013 5:46:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-62","frequency":"2462","time":"Tuesday, December 31, 2013 5:46:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2462","time":"Tuesday, December 31, 2013 5:46:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-95","frequency":"2417","time":"Tuesday, December 31, 2013 5:46:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-74","frequency":"2447","time":"Tuesday, December 31, 2013 5:46:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-93","frequency":"2412","time":"Tuesday, December 31, 2013 5:46:48 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:46:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-SSS","BSSID":"52:75:16:d4:c1:9b","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:46:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-59","frequency":"2452","time":"Tuesday, December 31, 2013 5:46:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-62","frequency":"2462","time":"Tuesday, December 31, 2013 5:46:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2462","time":"Tuesday, December 31, 2013 5:46:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-95","frequency":"2417","time":"Tuesday, December 31, 2013 5:46:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-74","frequency":"2447","time":"Tuesday, December 31, 2013 5:46:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-93","frequency":"2412","time":"Tuesday, December 31, 2013 5:46:50 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-NoInternet","BSSID":"fc:75:16:d4:c1:98","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:46:52 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"SoroOsh-SSS","BSSID":"52:75:16:d4:c1:9b","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-97","frequency":"2412","time":"Tuesday, December 31, 2013 5:46:52 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-59","frequency":"2452","time":"Tuesday, December 31, 2013 5:46:52 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-62","frequency":"2462","time":"Tuesday, December 31, 2013 5:46:52 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"Mahan","BSSID":"b0:48:7a:ec:9a:9d","capabilities":"[WPA-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2462","time":"Tuesday, December 31, 2013 5:46:52 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-95","frequency":"2417","time":"Tuesday, December 31, 2013 5:46:52 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-74","frequency":"2447","time":"Tuesday, December 31, 2013 5:46:52 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-93","frequency":"2412","time":"Tuesday, December 31, 2013 5:46:52 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"12-31-2013 17:46:29","End":"12-31-2013 17:46:59"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"12-31-2013 17:47:01","End":"12-31-2013 17:47:50"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 17:42:51","End":"12-31-2013 17:47:51"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 17:42:51","End":"12-31-2013 17:47:51"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"12-31-2013 17:47:50","End":"12-31-2013 17:47:51"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 17:42:51","End":"12-31-2013 17:47:51"}}
+{"Application":{"ProcessName":"com.htc.calendar","Start":"12-31-2013 17:47:51","End":"12-31-2013 17:48:00"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-31-2013 17:48:10","End":"12-31-2013 17:49:02"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-31-2013 17:48:10","End":"12-31-2013 17:49:02"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 17:47:51","End":"12-31-2013 17:49:02"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 17:47:51","End":"12-31-2013 17:49:02"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 17:47:52","End":"12-31-2013 17:49:02"}}
+{"SMS":{"Address":"0939424####","type":"2","date":"12-31-2013 17:48:59","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Nooshin"}}}
+{"Application":{"ProcessName":"com.htc.weather.bg","Start":"12-31-2013 18:00:38","End":"12-31-2013 18:00:38"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"12-31-2013 18:00:38","End":"12-31-2013 18:00:46"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-31-2013 18:00:46","End":"12-31-2013 18:01:28"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-31-2013 18:00:46","End":"12-31-2013 18:01:28"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 18:00:36","End":"12-31-2013 18:01:28"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 18:00:36","End":"12-31-2013 18:01:28"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 18:00:36","End":"12-31-2013 18:01:28"}}
+{"SMS":{"Address":"+98919484####","type":"2","date":"12-31-2013 18:01:25","body":"ANONYMIZED","Type":"2", "metadata": {"name": ""}}}
+{"Application":{"ProcessName":"com.htc.weather.bg","Start":"12-31-2013 18:06:01","End":"12-31-2013 18:06:01"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"12-31-2013 18:06:01","End":"12-31-2013 18:06:01"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-31-2013 18:06:01","End":"12-31-2013 18:06:11"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-31-2013 18:06:01","End":"12-31-2013 18:06:11"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 18:06:01","End":"12-31-2013 18:06:11"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 18:06:01","End":"12-31-2013 18:06:11"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 18:06:01","End":"12-31-2013 18:06:11"}}
+{"Application":{"ProcessName":"com.htc.task","Start":"12-31-2013 18:35:42","End":"12-31-2013 18:35:43"}}
+{"Application":{"ProcessName":"com.android.settings:remote","Start":"12-31-2013 18:35:42","End":"12-31-2013 18:35:43"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 18:35:42","End":"12-31-2013 18:35:57"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 18:35:42","End":"12-31-2013 18:35:57"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 18:35:42","End":"12-31-2013 18:35:57"}}
+{"Application":{"ProcessName":"com.record.my.call","Start":"12-31-2013 18:41:16","End":"12-31-2013 18:41:16"}}
+{"Call": {"Number":"+98912418####","Duration":"325","Time":"12-31-2013 18:35:38","Type":"1"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 18:41:15","End":"12-31-2013 18:41:29"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 18:41:15","End":"12-31-2013 18:41:29"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 18:41:15","End":"12-31-2013 18:41:29"}}
+{"Application":{"ProcessName":"com.android.settings:remote","Start":"12-31-2013 18:41:16","End":"12-31-2013 18:41:29"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 20:16:28","End":"12-31-2013 20:17:12"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 20:16:28","End":"12-31-2013 20:17:12"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 20:16:28","End":"12-31-2013 20:17:12"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 20:17:33","End":"12-31-2013 20:18:33"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 20:17:33","End":"12-31-2013 20:18:33"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 20:17:33","End":"12-31-2013 20:18:33"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 21:16:03","End":"12-31-2013 21:16:31"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 21:16:03","End":"12-31-2013 21:16:31"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 21:16:03","End":"12-31-2013 21:16:31"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-31-2013 21:37:13","End":"12-31-2013 21:37:43"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-31-2013 21:37:13","End":"12-31-2013 21:37:43"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 21:37:02","End":"12-31-2013 21:37:43"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 21:37:02","End":"12-31-2013 21:37:43"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 21:37:02","End":"12-31-2013 21:37:43"}}
+{"SMS":{"Address":"+98919484####","type":"2","date":"12-31-2013 21:37:37","body":"ANONYMIZED","Type":"2", "metadata": {"name": ""}}}
+{"SMS":{"Address":"+98919484####","type":"1","date":"12-31-2013 21:41:04","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"SMS":{"Address":"+98919484####","type":"2","date":"12-31-2013 21:45:11","body":"ANONYMIZED","Type":"2", "metadata": {"name": ""}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-31-2013 21:44:38","End":"12-31-2013 21:45:48"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-31-2013 21:44:38","End":"12-31-2013 21:45:48"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 21:44:28","End":"12-31-2013 21:46:48"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 21:44:28","End":"12-31-2013 21:46:48"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 21:44:28","End":"12-31-2013 21:46:48"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"12-31-2013 22:27:29","End":"12-31-2013 22:27:40"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"12-31-2013 22:27:29","End":"12-31-2013 22:27:40"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"12-31-2013 22:27:29","End":"12-31-2013 22:27:40"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-31-2013 23:06:17","End":"12-31-2013 23:06:28"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"12-31-2013 23:06:17","End":"12-31-2013 23:06:28"}}

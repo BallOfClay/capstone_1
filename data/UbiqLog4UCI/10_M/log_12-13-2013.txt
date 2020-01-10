@@ -1,0 +1,63 @@
+{"Application":{"ProcessName":"com.sec.android.app.twlauncher","Start":"12-13-2013 22:12:12","End":"12-13-2013 22:12:32"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-13-2013 22:12:02","End":"12-13-2013 22:12:52"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-13-2013 22:13:23","End":"12-13-2013 22:14:33"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-13-2013 22:14:43","End":"12-13-2013 22:14:53"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-13-2013 22:16:03","End":"12-13-2013 22:16:34"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-13-2013 22:30:08","End":"12-13-2013 22:30:18"}}
+{"Call": {"Number":"0917836####","Duration":"1102","Time":"12-13-2013 22:12:25","Type":"2"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 22:31:09","End":"12-13-2013 22:31:29"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-13-2013 22:31:09","End":"12-13-2013 22:31:29"}}
+{"SMS":{"Address":"+98917836####","type":"1","date":"12-13-2013 22:03:49","body":"ANONYMIZED","Type":"1", "metadata": {"name": "AzrA"}}}
+{"SMS":{"Address":"0917836####","type":"2","date":"12-13-2013 22:35:13","body":"ANONYMIZED","Type":"2", "metadata": {"name": "AzrA"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 22:35:17","End":"12-13-2013 22:35:27"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-13-2013 22:35:17","End":"12-13-2013 22:35:27"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 22:35:43","End":"12-13-2013 22:37:25"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-13-2013 22:35:43","End":"12-13-2013 22:37:25"}}
+{"SMS":{"Address":"+98917836####","type":"1","date":"12-13-2013 22:51:52","body":"ANONYMIZED","Type":"1", "metadata": {"name": "AzrA"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 22:51:56","End":"12-13-2013 22:53:06"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-13-2013 22:51:56","End":"12-13-2013 22:53:06"}}
+{"SMS":{"Address":"0917836####","type":"2","date":"12-13-2013 22:53:02","body":"ANONYMIZED","Type":"2", "metadata": {"name": "AzrA"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 22:53:29","End":"12-13-2013 22:55:57"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-13-2013 22:53:29","End":"12-13-2013 22:55:57"}}
+{"SMS":{"Address":"+98917836####","type":"1","date":"12-13-2013 22:58:19","body":"ANONYMIZED","Type":"1", "metadata": {"name": "AzrA"}}}
+{"SMS":{"Address":"0917836####","type":"2","date":"12-13-2013 23:00:01","body":"ANONYMIZED","Type":"2", "metadata": {"name": "AzrA"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 22:58:22","End":"12-13-2013 23:00:14"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-13-2013 22:58:22","End":"12-13-2013 23:00:14"}}
+{"SMS":{"Address":"988007","type":"1","date":"12-13-2013 23:03:41","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"Application":{"ProcessName":"com.wsomacp","Start":"12-13-2013 23:05:47","End":"12-13-2013 23:06:27"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 23:06:27","End":"12-13-2013 23:06:47"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-13-2013 23:05:47","End":"12-13-2013 23:06:47"}}
+{"SMS":{"Address":"+98917836####","type":"1","date":"12-13-2013 23:08:03","body":"ANONYMIZED","Type":"1", "metadata": {"name": "AzrA"}}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-13-2013 23:08:37","End":"12-13-2013 23:08:48"}}
+{"SMS":{"Address":"0917836####","type":"2","date":"12-13-2013 23:09:48","body":"ANONYMIZED","Type":"2", "metadata": {"name": "AzrA"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 23:08:06","End":"12-13-2013 23:09:58"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-13-2013 23:08:06","End":"12-13-2013 23:09:58"}}
+{"SMS":{"Address":"988007","type":"1","date":"12-13-2013 23:10:28","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"SMS":{"Address":"+98917836####","type":"1","date":"12-13-2013 23:11:54","body":"ANONYMIZED","Type":"1", "metadata": {"name": "AzrA"}}}
+{"SMS":{"Address":"0917836####","type":"2","date":"12-13-2013 23:12:46","body":"ANONYMIZED","Type":"2", "metadata": {"name": "AzrA"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 23:10:15","End":"12-13-2013 23:13:00"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-13-2013 23:10:15","End":"12-13-2013 23:13:00"}}
+{"SMS":{"Address":"+98917836####","type":"1","date":"12-13-2013 23:15:50","body":"ANONYMIZED","Type":"1", "metadata": {"name": "AzrA"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 23:15:52","End":"12-13-2013 23:17:33"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-13-2013 23:15:52","End":"12-13-2013 23:17:33"}}
+{"SMS":{"Address":"0917836####","type":"2","date":"12-13-2013 23:17:29","body":"ANONYMIZED","Type":"2", "metadata": {"name": "AzrA"}}}
+{"SMS":{"Address":"+98917836####","type":"1","date":"12-13-2013 23:20:59","body":"ANONYMIZED","Type":"1", "metadata": {"name": "AzrA"}}}
+{"SMS":{"Address":"0917836####","type":"2","date":"12-13-2013 23:22:09","body":"ANONYMIZED","Type":"2", "metadata": {"name": "AzrA"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 23:21:01","End":"12-13-2013 23:22:22"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-13-2013 23:21:01","End":"12-13-2013 23:22:22"}}
+{"SMS":{"Address":"+98917836####","type":"1","date":"12-13-2013 23:27:09","body":"ANONYMIZED","Type":"1", "metadata": {"name": "AzrA"}}}
+{"SMS":{"Address":"0917836####","type":"2","date":"12-13-2013 23:30:29","body":"ANONYMIZED","Type":"2", "metadata": {"name": "AzrA"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 23:29:15","End":"12-13-2013 23:30:46"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-13-2013 23:29:15","End":"12-13-2013 23:30:46"}}
+{"SMS":{"Address":"+98917836####","type":"1","date":"12-13-2013 23:33:54","body":"ANONYMIZED","Type":"1", "metadata": {"name": "AzrA"}}}
+{"Application":{"ProcessName":"com.sec.android.provider.logsprovider","Start":"12-13-2013 23:36:17","End":"12-13-2013 23:36:27"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 23:34:00","End":"12-13-2013 23:36:38"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-13-2013 23:34:00","End":"12-13-2013 23:36:38"}}
+{"SMS":{"Address":"0917836####","type":"2","date":"12-13-2013 23:36:34","body":"ANONYMIZED","Type":"2", "metadata": {"name": "AzrA"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 23:39:16","End":"12-13-2013 23:39:36"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-13-2013 23:38:24","End":"12-13-2013 23:39:36"}}
+{"SMS":{"Address":"+98917836####","type":"1","date":"12-13-2013 23:39:36","body":"ANONYMIZED","Type":"1", "metadata": {"name": "AzrA"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 23:39:50","End":"12-13-2013 23:41:47"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-13-2013 23:39:50","End":"12-13-2013 23:41:47"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"12-13-2013 23:43:09","End":"12-13-2013 23:45:35"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-13-2013 23:43:09","End":"12-13-2013 23:45:35"}}

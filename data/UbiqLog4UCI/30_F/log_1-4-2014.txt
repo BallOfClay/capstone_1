@@ -1,0 +1,370 @@
+{"Application":{"ProcessName":"com.htc.flexnet","Start":"1-3-2014 23:25:05","End":"1-3-2014 23:25:22"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-3-2014 23:25:05","End":"1-3-2014 23:25:22"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-3-2014 23:25:05","End":"1-3-2014 23:25:22"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-3-2014 23:25:05","End":"1-3-2014 23:25:22"}}
+{"Application":{"ProcessName":"com.android.settings:remote","Start":"1-3-2014 23:26:55","End":"1-3-2014 23:27:01"}}
+{"Application":{"ProcessName":"com.android.camera","Start":"1-3-2014 23:27:32","End":"1-3-2014 23:27:36"}}
+{"Application":{"ProcessName":"com.htc.android.worldclock","Start":"1-3-2014 23:27:41","End":"1-3-2014 23:28:32"}}
+{"Application":{"ProcessName":"com.htc.android.worldclock","Start":"1-3-2014 23:28:47","End":"1-3-2014 23:28:52"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-3-2014 23:26:55","End":"1-3-2014 23:28:53"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-3-2014 23:26:55","End":"1-3-2014 23:28:53"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-3-2014 23:26:55","End":"1-3-2014 23:28:53"}}
+{"Application":{"ProcessName":"com.rebelvox.voxer","Start":"1-4-2014 07:00:09","End":"1-4-2014 07:00:16"}}
+{"Application":{"ProcessName":"com.htc.android.worldclock","Start":"1-4-2014 07:00:06","End":"1-4-2014 07:00:16"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"1-4-2014 07:00:19","End":"1-4-2014 07:00:26"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"1-4-2014 07:00:26","End":"1-4-2014 07:00:30"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"1-4-2014 07:00:37","End":"1-4-2014 07:00:40"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 07:00:06","End":"1-4-2014 07:00:46"}}
+{"Application":{"ProcessName":"com.htc.android.worldclock","Start":"1-4-2014 07:00:19","End":"1-4-2014 07:00:46"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 07:00:06","End":"1-4-2014 07:00:46"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 07:00:06","End":"1-4-2014 07:00:46"}}
+{"Application":{"ProcessName":"com.htc.android.worldclock","Start":"1-4-2014 07:15:06","End":"1-4-2014 07:15:11"}}
+{"Application":{"ProcessName":"com.htc.flexnet","Start":"1-4-2014 07:15:17","End":"1-4-2014 07:15:18"}}
+{"Application":{"ProcessName":"com.htc.lockscreen","Start":"1-4-2014 07:15:17","End":"1-4-2014 07:15:18"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 07:15:00","End":"1-4-2014 07:15:38"}}
+{"Application":{"ProcessName":"com.htc.android.worldclock","Start":"1-4-2014 07:15:28","End":"1-4-2014 07:15:38"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 07:15:00","End":"1-4-2014 07:15:38"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 07:15:00","End":"1-4-2014 07:15:38"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-68","frequency":"2452","time":"Saturday, January 4, 2014 7:31:05 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-75","frequency":"2462","time":"Saturday, January 4, 2014 7:31:05 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-95","frequency":"2417","time":"Saturday, January 4, 2014 7:31:05 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-78","frequency":"2447","time":"Saturday, January 4, 2014 7:31:05 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-94","frequency":"2412","time":"Saturday, January 4, 2014 7:31:05 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-68","frequency":"2452","time":"Saturday, January 4, 2014 7:31:28 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-75","frequency":"2462","time":"Saturday, January 4, 2014 7:31:28 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-95","frequency":"2417","time":"Saturday, January 4, 2014 7:31:28 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-78","frequency":"2447","time":"Saturday, January 4, 2014 7:31:28 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-94","frequency":"2412","time":"Saturday, January 4, 2014 7:31:28 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-68","frequency":"2452","time":"Saturday, January 4, 2014 7:31:28 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-75","frequency":"2462","time":"Saturday, January 4, 2014 7:31:28 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-95","frequency":"2417","time":"Saturday, January 4, 2014 7:31:28 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-78","frequency":"2447","time":"Saturday, January 4, 2014 7:31:28 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-94","frequency":"2412","time":"Saturday, January 4, 2014 7:31:28 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"1-4-2014 07:30:53","End":"1-4-2014 07:31:37"}}
+{"Application":{"ProcessName":"info.androidz.horoscope","Start":"1-4-2014 07:31:44","End":"1-4-2014 07:32:04"}}
+{"WiFi":{"SSID":"ASUS","BSSID":"bc:ae:c5:a5:b4:c0","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-68","frequency":"2452","time":"Saturday, January 4, 2014 7:32:05 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"Golbarg","BSSID":"f4:ec:38:d5:d7:67","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-75","frequency":"2462","time":"Saturday, January 4, 2014 7:32:05 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"TP-LINK_37CCF7","BSSID":"10:fe:ed:37:cc:f7","capabilities":"[WPA-PSK-TKIP+CCMP][WPS][ESS]","level":"-95","frequency":"2417","time":"Saturday, January 4, 2014 7:32:05 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"vetmedia","BSSID":"00:26:5a:cc:4b:35","capabilities":"[WPS][WEP][ESS]","level":"-78","frequency":"2447","time":"Saturday, January 4, 2014 7:32:05 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"ali","BSSID":"84:c9:b2:36:d5:9d","capabilities":"[WPS][WEP][ESS]","level":"-94","frequency":"2412","time":"Saturday, January 4, 2014 7:32:05 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 07:30:33","End":"1-4-2014 07:32:14"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 07:30:33","End":"1-4-2014 07:32:14"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"1-4-2014 07:32:07","End":"1-4-2014 07:32:14"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 07:30:33","End":"1-4-2014 07:32:14"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 07:51:03","End":"1-4-2014 07:51:14"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 07:51:03","End":"1-4-2014 07:51:14"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 07:51:03","End":"1-4-2014 07:51:14"}}
+{"SMS":{"Address":"+98933907####","type":"1","date":"1-4-2014 09:24:38","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Pegah"}}}
+{"Application":{"ProcessName":"com.htc.lockscreen","Start":"1-4-2014 09:58:54","End":"1-4-2014 09:59:01"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"1-4-2014 09:58:54","End":"1-4-2014 09:59:01"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-4-2014 09:59:01","End":"1-4-2014 09:59:14"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 09:59:05","End":"1-4-2014 09:59:14"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 09:58:54","End":"1-4-2014 09:59:38"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 09:58:54","End":"1-4-2014 09:59:38"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 09:58:54","End":"1-4-2014 09:59:38"}}
+{"Application":{"ProcessName":"com.htc.flexnet","Start":"1-4-2014 10:55:39","End":"1-4-2014 10:55:41"}}
+{"Application":{"ProcessName":"com.htc.task","Start":"1-4-2014 10:55:39","End":"1-4-2014 10:55:41"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 10:55:39","End":"1-4-2014 10:56:01"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 10:55:39","End":"1-4-2014 10:56:01"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 10:55:39","End":"1-4-2014 10:56:01"}}
+{"Call": {"Number":"+98913366####","Duration":"17","Time":"1-4-2014 10:55:34","Type":"1"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 12:10:45","End":"1-4-2014 12:11:55"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 12:10:45","End":"1-4-2014 12:11:55"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 12:10:45","End":"1-4-2014 12:11:55"}}
+{"Application":{"ProcessName":"com.htc.android.mail:sync","Start":"1-4-2014 12:14:32","End":"1-4-2014 12:14:40"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"1-4-2014 12:14:40","End":"1-4-2014 12:14:43"}}
+{"Application":{"ProcessName":"com.htc.calendar","Start":"1-4-2014 12:14:40","End":"1-4-2014 12:14:43"}}
+{"Application":{"ProcessName":"com.htc.sdm","Start":"1-4-2014 12:14:43","End":"1-4-2014 12:14:44"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 12:14:44","End":"1-4-2014 12:14:50"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-4-2014 12:14:44","End":"1-4-2014 12:14:50"}}
+{"Application":{"ProcessName":"com.google.android.apps.plus","Start":"1-4-2014 12:16:31","End":"1-4-2014 12:16:42"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"1-4-2014 12:16:42","End":"1-4-2014 12:16:46"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 12:14:32","End":"1-4-2014 12:16:52"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 12:14:32","End":"1-4-2014 12:16:52"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 12:14:32","End":"1-4-2014 12:16:52"}}
+{"Application":{"ProcessName":"com.dataviz.docstogo","Start":"1-4-2014 12:16:46","End":"1-4-2014 12:16:52"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-4-2014 12:16:31","End":"1-4-2014 12:16:52"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"1-4-2014 12:53:48","End":"1-4-2014 12:53:52"}}
+{"Application":{"ProcessName":"com.android.settings:remote","Start":"1-4-2014 12:53:52","End":"1-4-2014 12:53:52"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 12:53:48","End":"1-4-2014 12:54:03"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 12:53:48","End":"1-4-2014 12:54:03"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 12:53:48","End":"1-4-2014 12:54:03"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"1-4-2014 12:53:58","End":"1-4-2014 12:54:03"}}
+{"Call": {"Number":"+98913366####","Duration":"299","Time":"1-4-2014 12:53:46","Type":"1"}}
+{"Application":{"ProcessName":"com.record.my.call","Start":"1-4-2014 12:59:02","End":"1-4-2014 12:59:07"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 12:58:57","End":"1-4-2014 12:59:17"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 12:58:57","End":"1-4-2014 12:59:17"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 12:58:57","End":"1-4-2014 12:59:17"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-4-2014 12:59:02","End":"1-4-2014 12:59:17"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 13:39:52","End":"1-4-2014 13:40:13"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 13:39:52","End":"1-4-2014 13:40:13"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 13:39:52","End":"1-4-2014 13:40:13"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-4-2014 13:39:52","End":"1-4-2014 13:40:13"}}
+{"Application":{"ProcessName":"com.htc.task","Start":"1-4-2014 14:13:04","End":"1-4-2014 14:13:05"}}
+{"Application":{"ProcessName":"com.android.settings:remote","Start":"1-4-2014 14:13:04","End":"1-4-2014 14:13:11"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 14:13:04","End":"1-4-2014 14:13:15"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 14:13:04","End":"1-4-2014 14:13:15"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 14:13:04","End":"1-4-2014 14:13:15"}}
+{"Application":{"ProcessName":"com.htc.lockscreen","Start":"1-4-2014 14:19:48","End":"1-4-2014 14:19:48"}}
+{"Call": {"Number":"+98913366####","Duration":"396","Time":"1-4-2014 14:13:01","Type":"1"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 14:19:48","End":"1-4-2014 14:19:54"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 14:19:48","End":"1-4-2014 14:19:54"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 14:19:48","End":"1-4-2014 14:19:54"}}
+{"SMS":{"Address":"+983000####","type":"1","date":"1-4-2014 16:12:22","body":"ANONYMIZED","Type":"1", "metadata": {"name": ""}}}
+{"Application":{"ProcessName":"com.htc.flexnet","Start":"1-4-2014 16:13:06","End":"1-4-2014 16:13:11"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 16:13:06","End":"1-4-2014 16:13:16"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"1-4-2014 16:13:11","End":"1-4-2014 16:13:16"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-4-2014 16:13:06","End":"1-4-2014 16:13:16"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-4-2014 16:13:16","End":"1-4-2014 16:13:21"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 16:13:06","End":"1-4-2014 16:13:21"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 16:13:06","End":"1-4-2014 16:13:21"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 16:13:06","End":"1-4-2014 16:13:21"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 16:25:25","End":"1-4-2014 16:26:51"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 16:25:25","End":"1-4-2014 16:26:51"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 16:25:25","End":"1-4-2014 16:26:51"}}
+{"Application":{"ProcessName":"com.android.settings:remote","Start":"1-4-2014 16:36:33","End":"1-4-2014 16:36:38"}}
+{"Call": {"Number":"+98218805####","Duration":"0","Time":"1-4-2014 16:36:30","Type":"3"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 16:36:33","End":"1-4-2014 16:37:39"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 16:36:33","End":"1-4-2014 16:37:39"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 16:36:33","End":"1-4-2014 16:37:39"}}
+{"Call": {"Number":"+98218805####","Duration":"0","Time":"1-4-2014 16:36:30","Type":"3"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 17:08:54","End":"1-4-2014 17:10:15"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 17:08:54","End":"1-4-2014 17:10:15"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 17:08:54","End":"1-4-2014 17:10:15"}}
+{"Call": {"Number":"+98212206####","Duration":"16","Time":"1-4-2014 17:10:10","Type":"2"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"1-4-2014 17:10:45","End":"1-4-2014 17:10:52"}}
+{"Application":{"ProcessName":"com.htc.lockscreen","Start":"1-4-2014 17:10:45","End":"1-4-2014 17:10:52"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 17:10:45","End":"1-4-2014 17:11:12"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 17:10:45","End":"1-4-2014 17:11:12"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 17:10:45","End":"1-4-2014 17:11:12"}}
+{"Call": {"Number":"0919602####","Duration":"13","Time":"1-4-2014 17:11:08","Type":"2"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 17:11:44","End":"1-4-2014 17:11:54"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 17:11:44","End":"1-4-2014 17:11:54"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 17:11:44","End":"1-4-2014 17:11:54"}}
+{"SMS":{"Address":"+98919602####","type":"1","date":"1-4-2014 17:19:02","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Shabnam"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-4-2014 17:19:44","End":"1-4-2014 17:19:49"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 17:19:44","End":"1-4-2014 17:19:49"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"1-4-2014 17:20:09","End":"1-4-2014 17:20:14"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"1-4-2014 17:20:19","End":"1-4-2014 17:20:24"}}
+{"Application":{"ProcessName":"com.htc.bg","Start":"1-4-2014 17:20:04","End":"1-4-2014 17:21:04"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 17:19:33","End":"1-4-2014 17:21:04"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 17:19:33","End":"1-4-2014 17:21:04"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 17:19:33","End":"1-4-2014 17:21:04"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"1-4-2014 17:22:11","End":"1-4-2014 17:22:11"}}
+{"Application":{"ProcessName":"com.htc.bg","Start":"1-4-2014 17:22:11","End":"1-4-2014 17:22:20"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 17:22:11","End":"1-4-2014 17:22:20"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 17:22:11","End":"1-4-2014 17:22:20"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 17:22:11","End":"1-4-2014 17:22:20"}}
+{"Application":{"ProcessName":"com.htc.bg","Start":"1-4-2014 17:25:31","End":"1-4-2014 17:25:51"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 17:25:31","End":"1-4-2014 17:25:56"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 17:25:31","End":"1-4-2014 17:25:56"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 17:25:31","End":"1-4-2014 17:25:56"}}
+{"Call": {"Number":"+98912604####","Duration":"3","Time":"1-4-2014 17:25:54","Type":"2"}}
+{"Application":{"ProcessName":"com.htc.bg","Start":"1-4-2014 17:26:22","End":"1-4-2014 17:26:26"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 17:26:22","End":"1-4-2014 17:26:26"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 17:26:22","End":"1-4-2014 17:26:26"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 17:26:22","End":"1-4-2014 17:26:26"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 17:26:22","End":"1-4-2014 17:26:26"}}
+{"Application":{"ProcessName":"com.record.my.call","Start":"1-4-2014 17:26:48","End":"1-4-2014 17:26:49"}}
+{"Application":{"ProcessName":"com.htc.task","Start":"1-4-2014 17:26:48","End":"1-4-2014 17:26:53"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 17:26:48","End":"1-4-2014 17:26:59"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"1-4-2014 17:26:53","End":"1-4-2014 17:26:59"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 17:26:48","End":"1-4-2014 17:26:59"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 17:26:48","End":"1-4-2014 17:26:59"}}
+{"Call": {"Number":"+98212206####","Duration":"12","Time":"1-4-2014 17:26:46","Type":"1"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 17:27:07","End":"1-4-2014 17:27:12"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 17:27:07","End":"1-4-2014 17:27:12"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 17:27:07","End":"1-4-2014 17:27:12"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"1-4-2014 17:27:07","End":"1-4-2014 17:27:12"}}
+{"SMS":{"Address":"+98919602####","type":"2","date":"1-4-2014 17:34:11","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Shabnam"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-4-2014 17:33:43","End":"1-4-2014 17:34:23"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 17:33:48","End":"1-4-2014 17:34:23"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 17:33:38","End":"1-4-2014 17:35:05"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 17:33:38","End":"1-4-2014 17:35:05"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 17:33:38","End":"1-4-2014 17:35:05"}}
+{"Call": {"Number":"+98212206####","Duration":"0","Time":"1-4-2014 17:35:03","Type":"2"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 17:35:28","End":"1-4-2014 17:35:35"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 17:35:28","End":"1-4-2014 17:35:35"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 17:35:28","End":"1-4-2014 17:35:35"}}
+{"Application":{"ProcessName":"com.htc.task","Start":"1-4-2014 17:36:05","End":"1-4-2014 17:36:10"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 17:36:05","End":"1-4-2014 17:36:12"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 17:36:05","End":"1-4-2014 17:36:12"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 17:36:05","End":"1-4-2014 17:36:12"}}
+{"Call": {"Number":"+98912695####","Duration":"12","Time":"1-4-2014 17:36:04","Type":"1"}}
+{"Application":{"ProcessName":"com.htc.task","Start":"1-4-2014 17:37:18","End":"1-4-2014 17:37:21"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 17:37:18","End":"1-4-2014 17:37:23"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 17:37:18","End":"1-4-2014 17:37:23"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 17:37:18","End":"1-4-2014 17:37:23"}}
+{"Call": {"Number":"+98212206####","Duration":"12","Time":"1-4-2014 17:37:15","Type":"1"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 17:37:36","End":"1-4-2014 17:37:46"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 17:37:36","End":"1-4-2014 17:37:46"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 17:37:36","End":"1-4-2014 17:37:46"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 17:43:50","End":"1-4-2014 17:44:05"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 17:43:50","End":"1-4-2014 17:44:05"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 17:43:50","End":"1-4-2014 17:44:05"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 17:52:39","End":"1-4-2014 17:52:40"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-4-2014 17:52:39","End":"1-4-2014 17:53:38"}}
+{"SMS":{"Address":"+98912813####","type":"2","date":"1-4-2014 17:53:36","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Mona"}}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 17:53:48","End":"1-4-2014 17:53:50"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-4-2014 17:53:48","End":"1-4-2014 17:54:00"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 17:53:58","End":"1-4-2014 17:54:00"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 17:52:36","End":"1-4-2014 17:54:18"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 17:52:36","End":"1-4-2014 17:54:18"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 17:52:36","End":"1-4-2014 17:54:18"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"1-4-2014 18:04:19","End":"1-4-2014 18:04:19"}}
+{"Call": {"Number":"+98919602####","Duration":"0","Time":"1-4-2014 18:03:32","Type":"3"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"1-4-2014 18:04:19","End":"1-4-2014 18:04:26"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 18:03:36","End":"1-4-2014 18:04:36"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 18:03:36","End":"1-4-2014 18:04:36"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 18:03:36","End":"1-4-2014 18:04:36"}}
+{"SMS":{"Address":"+98919602####","type":"1","date":"1-4-2014 18:04:24","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Shabnam"}}}
+{"Application":{"ProcessName":"com.android.settings:remote","Start":"1-4-2014 18:16:57","End":"1-4-2014 18:16:57"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 18:17:04","End":"1-4-2014 18:17:07"}}
+{"Call": {"Number":"+98919602####","Duration":"0","Time":"1-4-2014 18:03:32","Type":"3"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-4-2014 18:17:04","End":"1-4-2014 18:17:14"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 18:17:07","End":"1-4-2014 18:17:14"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 18:16:57","End":"1-4-2014 18:17:14"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 18:16:57","End":"1-4-2014 18:17:14"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 18:16:57","End":"1-4-2014 18:17:14"}}
+{"SMS":{"Address":"+98933907####","type":"1","date":"1-4-2014 18:18:48","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Pegah"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-4-2014 18:45:27","End":"1-4-2014 18:46:18"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 18:45:31","End":"1-4-2014 18:46:18"}}
+{"Application":{"ProcessName":"com.android.htccontacts","Start":"1-4-2014 18:46:18","End":"1-4-2014 18:46:38"}}
+{"SMS":{"Address":"+98933907####","type":"2","date":"1-4-2014 18:47:03","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Pegah"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-4-2014 18:46:38","End":"1-4-2014 18:47:11"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 18:46:38","End":"1-4-2014 18:47:11"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"1-4-2014 18:47:08","End":"1-4-2014 18:47:11"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 18:47:29","End":"1-4-2014 18:47:51"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-4-2014 18:47:29","End":"1-4-2014 18:48:09"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 18:47:59","End":"1-4-2014 18:48:09"}}
+{"Application":{"ProcessName":"com.android.htccontacts","Start":"1-4-2014 18:48:09","End":"1-4-2014 18:48:11"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-4-2014 18:48:11","End":"1-4-2014 18:48:29"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 18:48:11","End":"1-4-2014 18:48:29"}}
+{"SMS":{"Address":"+98933907####","type":"1","date":"1-4-2014 18:49:07","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Pegah"}}}
+{"Application":{"ProcessName":"com.android.htccontacts","Start":"1-4-2014 18:48:29","End":"1-4-2014 18:48:59"}}
+{"SMS":{"Address":"+98933907####","type":"2","date":"1-4-2014 18:49:51","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Pegah"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-4-2014 18:48:59","End":"1-4-2014 18:50:00"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 18:49:02","End":"1-4-2014 18:50:00"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 18:45:17","End":"1-4-2014 18:50:20"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 18:45:17","End":"1-4-2014 18:50:20"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 18:45:17","End":"1-4-2014 18:50:20"}}
+{"SMS":{"Address":"+98933907####","type":"1","date":"1-4-2014 18:51:14","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Pegah"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-4-2014 18:50:50","End":"1-4-2014 18:51:05"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 18:50:50","End":"1-4-2014 18:51:05"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 18:50:20","End":"1-4-2014 18:51:05"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 18:50:20","End":"1-4-2014 18:51:05"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 18:50:20","End":"1-4-2014 18:51:05"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 18:58:48","End":"1-4-2014 18:59:14"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 18:58:48","End":"1-4-2014 18:59:14"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 18:58:48","End":"1-4-2014 18:59:14"}}
+{"Call": {"Number":"+98919602####","Duration":"0","Time":"1-4-2014 19:00:28","Type":"3"}}
+{"Application":{"ProcessName":"mobi.infolife.taskmanagerpro","Start":"1-4-2014 19:01:06","End":"1-4-2014 19:01:08"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 19:00:35","End":"1-4-2014 19:01:18"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 19:00:35","End":"1-4-2014 19:01:18"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 19:00:35","End":"1-4-2014 19:01:18"}}
+{"Call": {"Number":"+98919602####","Duration":"0","Time":"1-4-2014 19:00:28","Type":"3"}}
+{"SMS":{"Address":"+98919602####","type":"2","date":"1-4-2014 19:02:58","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Shabnam"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-4-2014 19:02:23","End":"1-4-2014 19:03:14"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 19:03:03","End":"1-4-2014 19:03:14"}}
+{"Application":{"ProcessName":"org.simalliance.openmobileapi.service:remote","Start":"1-4-2014 19:03:14","End":"1-4-2014 19:03:15"}}
+{"Application":{"ProcessName":"com.htc.lockscreen","Start":"1-4-2014 19:04:05","End":"1-4-2014 19:04:05"}}
+{"Application":{"ProcessName":"com.record.my.call","Start":"1-4-2014 19:04:05","End":"1-4-2014 19:04:05"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"1-4-2014 19:04:05","End":"1-4-2014 19:04:06"}}
+{"Call": {"Number":"+98919602####","Duration":"0","Time":"1-4-2014 19:03:27","Type":"3"}}
+{"SMS":{"Address":"+98919602####","type":"2","date":"1-4-2014 19:04:28","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Shabnam"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-4-2014 19:04:15","End":"1-4-2014 19:04:45"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 19:04:15","End":"1-4-2014 19:04:45"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 19:02:13","End":"1-4-2014 19:05:45"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 19:02:13","End":"1-4-2014 19:05:45"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 19:02:13","End":"1-4-2014 19:05:45"}}
+{"SMS":{"Address":"+98919602####","type":"1","date":"1-4-2014 19:05:59","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Shabnam"}}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 19:08:59","End":"1-4-2014 19:09:09"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 19:08:59","End":"1-4-2014 19:09:09"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 19:08:59","End":"1-4-2014 19:09:09"}}
+{"SMS":{"Address":"+98919602####","type":"2","date":"1-4-2014 19:10:15","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Shabnam"}}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 19:09:44","End":"1-4-2014 19:10:23"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-4-2014 19:09:44","End":"1-4-2014 19:10:43"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 19:10:33","End":"1-4-2014 19:10:43"}}
+{"Call": {"Number":"+98919602####","Duration":"0","Time":"1-4-2014 19:03:27","Type":"3"}}
+{"Application":{"ProcessName":"com.android.htccontacts","Start":"1-4-2014 19:11:23","End":"1-4-2014 19:12:27"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 19:09:43","End":"1-4-2014 19:12:27"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 19:09:43","End":"1-4-2014 19:12:27"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 19:09:43","End":"1-4-2014 19:12:27"}}
+{"Application":{"ProcessName":"com.android.htccontacts","Start":"1-4-2014 20:18:37","End":"1-4-2014 20:19:06"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 20:18:37","End":"1-4-2014 20:19:06"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 20:18:37","End":"1-4-2014 20:19:06"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 20:18:37","End":"1-4-2014 20:19:06"}}
+{"Application":{"ProcessName":"com.htc.lockscreen","Start":"1-4-2014 20:18:37","End":"1-4-2014 20:19:06"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 20:59:02","End":"1-4-2014 20:59:04"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-4-2014 20:59:02","End":"1-4-2014 20:59:12"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 20:59:02","End":"1-4-2014 20:59:12"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 20:59:02","End":"1-4-2014 20:59:12"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 20:59:02","End":"1-4-2014 20:59:12"}}
+{"Application":{"ProcessName":"com.google.android.apps.maps:FriendService","Start":"1-4-2014 21:07:27","End":"1-4-2014 21:07:27"}}
+{"Application":{"ProcessName":"com.google.android.apps.maps:LocationFriendService","Start":"1-4-2014 21:07:27","End":"1-4-2014 21:07:29"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 21:07:27","End":"1-4-2014 21:07:38"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 21:07:27","End":"1-4-2014 21:07:38"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 21:07:27","End":"1-4-2014 21:07:38"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 21:13:47","End":"1-4-2014 21:13:47"}}
+{"Application":{"ProcessName":"com.android.settings:remote","Start":"1-4-2014 21:13:47","End":"1-4-2014 21:13:55"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 21:13:47","End":"1-4-2014 21:14:19"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 21:13:47","End":"1-4-2014 21:14:19"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 21:13:47","End":"1-4-2014 21:14:19"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 21:37:15","End":"1-4-2014 21:37:35"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 21:37:15","End":"1-4-2014 21:37:35"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 21:37:15","End":"1-4-2014 21:37:35"}}
+{"Call": {"Number":"0912402####","Duration":"23","Time":"1-4-2014 21:37:31","Type":"2"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 21:38:24","End":"1-4-2014 21:38:32"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 21:38:24","End":"1-4-2014 21:38:32"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 21:38:24","End":"1-4-2014 21:38:32"}}
+{"Call": {"Number":"0912402####","Duration":"615","Time":"1-4-2014 21:38:25","Type":"2"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 21:48:54","End":"1-4-2014 21:49:12"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 21:48:54","End":"1-4-2014 21:49:12"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 21:48:54","End":"1-4-2014 21:49:12"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"1-4-2014 22:01:07","End":"1-4-2014 22:01:09"}}
+{"SMS":{"Address":"0912813####","type":"2","date":"1-4-2014 22:01:23","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Mona"}}}
+{"Application":{"ProcessName":"com.android.settings","Start":"1-4-2014 22:01:28","End":"1-4-2014 22:01:29"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-4-2014 22:01:09","End":"1-4-2014 22:01:38"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 22:01:17","End":"1-4-2014 22:01:38"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 22:01:07","End":"1-4-2014 22:01:38"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 22:01:07","End":"1-4-2014 22:01:38"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 22:01:07","End":"1-4-2014 22:01:38"}}
+{"SMS":{"Address":"+98912813####","type":"1","date":"1-4-2014 22:11:21","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Mona"}}}
+{"SMS":{"Address":"0912813####","type":"2","date":"1-4-2014 22:12:49","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Mona"}}}
+{"SMS":{"Address":"+98912813####","type":"1","date":"1-4-2014 22:13:09","body":"ANONYMIZED","Type":"1", "metadata": {"name": "Mona"}}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"1-4-2014 22:13:39","End":"1-4-2014 22:13:42"}}
+{"Application":{"ProcessName":"com.htc.bg","Start":"1-4-2014 22:13:42","End":"1-4-2014 22:13:49"}}
+{"SMS":{"Address":"0912813####","type":"2","date":"1-4-2014 22:14:42","body":"ANONYMIZED","Type":"2", "metadata": {"name": "Mona"}}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-4-2014 22:12:09","End":"1-4-2014 22:15:49"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 22:12:09","End":"1-4-2014 22:15:49"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 22:12:09","End":"1-4-2014 22:15:49"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 22:12:09","End":"1-4-2014 22:15:49"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 22:12:09","End":"1-4-2014 22:15:49"}}
+{"Application":{"ProcessName":"com.htc.weather.bg","Start":"1-4-2014 22:16:05","End":"1-4-2014 22:16:10"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"1-4-2014 22:16:05","End":"1-4-2014 22:16:20"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"1-4-2014 22:16:05","End":"1-4-2014 22:16:20"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 22:16:05","End":"1-4-2014 22:17:14"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 22:16:05","End":"1-4-2014 22:17:14"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 22:16:05","End":"1-4-2014 22:17:14"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 22:17:39","End":"1-4-2014 22:18:02"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 22:17:39","End":"1-4-2014 22:18:02"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 22:17:39","End":"1-4-2014 22:18:02"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 22:18:47","End":"1-4-2014 22:19:05"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 22:18:47","End":"1-4-2014 22:19:05"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 22:18:47","End":"1-4-2014 22:19:05"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 22:43:48","End":"1-4-2014 22:44:00"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 22:43:48","End":"1-4-2014 22:44:00"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 22:43:48","End":"1-4-2014 22:44:00"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 23:05:22","End":"1-4-2014 23:05:31"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 23:05:22","End":"1-4-2014 23:05:31"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 23:05:22","End":"1-4-2014 23:05:31"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 23:20:48","End":"1-4-2014 23:20:58"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 23:20:48","End":"1-4-2014 23:20:58"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 23:20:48","End":"1-4-2014 23:20:58"}}
+{"Application":{"ProcessName":"com.htc.android.worldclock","Start":"1-4-2014 23:21:49","End":"1-4-2014 23:23:05"}}
+{"Application":{"ProcessName":"com.htc.android.worldclock","Start":"1-4-2014 23:23:15","End":"1-4-2014 23:23:35"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"1-4-2014 23:21:35","End":"1-4-2014 23:23:45"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"1-4-2014 23:23:39","End":"1-4-2014 23:23:45"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"1-4-2014 23:21:35","End":"1-4-2014 23:23:45"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"1-4-2014 23:21:35","End":"1-4-2014 23:23:45"}}
+{"Application":{"ProcessName":"com.htc.calendar","Start":"1-4-2014 23:23:39","End":"1-4-2014 23:23:45"}}

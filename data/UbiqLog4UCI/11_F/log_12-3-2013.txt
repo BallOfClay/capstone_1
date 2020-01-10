@@ -1,0 +1,823 @@
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-32","frequency":"2452","time":"Monday, December 2, 2013 11:51:00 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sogoli","BSSID":"ec:23:3d:6e:08:d1","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-82","frequency":"2442","time":"Monday, December 2, 2013 11:51:00 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-90","frequency":"2437","time":"Monday, December 2, 2013 11:51:00 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-88","frequency":"2457","time":"Monday, December 2, 2013 11:51:00 PM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-83","frequency":"2412","time":"Monday, December 2, 2013 11:51:00 PM GMT+00:00"}}
+{"WiFi":{"SSID":"2730","BSSID":"bc:f6:85:de:49:bf","capabilities":"[WEP][ESS]","level":"-91","frequency":"2412","time":"Monday, December 2, 2013 11:51:00 PM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-32","frequency":"2452","time":"Monday, December 2, 2013 11:51:00 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sogoli","BSSID":"ec:23:3d:6e:08:d1","capabilities":"[WPA-PSK-CCMP][WPS][ESS]","level":"-82","frequency":"2442","time":"Monday, December 2, 2013 11:51:00 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-90","frequency":"2437","time":"Monday, December 2, 2013 11:51:00 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-88","frequency":"2457","time":"Monday, December 2, 2013 11:51:00 PM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-83","frequency":"2412","time":"Monday, December 2, 2013 11:51:00 PM GMT+00:00"}}
+{"WiFi":{"SSID":"2730","BSSID":"bc:f6:85:de:49:bf","capabilities":"[WEP][ESS]","level":"-91","frequency":"2412","time":"Monday, December 2, 2013 11:51:00 PM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 12:05:36 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 12:05:36 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 12:05:36 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 12:05:36 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 12:05:36 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 12:05:36 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 12:05:36 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 12:05:36 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 12:17:02 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 12:17:02 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 12:17:02 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 12:17:02 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 12:17:02 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 12:17:02 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 12:17:02 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 12:17:02 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 12:35:22 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 12:35:22 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 12:35:22 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 12:35:22 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 12:35:22 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 12:35:22 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 12:35:22 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 12:35:22 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 12:49:04 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 12:49:04 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 12:49:04 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 12:49:04 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 12:49:04 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 12:49:04 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 12:49:04 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 12:49:04 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 12:59:07 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 12:59:07 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 12:59:07 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 12:59:07 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 12:59:07 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 12:59:07 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 12:59:07 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 12:59:07 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 1:06:05 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 1:06:05 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 1:06:05 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 1:06:05 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 1:06:05 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 1:06:05 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 1:06:05 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 1:06:05 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 1:19:00 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 1:19:00 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 1:19:00 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 1:19:00 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 1:19:00 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 1:19:00 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 1:19:00 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 1:19:00 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 1:28:53 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 1:28:53 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 1:28:53 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 1:28:53 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 1:28:53 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 1:28:53 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 1:28:53 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 1:28:53 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 1:41:18 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 1:41:18 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 1:41:18 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 1:41:18 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 1:41:18 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 1:41:18 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 1:41:18 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 1:41:18 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 1:54:23 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 1:54:23 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 1:54:23 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 1:54:23 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 1:54:23 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 1:54:23 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 1:54:23 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 1:54:23 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 2:09:01 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 2:09:01 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 2:09:01 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 2:09:01 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 2:09:01 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 2:09:01 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 2:09:01 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 2:09:01 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 2:27:22 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 2:27:22 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 2:27:22 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 2:27:22 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 2:27:22 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 2:27:22 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 2:27:22 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 2:27:22 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 2:35:28 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 2:35:28 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 2:35:28 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 2:35:28 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 2:35:28 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 2:35:28 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 2:35:28 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 2:35:28 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 2:46:59 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 2:46:59 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 2:46:59 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 2:46:59 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 2:46:59 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 2:46:59 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 2:46:59 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 2:46:59 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 2:57:03 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 2:57:03 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 2:57:03 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 2:57:03 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 2:57:03 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 2:57:03 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 2:57:03 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 2:57:03 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 3:05:28 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 3:05:28 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 3:05:28 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 3:05:28 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 3:05:28 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 3:05:28 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 3:05:28 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 3:05:28 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 3:11:31 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 3:11:31 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 3:11:31 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 3:11:31 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 3:11:31 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 3:11:31 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 3:11:31 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 3:11:31 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 3:23:36 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 3:23:36 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 3:23:36 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 3:23:36 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 3:23:36 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 3:23:36 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 3:23:36 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 3:23:36 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 3:33:25 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 3:33:25 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 3:33:25 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 3:33:25 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 3:33:25 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 3:33:25 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 3:33:25 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 3:33:25 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 3:52:55 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 3:52:55 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 3:52:55 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 3:52:55 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 3:52:55 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 3:52:55 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 3:52:55 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 3:52:55 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 4:07:57 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 4:07:57 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 4:07:57 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 4:07:57 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 4:07:57 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 4:07:57 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 4:07:57 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 4:07:57 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 4:22:03 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 4:22:03 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 4:22:03 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 4:22:03 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 4:22:03 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 4:22:03 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 4:22:03 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 4:22:03 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 4:32:56 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 4:32:56 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 4:32:56 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 4:32:56 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 4:32:56 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 4:32:56 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 4:32:56 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 4:32:56 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 4:37:50 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 4:37:50 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 4:37:50 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 4:37:50 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 4:37:50 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 4:37:50 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 4:37:50 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 4:37:50 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 4:47:38 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 4:47:38 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 4:47:38 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 4:47:38 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 4:47:38 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 4:47:38 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 4:47:38 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 4:47:38 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 4:57:07 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 4:57:07 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 4:57:07 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 4:57:07 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 4:57:07 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 4:57:07 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 4:57:07 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 4:57:07 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 5:10:38 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 5:10:38 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 5:10:38 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 5:10:38 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 5:10:38 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 5:10:38 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 5:10:38 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 5:10:38 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 5:25:50 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 5:25:50 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 5:25:50 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 5:25:50 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 5:25:50 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 5:25:50 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 5:25:50 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 5:25:50 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 5:35:33 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 5:35:33 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 5:35:33 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 5:35:33 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 5:35:33 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 5:35:33 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 5:35:33 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 5:35:33 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 5:50:31 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 5:50:31 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 5:50:31 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 5:50:31 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 5:50:31 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 5:50:31 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 5:50:31 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 5:50:31 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 5:56:34 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 5:56:34 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 5:56:34 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 5:56:34 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 5:56:34 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 5:56:34 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 5:56:34 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 5:56:34 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 6:11:27 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 6:11:27 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 6:11:27 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 6:11:27 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 6:11:27 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 6:11:27 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 6:11:27 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 6:11:27 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 6:21:41 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 6:21:41 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 6:21:41 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 6:21:41 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 6:21:41 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 6:21:41 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 6:21:41 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 6:21:41 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 6:36:57 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 6:36:57 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 6:36:57 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 6:36:57 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 6:36:57 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 6:36:57 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 6:36:57 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 6:36:57 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 6:47:10 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 6:47:10 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 6:47:10 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 6:47:10 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 6:47:10 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 6:47:10 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 6:47:10 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 6:47:10 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 6:51:53 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 6:51:53 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 6:51:53 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 6:51:53 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 6:51:53 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 6:51:53 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 6:51:53 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 6:51:53 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 7:11:28 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 7:11:28 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 7:11:28 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 7:11:28 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 7:11:28 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 7:11:28 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 7:11:28 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 7:11:28 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 7:22:11 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 7:22:11 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 7:22:11 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 7:22:11 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 7:22:11 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 7:22:11 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 7:22:11 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 7:22:11 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 7:36:12 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 7:36:12 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 7:36:12 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 7:36:12 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 7:36:12 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 7:36:12 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 7:36:12 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 7:36:12 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 7:51:02 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 7:51:02 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 7:51:02 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 7:51:02 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 7:51:02 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 7:51:02 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 7:51:02 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 7:51:02 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 8:00:34 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 8:00:34 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 8:00:34 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 8:00:34 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 8:00:34 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 8:00:34 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 8:00:34 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 8:00:34 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 8:15:58 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 8:15:58 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 8:15:58 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 8:15:58 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 8:15:58 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 8:15:58 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 8:15:58 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 8:15:58 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 8:25:44 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 8:25:44 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 8:25:44 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 8:25:44 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 8:25:44 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 8:25:44 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 8:25:44 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 8:25:44 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 8:40:43 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 8:40:43 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 8:40:43 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 8:40:43 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-46","frequency":"2452","time":"Tuesday, December 3, 2013 8:40:43 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-74","frequency":"2437","time":"Tuesday, December 3, 2013 8:40:43 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-87","frequency":"2457","time":"Tuesday, December 3, 2013 8:40:43 AM GMT+00:00"}}
+{"WiFi":{"SSID":"Shabbak","BSSID":"00:11:6b:dc:26:ca","capabilities":"[WEP][ESS]","level":"-82","frequency":"2412","time":"Tuesday, December 3, 2013 8:40:43 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 9:20:36 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 9:20:36 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 9:20:36 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 9:20:36 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 9:20:36 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 9:20:36 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 9:20:36 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 9:20:36 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 9:46:27 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 9:46:27 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 9:46:27 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 9:46:27 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 9:46:27 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 9:46:27 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 9:46:27 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 9:46:27 AM GMT+00:00"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 09:46:28","End":"12-3-2013 09:46:39"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"12-3-2013 09:46:28","End":"12-3-2013 09:46:39"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 09:46:28","End":"12-3-2013 09:46:39"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 09:46:28","End":"12-3-2013 09:46:39"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 9:50:48 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 9:50:48 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 9:50:48 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 9:50:48 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 9:50:48 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 9:50:48 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 9:50:48 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 9:50:48 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 9:54:00 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 9:54:00 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 9:54:00 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 9:54:00 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 9:54:00 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 9:54:00 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 9:54:00 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 9:54:00 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 10:07:13 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 10:07:13 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 10:07:13 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 10:07:13 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 10:07:13 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 10:07:13 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 10:07:13 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 10:07:13 AM GMT+00:00"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 10:09:41","End":"12-3-2013 10:09:51"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 10:09:41","End":"12-3-2013 10:09:51"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 10:09:41","End":"12-3-2013 10:09:51"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 10:09:41","End":"12-3-2013 10:09:51"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 10:15:41 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 10:15:41 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 10:15:41 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 10:15:41 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 10:15:42 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 10:15:42 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 10:15:42 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 10:15:42 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 10:47:01 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 10:47:01 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 10:47:01 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 10:47:01 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 10:47:01 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 10:47:01 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 10:47:01 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 10:47:01 AM GMT+00:00"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"12-3-2013 11:01:59","End":"12-3-2013 11:02:10"}}
+{"Application":{"ProcessName":"ir.fadesign.persian_date","Start":"12-3-2013 11:01:59","End":"12-3-2013 11:02:10"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 11:01:59","End":"12-3-2013 11:02:10"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 11:01:59","End":"12-3-2013 11:02:10"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 11:01:59","End":"12-3-2013 11:02:10"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 11:02:18 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 11:02:18 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 11:02:18 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 11:02:18 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 11:02:18 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 11:02:18 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 11:02:18 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 11:02:18 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 11:16:07 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 11:16:07 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 11:16:07 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 11:16:07 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 11:16:07 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 11:16:07 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 11:16:07 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 11:16:07 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 11:24:16 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 11:24:16 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 11:24:16 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 11:24:16 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 11:24:16 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 11:24:16 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 11:24:16 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 11:24:16 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 11:36:08 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 11:36:08 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 11:36:08 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 11:36:08 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 11:36:08 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 11:36:08 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 11:36:08 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 11:36:08 AM GMT+00:00"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"12-3-2013 11:38:04","End":"12-3-2013 11:38:14"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 11:38:45 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 11:38:45 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 11:38:45 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 11:38:45 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 11:38:46 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 11:38:46 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 11:38:46 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 11:38:46 AM GMT+00:00"}}
+{"Call": {"Number":"+98936946####","Duration":"0","Time":"12-3-2013 11:38:01","Type":"3"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 11:38:54","End":"12-3-2013 11:39:04"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 11:38:04","End":"12-3-2013 11:39:04"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 11:38:04","End":"12-3-2013 11:39:04"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 11:38:04","End":"12-3-2013 11:39:04"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 11:46:59 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 11:46:59 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 11:46:59 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 11:46:59 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 11:46:59 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 11:46:59 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 11:46:59 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 11:46:59 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 11:56:59 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 11:56:59 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 11:56:59 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 11:56:59 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 11:56:59 AM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 11:56:59 AM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 11:56:59 AM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 11:56:59 AM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 12:21:01 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 12:21:01 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 12:21:01 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 12:21:01 PM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 12:21:01 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 12:21:01 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 12:21:01 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 12:21:01 PM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 12:33:59 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 12:33:59 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 12:33:59 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 12:33:59 PM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 12:33:59 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 12:33:59 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 12:33:59 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 12:33:59 PM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 12:50:40 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 12:50:40 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 12:50:40 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 12:50:40 PM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 12:50:40 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 12:50:40 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 12:50:40 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 12:50:40 PM GMT+00:00"}}
+{"Call": {"Number":"+98936946####","Duration":"0","Time":"12-3-2013 11:38:01","Type":"3"}}
+{"Call": {"Number":"+98936946####","Duration":"0","Time":"12-3-2013 11:38:01","Type":"3"}}
+{"Call": {"Number":"+98936946####","Duration":"0","Time":"12-3-2013 11:38:01","Type":"3"}}
+{"Call": {"Number":"+98936946####","Duration":"0","Time":"12-3-2013 11:38:01","Type":"3"}}
+{"Call": {"Number":"+98936946####","Duration":"0","Time":"12-3-2013 11:38:01","Type":"3"}}
+{"Call": {"Number":"+98936946####","Duration":"0","Time":"12-3-2013 11:38:01","Type":"3"}}
+{"Call": {"Number":"+98936946####","Duration":"0","Time":"12-3-2013 11:38:01","Type":"3"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"12-3-2013 12:53:56","End":"12-3-2013 12:54:06"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 12:53:56","End":"12-3-2013 12:54:16"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 12:53:56","End":"12-3-2013 12:54:16"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 12:53:56","End":"12-3-2013 12:54:16"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 12:53:56","End":"12-3-2013 12:54:16"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 12:55:31 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 12:55:31 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 12:55:31 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 12:55:31 PM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 12:55:31 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 12:55:31 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 12:55:31 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 12:55:31 PM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 1:05:41 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 1:05:41 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 1:05:41 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 1:05:41 PM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 1:05:41 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 1:05:41 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 1:05:41 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 1:05:41 PM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 1:21:04 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 1:21:04 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 1:21:04 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 1:21:04 PM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 1:21:04 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 1:21:04 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 1:21:04 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 1:21:04 PM GMT+00:00"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 13:22:14","End":"12-3-2013 13:22:24"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 13:22:14","End":"12-3-2013 13:22:24"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 13:22:14","End":"12-3-2013 13:22:24"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 13:22:14","End":"12-3-2013 13:22:24"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 1:30:38 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 1:30:38 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 1:30:38 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 1:30:38 PM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 1:30:39 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 1:30:39 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 1:30:39 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 1:30:39 PM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 1:40:48 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 1:40:48 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 1:40:48 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 1:40:48 PM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 1:40:48 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 1:40:48 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 1:40:48 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 1:40:48 PM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 1:54:45 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 1:54:45 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 1:54:45 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 1:54:45 PM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 1:54:45 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 1:54:45 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 1:54:45 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 1:54:45 PM GMT+00:00"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 13:54:41","End":"12-3-2013 13:54:51"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 13:54:41","End":"12-3-2013 13:54:51"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 13:54:41","End":"12-3-2013 13:54:51"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 13:54:41","End":"12-3-2013 13:54:51"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 2:03:51 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 2:03:51 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 2:03:51 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 2:03:51 PM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 2:03:51 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 2:03:51 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 2:03:51 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 2:03:51 PM GMT+00:00"}}
+{"Application":{"ProcessName":"com.lge.launcher2","Start":"12-3-2013 14:04:09","End":"12-3-2013 14:04:10"}}
+{"Call": {"Number":"+98912721####","Duration":"0","Time":"12-3-2013 14:03:24","Type":"3"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 14:04:10","End":"12-3-2013 14:04:20"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 14:03:29","End":"12-3-2013 14:04:20"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 14:03:29","End":"12-3-2013 14:04:20"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 14:03:29","End":"12-3-2013 14:04:20"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 2:04:58 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 2:04:58 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 2:04:58 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 2:04:58 PM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 2:04:58 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 2:04:58 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 2:04:58 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 2:04:58 PM GMT+00:00"}}
+{"Call": {"Number":"+98912721####","Duration":"0","Time":"12-3-2013 14:04:38","Type":"3"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 14:05:28","End":"12-3-2013 14:05:38"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 14:04:48","End":"12-3-2013 14:05:38"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 14:04:48","End":"12-3-2013 14:05:38"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 14:04:48","End":"12-3-2013 14:05:38"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"12-3-2013 14:06:54","End":"12-3-2013 14:06:54"}}
+{"Call": {"Number":"+98912721####","Duration":"0","Time":"12-3-2013 14:04:38","Type":"3"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 2:07:03 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 2:07:03 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 2:07:03 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 2:07:03 PM GMT+00:00"}}
+{"WiFi":{"SSID":"DSL-2730U","BSSID":"1c:af:f7:73:62:64","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-37","frequency":"2452","time":"Tuesday, December 3, 2013 2:07:03 PM GMT+00:00"}}
+{"WiFi":{"SSID":"sabereh","BSSID":"1c:1d:67:55:f3:1f","capabilities":"[WPA2-PSK-CCMP][WPS][ESS]","level":"-80","frequency":"2422","time":"Tuesday, December 3, 2013 2:07:03 PM GMT+00:00"}}
+{"WiFi":{"SSID":"ali","BSSID":"bc:f6:85:e3:71:1e","capabilities":"[WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-82","frequency":"2437","time":"Tuesday, December 3, 2013 2:07:03 PM GMT+00:00"}}
+{"WiFi":{"SSID":"occ-rad","BSSID":"64:70:02:77:9e:f4","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][ESS]","level":"-89","frequency":"2457","time":"Tuesday, December 3, 2013 2:07:03 PM GMT+00:00"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 14:06:54","End":"12-3-2013 14:07:04"}}
+{"Call": {"Number":"+98912721####","Duration":"0","Time":"12-3-2013 14:04:38","Type":"3"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"12-3-2013 14:07:04","End":"12-3-2013 14:07:14"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 14:07:14","End":"12-3-2013 14:07:24"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 14:06:54","End":"12-3-2013 14:07:24"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 14:06:54","End":"12-3-2013 14:07:24"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 14:06:54","End":"12-3-2013 14:07:24"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"12-3-2013 14:28:37","End":"12-3-2013 14:36:59"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 14:28:37","End":"12-3-2013 14:36:59"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 14:28:37","End":"12-3-2013 14:36:59"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 14:28:37","End":"12-3-2013 14:36:59"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"12-3-2013 15:33:14","End":"12-3-2013 15:33:34"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 15:33:34","End":"12-3-2013 15:38:01"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"12-3-2013 15:38:01","End":"12-3-2013 15:38:01"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 15:38:01","End":"12-3-2013 15:38:11"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"12-3-2013 15:38:11","End":"12-3-2013 15:38:21"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 15:33:14","End":"12-3-2013 15:38:21"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 15:33:14","End":"12-3-2013 15:38:21"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 15:33:14","End":"12-3-2013 15:38:21"}}
+{"Call": {"Number":"0218878####","Duration":"0","Time":"12-3-2013 15:38:20","Type":"2"}}
+{"Call": {"Number":"0218878####","Duration":"0","Time":"12-3-2013 15:38:20","Type":"2"}}
+{"Call": {"Number":"0218878####","Duration":"0","Time":"12-3-2013 15:38:35","Type":"2"}}
+{"Call": {"Number":"0218878####","Duration":"0","Time":"12-3-2013 15:38:35","Type":"2"}}
+{"Call": {"Number":"0218878####","Duration":"0","Time":"12-3-2013 15:38:51","Type":"2"}}
+{"Call": {"Number":"0218878####","Duration":"0","Time":"12-3-2013 15:38:51","Type":"2"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"12-3-2013 15:39:01","End":"12-3-2013 15:39:21"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 15:38:21","End":"12-3-2013 15:39:21"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 15:38:21","End":"12-3-2013 15:39:21"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 15:38:21","End":"12-3-2013 15:39:21"}}
+{"Call": {"Number":"0218878####","Duration":"0","Time":"12-3-2013 15:39:14","Type":"2"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 15:39:31","End":"12-3-2013 15:39:32"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 15:39:31","End":"12-3-2013 15:39:32"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 15:39:31","End":"12-3-2013 15:39:32"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 15:39:31","End":"12-3-2013 15:39:32"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 16:58:51","End":"12-3-2013 16:59:45"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 16:58:51","End":"12-3-2013 16:59:45"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 16:58:51","End":"12-3-2013 16:59:45"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 16:58:51","End":"12-3-2013 16:59:45"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 17:43:06","End":"12-3-2013 17:43:44"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 17:43:06","End":"12-3-2013 17:43:44"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 17:43:06","End":"12-3-2013 17:43:44"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 17:43:06","End":"12-3-2013 17:43:44"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 17:47:25","End":"12-3-2013 17:49:22"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"12-3-2013 17:47:25","End":"12-3-2013 17:49:22"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 17:47:25","End":"12-3-2013 17:49:22"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 17:47:25","End":"12-3-2013 17:49:22"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"12-3-2013 17:59:00","End":"12-3-2013 17:59:20"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 17:59:20","End":"12-3-2013 17:59:32"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 17:59:00","End":"12-3-2013 17:59:32"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 17:59:00","End":"12-3-2013 17:59:32"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 17:59:00","End":"12-3-2013 17:59:32"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 18:29:45","End":"12-3-2013 18:29:46"}}
+{"Call": {"Number":"+98217755####","Duration":"0","Time":"12-3-2013 18:29:44","Type":"3"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 18:30:36","End":"12-3-2013 18:36:59"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 18:29:45","End":"12-3-2013 18:36:59"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 18:29:45","End":"12-3-2013 18:36:59"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 18:29:45","End":"12-3-2013 18:36:59"}}
+{"Call": {"Number":"+98217755####","Duration":"0","Time":"12-3-2013 18:42:29","Type":"3"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 18:43:15","End":"12-3-2013 18:43:25"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 18:42:35","End":"12-3-2013 18:43:25"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 18:42:35","End":"12-3-2013 18:43:25"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 18:42:35","End":"12-3-2013 18:43:25"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 18:55:31","End":"12-3-2013 18:55:49"}}
+{"Call": {"Number":"+98217755####","Duration":"0","Time":"12-3-2013 18:42:29","Type":"3"}}
+{"Call": {"Number":"+98217755####","Duration":"0","Time":"12-3-2013 18:42:29","Type":"3"}}
+{"Call": {"Number":"+98217755####","Duration":"0","Time":"12-3-2013 18:42:29","Type":"3"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"12-3-2013 18:55:49","End":"12-3-2013 18:56:01"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 19:24:58","End":"12-3-2013 19:25:08"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 19:24:58","End":"12-3-2013 19:25:08"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 19:24:58","End":"12-3-2013 19:25:08"}}
+{"Call": {"Number":"+98217755####","Duration":"442","Time":"12-3-2013 19:24:58","Type":"2"}}
+{"Call": {"Number":"+98217755####","Duration":"442","Time":"12-3-2013 19:24:58","Type":"2"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"12-3-2013 19:32:43","End":"12-3-2013 19:32:53"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 19:32:43","End":"12-3-2013 19:35:21"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 19:32:43","End":"12-3-2013 19:35:21"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 19:32:43","End":"12-3-2013 19:35:21"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 19:32:43","End":"12-3-2013 19:35:21"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 20:04:11","End":"12-3-2013 20:04:21"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 20:04:11","End":"12-3-2013 20:04:21"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 20:04:11","End":"12-3-2013 20:04:21"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 20:04:11","End":"12-3-2013 20:04:21"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 20:06:50","End":"12-3-2013 20:12:20"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 20:06:50","End":"12-3-2013 20:12:20"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 20:06:50","End":"12-3-2013 20:12:20"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 20:06:50","End":"12-3-2013 20:12:20"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 20:16:53","End":"12-3-2013 20:22:21"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 20:16:53","End":"12-3-2013 20:22:21"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 20:16:53","End":"12-3-2013 20:22:21"}}
+{"Call": {"Number":"+98217755####","Duration":"794","Time":"12-3-2013 20:16:45","Type":"1"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 20:30:10","End":"12-3-2013 20:30:10"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 20:30:10","End":"12-3-2013 20:30:10"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 20:30:10","End":"12-3-2013 20:30:10"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 20:30:10","End":"12-3-2013 20:30:10"}}
+{"Application":{"ProcessName":"com.tencent.mm","Start":"12-3-2013 20:44:01","End":"12-3-2013 20:44:02"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"12-3-2013 20:44:01","End":"12-3-2013 20:49:28"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 20:44:01","End":"12-3-2013 20:49:28"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 20:44:01","End":"12-3-2013 20:49:28"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 20:44:01","End":"12-3-2013 20:49:28"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"12-3-2013 20:49:28","End":"12-3-2013 20:50:18"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 20:50:18","End":"12-3-2013 20:50:18"}}
+{"Call": {"Number":"+98217755####","Duration":"794","Time":"12-3-2013 20:16:45","Type":"1"}}
+{"Call": {"Number":"+98217755####","Duration":"794","Time":"12-3-2013 20:16:45","Type":"1"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"12-3-2013 20:50:18","End":"12-3-2013 20:50:38"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 20:49:28","End":"12-3-2013 20:50:38"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 20:49:28","End":"12-3-2013 20:50:38"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 20:49:28","End":"12-3-2013 20:50:38"}}
+{"Call": {"Number":"0939254####","Duration":"162","Time":"12-3-2013 20:50:30","Type":"2"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 20:53:24","End":"12-3-2013 20:56:41"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 20:53:24","End":"12-3-2013 20:56:41"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 20:53:24","End":"12-3-2013 20:56:41"}}
+{"Call": {"Number":"0939254####","Duration":"162","Time":"12-3-2013 20:50:30","Type":"2"}}
+{"Call": {"Number":"0939254####","Duration":"162","Time":"12-3-2013 20:50:30","Type":"2"}}
+{"Call": {"Number":"0939254####","Duration":"162","Time":"12-3-2013 20:50:30","Type":"2"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"12-3-2013 21:12:50","End":"12-3-2013 21:13:00"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"12-3-2013 21:12:50","End":"12-3-2013 21:13:00"}}
+{"Call": {"Number":"0216636####","Duration":"0","Time":"12-3-2013 21:13:00","Type":"2"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"12-3-2013 21:13:10","End":"12-3-2013 21:15:50"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"12-3-2013 21:15:50","End":"12-3-2013 21:15:51"}}
+{"Call": {"Number":"+98216636####","Duration":"156","Time":"12-3-2013 21:13:13","Type":"1"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 21:16:01","End":"12-3-2013 21:16:34"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"12-3-2013 21:16:34","End":"12-3-2013 21:16:54"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 21:16:54","End":"12-3-2013 21:18:05"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 21:12:50","End":"12-3-2013 21:18:05"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 21:12:50","End":"12-3-2013 21:18:05"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 21:12:50","End":"12-3-2013 21:18:05"}}
+{"Call": {"Number":"+98216636####","Duration":"156","Time":"12-3-2013 21:13:13","Type":"1"}}
+{"Call": {"Number":"+98216636####","Duration":"156","Time":"12-3-2013 21:13:13","Type":"1"}}
+{"Call": {"Number":"+98216636####","Duration":"156","Time":"12-3-2013 21:13:13","Type":"1"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"12-3-2013 21:18:05","End":"12-3-2013 21:18:15"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 21:18:05","End":"12-3-2013 21:18:25"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 21:18:05","End":"12-3-2013 21:18:25"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 21:18:05","End":"12-3-2013 21:18:25"}}
+{"Call": {"Number":"0919130####","Duration":"30","Time":"12-3-2013 21:18:14","Type":"2"}}
+{"Application":{"ProcessName":"com.android.contacts","Start":"12-3-2013 21:19:10","End":"12-3-2013 21:23:31"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 21:19:10","End":"12-3-2013 21:27:28"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 21:19:10","End":"12-3-2013 21:27:28"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 21:19:10","End":"12-3-2013 21:27:28"}}
+{"Call": {"Number":"+98910001####","Duration":"225","Time":"12-3-2013 21:23:30","Type":"1"}}
+{"Call": {"Number":"+98910001####","Duration":"225","Time":"12-3-2013 21:23:30","Type":"1"}}
+{"Call": {"Number":"+98910001####","Duration":"225","Time":"12-3-2013 21:23:30","Type":"1"}}
+{"Call": {"Number":"+98910001####","Duration":"225","Time":"12-3-2013 21:23:30","Type":"1"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 21:27:38","End":"12-3-2013 21:35:22"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 21:27:28","End":"12-3-2013 21:35:22"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 21:27:28","End":"12-3-2013 21:35:22"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 21:27:28","End":"12-3-2013 21:35:22"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 21:39:41","End":"12-3-2013 21:39:51"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 21:39:41","End":"12-3-2013 21:39:51"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 21:39:41","End":"12-3-2013 21:39:51"}}
+{"Call": {"Number":"+98936946####","Duration":"647","Time":"12-3-2013 21:39:39","Type":"1"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 21:50:44","End":"12-3-2013 21:51:20"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 21:50:44","End":"12-3-2013 21:51:20"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 21:50:44","End":"12-3-2013 21:51:20"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 21:50:44","End":"12-3-2013 21:51:20"}}
+{"Call": {"Number":"+98919130####","Duration":"33","Time":"12-3-2013 21:54:38","Type":"1"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 21:55:33","End":"12-3-2013 21:59:11"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 21:54:43","End":"12-3-2013 21:59:11"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 21:54:43","End":"12-3-2013 21:59:11"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 21:54:43","End":"12-3-2013 21:59:11"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 22:00:14","End":"12-3-2013 22:00:51"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 22:00:14","End":"12-3-2013 22:00:51"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 22:00:14","End":"12-3-2013 22:00:51"}}
+{"Call": {"Number":"+98217759####","Duration":"175","Time":"12-3-2013 22:00:06","Type":"1"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 22:03:22","End":"12-3-2013 22:05:49"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 22:03:22","End":"12-3-2013 22:05:49"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 22:03:22","End":"12-3-2013 22:05:49"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 22:03:22","End":"12-3-2013 22:05:49"}}
+{"Application":{"ProcessName":"com.google.android.apps.plus","Start":"12-3-2013 22:05:49","End":"12-3-2013 22:05:59"}}
+{"Application":{"ProcessName":"jp.naver.line.android","Start":"12-3-2013 22:06:00","End":"12-3-2013 22:06:09"}}
+{"Application":{"ProcessName":"com.jb.gosms","Start":"12-3-2013 22:05:59","End":"12-3-2013 22:06:09"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 22:05:49","End":"12-3-2013 22:10:50"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 22:05:49","End":"12-3-2013 22:10:50"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 22:05:49","End":"12-3-2013 22:10:50"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 22:05:49","End":"12-3-2013 22:10:50"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 22:10:50","End":"12-3-2013 22:15:51"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 22:10:50","End":"12-3-2013 22:15:51"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 22:10:50","End":"12-3-2013 22:15:51"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 22:10:50","End":"12-3-2013 22:15:51"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 22:15:51","End":"12-3-2013 22:20:52"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 22:15:51","End":"12-3-2013 22:20:52"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 22:15:51","End":"12-3-2013 22:20:52"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 22:15:51","End":"12-3-2013 22:20:52"}}
+{"Application":{"ProcessName":"com.whatsapp","Start":"12-3-2013 22:25:13","End":"12-3-2013 22:25:23"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 22:20:52","End":"12-3-2013 22:25:54"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 22:20:52","End":"12-3-2013 22:25:54"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 22:20:52","End":"12-3-2013 22:25:54"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 22:20:52","End":"12-3-2013 22:25:54"}}
+{"Call": {"Number":"+98919130####","Duration":"0","Time":"12-3-2013 22:28:01","Type":"3"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 22:25:54","End":"12-3-2013 22:30:55"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 22:25:54","End":"12-3-2013 22:30:55"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 22:25:54","End":"12-3-2013 22:30:55"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 22:25:54","End":"12-3-2013 22:30:55"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 22:30:55","End":"12-3-2013 22:35:57"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 22:30:55","End":"12-3-2013 22:35:57"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 22:30:55","End":"12-3-2013 22:35:57"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 22:30:55","End":"12-3-2013 22:35:57"}}
+{"Application":{"ProcessName":"com.anddoes.launcher","Start":"12-3-2013 22:35:57","End":"12-3-2013 22:36:57"}}
+{"Application":{"ProcessName":"com.lge.omadmclient","Start":"12-3-2013 22:35:57","End":"12-3-2013 22:36:57"}}
+{"Application":{"ProcessName":"com.lge.systemserver","Start":"12-3-2013 22:35:57","End":"12-3-2013 22:36:57"}}
+{"Application":{"ProcessName":"com.broadcom.bt.app.system","Start":"12-3-2013 22:35:57","End":"12-3-2013 22:36:57"}}

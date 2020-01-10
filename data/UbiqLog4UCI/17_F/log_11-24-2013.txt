@@ -1,0 +1,710 @@
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-23-2013 23:03:04","End":"11-23-2013 23:03:28"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-23-2013 23:03:28","End":"11-23-2013 23:03:39"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-23-2013 23:03:28","End":"11-23-2013 23:03:39"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-23-2013 23:03:04","End":"11-23-2013 23:03:49"}}
+{"Application":{"ProcessName":"com.htc.android.worldclock","Start":"11-23-2013 23:03:39","End":"11-23-2013 23:03:49"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-23-2013 23:03:04","End":"11-23-2013 23:03:49"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-23-2013 23:03:04","End":"11-23-2013 23:03:49"}}
+{"SMS":{"Address":"+98912483####","type":"1","date":"11-23-2013 23:50:08","body":"ANONYMIZED","Type":"1"}}
+{"Application":{"ProcessName":"com.htc.android.worldclock","Start":"11-24-2013 06:30:05","End":"11-24-2013 06:30:26"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"11-24-2013 06:30:26","End":"11-24-2013 06:30:36"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-24-2013 06:30:26","End":"11-24-2013 06:45:42"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 06:30:36","End":"11-24-2013 06:45:42"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 06:30:05","End":"11-24-2013 06:45:42"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 06:30:05","End":"11-24-2013 06:45:42"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 06:30:05","End":"11-24-2013 06:45:42"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 06:52:25","End":"11-24-2013 07:07:39"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 06:52:25","End":"11-24-2013 07:07:39"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 06:52:25","End":"11-24-2013 07:07:39"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 08:09:40","End":"11-24-2013 09:11:11"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 08:09:40","End":"11-24-2013 09:11:11"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 08:09:40","End":"11-24-2013 09:11:11"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 09:44:03","End":"11-24-2013 09:49:06"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 09:44:03","End":"11-24-2013 09:49:06"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 09:44:03","End":"11-24-2013 09:49:06"}}
+{"Call": {"Number":"+98216660####","Duration":"21","Time":"11-24-2013 09:48:58","Type":"2"}}
+{"Call": {"Number":"+98216660####","Duration":"21","Time":"11-24-2013 09:48:58","Type":"2"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 09:49:27","End":"11-24-2013 09:50:06"}}
+{"Application":{"ProcessName":"com.htc.task","Start":"11-24-2013 09:49:27","End":"11-24-2013 09:50:06"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 09:49:27","End":"11-24-2013 09:50:06"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 09:49:27","End":"11-24-2013 09:50:06"}}
+{"Application":{"ProcessName":"com.htc.lockscreen","Start":"11-24-2013 09:49:27","End":"11-24-2013 09:50:06"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 09:59:32","End":"11-24-2013 10:04:35"}}
+{"Application":{"ProcessName":"com.google.process.location","Start":"11-24-2013 09:59:32","End":"11-24-2013 10:04:35"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 09:59:32","End":"11-24-2013 10:04:35"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 09:59:32","End":"11-24-2013 10:04:35"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-24-2013 10:25:26","End":"11-24-2013 10:25:36"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 10:25:26","End":"11-24-2013 10:25:36"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 10:22:15","End":"11-24-2013 10:25:47"}}
+{"Application":{"ProcessName":"com.htc.task","Start":"11-24-2013 10:25:36","End":"11-24-2013 10:25:47"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 10:22:15","End":"11-24-2013 10:25:47"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 10:22:15","End":"11-24-2013 10:25:47"}}
+{"Call": {"Number":"+98216664####","Duration":"37","Time":"11-24-2013 10:25:35","Type":"2"}}
+{"Call": {"Number":"+98216664####","Duration":"37","Time":"11-24-2013 10:25:35","Type":"2"}}
+{"Call": {"Number":"+98216661####","Duration":"0","Time":"11-24-2013 10:28:38","Type":"2"}}
+{"Call": {"Number":"+98216661####","Duration":"0","Time":"11-24-2013 10:28:38","Type":"2"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 10:28:39","End":"11-24-2013 10:28:49"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 10:28:39","End":"11-24-2013 10:28:49"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 10:28:39","End":"11-24-2013 10:28:49"}}
+{"Call": {"Number":"+98912483####","Duration":"1","Time":"11-24-2013 10:28:43","Type":"2"}}
+{"Call": {"Number":"+98912483####","Duration":"1","Time":"11-24-2013 10:28:43","Type":"2"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 10:29:09","End":"11-24-2013 10:32:11"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 10:29:09","End":"11-24-2013 10:32:11"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 10:29:09","End":"11-24-2013 10:32:11"}}
+{"Call": {"Number":"+98912419####","Duration":"38","Time":"11-24-2013 10:32:00","Type":"2"}}
+{"Call": {"Number":"+98912419####","Duration":"38","Time":"11-24-2013 10:32:00","Type":"2"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-75","frequency":"2412","time":"Sunday, November 24, 2013 10:33:47 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-82","frequency":"2412","time":"Sunday, November 24, 2013 10:34:47 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-24-2013 10:33:37","End":"11-24-2013 10:35:37"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-82","frequency":"2412","time":"Sunday, November 24, 2013 10:35:47 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.instagram.android","Start":"11-24-2013 10:35:48","End":"11-24-2013 10:35:58"}}
+{"Application":{"ProcessName":"com.android.browser","Start":"11-24-2013 10:35:58","End":"11-24-2013 10:36:38"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-82","frequency":"2412","time":"Sunday, November 24, 2013 10:36:47 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.instagram.android","Start":"11-24-2013 10:36:38","End":"11-24-2013 10:36:58"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-82","frequency":"2412","time":"Sunday, November 24, 2013 10:37:47 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 10:33:07","End":"11-24-2013 10:38:08"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 10:33:07","End":"11-24-2013 10:38:08"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 10:33:07","End":"11-24-2013 10:38:08"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-82","frequency":"2412","time":"Sunday, November 24, 2013 10:38:48 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-82","frequency":"2412","time":"Sunday, November 24, 2013 10:39:48 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-82","frequency":"2412","time":"Sunday, November 24, 2013 10:40:48 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-82","frequency":"2412","time":"Sunday, November 24, 2013 10:41:48 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"11-24-2013 10:37:08","End":"11-24-2013 10:42:09"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"11-24-2013 10:42:09","End":"11-24-2013 10:42:39"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-82","frequency":"2412","time":"Sunday, November 24, 2013 10:42:48 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 10:38:08","End":"11-24-2013 10:43:13"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 10:38:08","End":"11-24-2013 10:43:13"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 10:38:08","End":"11-24-2013 10:43:13"}}
+{"Application":{"ProcessName":"com.google.android.gms","Start":"11-24-2013 10:43:13","End":"11-24-2013 10:43:23"}}
+{"Application":{"ProcessName":"com.android.packageinstaller","Start":"11-24-2013 10:42:39","End":"11-24-2013 10:43:23"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-24-2013 10:43:23","End":"11-24-2013 10:43:35"}}
+{"Application":{"ProcessName":"com.google.android.apps.maps:FriendService","Start":"11-24-2013 10:43:35","End":"11-24-2013 10:43:45"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-82","frequency":"2412","time":"Sunday, November 24, 2013 10:43:48 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-82","frequency":"2412","time":"Sunday, November 24, 2013 10:44:48 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"11-24-2013 10:43:23","End":"11-24-2013 10:45:06"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-82","frequency":"2412","time":"Sunday, November 24, 2013 10:45:48 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-82","frequency":"2412","time":"Sunday, November 24, 2013 10:46:48 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-24-2013 10:45:06","End":"11-24-2013 10:47:17"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 10:43:13","End":"11-24-2013 10:47:17"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 10:43:13","End":"11-24-2013 10:47:17"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 10:43:13","End":"11-24-2013 10:47:17"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-82","frequency":"2412","time":"Sunday, November 24, 2013 10:48:02 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-82","frequency":"2412","time":"Sunday, November 24, 2013 10:49:41 AM Iran Standard Time"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-82","frequency":"2412","time":"Sunday, November 24, 2013 10:51:01 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-24-2013 10:51:05","End":"11-24-2013 10:51:15"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"11-24-2013 10:51:15","End":"11-24-2013 10:51:25"}}
+{"Application":{"ProcessName":"com.instagram.android","Start":"11-24-2013 10:51:35","End":"11-24-2013 10:51:55"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-82","frequency":"2412","time":"Sunday, November 24, 2013 10:52:01 AM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.instagram.android","Start":"11-24-2013 10:52:15","End":"11-24-2013 10:52:25"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-24-2013 10:52:05","End":"11-24-2013 10:52:35"}}
+{"Application":{"ProcessName":"com.htc.bg","Start":"11-24-2013 10:52:45","End":"11-24-2013 10:52:55"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 10:51:05","End":"11-24-2013 10:52:55"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 10:51:05","End":"11-24-2013 10:52:55"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-24-2013 10:52:45","End":"11-24-2013 10:52:55"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 10:51:05","End":"11-24-2013 10:52:55"}}
+{"Call": {"Number":"+98912483####","Duration":"26","Time":"11-24-2013 10:54:35","Type":"1"}}
+{"Call": {"Number":"+98912483####","Duration":"26","Time":"11-24-2013 10:54:35","Type":"1"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-24-2013 10:55:11","End":"11-24-2013 10:59:33"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 10:54:39","End":"11-24-2013 11:01:37"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 10:54:39","End":"11-24-2013 11:01:37"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 10:54:39","End":"11-24-2013 11:01:37"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-24-2013 11:01:47","End":"11-24-2013 11:06:00"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 11:01:37","End":"11-24-2013 11:06:40"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 11:01:37","End":"11-24-2013 11:06:40"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 11:01:37","End":"11-24-2013 11:06:40"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-24-2013 11:06:20","End":"11-24-2013 11:09:41"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 11:06:40","End":"11-24-2013 11:25:24"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 11:06:40","End":"11-24-2013 11:25:24"}}
+{"Application":{"ProcessName":"com.instagram.android","Start":"11-24-2013 11:09:51","End":"11-24-2013 11:25:24"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 11:06:40","End":"11-24-2013 11:25:24"}}
+{"Application":{"ProcessName":"com.google.android.apps.maps","Start":"11-24-2013 11:29:00","End":"11-24-2013 11:29:10"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 11:29:00","End":"11-24-2013 11:34:01"}}
+{"Application":{"ProcessName":"com.htc.soundrecorder","Start":"11-24-2013 11:29:00","End":"11-24-2013 11:34:01"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 11:29:00","End":"11-24-2013 11:34:01"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 11:29:00","End":"11-24-2013 11:34:01"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 11:34:01","End":"11-24-2013 11:37:21"}}
+{"Application":{"ProcessName":"com.htc.soundrecorder","Start":"11-24-2013 11:34:01","End":"11-24-2013 11:37:21"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 11:34:01","End":"11-24-2013 11:37:21"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 11:34:01","End":"11-24-2013 11:37:21"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 12:33:03","End":"11-24-2013 12:33:13"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 12:33:03","End":"11-24-2013 12:33:13"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 12:33:03","End":"11-24-2013 12:33:13"}}
+{"Application":{"ProcessName":"com.htc.soundrecorder","Start":"11-24-2013 12:33:03","End":"11-24-2013 12:33:13"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 12:55:38","End":"11-24-2013 12:55:48"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 12:55:58","End":"11-24-2013 12:56:18"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 12:55:38","End":"11-24-2013 13:07:19"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 12:55:38","End":"11-24-2013 13:07:19"}}
+{"Application":{"ProcessName":"com.htc.launcher.add_to_home","Start":"11-24-2013 12:57:28","End":"11-24-2013 13:07:19"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 12:55:38","End":"11-24-2013 13:07:19"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 13:07:19","End":"11-24-2013 13:12:19"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 13:07:19","End":"11-24-2013 13:12:19"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 13:07:19","End":"11-24-2013 13:12:19"}}
+{"Application":{"ProcessName":"com.htc.fm","Start":"11-24-2013 13:07:59","End":"11-24-2013 13:12:59"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 13:12:19","End":"11-24-2013 13:17:19"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 13:12:19","End":"11-24-2013 13:17:19"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 13:12:19","End":"11-24-2013 13:17:19"}}
+{"Application":{"ProcessName":"com.htc.fm","Start":"11-24-2013 13:12:59","End":"11-24-2013 13:17:30"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 13:17:20","End":"11-24-2013 13:18:00"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 13:17:20","End":"11-24-2013 13:18:00"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 13:17:20","End":"11-24-2013 13:18:00"}}
+{"Call": {"Number":"0939538####","Duration":"7","Time":"11-24-2013 13:17:49","Type":"2"}}
+{"Call": {"Number":"0939538####","Duration":"7","Time":"11-24-2013 13:17:49","Type":"2"}}
+{"Call": {"Number":"+98912483####","Duration":"0","Time":"11-24-2013 13:18:19","Type":"2"}}
+{"Call": {"Number":"+98912483####","Duration":"0","Time":"11-24-2013 13:18:19","Type":"2"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 13:18:24","End":"11-24-2013 13:19:11"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 13:18:24","End":"11-24-2013 13:19:11"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 13:18:24","End":"11-24-2013 13:19:11"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 13:19:21","End":"11-24-2013 13:24:22"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 13:19:21","End":"11-24-2013 13:24:22"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 13:19:21","End":"11-24-2013 13:24:22"}}
+{"Application":{"ProcessName":"com.htc.fm","Start":"11-24-2013 13:19:31","End":"11-24-2013 13:24:32"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 13:24:22","End":"11-24-2013 13:29:22"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 13:24:22","End":"11-24-2013 13:29:22"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 13:24:22","End":"11-24-2013 13:29:22"}}
+{"Application":{"ProcessName":"com.htc.fm","Start":"11-24-2013 13:24:32","End":"11-24-2013 13:29:32"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 13:29:22","End":"11-24-2013 13:34:23"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 13:29:22","End":"11-24-2013 13:34:23"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 13:29:22","End":"11-24-2013 13:34:23"}}
+{"Application":{"ProcessName":"com.htc.fm","Start":"11-24-2013 13:29:32","End":"11-24-2013 13:34:33"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 13:34:23","End":"11-24-2013 13:49:11"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 13:34:23","End":"11-24-2013 13:49:11"}}
+{"Application":{"ProcessName":"com.htc.fm","Start":"11-24-2013 13:34:33","End":"11-24-2013 13:49:11"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 13:34:23","End":"11-24-2013 13:49:11"}}
+{"Application":{"ProcessName":"com.instagram.android","Start":"11-24-2013 14:01:00","End":"11-24-2013 14:01:20"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 14:01:20","End":"11-24-2013 14:01:30"}}
+{"SMS":{"Address":"+98912404####","type":"2","date":"11-24-2013 14:02:17","body":"ANONYMIZED","Type":"2"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 14:01:00","End":"11-24-2013 14:06:01"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 14:01:00","End":"11-24-2013 14:06:01"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 14:01:00","End":"11-24-2013 14:06:01"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-24-2013 14:01:40","End":"11-24-2013 14:06:41"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 14:01:40","End":"11-24-2013 14:06:41"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-24-2013 14:06:41","End":"11-24-2013 14:08:11"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 14:06:41","End":"11-24-2013 14:08:11"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 14:09:21","End":"11-24-2013 14:10:01"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 14:06:01","End":"11-24-2013 14:11:01"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 14:06:01","End":"11-24-2013 14:11:01"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 14:06:01","End":"11-24-2013 14:11:01"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-76","frequency":"2412","time":"Sunday, November 24, 2013 2:14:40 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-68","frequency":"2412","time":"Sunday, November 24, 2013 2:15:40 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 14:15:32","End":"11-24-2013 14:15:42"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-24-2013 14:14:31","End":"11-24-2013 14:15:42"}}
+{"Application":{"ProcessName":"com.android.browser","Start":"11-24-2013 14:15:42","End":"11-24-2013 14:16:03"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 14:11:01","End":"11-24-2013 14:16:03"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 14:11:01","End":"11-24-2013 14:16:03"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 14:11:01","End":"11-24-2013 14:16:03"}}
+{"Application":{"ProcessName":"com.instagram.android","Start":"11-24-2013 14:16:03","End":"11-24-2013 14:16:33"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-68","frequency":"2412","time":"Sunday, November 24, 2013 2:16:40 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-68","frequency":"2412","time":"Sunday, November 24, 2013 2:17:40 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.htc.fmservice","Start":"11-24-2013 14:18:14","End":"11-24-2013 14:18:24"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-68","frequency":"2412","time":"Sunday, November 24, 2013 2:18:40 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-68","frequency":"2412","time":"Sunday, November 24, 2013 2:19:40 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-68","frequency":"2412","time":"Sunday, November 24, 2013 2:20:40 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 14:16:03","End":"11-24-2013 14:21:04"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 14:16:03","End":"11-24-2013 14:21:04"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 14:16:03","End":"11-24-2013 14:21:04"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-68","frequency":"2412","time":"Sunday, November 24, 2013 2:21:40 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"11-24-2013 14:17:03","End":"11-24-2013 14:22:04"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-68","frequency":"2412","time":"Sunday, November 24, 2013 2:22:40 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.farsitel.bazaar","Start":"11-24-2013 14:22:04","End":"11-24-2013 14:23:25"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-68","frequency":"2412","time":"Sunday, November 24, 2013 2:23:40 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-68","frequency":"2412","time":"Sunday, November 24, 2013 2:24:40 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"fani","BSSID":"00:20:a6:cb:d2:62","capabilities":"[ESS]","level":"-68","frequency":"2412","time":"Sunday, November 24, 2013 2:25:40 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 14:21:04","End":"11-24-2013 14:26:05"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 14:21:04","End":"11-24-2013 14:26:05"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 14:21:04","End":"11-24-2013 14:26:05"}}
+{"Application":{"ProcessName":"lysesoft.andexplorer","Start":"11-24-2013 14:23:25","End":"11-24-2013 14:26:15"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 14:59:30","End":"11-24-2013 15:00:10"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 14:59:00","End":"11-24-2013 15:04:01"}}
+{"Application":{"ProcessName":"com.htc.soundrecorder","Start":"11-24-2013 14:59:00","End":"11-24-2013 15:04:01"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 14:59:00","End":"11-24-2013 15:04:01"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 14:59:00","End":"11-24-2013 15:04:01"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 15:04:01","End":"11-24-2013 15:07:01"}}
+{"Application":{"ProcessName":"com.htc.soundrecorder","Start":"11-24-2013 15:04:01","End":"11-24-2013 15:07:01"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 15:04:01","End":"11-24-2013 15:07:01"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 15:04:01","End":"11-24-2013 15:07:01"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"11-24-2013 15:11:12","End":"11-24-2013 15:11:22"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 15:11:12","End":"11-24-2013 15:35:49"}}
+{"Application":{"ProcessName":"com.htc.soundrecorder","Start":"11-24-2013 15:11:12","End":"11-24-2013 15:35:49"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 15:11:12","End":"11-24-2013 15:35:49"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 15:11:12","End":"11-24-2013 15:35:49"}}
+{"SMS":{"Address":"+98939538####","type":"1","date":"11-24-2013 15:39:08","body":"ANONYMIZED","Type":"1"}}
+{"Call": {"Number":"+98216660####","Duration":"3","Time":"11-24-2013 16:02:49","Type":"1"}}
+{"Call": {"Number":"+98216660####","Duration":"3","Time":"11-24-2013 16:02:49","Type":"1"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 16:02:54","End":"11-24-2013 16:03:04"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 16:02:54","End":"11-24-2013 16:03:04"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 16:02:54","End":"11-24-2013 16:03:04"}}
+{"SMS":{"Address":"+98912404####","type":"2","date":"11-24-2013 14:02:17","body":"ANONYMIZED","Type":"2"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-24-2013 16:18:47","End":"11-24-2013 16:19:27"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 16:18:57","End":"11-24-2013 16:19:27"}}
+{"Application":{"ProcessName":"com.htc.android.htcime:provider","Start":"11-24-2013 16:19:07","End":"11-24-2013 16:19:27"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 16:18:47","End":"11-24-2013 16:19:37"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 16:18:47","End":"11-24-2013 16:19:37"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 16:18:47","End":"11-24-2013 16:19:37"}}
+{"Call": {"Number":"+98216660####","Duration":"29","Time":"11-24-2013 16:19:30","Type":"2"}}
+{"Call": {"Number":"+98216660####","Duration":"29","Time":"11-24-2013 16:19:30","Type":"2"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 16:20:25","End":"11-24-2013 16:26:18"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 16:20:25","End":"11-24-2013 16:26:18"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 16:20:25","End":"11-24-2013 16:26:18"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 16:41:22","End":"11-24-2013 16:46:23"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 16:41:22","End":"11-24-2013 16:46:23"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 16:41:22","End":"11-24-2013 16:46:23"}}
+{"Application":{"ProcessName":"com.htc.fm","Start":"11-24-2013 16:41:32","End":"11-24-2013 16:46:33"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 16:46:23","End":"11-24-2013 16:51:23"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 16:46:23","End":"11-24-2013 16:51:23"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 16:46:23","End":"11-24-2013 16:51:23"}}
+{"Application":{"ProcessName":"com.htc.fm","Start":"11-24-2013 16:46:33","End":"11-24-2013 16:51:33"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 16:51:23","End":"11-24-2013 16:52:25"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 16:51:23","End":"11-24-2013 16:52:25"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 16:51:23","End":"11-24-2013 16:52:25"}}
+{"Application":{"ProcessName":"com.htc.fm","Start":"11-24-2013 16:51:33","End":"11-24-2013 16:52:25"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 17:07:38","End":"11-24-2013 17:07:48"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 17:07:38","End":"11-24-2013 17:07:48"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 17:07:38","End":"11-24-2013 17:07:48"}}
+{"Application":{"ProcessName":"com.htc.fm","Start":"11-24-2013 17:07:38","End":"11-24-2013 17:07:48"}}
+{"Call": {"Number":"+98216660####","Duration":"0","Time":"11-24-2013 17:07:45","Type":"2"}}
+{"Call": {"Number":"+98216660####","Duration":"0","Time":"11-24-2013 17:07:45","Type":"2"}}
+{"Call": {"Number":"+98216663####","Duration":"0","Time":"11-24-2013 17:08:16","Type":"2"}}
+{"Call": {"Number":"+98216663####","Duration":"0","Time":"11-24-2013 17:08:16","Type":"2"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 17:08:39","End":"11-24-2013 17:10:26"}}
+{"Application":{"ProcessName":"com.htc.task","Start":"11-24-2013 17:10:16","End":"11-24-2013 17:10:26"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 17:08:39","End":"11-24-2013 17:10:26"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 17:08:39","End":"11-24-2013 17:10:26"}}
+{"Call": {"Number":"+98912404####","Duration":"11","Time":"11-24-2013 17:10:15","Type":"2"}}
+{"Call": {"Number":"+98912404####","Duration":"11","Time":"11-24-2013 17:10:15","Type":"2"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 17:10:54","End":"11-24-2013 17:11:04"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 17:10:54","End":"11-24-2013 17:11:04"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 17:10:54","End":"11-24-2013 17:11:04"}}
+{"Call": {"Number":"+98216661####","Duration":"0","Time":"11-24-2013 17:10:57","Type":"2"}}
+{"Call": {"Number":"+98216661####","Duration":"0","Time":"11-24-2013 17:10:57","Type":"2"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 17:11:34","End":"11-24-2013 17:26:12"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 17:11:34","End":"11-24-2013 17:26:12"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 17:11:34","End":"11-24-2013 17:26:12"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"11-24-2013 17:29:26","End":"11-24-2013 17:29:36"}}
+{"Application":{"ProcessName":"com.android.settings","Start":"11-24-2013 17:29:26","End":"11-24-2013 17:29:36"}}
+{"SMS":{"Address":"+98912303####","type":"1","date":"11-24-2013 17:23:12","body":"ANONYMIZED","Type":"1"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 5:29:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 5:29:47 PM Iran Standard Time"}}
+{"SMS":{"Address":"+98912303####","type":"2","date":"11-24-2013 17:30:25","body":"ANONYMIZED","Type":"2"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 5:30:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 5:30:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 5:31:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 5:31:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 5:32:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 5:32:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 5:33:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 5:33:47 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 17:29:26","End":"11-24-2013 17:34:29"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 17:29:26","End":"11-24-2013 17:34:29"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 17:29:26","End":"11-24-2013 17:34:29"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 5:34:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 5:34:47 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-24-2013 17:29:47","End":"11-24-2013 17:34:49"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 17:29:47","End":"11-24-2013 17:34:49"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 5:35:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 5:35:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 5:36:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 5:36:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 5:37:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 5:37:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 5:38:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 5:38:47 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-24-2013 17:34:49","End":"11-24-2013 17:39:19"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 17:34:49","End":"11-24-2013 17:39:19"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 17:34:29","End":"11-24-2013 17:39:19"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 17:34:29","End":"11-24-2013 17:39:19"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 17:34:29","End":"11-24-2013 17:39:19"}}
+{"SMS":{"Address":"+98912303####","type":"2","date":"11-24-2013 17:39:15","body":"ANONYMIZED","Type":"2"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-24-2013 17:39:36","End":"11-24-2013 17:40:49"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 17:39:36","End":"11-24-2013 17:40:49"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 17:39:36","End":"11-24-2013 17:40:49"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 17:39:36","End":"11-24-2013 17:40:49"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 17:39:36","End":"11-24-2013 17:40:49"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 5:41:12 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 5:41:12 PM Iran Standard Time"}}
+{"SMS":{"Address":"+98912303####","type":"2","date":"11-24-2013 17:41:30","body":"ANONYMIZED","Type":"2"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 5:42:12 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 5:42:12 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 5:43:12 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 5:43:12 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 5:44:12 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 5:44:12 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 5:45:12 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 5:45:12 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-24-2013 17:41:15","End":"11-24-2013 17:45:36"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 17:41:15","End":"11-24-2013 17:45:36"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 5:46:12 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 5:46:12 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 17:41:15","End":"11-24-2013 17:46:16"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 17:41:15","End":"11-24-2013 17:46:16"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 17:41:15","End":"11-24-2013 17:46:16"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-24-2013 17:45:36","End":"11-24-2013 17:46:36"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 5:47:12 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 5:47:12 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-24-2013 17:46:46","End":"11-24-2013 17:47:16"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 5:48:13 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 5:48:13 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 17:46:16","End":"11-24-2013 17:48:35"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 17:46:16","End":"11-24-2013 17:48:35"}}
+{"Application":{"ProcessName":"com.instagram.android","Start":"11-24-2013 17:47:26","End":"11-24-2013 17:48:35"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 17:46:16","End":"11-24-2013 17:48:35"}}
+{"Application":{"ProcessName":"com.android.settings:remote","Start":"11-24-2013 17:52:29","End":"11-24-2013 17:52:39"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 17:52:29","End":"11-24-2013 17:52:49"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 17:52:29","End":"11-24-2013 17:52:49"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 17:52:29","End":"11-24-2013 17:52:49"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 5:53:14 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 5:53:14 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 5:58:52 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 5:58:52 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 5:59:52 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 5:59:52 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.instagram.android","Start":"11-24-2013 17:58:37","End":"11-24-2013 17:59:58"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 17:58:27","End":"11-24-2013 18:03:41"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 17:58:27","End":"11-24-2013 18:03:41"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 17:58:27","End":"11-24-2013 18:03:41"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 6:04:16 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 6:04:16 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.guidedways.iQuran","Start":"11-24-2013 18:04:11","End":"11-24-2013 18:05:01"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-24-2013 18:05:01","End":"11-24-2013 18:05:11"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 6:05:16 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 6:05:16 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.instagram.android","Start":"11-24-2013 18:05:11","End":"11-24-2013 18:05:32"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 6:06:17 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 6:06:17 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 18:03:41","End":"11-24-2013 18:08:11"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 18:03:41","End":"11-24-2013 18:08:11"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 18:03:41","End":"11-24-2013 18:08:11"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 6:22:00 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 6:22:00 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 6:23:00 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 6:23:00 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 6:24:00 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 6:24:00 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 6:25:00 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 6:25:00 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 18:21:38","End":"11-24-2013 18:25:20"}}
+{"Application":{"ProcessName":"com.htc.task","Start":"11-24-2013 18:25:09","End":"11-24-2013 18:25:20"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 18:21:38","End":"11-24-2013 18:25:20"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 18:21:38","End":"11-24-2013 18:25:20"}}
+{"Call": {"Number":"+98912483####","Duration":"2","Time":"11-24-2013 18:25:08","Type":"2"}}
+{"Call": {"Number":"+98912483####","Duration":"2","Time":"11-24-2013 18:25:08","Type":"2"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 18:25:50","End":"11-24-2013 18:26:03"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 18:25:50","End":"11-24-2013 18:26:03"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 18:25:50","End":"11-24-2013 18:26:03"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 6:26:03 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 6:26:03 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 6:27:03 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 6:27:03 PM Iran Standard Time"}}
+{"Call": {"Number":"+98912483####","Duration":"509","Time":"11-24-2013 18:27:36","Type":"1"}}
+{"Call": {"Number":"+98912483####","Duration":"509","Time":"11-24-2013 18:27:36","Type":"1"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 6:36:17 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 6:36:17 PM Iran Standard Time"}}
+{"Call": {"Number":"+98216664####","Duration":"43","Time":"11-24-2013 18:39:22","Type":"1"}}
+{"Call": {"Number":"+98216664####","Duration":"43","Time":"11-24-2013 18:39:22","Type":"1"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 18:35:49","End":"11-24-2013 18:41:12"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 18:35:49","End":"11-24-2013 18:41:12"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 18:35:49","End":"11-24-2013 18:41:12"}}
+{"SMS":{"Address":"+98912483####","type":"1","date":"11-24-2013 18:38:49","body":"ANONYMIZED","Type":"1"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 6:45:08 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 6:45:08 PM Iran Standard Time"}}
+{"SMS":{"Address":"+98912483####","type":"2","date":"11-24-2013 18:45:37","body":"ANONYMIZED","Type":"2"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-24-2013 18:45:01","End":"11-24-2013 18:45:52"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 18:45:11","End":"11-24-2013 18:45:52"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 18:45:01","End":"11-24-2013 18:45:52"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 18:45:01","End":"11-24-2013 18:45:52"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 18:45:01","End":"11-24-2013 18:45:52"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-24-2013 18:46:02","End":"11-24-2013 18:46:47"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 18:46:02","End":"11-24-2013 18:46:47"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 18:46:02","End":"11-24-2013 18:46:47"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 18:46:02","End":"11-24-2013 18:46:47"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 18:46:02","End":"11-24-2013 18:46:47"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 6:46:53 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 6:46:53 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 6:48:02 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 6:48:02 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 18:48:05","End":"11-24-2013 18:48:16"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 18:48:05","End":"11-24-2013 18:48:16"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 18:48:05","End":"11-24-2013 18:48:16"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 6:49:02 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 6:49:02 PM Iran Standard Time"}}
+{"Call": {"Number":"+98216664####","Duration":"69","Time":"11-24-2013 18:48:02","Type":"1"}}
+{"Call": {"Number":"+98216664####","Duration":"69","Time":"11-24-2013 18:48:02","Type":"1"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-24-2013 18:49:26","End":"11-24-2013 18:49:37"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 18:49:26","End":"11-24-2013 18:49:37"}}
+{"Application":{"ProcessName":"com.htc.bgp","Start":"11-24-2013 18:49:26","End":"11-24-2013 18:49:37"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-24-2013 18:49:37","End":"11-24-2013 18:55:06"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 18:49:26","End":"11-24-2013 18:55:06"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 18:49:26","End":"11-24-2013 18:55:06"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 18:49:26","End":"11-24-2013 18:55:06"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 6:55:10 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 6:55:10 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-24-2013 18:55:16","End":"11-24-2013 18:59:21"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 18:55:16","End":"11-24-2013 18:59:21"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 18:55:16","End":"11-24-2013 18:59:21"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 18:55:16","End":"11-24-2013 18:59:21"}}
+{"Application":{"ProcessName":"com.htc.lockscreen","Start":"11-24-2013 19:13:56","End":"11-24-2013 19:14:06"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:16:58 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:16:58 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-24-2013 19:13:56","End":"11-24-2013 19:17:57"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 19:13:56","End":"11-24-2013 19:17:57"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 19:13:56","End":"11-24-2013 19:17:57"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 19:13:56","End":"11-24-2013 19:17:57"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:17:58 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:17:58 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:25:20 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:25:20 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-24-2013 19:25:08","End":"11-24-2013 19:25:48"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-24-2013 19:25:48","End":"11-24-2013 19:25:58"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 19:25:48","End":"11-24-2013 19:25:58"}}
+{"Call": {"Number":"+98912494####","Duration":"0","Time":"11-24-2013 19:25:57","Type":"2"}}
+{"Call": {"Number":"+98912494####","Duration":"0","Time":"11-24-2013 19:25:57","Type":"2"}}
+{"Call": {"Number":"+98912494####","Duration":"0","Time":"11-24-2013 19:26:08","Type":"2"}}
+{"Call": {"Number":"+98912494####","Duration":"0","Time":"11-24-2013 19:26:08","Type":"2"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:26:30 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:26:30 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:27:30 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:27:30 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:28:30 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:28:30 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:29:30 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:29:30 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 19:25:08","End":"11-24-2013 19:30:10"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 19:25:08","End":"11-24-2013 19:30:10"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 19:25:08","End":"11-24-2013 19:30:10"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:30:30 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:30:30 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:31:30 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:31:30 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:32:30 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:32:30 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:33:30 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:33:30 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:34:30 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:34:30 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 19:30:10","End":"11-24-2013 19:35:10"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 19:30:10","End":"11-24-2013 19:35:10"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 19:30:10","End":"11-24-2013 19:35:10"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:35:30 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:35:30 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 19:35:10","End":"11-24-2013 19:36:21"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 19:35:10","End":"11-24-2013 19:36:21"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 19:35:10","End":"11-24-2013 19:36:21"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:36:30 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:36:30 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:46:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:46:47 PM Iran Standard Time"}}
+{"SMS":{"Address":"+98912794####","type":"2","date":"11-24-2013 19:47:38","body":"ANONYMIZED","Type":"2"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:47:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:47:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:48:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:48:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:49:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:49:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:50:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:50:47 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 19:46:31","End":"11-24-2013 19:51:32"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 19:46:31","End":"11-24-2013 19:51:32"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 19:46:31","End":"11-24-2013 19:51:32"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-24-2013 19:46:41","End":"11-24-2013 19:51:42"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:51:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:51:47 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 19:46:51","End":"11-24-2013 19:51:52"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:52:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:52:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:53:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:53:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:54:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:54:47 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-24-2013 19:51:42","End":"11-24-2013 19:55:42"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 19:51:52","End":"11-24-2013 19:55:42"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:55:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:55:47 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 19:51:32","End":"11-24-2013 19:56:33"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 19:51:32","End":"11-24-2013 19:56:33"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 19:51:32","End":"11-24-2013 19:56:33"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:56:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:56:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:57:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:57:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:58:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:58:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 7:59:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 7:59:47 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-24-2013 19:55:42","End":"11-24-2013 20:00:43"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 8:00:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 8:00:47 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 19:56:33","End":"11-24-2013 20:01:33"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 19:56:33","End":"11-24-2013 20:01:33"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 19:56:33","End":"11-24-2013 20:01:33"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 8:01:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 8:01:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 8:02:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 8:02:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 8:03:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 8:03:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 8:04:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 8:04:47 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-24-2013 20:00:43","End":"11-24-2013 20:05:44"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 8:05:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 8:05:47 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 20:01:33","End":"11-24-2013 20:06:34"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 20:01:33","End":"11-24-2013 20:06:34"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 20:01:33","End":"11-24-2013 20:06:34"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 8:06:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 8:06:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 8:07:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 8:07:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 8:08:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 8:08:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 8:09:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 8:09:47 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-24-2013 20:05:44","End":"11-24-2013 20:10:44"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 8:13:24 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 8:13:24 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.instagram.android","Start":"11-24-2013 20:12:44","End":"11-24-2013 20:13:24"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 20:13:14","End":"11-24-2013 20:13:34"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-24-2013 20:13:45","End":"11-24-2013 20:15:03"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 20:13:45","End":"11-24-2013 20:15:03"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 20:12:44","End":"11-24-2013 20:15:03"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 20:12:44","End":"11-24-2013 20:15:03"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 20:12:44","End":"11-24-2013 20:15:03"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 20:15:13","End":"11-24-2013 20:15:23"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 20:15:13","End":"11-24-2013 20:15:23"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 20:15:13","End":"11-24-2013 20:15:23"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 8:15:30 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 8:15:30 PM Iran Standard Time"}}
+{"SMS":{"Address":"+98912503####","type":"1","date":"11-24-2013 20:19:50","body":"ANONYMIZED","Type":"1"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 8:24:28 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 8:24:28 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 20:24:22","End":"11-24-2013 20:24:42"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 20:24:22","End":"11-24-2013 20:24:42"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 20:24:22","End":"11-24-2013 20:24:42"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 8:25:28 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 8:25:28 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 20:34:44","End":"11-24-2013 20:39:32"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 20:34:44","End":"11-24-2013 20:39:32"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 20:34:44","End":"11-24-2013 20:39:32"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 8:39:32 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 8:39:32 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 20:44:37","End":"11-24-2013 20:46:52"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 20:44:37","End":"11-24-2013 20:46:52"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 20:44:37","End":"11-24-2013 20:46:52"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 8:55:53 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 8:55:53 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 20:54:43","End":"11-24-2013 21:04:46"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 20:54:43","End":"11-24-2013 21:04:46"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 20:54:43","End":"11-24-2013 21:04:46"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 21:04:46","End":"11-24-2013 21:04:56"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 21:04:46","End":"11-24-2013 21:04:56"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 21:04:46","End":"11-24-2013 21:04:56"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 9:05:39 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 9:05:39 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 9:14:26 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 9:14:26 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-24-2013 21:14:13","End":"11-24-2013 21:15:04"}}
+{"SMS":{"Address":"+98912503####","type":"2","date":"11-24-2013 21:15:00","body":"ANONYMIZED","Type":"2"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 21:14:13","End":"11-24-2013 21:15:15"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 9:15:26 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 9:15:26 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 9:16:26 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 9:16:26 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-24-2013 21:15:04","End":"11-24-2013 21:17:25"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 9:17:26 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 9:17:26 PM Iran Standard Time"}}
+{"SMS":{"Address":"+98912503####","type":"2","date":"11-24-2013 21:17:43","body":"ANONYMIZED","Type":"2"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 9:18:26 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 9:18:26 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 21:14:03","End":"11-24-2013 21:19:06"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 21:14:03","End":"11-24-2013 21:19:06"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 21:14:03","End":"11-24-2013 21:19:06"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 9:19:26 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 9:19:26 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 9:20:26 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 9:20:26 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 9:21:26 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 9:21:26 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 9:22:26 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 9:22:26 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-24-2013 21:17:25","End":"11-24-2013 21:22:27"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 21:17:25","End":"11-24-2013 21:22:27"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-24-2013 21:22:27","End":"11-24-2013 21:22:37"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 21:22:27","End":"11-24-2013 21:22:37"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 21:19:06","End":"11-24-2013 21:25:54"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 21:19:06","End":"11-24-2013 21:25:54"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 21:19:06","End":"11-24-2013 21:25:54"}}
+{"Call": {"Number":"+98912494####","Duration":"374","Time":"11-24-2013 21:22:32","Type":"1"}}
+{"Call": {"Number":"+98912494####","Duration":"374","Time":"11-24-2013 21:22:32","Type":"1"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 9:29:13 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 9:29:13 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 9:30:17 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 9:30:17 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-24-2013 21:28:54","End":"11-24-2013 21:30:18"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 21:28:54","End":"11-24-2013 21:30:18"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 21:28:54","End":"11-24-2013 21:30:18"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 21:28:54","End":"11-24-2013 21:30:18"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 21:28:54","End":"11-24-2013 21:30:18"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 9:31:17 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 9:31:17 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 10:07:53 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 10:07:53 PM Iran Standard Time"}}
+{"Call": {"Number":"+98912483####","Duration":"0","Time":"11-24-2013 22:07:30","Type":"3"}}
+{"Call": {"Number":"+98912483####","Duration":"0","Time":"11-24-2013 22:07:30","Type":"3"}}
+{"SMS":{"Address":"+98912483####","type":"1","date":"11-24-2013 22:04:57","body":"ANONYMIZED","Type":"1"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-24-2013 22:08:06","End":"11-24-2013 22:16:14"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 22:08:06","End":"11-24-2013 22:16:14"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 22:07:35","End":"11-24-2013 22:16:14"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 22:07:35","End":"11-24-2013 22:16:14"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 22:07:35","End":"11-24-2013 22:16:14"}}
+{"Call": {"Number":"+98912483####","Duration":"0","Time":"11-24-2013 22:07:30","Type":"3"}}
+{"Application":{"ProcessName":"com.android.mms","Start":"11-24-2013 22:26:14","End":"11-24-2013 22:26:25"}}
+{"Application":{"ProcessName":"com.google.android.apps.maps","Start":"11-24-2013 22:26:14","End":"11-24-2013 22:26:25"}}
+{"Application":{"ProcessName":"com.android.providers.telephony","Start":"11-24-2013 22:26:14","End":"11-24-2013 22:26:25"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 22:26:14","End":"11-24-2013 22:26:35"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 22:26:14","End":"11-24-2013 22:26:35"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 22:26:14","End":"11-24-2013 22:26:35"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 10:26:37 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 10:26:37 PM Iran Standard Time"}}
+{"Call": {"Number":"+98912483####","Duration":"4","Time":"11-24-2013 22:26:22","Type":"2"}}
+{"Call": {"Number":"+98912483####","Duration":"4","Time":"11-24-2013 22:26:22","Type":"2"}}
+{"Application":{"ProcessName":"com.android.htccontacts","Start":"11-24-2013 22:26:56","End":"11-24-2013 22:29:24"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 22:26:56","End":"11-24-2013 22:29:24"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 22:26:56","End":"11-24-2013 22:29:24"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 22:26:56","End":"11-24-2013 22:29:24"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 10:29:47 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 10:29:47 PM Iran Standard Time"}}
+{"Call": {"Number":"+98912483####","Duration":"282","Time":"11-24-2013 22:30:54","Type":"1"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 10:35:43 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 10:35:43 PM Iran Standard Time"}}
+{"Call": {"Number":"+98912483####","Duration":"282","Time":"11-24-2013 22:30:54","Type":"1"}}
+{"Application":{"ProcessName":"com.android.htccontacts","Start":"11-24-2013 22:35:51","End":"11-24-2013 22:46:01"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 22:35:41","End":"11-24-2013 22:46:01"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 22:35:41","End":"11-24-2013 22:46:01"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 22:35:41","End":"11-24-2013 22:46:01"}}
+{"Application":{"ProcessName":"com.android.htccontacts","Start":"11-24-2013 22:46:01","End":"11-24-2013 23:02:25"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 22:46:01","End":"11-24-2013 23:02:25"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 22:46:01","End":"11-24-2013 23:02:25"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 22:46:01","End":"11-24-2013 23:02:25"}}
+{"Application":{"ProcessName":"com.android.htccontacts","Start":"11-24-2013 23:02:25","End":"11-24-2013 23:02:35"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 11:02:36 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 11:02:36 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 11:03:36 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 11:03:36 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-24-2013 23:02:35","End":"11-24-2013 23:04:06"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 11:04:36 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 11:04:36 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-24-2013 23:04:16","End":"11-24-2013 23:05:27"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 11:05:36 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 11:05:36 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 11:06:36 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 11:06:36 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.lmi.vodafone.rescue","Start":"11-24-2013 23:02:25","End":"11-24-2013 23:07:28"}}
+{"Application":{"ProcessName":"com.android.htcdialer","Start":"11-24-2013 23:02:25","End":"11-24-2013 23:07:28"}}
+{"Application":{"ProcessName":"com.android.nfc","Start":"11-24-2013 23:02:25","End":"11-24-2013 23:07:28"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 11:07:36 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 11:07:36 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.instagram.android","Start":"11-24-2013 23:05:27","End":"11-24-2013 23:08:28"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 11:08:36 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 11:08:36 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.viber.voip","Start":"11-24-2013 23:08:39","End":"11-24-2013 23:09:30"}}
+{"WiFi":{"SSID":"irancell","BSSID":"bc:76:70:ab:1f:a4","capabilities":"[WPA2-PSK-CCMP][ESS]","level":"-84","frequency":"2437","time":"Sunday, November 24, 2013 11:09:36 PM Iran Standard Time"}}
+{"WiFi":{"SSID":"palizdar","BSSID":"fc:75:16:d6:4e:21","capabilities":"[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][WPS][ESS]","level":"-87","frequency":"2412","time":"Sunday, November 24, 2013 11:09:36 PM Iran Standard Time"}}
+{"Application":{"ProcessName":"com.android.browser","Start":"11-24-2013 23:09:30","End":"11-24-2013 23:09:40"}}
